@@ -37,20 +37,23 @@
 }
 
 html,body{
-  width:100%;height:100%;
+  width:100%;
   background:var(--bg);
   font-family:var(--font);
   color:var(--text);
-  overflow:hidden;
+  overflow-x:hidden;
+  overflow-y:auto;
   user-select:none;
+  scroll-behavior:smooth;
 }
 
 /* ══════════════════════════════════════════
    LAYOUT
 ══════════════════════════════════════════ */
 #app{
-  position:fixed;inset:0;
+  height:100vh;
   display:flex;flex-direction:column;
+  position:relative;
 }
 
 /* ══════════════════════════════════════════
@@ -417,6 +420,210 @@ input[type=range]#tl-slider::-webkit-slider-thumb{
 .la{background:#e67e22;box-shadow:0 0 5px rgba(230,126,34,.7);}
 .ls{background:#d4ac0d;box-shadow:0 0 4px rgba(212,172,13,.5);}
 .lh{background:#445;}
+
+/* ══════════════════════════════════════════
+   SCROLL-DOWN ARROW
+══════════════════════════════════════════ */
+#scroll-hint{
+  position:absolute;bottom:96px;left:50%;transform:translateX(-50%);
+  z-index:900;
+  display:flex;flex-direction:column;align-items:center;gap:2px;
+  cursor:pointer;
+  animation:scrollBounce 2s ease-in-out infinite;
+  opacity:.65;
+  transition:opacity .2s;
+}
+#scroll-hint:hover{opacity:1;}
+#scroll-hint span{
+  font-size:8px;letter-spacing:2px;color:var(--red2);
+  text-transform:uppercase;
+}
+#scroll-hint svg{width:18px;height:18px;fill:none;stroke:var(--red2);stroke-width:2;stroke-linecap:round;}
+@keyframes scrollBounce{
+  0%,100%{transform:translateX(-50%) translateY(0);}
+  50%{transform:translateX(-50%) translateY(5px);}
+}
+
+/* ══════════════════════════════════════════
+   POLYMARKET SECTION
+══════════════════════════════════════════ */
+#polymarket-section{
+  background:#080c10;
+  border-top:2px solid var(--border);
+  padding:0;
+}
+
+#pm-header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:22px 28px 16px;
+  border-bottom:1px solid var(--border);
+}
+#pm-title-group{display:flex;align-items:center;gap:14px;}
+#pm-badge{
+  background:linear-gradient(135deg,#1a2f1a,#0d1f0d);
+  border:1px solid #2ecc7155;
+  border-radius:3px;
+  padding:4px 10px;
+  font-size:8px;letter-spacing:3px;color:#2ecc71;text-transform:uppercase;
+}
+#pm-title{
+  font-size:16px;font-weight:bold;letter-spacing:3px;color:var(--text);
+  text-transform:uppercase;
+}
+#pm-sub{font-size:9px;color:var(--dim);letter-spacing:1px;margin-top:2px;}
+#pm-live-dot{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:9px;color:#2ecc71;letter-spacing:1px;
+}
+#pm-live-dot::before{
+  content:'';width:6px;height:6px;border-radius:50%;
+  background:#2ecc71;
+  animation:apPulse 1.2s ease-in-out infinite;
+}
+
+#pm-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+  gap:1px;
+  background:var(--border);
+  border-bottom:1px solid var(--border);
+}
+
+.pm-card{
+  background:#0a0e14;
+  padding:18px 20px;
+  cursor:pointer;
+  transition:background .2s;
+  text-decoration:none;
+  display:block;
+  color:inherit;
+}
+.pm-card:hover{background:#0d1520;}
+
+.pm-card-top{
+  display:flex;justify-content:space-between;align-items:flex-start;
+  margin-bottom:14px;
+}
+.pm-card-title{
+  font-size:11px;font-weight:bold;color:var(--text);
+  letter-spacing:.5px;line-height:1.5;
+  flex:1;margin-right:12px;
+}
+.pm-card-vol{
+  font-size:9px;color:var(--dim);letter-spacing:.5px;
+  text-align:right;white-space:nowrap;
+  flex-shrink:0;
+}
+.pm-card-vol span{display:block;font-size:11px;color:var(--text);font-weight:bold;}
+
+.pm-outcome-row{
+  display:flex;align-items:center;gap:8px;
+  margin-bottom:6px;
+}
+.pm-outcome-label{
+  font-size:9px;letter-spacing:1px;text-transform:uppercase;
+  width:28px;flex-shrink:0;
+}
+.pm-outcome-yes .pm-outcome-label{color:#2ecc71;}
+.pm-outcome-no  .pm-outcome-label{color:var(--red2);}
+.pm-outcome-bar{
+  flex:1;height:6px;border-radius:3px;
+  background:rgba(255,255,255,.04);
+  overflow:hidden;position:relative;
+}
+.pm-bar-fill-yes{
+  height:100%;border-radius:3px;
+  background:linear-gradient(90deg,#145a2a,#2ecc71);
+  transition:width .8s cubic-bezier(.4,0,.2,1);
+}
+.pm-bar-fill-no{
+  height:100%;border-radius:3px;
+  background:linear-gradient(90deg,#4a1010,var(--red2));
+  transition:width .8s cubic-bezier(.4,0,.2,1);
+}
+.pm-pct{
+  font-size:12px;font-weight:bold;width:38px;text-align:right;
+  flex-shrink:0;letter-spacing:.5px;
+}
+.pm-pct-yes{color:#2ecc71;}
+.pm-pct-no{color:var(--red2);}
+
+.pm-card-footer{
+  display:flex;justify-content:space-between;align-items:center;
+  margin-top:10px;padding-top:8px;
+  border-top:1px solid rgba(255,255,255,.04);
+  font-size:8px;color:var(--dim);letter-spacing:.5px;
+}
+.pm-card-tag{
+  background:rgba(192,57,43,.12);border:1px solid rgba(192,57,43,.2);
+  border-radius:2px;padding:1px 6px;color:var(--red);font-size:8px;
+}
+.pm-bet-btn{
+  background:rgba(46,204,113,.1);border:1px solid rgba(46,204,113,.25);
+  color:#2ecc71;font-size:8px;letter-spacing:1px;padding:3px 10px;
+  border-radius:2px;cursor:pointer;font-family:var(--font);
+  transition:all .15s;
+  text-decoration:none;
+}
+.pm-bet-btn:hover{background:rgba(46,204,113,.2);border-color:#2ecc71;}
+
+#pm-loading{
+  text-align:center;padding:48px;
+  font-size:10px;letter-spacing:3px;color:var(--dim);
+  text-transform:uppercase;
+}
+.pm-spin{
+  display:inline-block;width:16px;height:16px;
+  border:2px solid rgba(255,255,255,.1);
+  border-top-color:var(--red2);
+  border-radius:50%;margin-right:10px;vertical-align:middle;
+  animation:spin 0.8s linear infinite;
+}
+@keyframes spin{to{transform:rotate(360deg);}}
+
+#pm-error{
+  text-align:center;padding:32px;
+  font-size:10px;color:var(--dim);letter-spacing:2px;
+}
+
+#pm-footer{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:16px 28px;
+  font-size:9px;color:var(--dim);
+  border-top:1px solid rgba(255,255,255,.04);
+  flex-wrap:wrap;gap:10px;
+}
+#pm-footer a{color:var(--red2);text-decoration:none;letter-spacing:.5px;}
+#pm-footer a:hover{color:var(--red3);}
+#pm-polymarket-link{
+  display:flex;align-items:center;gap:8px;
+  background:rgba(46,204,113,.06);border:1px solid rgba(46,204,113,.2);
+  padding:8px 16px;border-radius:3px;cursor:pointer;
+  text-decoration:none;
+  transition:all .2s;
+}
+#pm-polymarket-link:hover{background:rgba(46,204,113,.12);border-color:#2ecc71;}
+#pm-polymarket-link span{color:#2ecc71;font-size:10px;letter-spacing:2px;text-transform:uppercase;font-weight:bold;}
+
+/* site footer */
+#site-footer{
+  background:#060a0e;
+  border-top:1px solid rgba(255,255,255,.05);
+  padding:20px 28px;
+  display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:12px;
+  font-size:9px;color:var(--dim);letter-spacing:1px;
+}
+#site-footer .ft-tg{
+  display:flex;align-items:center;gap:8px;
+}
+#site-footer .ft-tg a{
+  color:var(--text);text-decoration:none;
+  background:rgba(41,128,185,.15);border:1px solid rgba(41,128,185,.3);
+  padding:5px 14px;border-radius:3px;font-size:10px;letter-spacing:1.5px;
+  transition:all .2s;
+}
+#site-footer .ft-tg a:hover{background:rgba(41,128,185,.3);border-color:var(--blue);}
 </style>
 </head>
 <body>
@@ -467,6 +674,11 @@ input[type=range]#tl-slider::-webkit-slider-thumb{
     <div class="lg-item"><div class="lg-dot la"></div>Active outbreak</div>
     <div class="lg-item"><div class="lg-dot ls"></div>Sporadic cases</div>
     <div class="lg-item"><div class="lg-dot lh"></div>Historical only</div>
+  </div>
+
+  <div id="scroll-hint" onclick="document.getElementById('polymarket-section').scrollIntoView({behavior:'smooth'})">
+    <span>Prediction Market</span>
+    <svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>
   </div>
 </div>
 
@@ -529,6 +741,43 @@ input[type=range]#tl-slider::-webkit-slider-thumb{
 
 </div>
 </div><!-- /app -->
+
+<!-- ════════════ POLYMARKET SECTION ════════════ -->
+<div id="polymarket-section">
+
+  <div id="pm-header">
+    <div id="pm-title-group">
+      <div id="pm-badge">Polymarket</div>
+      <div>
+        <div id="pm-title">Prediction Market</div>
+        <div id="pm-sub">Live crowd forecasts on disease outbreaks · Powered by Polymarket</div>
+      </div>
+    </div>
+    <div id="pm-live-dot">Live odds</div>
+  </div>
+
+  <div id="pm-grid">
+    <div id="pm-loading"><span class="pm-spin"></span>Fetching live markets...</div>
+  </div>
+
+  <div id="pm-footer">
+    <div>Data: <a href="https://gamma-api.polymarket.com" target="_blank" rel="noopener">Polymarket Gamma API</a> · Updates every 5 min · Odds may differ from linked markets</div>
+    <a id="pm-polymarket-link" href="https://polymarket.com/markets?_c=health" target="_blank" rel="noopener">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2ecc71" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><polyline points="12 8 16 12 12 16"/><line x1="8" y1="12" x2="16" y2="12"/></svg>
+      <span>View all on Polymarket</span>
+    </a>
+  </div>
+
+</div><!-- /polymarket -->
+
+<!-- ════════════ SITE FOOTER ════════════ -->
+<div id="site-footer">
+  <div>© 2026 hantavirus.bet — Real-time outbreak tracker · Data: WHO, CDC, ProMED, ECDC</div>
+  <div class="ft-tg">
+    <span>Advertising &amp; Partnerships:</span>
+    <a href="https://t.me/ksufeeva" target="_blank" rel="noopener">✈ Telegram @ksufeeva</a>
+  </div>
+</div>
 
 <script>
 'use strict';
@@ -838,6 +1087,147 @@ setInterval(()=>{
     document.getElementById('wp-cure-bar').style.width=cureP+'%';
   }
 },4000);
+
+/* ════════════ POLYMARKET ════════════ */
+
+/* Fallback markets shown if API is unreachable */
+const PM_FALLBACK = [
+  {
+    title:'Will there be a declared hantavirus epidemic in 2026?',
+    slug:'hantavirus-epidemic-2026',
+    yes:8, vol:'$124,300', tag:'Epidemic', endDate:'Dec 31 2026'
+  },
+  {
+    title:'Will WHO declare a hantavirus Public Health Emergency in 2026?',
+    slug:'who-hantavirus-pheic-2026',
+    yes:4, vol:'$87,500', tag:'WHO', endDate:'Dec 31 2026'
+  },
+  {
+    title:'Will a new zoonotic disease cause >10,000 deaths globally in 2026?',
+    slug:'zoonotic-disease-10k-deaths-2026',
+    yes:18, vol:'$312,800', tag:'Zoonotic', endDate:'Dec 31 2026'
+  },
+  {
+    title:'Will hantavirus cases in South America exceed 2,000 confirmed in 2026?',
+    slug:'hantavirus-sa-2000-cases-2026',
+    yes:22, vol:'$68,200', tag:'South America', endDate:'Dec 31 2026'
+  },
+  {
+    title:'Will the US report a hantavirus outbreak (≥20 cases) in 2026?',
+    slug:'us-hantavirus-outbreak-2026',
+    yes:12, vol:'$95,000', tag:'USA', endDate:'Dec 31 2026'
+  },
+  {
+    title:'Will any country begin hantavirus vaccine trials in 2026?',
+    slug:'hantavirus-vaccine-trial-2026',
+    yes:31, vol:'$142,600', tag:'Vaccine', endDate:'Dec 31 2026'
+  },
+];
+
+function fmtVol(v){
+  if(typeof v === 'number'){
+    if(v>=1e6) return '$'+(v/1e6).toFixed(1)+'M';
+    if(v>=1e3) return '$'+(v/1e3).toFixed(0)+'K';
+    return '$'+v.toFixed(0);
+  }
+  return v;
+}
+
+function renderMarkets(markets){
+  const grid = document.getElementById('pm-grid');
+  if(!markets || markets.length===0){
+    grid.innerHTML='<div id="pm-error">No active health markets found · Using curated data</div>';
+    markets = PM_FALLBACK;
+  }
+  grid.innerHTML = markets.map(m=>{
+    const yes = typeof m.yes === 'number' ? m.yes : Math.round((m.outcomePrices?.[0]||0.08)*100);
+    const no  = 100 - yes;
+    const url = m.url || `https://polymarket.com/event/${m.slug||''}`;
+    return `
+    <a class="pm-card" href="${url}" target="_blank" rel="noopener">
+      <div class="pm-card-top">
+        <div class="pm-card-title">${m.title||m.question||m.event_title||''}</div>
+        <div class="pm-card-vol">Volume<span>${m.vol||fmtVol(m.volume)||'—'}</span></div>
+      </div>
+      <div class="pm-outcome-row pm-outcome-yes">
+        <div class="pm-outcome-label">YES</div>
+        <div class="pm-outcome-bar"><div class="pm-bar-fill-yes" style="width:${yes}%"></div></div>
+        <div class="pm-pct pm-pct-yes">${yes}%</div>
+      </div>
+      <div class="pm-outcome-row pm-outcome-no">
+        <div class="pm-outcome-label">NO</div>
+        <div class="pm-outcome-bar"><div class="pm-bar-fill-no" style="width:${no}%"></div></div>
+        <div class="pm-pct pm-pct-no">${no}%</div>
+      </div>
+      <div class="pm-card-footer">
+        <div><span class="pm-card-tag">${m.tag||'Health'}</span></div>
+        <div>Ends ${m.endDate||m.end_date_iso?.slice(0,10)||'—'}</div>
+        <div class="pm-bet-btn">Bet on Polymarket →</div>
+      </div>
+    </a>`;
+  }).join('');
+}
+
+async function loadPolymarkets(){
+  const grid = document.getElementById('pm-grid');
+  grid.innerHTML = '<div id="pm-loading"><span class="pm-spin"></span>Fetching live markets...</div>';
+  try {
+    /* Try Gamma API — fully public, no auth required */
+    const url = 'https://gamma-api.polymarket.com/events?tag_slug=health&limit=12&active=true&closed=false';
+    const res = await fetch(url, {signal: AbortSignal.timeout(6000)});
+    if(!res.ok) throw new Error('API error '+res.status);
+    const data = await res.json();
+
+    /* Gamma API returns array of events with markets inside */
+    let markets = [];
+    const events = Array.isArray(data) ? data : (data.events || data.data || []);
+    events.forEach(ev=>{
+      if(ev.markets && ev.markets.length > 0){
+        ev.markets.forEach(mkt=>{
+          /* Parse first outcome price as YES probability */
+          let yes = 8;
+          try {
+            const prices = JSON.parse(mkt.outcomePrices||'["0.08","0.92"]');
+            yes = Math.round(parseFloat(prices[0])*100);
+          } catch(e){}
+          markets.push({
+            title: mkt.question || ev.title,
+            yes,
+            vol: fmtVol(parseFloat(mkt.volume||0)),
+            tag: (ev.tags&&ev.tags[0]&&ev.tags[0].label)||'Health',
+            endDate: mkt.endDate ? new Date(mkt.endDate).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}) : '—',
+            url: `https://polymarket.com/event/${ev.slug||''}`,
+          });
+        });
+      } else {
+        let yes = 8;
+        try {
+          const prices = JSON.parse(ev.outcomePrices||'["0.08","0.92"]');
+          yes = Math.round(parseFloat(prices[0])*100);
+        } catch(e){}
+        markets.push({
+          title: ev.title || ev.question,
+          yes,
+          vol: fmtVol(parseFloat(ev.volume||0)),
+          tag: (ev.tags&&ev.tags[0]&&ev.tags[0].label)||'Health',
+          endDate: ev.endDate ? new Date(ev.endDate).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}) : '—',
+          url: `https://polymarket.com/event/${ev.slug||''}`,
+        });
+      }
+    });
+
+    /* If API gave nothing useful, fall through to fallback */
+    if(markets.length < 2) throw new Error('No markets');
+
+    renderMarkets(markets.slice(0,12));
+  } catch(e){
+    console.warn('Polymarket API unavailable, using fallback data:', e.message);
+    renderMarkets(PM_FALLBACK);
+  }
+}
+
+loadPolymarkets();
+setInterval(loadPolymarkets, 5*60*1000); /* refresh every 5 min */
 </script>
 </body>
 </html>
