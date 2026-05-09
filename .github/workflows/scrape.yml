@@ -1,0 +1,33 @@
+name: Scrape Hantavirus News
+
+on:
+  schedule:
+    # Run every hour at :00
+    - cron: '0 * * * *'
+  workflow_dispatch:   # Allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit & push news.json if changed
+        run: |
+          git config --local user.email "scraper@hantavirus.info"
+          git config --local user.name "HantaVirus Bot"
+          git add news.json
+          git diff --staged --quiet || git commit -m "chore: update news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
