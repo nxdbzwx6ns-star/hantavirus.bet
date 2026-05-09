@@ -1,808 +1,843 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>HantaVirus.bet — Live Outbreak Map & Predictions</title>
-  <meta name="description" content="Track hantavirus outbreaks live on the global map. Vote on how the disease will spread next. Breaking news, symptoms, prevention. Updated hourly." />
-  <meta name="keywords" content="hantavirus, hantavirus outbreak 2025, hantavirus map, hantavirus tracker, hantavirus prediction, hantavirus news, HPS, HFRS, hantavirus spread, hantavirus cases worldwide" />
-  <meta property="og:title" content="HantaVirus.bet — Live Outbreak Map & Predictions" />
-  <meta property="og:description" content="Live global hantavirus map. Vote on where it spreads next. Breaking news and prevention guide." />
-  <meta property="og:type" content="website" />
-  <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://hantavirus.bet/" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HantaVirus.bet — Global Outbreak Tracker</title>
+<meta name="description" content="Real-time hantavirus global outbreak tracker. Live infection map, spread dynamics, statistics and news from WHO, CDC, ProMED.">
+<meta name="keywords" content="hantavirus, outbreak tracker, hantavirus map, infection spread, hantavirus 2026, global health emergency">
+<meta property="og:title" content="HantaVirus.bet — Global Outbreak Tracker">
+<meta property="og:description" content="Track the hantavirus outbreak in real time. Interactive world map, infection statistics, live news feed.">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://hantavirus.bet">
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<style>
+/* ══════════════════════════════════════════
+   RESET & ROOT
+══════════════════════════════════════════ */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 
-    :root {
-      --bg:     #06080b;
-      --bg2:    #0c1118;
-      --bg3:    #111820;
-      --brd:    #192535;
-      --red:    #aa2218;
-      --red2:   #d93a27;
-      --red3:   #ff4d38;
-      --amber:  #bf7010;
-      --amber2: #e88c18;
-      --green:  #1a8c50;
-      --green2: #22c46a;
-      --blue2:  #28a8f0;
-      --txt:    #bfcdd8;
-      --dim:    #4e6878;
-      --mono:   'Courier New', monospace;
-    }
+:root{
+  --red:    #c0392b;
+  --red2:   #e74c3c;
+  --red3:   #ff6b6b;
+  --orange: #e67e22;
+  --yellow: #f1c40f;
+  --green:  #27ae60;
+  --blue:   #2980b9;
+  --bg:     #0d1117;
+  --panel:  rgba(8,12,16,0.92);
+  --border: rgba(180,40,30,0.35);
+  --text:   #dde4ec;
+  --dim:    #7a8a9a;
+  --font:   'Courier New', monospace;
+}
 
-    html { scroll-behavior: smooth; }
-    body { background: var(--bg); color: var(--txt); font-family: 'Segoe UI', system-ui, sans-serif; overflow-x: hidden; line-height: 1.6; }
-    a { color: var(--red2); text-decoration: none; }
+html,body{
+  width:100%;height:100%;
+  background:var(--bg);
+  font-family:var(--font);
+  color:var(--text);
+  overflow:hidden;
+  user-select:none;
+}
 
-    /* scanlines */
-    body::before { content: ''; position: fixed; inset: 0; z-index: 9000; pointer-events: none; background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,.055) 2px, rgba(0,0,0,.055) 4px); }
+/* ══════════════════════════════════════════
+   LAYOUT
+══════════════════════════════════════════ */
+#app{
+  position:fixed;inset:0;
+  display:flex;flex-direction:column;
+}
 
-    /* ════ HEADER ════ */
-    #hdr {
-      position: fixed; top: 0; left: 0; right: 0; z-index: 800;
-      height: 52px; display: flex; align-items: center; justify-content: space-between;
-      padding: 0 20px;
-      background: linear-gradient(180deg, rgba(6,8,11,.95) 0%, rgba(6,8,11,0) 100%);
-    }
-    .logo {
-      font-family: var(--mono); font-size: .95rem; font-weight: 700;
-      color: var(--red3); letter-spacing: 2px; text-transform: uppercase;
-      display: flex; align-items: center; gap: 10px;
-    }
-    .logo .badge { background: var(--red); color: #fff; font-size: .52rem; padding: 2px 6px; letter-spacing: 1.5px; }
-    nav { display: flex; gap: 18px; font-size: .72rem; text-transform: uppercase; letter-spacing: 1px; }
-    nav a { color: rgba(191,205,216,.55); transition: color .2s; }
-    nav a:hover { color: var(--red3); text-decoration: none; }
+/* ══════════════════════════════════════════
+   TOP BAR  (news left · date+controls right)
+══════════════════════════════════════════ */
+#top-bar{
+  position:relative;z-index:1100;
+  display:flex;align-items:stretch;
+  height:38px;
+  background:rgba(6,10,14,0.96);
+  border-bottom:1px solid var(--border);
+  backdrop-filter:blur(6px);
+  flex-shrink:0;
+}
 
-    /* ════ HERO MAP ════ */
-    #hero {
-      position: relative;
-      width: 100%; height: 100vh; min-height: 600px;
-      overflow: hidden;
-    }
-    #map { position: absolute; inset: 0; width: 100%; height: 100%; background: #040608; }
-    .leaflet-tile { filter: brightness(.22) saturate(.35) hue-rotate(185deg); }
+/* news side */
+#news-zone{
+  display:flex;align-items:center;
+  flex:1;overflow:hidden;
+  border-right:1px solid var(--border);
+}
 
-    /* vignette */
-    #hero::after {
-      content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 2;
-      background: radial-gradient(ellipse at center, transparent 35%, rgba(6,8,11,.75) 100%);
-    }
+#news-label{
+  display:flex;align-items:center;justify-content:center;
+  background:var(--red);
+  color:#fff;
+  font-size:9px;font-weight:bold;letter-spacing:2px;
+  padding:0 10px;
+  height:100%;
+  flex-shrink:0;
+  text-transform:uppercase;
+  gap:5px;
+}
 
-    /* bottom fade into content */
-    #hero-fade {
-      position: absolute; bottom: 0; left: 0; right: 0; height: 160px; z-index: 3; pointer-events: none;
-      background: linear-gradient(transparent, var(--bg));
-    }
+#news-icon{
+  width:14px;height:14px;
+  border:1.5px solid #fff;
+  border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  font-size:8px;font-weight:bold;
+}
 
-    /* ── MAP OVERLAY TOP-LEFT: title ── */
-    #map-title {
-      position: absolute; top: 68px; left: 24px; z-index: 5; pointer-events: none;
-    }
-    #map-title .eyebrow {
-      font-family: var(--mono); font-size: .62rem; text-transform: uppercase;
-      letter-spacing: 3px; color: var(--red2); margin-bottom: 6px;
-      display: flex; align-items: center; gap: 8px;
-    }
-    #map-title h1 {
-      font-size: clamp(1.6rem, 4vw, 3rem); font-weight: 900; color: #fff;
-      line-height: 1.1; text-shadow: 0 2px 24px rgba(0,0,0,.8);
-      margin-bottom: 10px;
-    }
-    #map-title h1 span { color: var(--red3); }
-    #map-title .sub { font-size: .82rem; color: var(--txt); opacity: .7; max-width: 420px; }
+#news-scroll-wrap{flex:1;overflow:hidden;height:100%;position:relative;}
+#news-scroll{
+  display:flex;align-items:center;
+  height:100%;
+  white-space:nowrap;
+  animation:scrollNews 80s linear infinite;
+  font-size:12px;
+  color:var(--text);
+  padding:0 20px;
+}
+#news-scroll:hover{animation-play-state:paused;}
 
-    /* ── MAP OVERLAY: stats pills ── */
-    #map-stats {
-      position: absolute; bottom: 180px; left: 24px; z-index: 5;
-      display: flex; flex-wrap: wrap; gap: 10px;
-    }
-    .ms-pill {
-      background: rgba(12,17,24,.82); border: 1px solid var(--brd);
-      backdrop-filter: blur(8px);
-      padding: 9px 16px; display: flex; flex-direction: column; align-items: center;
-      min-width: 90px;
-    }
-    .ms-pill .v { font-family: var(--mono); font-size: 1.15rem; font-weight: 700; color: var(--red3); text-shadow: 0 0 12px rgba(217,58,39,.5); }
-    .ms-pill .l { font-size: .58rem; color: var(--dim); text-transform: uppercase; letter-spacing: 1.2px; margin-top: 2px; }
-    .ms-pill.a .v { color: var(--amber2); text-shadow: 0 0 12px rgba(232,140,24,.4); }
-    .ms-pill.g .v { color: var(--green2); text-shadow: 0 0 12px rgba(34,196,106,.4); }
-    .ms-pill.b .v { color: var(--blue2); }
+@keyframes scrollNews{
+  0%{transform:translateX(0)}
+  100%{transform:translateX(-50%)}
+}
 
-    /* ── MAP OVERLAY: right side legend ── */
-    #map-legend {
-      position: absolute; top: 80px; right: 20px; z-index: 5;
-      background: rgba(12,17,24,.78); border: 1px solid var(--brd);
-      backdrop-filter: blur(8px); padding: 14px 16px;
-      font-family: var(--mono); font-size: .65rem;
-    }
-    #map-legend .leg-title { color: var(--dim); text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; }
-    .leg-row { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; color: var(--txt); }
-    .leg-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
-    .leg-dot.r  { background: var(--red3); box-shadow: 0 0 6px var(--red3); }
-    .leg-dot.a  { background: var(--amber2); box-shadow: 0 0 6px var(--amber2); }
-    .leg-dot.g  { background: var(--green2); box-shadow: 0 0 6px var(--green2); }
+.news-entry{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:0 30px;
+  cursor:pointer;
+  text-decoration:none;
+  color:var(--text);
+  transition:color .2s;
+}
+.news-entry:hover{color:var(--red3);}
+.news-entry .ns{
+  font-size:9px;color:var(--dim);letter-spacing:.5px;
+  border:1px solid rgba(255,255,255,.1);
+  padding:1px 4px;border-radius:2px;
+}
+.news-entry::after{
+  content:'◆';font-size:7px;
+  color:rgba(192,57,43,.5);
+  margin-left:30px;
+}
 
-    /* ── PULSE MARKERS ── */
-    @keyframes pulse {
-      0%  { transform: scale(.8); opacity: 1; }
-      70% { transform: scale(2.8); opacity: 0; }
-      100%{ transform: scale(.8); opacity: 0; }
-    }
-    .pm { position: relative; border-radius: 50%; }
-    .pm::before { content: ''; position: absolute; inset: 0; border-radius: 50%; background: inherit; animation: pulse 2.4s ease-out infinite; }
-    .pm.r { background: var(--red3); box-shadow: 0 0 10px var(--red3); }
-    .pm.a { background: var(--amber2); box-shadow: 0 0 10px var(--amber2); animation-delay: .5s; }
-    .pm.g { background: var(--green2); box-shadow: 0 0 8px var(--green2); }
+/* right controls */
+#top-controls{
+  display:flex;align-items:center;
+  gap:12px;
+  flex-shrink:0;
+  padding:0 12px;
+}
 
-    /* ── TICKER ON MAP ── */
-    #ticker-wrap {
-      position: absolute; bottom: 160px; left: 0; right: 0; z-index: 5;
-      overflow: hidden; white-space: nowrap; pointer-events: none;
-      background: rgba(170,34,24,.18); border-top: 1px solid rgba(170,34,24,.3); border-bottom: 1px solid rgba(170,34,24,.3);
-      padding: 6px 0; font-family: var(--mono); font-size: .7rem; text-transform: uppercase; letter-spacing: .5px;
-    }
-    #ticker-inner { display: inline-block; animation: ticker 50s linear infinite; }
-    #ticker-inner span { padding: 0 40px; }
-    @keyframes ticker { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+#top-date{
+  font-size:13px;font-weight:bold;
+  color:var(--text);letter-spacing:1px;
+  min-width:80px;text-align:center;
+}
 
-    /* ════ RAT ILLUSTRATIONS ════ */
-    .rat-svg { pointer-events: none; user-select: none; }
+#playback-btns{
+  display:flex;align-items:center;gap:3px;
+}
+.pb-btn{
+  background:rgba(255,255,255,.06);
+  border:1px solid rgba(255,255,255,.12);
+  color:var(--text);
+  width:26px;height:26px;
+  border-radius:3px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  font-size:10px;
+  transition:all .15s;
+}
+.pb-btn:hover{background:rgba(192,57,43,.25);border-color:var(--red);}
+.pb-btn.active{background:rgba(192,57,43,.4);border-color:var(--red2);color:#fff;}
 
-    /* Hero rat – bottom right of map */
-    #rat-hero {
-      position: absolute; bottom: 100px; right: 30px; z-index: 4;
-      opacity: .13; transform: scaleX(-1);
-    }
+#speed-label{
+  font-size:10px;color:var(--red2);
+  min-width:24px;text-align:center;
+  letter-spacing:.5px;cursor:pointer;
+}
+#speed-label:hover{color:var(--red3);}
 
-    /* Section rats */
-    .rat-section { position: relative; overflow: visible; }
-    .rat-left  { position: absolute; left: -60px; top: 50%; transform: translateY(-50%); opacity: .07; }
-    .rat-right { position: absolute; right: -60px; top: 50%; transform: translateY(-50%) scaleX(-1); opacity: .07; }
+/* ══════════════════════════════════════════
+   MAP
+══════════════════════════════════════════ */
+#map-wrap{position:relative;flex:1;overflow:hidden;}
+#map{width:100%;height:100%;}
 
-    /* Paw prints decoration */
-    .paws {
-      display: flex; gap: 6px; align-items: center;
-      margin-bottom: 14px; opacity: .35;
-    }
-    .paw { font-size: .9rem; }
+/* scanlines overlay */
+#map-wrap::after{
+  content:'';position:absolute;inset:0;
+  background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,.04) 3px,rgba(0,0,0,.04) 4px);
+  pointer-events:none;z-index:600;
+}
 
-    /* blink */
-    .blink { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--red3); box-shadow: 0 0 7px var(--red3); animation: bl 1s infinite; }
-    @keyframes bl { 0%,100%{opacity:1} 50%{opacity:.1} }
+/* Leaflet overrides */
+.leaflet-container{background:#0a1520 !important;}
+.leaflet-control-zoom{
+  border:1px solid var(--border)!important;
+  background:var(--panel)!important;
+}
+.leaflet-control-zoom a{
+  color:var(--red2)!important;
+  background:transparent!important;
+  border-color:var(--border)!important;
+  font-size:14px!important;
+  line-height:26px!important;
+}
+.leaflet-control-zoom a:hover{background:rgba(192,57,43,.2)!important;}
+.leaflet-control-attribution{
+  background:rgba(6,10,14,.7)!important;
+  color:#333!important;font-size:8px!important;
+}
+.leaflet-control-attribution a{color:#444!important;}
 
-    /* ════ CONTENT SECTIONS ════ */
-    .section { padding: 60px 20px; max-width: 1000px; margin: 0 auto; }
-    .tag { display: inline-block; font-family: var(--mono); font-size: .58rem; text-transform: uppercase; letter-spacing: 2.5px; color: var(--red2); border: 1px solid var(--red); padding: 3px 10px; margin-bottom: 14px; }
-    h2 { font-size: clamp(1.3rem, 2.5vw, 1.75rem); font-weight: 800; color: #fff; margin-bottom: 14px; line-height: 1.2; }
-    h3 { font-size: 1rem; font-weight: 700; color: var(--txt); margin: 24px 0 8px; }
-    p  { color: var(--txt); margin-bottom: 12px; font-size: .92rem; }
-    hr { border: none; border-top: 1px solid var(--brd); margin: 0; }
+/* Popup */
+.leaflet-popup-content-wrapper{
+  background:var(--panel)!important;
+  border:1px solid var(--border)!important;
+  border-radius:4px!important;
+  color:var(--text)!important;
+  font-family:var(--font)!important;
+  box-shadow:0 0 30px rgba(192,57,43,.35)!important;
+  backdrop-filter:blur(12px);
+}
+.leaflet-popup-tip-container{display:none!important;}
+.leaflet-popup-content{margin:0!important;}
+.leaflet-popup-close-button{color:var(--dim)!important;font-size:14px!important;top:6px!important;right:8px!important;}
+.leaflet-popup-close-button:hover{color:var(--red2)!important;}
 
-    /* ════ NEWS + MAP ROW ════ */
-    #live-row {
-      display: grid; grid-template-columns: 1fr 300px;
-      border-top: 1px solid var(--brd); border-bottom: 1px solid var(--brd);
-      max-height: 440px;
-    }
-    @media(max-width:760px) { #live-row { grid-template-columns: 1fr; max-height: none; } }
+.cpop{padding:14px 16px;min-width:220px;}
+.cpop-header{
+  display:flex;align-items:center;gap:8px;
+  margin-bottom:10px;padding-bottom:8px;
+  border-bottom:1px solid var(--border);
+}
+.cpop-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;}
+.cpop-name{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--red2);font-weight:bold;}
+.cpop-row{display:flex;justify-content:space-between;font-size:11px;margin-bottom:5px;}
+.cpop-k{color:var(--dim);}
+.cpop-v-i{color:var(--red2);font-weight:bold;}
+.cpop-v-d{color:#888;}
+.cpop-v-r{color:#2ecc71;}
+.cpop-v-m{color:var(--yellow);}
+.cpop-note{font-size:9px;color:var(--dim);line-height:1.6;margin-top:8px;padding-top:6px;border-top:1px solid rgba(255,255,255,.05);}
+.cpop-bar{height:3px;background:rgba(255,255,255,.06);border-radius:2px;overflow:hidden;margin-top:8px;}
+.cpop-bar-fill{height:100%;background:linear-gradient(90deg,var(--red),var(--red2));border-radius:2px;transition:width .3s;}
 
-    /* mini map */
-    #mini-map { height: 440px; background: var(--bg); }
-    #mini-map .leaflet-tile { filter: brightness(.25) saturate(.3) hue-rotate(185deg); }
+/* infection markers */
+.inf-marker{position:relative;}
+.pulse-ring{
+  position:absolute;border-radius:50%;
+  border:2px solid var(--red2);opacity:0;
+  animation:pRing 2.5s ease-out infinite;
+}
+.pulse-ring:nth-child(2){animation-delay:.85s;}
+.pulse-ring:nth-child(3){animation-delay:1.7s;}
+@keyframes pRing{
+  0%{transform:scale(.2);opacity:.9;}
+  100%{transform:scale(3.5);opacity:0;}
+}
+.inf-core{
+  position:absolute;border-radius:50%;
+}
 
-    /* news sidebar */
-    #news-panel { overflow-y: auto; scrollbar-width: thin; scrollbar-color: var(--brd) transparent; }
-    .np-head { padding: 12px 14px; border-bottom: 1px solid var(--brd); font-family: var(--mono); font-size: .68rem; text-transform: uppercase; letter-spacing: 1px; color: var(--dim); display: flex; align-items: center; gap: 7px; position: sticky; top: 0; background: var(--bg2); z-index: 1; }
-    .np-head strong { color: var(--txt); }
-    .ni { padding: 11px 14px; border-bottom: 1px solid var(--brd); cursor: pointer; transition: background .18s; }
-    .ni:hover { background: var(--bg3); }
-    .ni-s { font-size: .6rem; text-transform: uppercase; letter-spacing: 1px; color: var(--dim); margin-bottom: 3px; }
-    .ni-s span { color: var(--red2); font-weight: 700; margin-right: 5px; }
-    .ni-t { font-size: .79rem; font-weight: 600; color: var(--txt); line-height: 1.38; margin-bottom: 3px; }
-    .ni-d { font-size: .7rem; color: var(--dim); line-height: 1.35; }
-    .news-spin { padding: 30px 14px; text-align: center; color: var(--dim); font-size: .76rem; }
-    .news-spin::after { content: ''; display: block; width: 20px; height: 20px; border: 2px solid var(--brd); border-top-color: var(--red2); border-radius: 50%; margin: 10px auto 0; animation: spin .8s linear infinite; }
-    @keyframes spin { to { transform: rotate(360deg); } }
+/* year labels strip */
+#tl-years{
+  position:absolute;
+  bottom:112px;
+  left:20px;right:20px;
+  z-index:700;
+  pointer-events:none;
+  height:16px;
+}
+.tl-yr{
+  position:absolute;
+  font-size:9px;color:var(--dim);letter-spacing:.5px;
+  transform:translateX(-50%);
+}
 
-    /* ════ PREDICTIONS ════ */
-    #pred-section { background: var(--bg2); border-top: 1px solid var(--brd); border-bottom: 1px solid var(--brd); }
-    .pred-intro { text-align: center; padding: 48px 20px 16px; max-width: 620px; margin: 0 auto; }
-    .pred-intro h2 { margin-bottom: 8px; }
-    .pred-intro p { color: var(--dim); font-size: .87rem; }
-    .pred-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px,1fr)); gap: 14px; padding: 24px 20px 48px; max-width: 1000px; margin: 0 auto; }
+/* timeline slider */
+#timeline-bar{
+  position:absolute;bottom:90px;left:0;right:0;
+  z-index:700;
+  display:flex;align-items:center;
+  gap:10px;
+  padding:0 20px;
+}
+input[type=range]#tl-slider{
+  flex:1;height:3px;
+  -webkit-appearance:none;
+  background:rgba(255,255,255,.12);
+  border-radius:2px;outline:none;cursor:pointer;
+}
+input[type=range]#tl-slider::-webkit-slider-thumb{
+  -webkit-appearance:none;
+  width:14px;height:14px;border-radius:50%;
+  background:var(--red2);
+  box-shadow:0 0 8px rgba(231,76,60,.8);
+  cursor:pointer;
+}
 
-    .pcard {
-      background: var(--bg3); border: 1px solid var(--brd); border-top: 3px solid var(--brd);
-      padding: 18px; transition: border-top-color .2s, transform .2s; cursor: default;
-    }
-    .pcard.open { border-top-color: var(--blue2); }
-    .pcard:hover { transform: translateY(-2px); }
-    .pc-status { font-family: var(--mono); font-size: .58rem; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
-    .pc-status .d { width: 6px; height: 6px; border-radius: 50%; background: var(--blue2); box-shadow: 0 0 5px var(--blue2); }
-    .pc-status span { color: var(--dim); }
-    .pc-q { font-size: .93rem; font-weight: 700; color: #fff; line-height: 1.4; margin-bottom: 5px; }
-    .pc-dl { font-size: .65rem; color: var(--dim); font-family: var(--mono); margin-bottom: 14px; }
-    .pc-vol { font-family: var(--mono); font-size: .58rem; color: var(--dim); text-align: right; margin-bottom: 8px; }
-    .bar-wrap { height: 7px; background: var(--bg); border: 1px solid var(--brd); overflow: hidden; margin-bottom: 9px; }
-    .bar-yes { height: 100%; background: linear-gradient(90deg, #0d5e38, var(--green2)); transition: width .7s ease; }
-    .pct-row { display: flex; justify-content: space-between; font-family: var(--mono); font-size: .78rem; margin-bottom: 14px; }
-    .pct-row .y { color: var(--green2); font-weight: 700; }
-    .pct-row .n { color: var(--red2); font-weight: 700; }
-    .pct-row .tot { color: var(--dim); font-size: .62rem; align-self: center; }
-    .btn-row { display: flex; gap: 8px; }
-    .by, .bn { flex: 1; padding: 8px; border: 1px solid; font-family: var(--mono); font-size: .72rem; text-transform: uppercase; letter-spacing: 1px; cursor: pointer; transition: all .18s; background: transparent; }
-    .by { border-color: var(--green); color: var(--green2); }
-    .by:hover,.by.active { background: var(--green); color: #fff; box-shadow: 0 0 14px rgba(26,140,80,.35); }
-    .bn { border-color: var(--red); color: var(--red2); }
-    .bn:hover,.bn.active { background: var(--red); color: #fff; box-shadow: 0 0 14px rgba(170,34,24,.35); }
-    .vm { font-family: var(--mono); font-size: .68rem; text-align: center; padding: 9px; border: 1px dashed var(--brd); color: var(--dim); text-transform: uppercase; letter-spacing: 1px; }
-    .vm.y { border-color: var(--green); color: var(--green2); }
-    .vm.n { border-color: var(--red); color: var(--red2); }
+/* ══════════════════════════════════════════
+   BOTTOM HUD
+══════════════════════════════════════════ */
+#bottom-hud{
+  position:relative;z-index:1000;
+  display:flex;align-items:stretch;
+  height:90px;
+  background:rgba(5,9,13,.97);
+  border-top:1px solid var(--border);
+  backdrop-filter:blur(8px);
+  flex-shrink:0;
+}
 
-    /* leaderboard */
-    .lb-wrap { max-width: 760px; margin: 0 auto 48px; background: var(--bg3); border: 1px solid var(--brd); }
-    .lb-hd { padding: 14px 18px; border-bottom: 1px solid var(--brd); display: flex; justify-content: space-between; font-family: var(--mono); font-size: .65rem; text-transform: uppercase; letter-spacing: 1px; }
-    .lb-hd strong { color: var(--txt); } .lb-hd span { color: var(--dim); }
-    .lb-r { display: flex; align-items: center; gap: 12px; padding: 9px 18px; border-bottom: 1px solid var(--brd); font-size: .8rem; }
-    .lb-r:last-child { border-bottom: none; }
-    .lb-rank { font-family: var(--mono); font-size: .65rem; color: var(--dim); width: 18px; text-align: right; }
-    .lb-name { flex: 1; color: var(--txt); }
-    .lb-acc  { font-family: var(--mono); font-size: .75rem; color: var(--green2); font-weight: 700; }
-    .lb-cnt  { font-family: var(--mono); font-size: .62rem; color: var(--dim); }
+/* LEFT panel */
+#disease-panel{
+  width:190px;flex-shrink:0;
+  border-right:1px solid var(--border);
+  display:flex;flex-direction:column;
+  padding:8px 12px;gap:4px;
+}
+.dp-title{
+  font-size:8px;font-weight:bold;
+  letter-spacing:2px;color:var(--red);
+  text-transform:uppercase;
+  border-bottom:1px solid var(--border);
+  padding-bottom:4px;margin-bottom:2px;
+}
+.dp-name{font-size:14px;font-weight:bold;color:var(--text);letter-spacing:1px;}
+.dp-sub{font-size:8px;color:var(--dim);letter-spacing:.5px;}
+.dp-rows{display:flex;flex-direction:column;gap:2px;margin-top:3px;}
+.dp-row{display:flex;justify-content:space-between;font-size:9px;}
+.dk{color:var(--dim);}
+.dv{color:var(--text);font-weight:bold;}
+.dv-red{color:var(--red2);font-weight:bold;}
 
-    /* ════ INFO SECTIONS ════ */
-    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px,1fr)); gap: 16px; margin: 24px 0; }
-    .card { background: var(--bg2); border: 1px solid var(--brd); border-top: 3px solid var(--red); padding: 18px 16px; transition: border-top-color .2s, transform .2s; }
-    .card:hover { border-top-color: var(--red2); transform: translateY(-2px); }
-    .card-ic { font-size: 1.4rem; margin-bottom: 9px; }
-    .card h3 { margin: 0 0 7px; font-size: .92rem; color: #fff; }
-    .card p  { font-size: .78rem; color: var(--dim); margin: 0; }
+/* CENTER panel */
+#country-panel{
+  flex:1;display:flex;align-items:center;
+  gap:14px;padding:8px 16px;
+  border-right:1px solid var(--border);
+  position:relative;overflow:hidden;
+}
 
-    .sym { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; margin: 16px 0; }
-    .symi { background: var(--bg2); border: 1px solid var(--brd); padding: 11px 13px; display: flex; gap: 9px; }
-    .symi .d { flex-shrink: 0; margin-top: 5px; width: 7px; height: 7px; border-radius: 50%; background: var(--red2); box-shadow: 0 0 5px var(--red2); }
-    .symi strong { display: block; font-size: .8rem; color: #fff; margin-bottom: 1px; }
-    .symi span { font-size: .72rem; color: var(--dim); }
-    @media(max-width:520px){.sym{grid-template-columns:1fr;}}
+#cp-photo{
+  width:72px;height:72px;flex-shrink:0;
+  background:linear-gradient(135deg,#0a1a24,#0d2030);
+  border:1px solid var(--border);border-radius:2px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:32px;
+}
 
-    .cl { list-style: none; margin: 14px 0; }
-    .cl li { padding: 9px 13px 9px 36px; border-bottom: 1px solid var(--brd); position: relative; font-size: .84rem; }
-    .cl li::before { content: '✓'; position: absolute; left: 12px; color: var(--green2); font-weight: 700; }
+#cp-info{display:flex;flex-direction:column;gap:4px;flex:0 0 auto;}
+#cp-country-name{font-size:15px;font-weight:bold;letter-spacing:1px;color:var(--text);}
+#cp-country-sub{font-size:8px;color:var(--dim);letter-spacing:.5px;}
+.cp-stat-row{display:flex;align-items:center;gap:8px;}
+.cp-icon{font-size:11px;}
+.cp-stat-label{font-size:8px;color:var(--dim);letter-spacing:1px;text-transform:uppercase;min-width:52px;}
+.cp-stat-val{font-size:13px;font-weight:bold;letter-spacing:1px;}
+.csv-infected{color:var(--red2);}
+.csv-dead{color:#888;}
 
-    .alert { background: var(--bg2); border-left: 3px solid var(--red); padding: 11px 15px; font-size: .83rem; margin: 16px 0; }
+.cp-bars{
+  display:flex;flex-direction:column;gap:5px;
+  flex:1;max-width:300px;
+}
+.cp-bar-wrap{display:flex;align-items:center;gap:8px;}
+.cp-bar-label{font-size:8px;color:var(--dim);width:52px;letter-spacing:.5px;}
+.cp-bar-track{flex:1;height:5px;background:rgba(255,255,255,.06);border-radius:3px;overflow:hidden;}
+.cp-bar-fill-i{height:100%;background:linear-gradient(90deg,#6b1212,var(--red2));border-radius:3px;transition:width .5s;}
+.cp-bar-fill-d{height:100%;background:linear-gradient(90deg,#2a2a2a,#666);border-radius:3px;transition:width .5s;}
 
-    /* timeline */
-    .tl { position: relative; padding-left: 26px; }
-    .tl::before { content: ''; position: absolute; left: 4px; top: 0; bottom: 0; width: 2px; background: var(--brd); }
-    .tli { position: relative; margin-bottom: 24px; }
-    .tli::before { content: ''; position: absolute; left: -23px; top: 6px; width: 9px; height: 9px; border-radius: 50%; background: var(--red2); box-shadow: 0 0 7px var(--red2); }
-    .tly { font-family: var(--mono); font-size: .7rem; color: var(--red2); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 3px; }
-    .tli p { margin: 0; font-size: .85rem; }
+#cp-dots{
+  position:absolute;top:8px;right:12px;
+  font-size:12px;color:var(--dim);cursor:pointer;letter-spacing:2px;
+}
 
-    /* ad */
-    .ad { background: var(--bg3); border: 1px dashed var(--brd); height: 86px; display: flex; align-items: center; justify-content: center; font-size: .65rem; color: var(--dim); font-family: var(--mono); text-transform: uppercase; letter-spacing: 1px; margin: 28px 0; }
+/* RIGHT panel */
+#world-panel{
+  width:170px;flex-shrink:0;
+  display:flex;flex-direction:column;
+  padding:8px 12px;gap:4px;
+}
+.wp-header{
+  display:flex;justify-content:space-between;align-items:center;
+  border-bottom:1px solid var(--border);padding-bottom:4px;margin-bottom:2px;
+}
+.wp-title{font-size:8px;font-weight:bold;letter-spacing:2px;color:var(--text);text-transform:uppercase;}
+#wp-icon{font-size:16px;}
+.wp-row{display:flex;justify-content:space-between;font-size:9px;}
+.wk{color:var(--dim);}
+.wv{color:var(--text);font-weight:bold;}
+.wp-cure{
+  margin-top:4px;display:flex;flex-direction:column;gap:2px;
+}
+.wp-cure-hdr{display:flex;justify-content:space-between;font-size:8px;color:var(--dim);}
+#wp-cure-pct{color:var(--blue);font-weight:bold;}
+.wp-cure-track{height:5px;background:rgba(255,255,255,.06);border-radius:3px;overflow:hidden;}
+.wp-cure-fill{height:100%;width:1%;background:linear-gradient(90deg,#1a3a5c,var(--blue));border-radius:3px;transition:width 1s;}
 
-    /* ════ CONTACT ════ */
-    #contact { background: var(--bg2); border-top: 1px solid var(--brd); padding: 52px 20px; text-align: center; }
-    #contact h2 { margin-bottom: 8px; }
-    #contact > p { color: var(--dim); max-width: 500px; margin: 0 auto 22px; font-size: .87rem; }
-    .ctbox { display: inline-flex; align-items: center; gap: 14px; background: var(--bg3); border: 1px solid var(--brd); padding: 15px 28px; }
-    .ctbox svg { color: #2AABEE; flex-shrink: 0; }
-    .ctbox .tgh { font-family: var(--mono); font-size: 1.05rem; color: #2AABEE; font-weight: 700; }
-    .ctbox .tgl { font-size: .62rem; color: var(--dim); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 3px; }
-    .chips { display: flex; flex-wrap: wrap; justify-content: center; gap: 9px; margin-top: 26px; }
-    .chip { border: 1px solid var(--brd); padding: 5px 13px; font-size: .68rem; text-transform: uppercase; letter-spacing: 1px; color: var(--dim); font-family: var(--mono); }
+/* map overlays */
+#alert-panel{
+  position:absolute;top:10px;left:10px;z-index:800;
+  background:var(--panel);border:1px solid var(--border);border-radius:3px;
+  padding:10px 12px;width:224px;
+  backdrop-filter:blur(10px);
+  box-shadow:0 0 20px rgba(192,57,43,.2);
+}
+.ap-title{
+  font-size:8px;letter-spacing:2px;text-transform:uppercase;
+  color:var(--red2);margin-bottom:8px;padding-bottom:5px;border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:5px;
+}
+.ap-dot{width:6px;height:6px;border-radius:50%;background:var(--red2);animation:apPulse 1.2s ease-in-out infinite;}
+@keyframes apPulse{0%,100%{opacity:1;}50%{opacity:.2;}}
+.ap-item{display:flex;gap:6px;font-size:10px;color:var(--dim);line-height:1.5;margin-bottom:4px;}
+.ap-arr{color:var(--red2);font-size:8px;margin-top:3px;flex-shrink:0;}
 
-    /* ════ FOOTER ════ */
-    footer { background: var(--bg); border-top: 1px solid var(--brd); padding: 16px 20px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; font-size: .65rem; color: var(--dim); font-family: var(--mono); }
-    .foot-disc { width: 100%; border-top: 1px solid var(--brd); padding-top: 11px; margin-top: 6px; font-size: .6rem; color: #253545; line-height: 1.6; }
-
-    /* ════ RAT SVGs ════ */
-    /* These are inline SVG rodent silhouettes used as decorative elements */
-  </style>
-
-  <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebSite","name":"HantaVirus.bet","url":"https://hantavirus.bet","description":"Live global hantavirus outbreak map with community predictions, breaking news, and prevention guide."}
-  </script>
+#legend{
+  position:absolute;top:10px;right:10px;z-index:800;
+  background:var(--panel);border:1px solid var(--border);border-radius:3px;
+  padding:10px 12px;width:146px;
+  backdrop-filter:blur(10px);
+}
+.lg-title{font-size:8px;letter-spacing:2px;text-transform:uppercase;color:var(--dim);margin-bottom:8px;}
+.lg-item{display:flex;align-items:center;gap:7px;font-size:9px;color:var(--dim);margin-bottom:5px;}
+.lg-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;}
+.lc{background:#c0392b;box-shadow:0 0 6px rgba(192,57,43,.8);}
+.la{background:#e67e22;box-shadow:0 0 5px rgba(230,126,34,.7);}
+.ls{background:#d4ac0d;box-shadow:0 0 4px rgba(212,172,13,.5);}
+.lh{background:#445;}
+</style>
 </head>
 <body>
+<div id="app">
 
-<!-- ════════════════════════════════════════════════════════════
-     FIXED HEADER
-════════════════════════════════════════════════════════════ -->
-<header id="hdr">
-  <div class="logo">
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>
-    HantaVirus<span class="badge">·BET</span>
+<!-- ════════════ TOP BAR ════════════ -->
+<div id="top-bar">
+  <div id="news-zone">
+    <div id="news-label">
+      <div id="news-icon">!</div>NEWS
+    </div>
+    <div id="news-scroll-wrap">
+      <div id="news-scroll"></div>
+    </div>
   </div>
-  <nav>
-    <a href="#pred-section">Predict</a>
-    <a href="#live-row">News</a>
-    <a href="#about">About</a>
-    <a href="#prevention">Prevention</a>
-    <a href="#contact">Advertise</a>
-  </nav>
-</header>
+  <div id="top-controls">
+    <div id="top-date">MAY 2026</div>
+    <div id="playback-btns">
+      <button class="pb-btn" id="pb-first" title="Go to start">⏮</button>
+      <button class="pb-btn" id="pb-prev"  title="Previous">◀</button>
+      <button class="pb-btn" id="pb-play"  title="Play/Pause">▶</button>
+      <button class="pb-btn" id="pb-next"  title="Next">▶|</button>
+      <button class="pb-btn" id="pb-last"  title="Current">⏭</button>
+    </div>
+    <div id="speed-label" title="Click to change speed">1×</div>
+  </div>
+</div>
 
-<!-- ════════════════════════════════════════════════════════════
-     HERO — FULL-SCREEN MAP
-════════════════════════════════════════════════════════════ -->
-<section id="hero">
-  <!-- the map itself -->
+<!-- ════════════ MAP ════════════ -->
+<div id="map-wrap">
   <div id="map"></div>
 
-  <!-- title overlay (top-left) -->
-  <div id="map-title">
-    <div class="eyebrow">
-      <span class="blink"></span>
-      Live Global Tracking
-    </div>
-    <h1>Hantavirus<br><span>Outbreak</span> Map</h1>
-    <p class="sub">Real-time tracking of active infection zones. Click any marker for details.</p>
+  <div id="tl-years"></div>
+  <div id="timeline-bar">
+    <input type="range" id="tl-slider" min="0" value="0" step="1">
   </div>
 
-  <!-- legend (top-right) -->
-  <div id="map-legend">
-    <div class="leg-title">Outbreak Severity</div>
-    <div class="leg-row"><div class="leg-dot r"></div> High — endemic / active</div>
-    <div class="leg-row"><div class="leg-dot a"></div> Moderate — sporadic cases</div>
-    <div class="leg-row"><div class="leg-dot g"></div> Low — imported / rare</div>
-    <div style="border-top:1px solid var(--brd);margin-top:10px;padding-top:10px;color:var(--dim);">
-      <div>14 active zones</div>
-      <div style="margin-top:4px;">Updated hourly</div>
-    </div>
+  <div id="alert-panel">
+    <div class="ap-title"><div class="ap-dot"></div>Active Alerts</div>
+    <div class="ap-item"><div class="ap-arr">▶</div>Bolivia: Escalating Chapare virus — Beni region</div>
+    <div class="ap-item"><div class="ap-arr">▶</div>Argentina: 3 new Patagonia cases this week</div>
+    <div class="ap-item"><div class="ap-arr">▶</div>Chile: Los Lagos heightened surveillance</div>
   </div>
 
-  <!-- stats pills (bottom-left, above fade) -->
-  <div id="map-stats">
-    <div class="ms-pill">
-      <span class="v">32</span>
-      <span class="l">Countries</span>
-    </div>
-    <div class="ms-pill a">
-      <span class="v">35–40%</span>
-      <span class="l">HPS Fatality</span>
-    </div>
-    <div class="ms-pill">
-      <span class="v">~200K</span>
-      <span class="l">Cases/Year</span>
-    </div>
-    <div class="ms-pill b">
-      <span class="v" id="hero-votes">—</span>
-      <span class="l">Votes Cast</span>
-    </div>
-  </div>
-
-  <!-- ticker -->
-  <div id="ticker-wrap">
-    <div id="ticker-inner">
-      <span>⚠ LIVE TRACKING — Hantavirus monitored across 6 continents</span>
-      <span>🐀 Rodent vector: deer mice, brown rats, voles, field mice</span>
-      <span>🔴 No approved vaccine in the US or Europe — prevention is key</span>
-      <span>📊 New predictions open — cast your vote on the outbreak trajectory</span>
-      <span>⚠ LIVE TRACKING — Hantavirus monitored across 6 continents</span>
-      <span>🐀 Rodent vector: deer mice, brown rats, voles, field mice</span>
-      <span>🔴 No approved vaccine in the US or Europe — prevention is key</span>
-      <span>📊 New predictions open — cast your vote on the outbreak trajectory</span>
-    </div>
-  </div>
-
-  <!-- Large rat silhouette on map -->
-  <div id="rat-hero" class="rat-svg">
-    <!-- Rat silhouette SVG -->
-    <svg width="380" height="220" viewBox="0 0 380 220" fill="white" xmlns="http://www.w3.org/2000/svg">
-      <!-- body -->
-      <ellipse cx="180" cy="130" rx="100" ry="60" />
-      <!-- head -->
-      <ellipse cx="295" cy="105" rx="52" ry="44" />
-      <!-- snout -->
-      <ellipse cx="342" cy="108" rx="18" ry="12" />
-      <!-- nose -->
-      <circle cx="358" cy="107" r="5" />
-      <!-- ear left -->
-      <ellipse cx="285" cy="68" rx="18" ry="22" />
-      <!-- ear right -->
-      <ellipse cx="318" cy="64" rx="16" ry="20" />
-      <!-- eye -->
-      <circle cx="325" cy="96" r="5" fill="#06080b" />
-      <!-- tail -->
-      <path d="M82 148 Q40 155 15 140 Q5 133 12 120 Q20 108 35 115 Q55 124 82 148Z" />
-      <!-- front legs -->
-      <ellipse cx="260" cy="175" rx="12" ry="22" transform="rotate(-15 260 175)"/>
-      <ellipse cx="235" cy="182" rx="12" ry="20" transform="rotate(-5 235 182)"/>
-      <!-- back legs -->
-      <ellipse cx="140" cy="178" rx="14" ry="24" transform="rotate(10 140 178)"/>
-      <ellipse cx="115" cy="175" rx="13" ry="22" transform="rotate(15 115 175)"/>
-      <!-- whiskers -->
-      <line x1="358" y1="103" x2="390" y2="96" stroke="white" stroke-width="2"/>
-      <line x1="358" y1="107" x2="392" y2="107" stroke="white" stroke-width="2"/>
-      <line x1="358" y1="111" x2="390" y2="118" stroke="white" stroke-width="2"/>
-      <line x1="340" y1="102" x2="365" y2="90" stroke="white" stroke-width="2"/>
-      <line x1="340" y1="113" x2="365" y2="124" stroke="white" stroke-width="2"/>
-    </svg>
-  </div>
-
-  <!-- bottom gradient fade -->
-  <div id="hero-fade"></div>
-</section>
-
-
-<!-- ════════════════════════════════════════════════════════════
-     LIVE NEWS + PREDICTIONS ROW
-════════════════════════════════════════════════════════════ -->
-<div id="live-row">
-  <!-- Left: wider content = predictions intro hint + mini map could go here, but we use the space for news now -->
-  <div style="display:flex;flex-direction:column;overflow:hidden;">
-    <div class="np-head" style="background:var(--bg2);"><span class="blink"></span> Breaking News — <strong id="news-count">Loading…</strong></div>
-    <div id="news-panel" style="flex:1;overflow-y:auto;background:var(--bg);">
-      <div class="news-spin">Fetching latest hantavirus news…</div>
-    </div>
-  </div>
-
-  <!-- Right: second mini map clone for desktop, or hides on mobile -->
-  <div id="mini-map-wrap" style="border-left:1px solid var(--brd);">
-    <div style="padding:12px 14px;background:var(--bg2);border-bottom:1px solid var(--brd);font-family:var(--mono);font-size:.65rem;text-transform:uppercase;letter-spacing:1px;color:var(--dim);">
-      <span class="blink"></span> Outbreak Zones
-    </div>
-    <div id="mini-map" style="height:390px;"></div>
+  <div id="legend">
+    <div class="lg-title">Severity</div>
+    <div class="lg-item"><div class="lg-dot lc"></div>Critical zone</div>
+    <div class="lg-item"><div class="lg-dot la"></div>Active outbreak</div>
+    <div class="lg-item"><div class="lg-dot ls"></div>Sporadic cases</div>
+    <div class="lg-item"><div class="lg-dot lh"></div>Historical only</div>
   </div>
 </div>
 
+<!-- ════════════ BOTTOM HUD ════════════ -->
+<div id="bottom-hud">
 
-<!-- ════════════════════════════════════════════════════════════
-     PREDICTIONS
-════════════════════════════════════════════════════════════ -->
-<section id="pred-section" class="rat-section">
-
-  <!-- decorative rat right -->
-  <div class="rat-right rat-svg" style="right:-40px;top:40%;">
-    <svg width="120" height="70" viewBox="0 0 380 220" fill="white" xmlns="http://www.w3.org/2000/svg">
-      <ellipse cx="180" cy="130" rx="100" ry="60"/>
-      <ellipse cx="295" cy="105" rx="52" ry="44"/>
-      <ellipse cx="342" cy="108" rx="18" ry="12"/>
-      <circle cx="358" cy="107" r="5"/>
-      <ellipse cx="285" cy="68" rx="18" ry="22"/>
-      <ellipse cx="318" cy="64" rx="16" ry="20"/>
-      <circle cx="325" cy="96" r="5" fill="#0c1118"/>
-      <path d="M82 148 Q40 155 15 140 Q5 133 12 120 Q20 108 35 115 Q55 124 82 148Z"/>
-      <ellipse cx="260" cy="175" rx="12" ry="22" transform="rotate(-15 260 175)"/>
-      <ellipse cx="140" cy="178" rx="14" ry="24" transform="rotate(10 140 178)"/>
-    </svg>
-  </div>
-
-  <div class="pred-intro">
-    <div class="paws"><span class="paw">🐾</span><span class="paw">🐾</span><span class="paw">🐾</span></div>
-    <div class="tag">Community Predictions</div>
-    <h2>Where Will the Outbreak Spread Next?</h2>
-    <p>Vote on real scenarios based on live epidemiological data. Track whether the community gets it right as events unfold.</p>
-  </div>
-
-  <div class="pred-grid" id="pred-grid"></div>
-
-  <!-- Leaderboard -->
-  <div class="lb-wrap">
-    <div class="lb-hd"><strong>Top Predictors</strong><span>Ranked by prediction accuracy</span></div>
-    <div class="lb-r"><span class="lb-rank">1</span><span class="lb-name">EpiWatcher_88</span><span class="lb-acc">87%</span><span class="lb-cnt">23 predictions</span></div>
-    <div class="lb-r"><span class="lb-rank">2</span><span class="lb-name">OutbreakOracle</span><span class="lb-acc">83%</span><span class="lb-cnt">18 predictions</span></div>
-    <div class="lb-r"><span class="lb-rank">3</span><span class="lb-name">RodentRadar</span><span class="lb-acc">79%</span><span class="lb-cnt">31 predictions</span></div>
-    <div class="lb-r"><span class="lb-rank">4</span><span class="lb-name">VirusVector_2025</span><span class="lb-acc">74%</span><span class="lb-cnt">12 predictions</span></div>
-    <div class="lb-r"><span class="lb-rank">5</span><span class="lb-name">PlagueInc_Fan</span><span class="lb-acc">71%</span><span class="lb-cnt">44 predictions</span></div>
-    <div style="text-align:center;padding:13px;font-size:.68rem;color:var(--dim);font-family:var(--mono);">Cast predictions to appear on the leaderboard</div>
-  </div>
-</section>
-
-
-<!-- ════════════════════════════════════════════════════════════
-     ABOUT THE VIRUS
-════════════════════════════════════════════════════════════ -->
-<hr />
-<main>
-<div class="section" id="about">
-
-  <div class="ad">Advertisement</div>
-
-  <!-- small rat decoration near title -->
-  <div style="display:flex;align-items:flex-end;gap:18px;margin-bottom:4px;">
-    <div class="tag" style="margin-bottom:0">What is Hantavirus</div>
-    <svg width="50" height="30" viewBox="0 0 380 220" fill="rgba(255,255,255,.06)" style="margin-bottom:2px;">
-      <ellipse cx="180" cy="130" rx="100" ry="60"/>
-      <ellipse cx="295" cy="105" rx="52" ry="44"/>
-      <ellipse cx="342" cy="108" rx="18" ry="12"/>
-      <ellipse cx="285" cy="68" rx="18" ry="22"/>
-      <path d="M82 148 Q40 155 15 140 Q5 133 12 120 Q20 108 35 115 Q55 124 82 148Z"/>
-    </svg>
-  </div>
-
-  <h2>Hantavirus: The Rodent-Borne Pathogen Behind Every Prediction</h2>
-  <p><strong>Hantavirus</strong> is a family of RNA viruses (order <em>Bunyavirales</em>) carried by wild rodents — deer mice, voles, brown rats — and transmitted to humans through contact with their urine, droppings, saliva, or nesting materials. The animal host shows no illness. Humans are accidental hosts, and there is no approved vaccine in the US or Europe.</p>
-  <p>Two major clinical syndromes drive global concern: <strong>Hantavirus Pulmonary Syndrome (HPS)</strong> in the Americas with 35–40% fatality, and <strong>Hemorrhagic Fever with Renal Syndrome (HFRS)</strong> across Europe and Asia with 1–15% mortality depending on strain. Together they cause an estimated 150,000–200,000 documented cases annually.</p>
-
-  <div class="cards">
-    <div class="card"><div class="card-ic">🫁</div><h3>HPS — Pulmonary Syndrome</h3><p>Americas. Flu onset → respiratory failure in days. 35–40% fatality. Carrier: deer mouse.</p></div>
-    <div class="card"><div class="card-ic">🩺</div><h3>HFRS — Renal Syndrome</h3><p>Eurasia. Kidney failure, internal bleeding. 1–15% fatality. ~150K+ cases/year.</p></div>
-    <div class="card"><div class="card-ic">🐀</div><h3>Rodent Reservoir</h3><p>Each strain has one specific rodent host. No animal illness. 20+ pathogenic strains known.</p></div>
-  </div>
-
-  <hr style="margin:40px 0;" />
-
-  <div class="tag">Transmission</div>
-  <h2>How Does Hantavirus Spread?</h2>
-  <p><strong>Inhalation</strong> is the primary route: dried rodent droppings disturbed by sweeping or cleaning release aerosolized viral particles. Cleaning enclosed spaces — cabins, sheds, barns — after long closure is the single highest-risk activity. Direct contact through cuts, abrasions, or rodent bites is also documented. Hantavirus cannot spread person-to-person with one exception: Andes virus in South America.</p>
-  <p><strong>Highest-risk settings:</strong> rural cabins, grain storage facilities, construction sites, camping in rodent-dense areas, military field operations in endemic zones.</p>
-
-  <hr style="margin:40px 0;" />
-
-  <div class="tag">Symptoms</div>
-  <h2>Hantavirus Symptoms: Recognize the Warning Signs</h2>
-  <p>Incubation 1–8 weeks. Onset sudden — closely mimics influenza, making early diagnosis difficult.</p>
-  <div class="sym">
-    <div class="symi"><div class="d"></div><div><strong>Fever 38–40°C</strong><span>Abrupt onset, chills, general malaise.</span></div></div>
-    <div class="symi"><div class="d"></div><div><strong>Severe Myalgia</strong><span>Thighs, hips, back, shoulders — often disabling.</span></div></div>
-    <div class="symi"><div class="d"></div><div><strong>Fatigue &amp; Headache</strong><span>Profound exhaustion, possible neurological signs.</span></div></div>
-    <div class="symi"><div class="d"></div><div><strong>GI Symptoms</strong><span>Nausea, vomiting, diarrhea in ~50% of HPS.</span></div></div>
-    <div class="symi"><div class="d" style="background:var(--amber2);box-shadow:0 0 5px var(--amber2)"></div><div><strong>⚠ Respiratory Distress (HPS)</strong><span>Pulmonary edema — hours to mechanical ventilation.</span></div></div>
-    <div class="symi"><div class="d" style="background:var(--amber2);box-shadow:0 0 5px var(--amber2)"></div><div><strong>⚠ Renal Failure (HFRS)</strong><span>Back pain, decreased urination. Days 4–8.</span></div></div>
-  </div>
-  <div class="alert"><strong>Critical:</strong> Suspected exposure + fever + muscle aches → seek emergency care immediately. Do not wait for respiratory symptoms.</div>
-
-  <hr style="margin:40px 0;" />
-
-  <div id="prevention" class="tag">Prevention</div>
-  <h2>How to Prevent Hantavirus Infection</h2>
-  <h3>Rodent Control &amp; Sealing</h3>
-  <ul class="cl">
-    <li>Seal all entry points larger than ¼ inch (6mm) with steel wool or metal sheeting</li>
-    <li>Store all food — including pet food — in sealed metal or thick plastic containers</li>
-    <li>Clear debris, woodpiles, and vegetation within 30m of buildings</li>
-    <li>Use snap traps indoors — not glue traps (struggling animals aerosolize the virus)</li>
-  </ul>
-  <h3>Decontamination Protocol</h3>
-  <ul class="cl">
-    <li>Wear rubber gloves + N95/P100 respirator — surgical masks are insufficient</li>
-    <li>Never dry-sweep or vacuum rodent droppings — always wet first with 1:10 bleach solution</li>
-    <li>Soak contaminated area 5 minutes, wipe up with paper towels, double-bag in heavy plastic</li>
-    <li>Air out closed cabins 30+ minutes before entering</li>
-  </ul>
-
-  <hr style="margin:40px 0;" />
-
-  <div class="tag">History</div>
-  <h2>Hantavirus: From Korean War Mystery to Modern Threat</h2>
-  <div class="tl">
-    <div class="tli"><div class="tly">Korean War · 1951–1953</div><p>Over 3,000 UN soldiers fall ill with mysterious hemorrhagic fever — kidney failure, internal bleeding, ~10% fatality. No known cause. Called "Korean hemorrhagic fever." The mystery will take three decades to solve.</p></div>
-    <div class="tli"><div class="tly">Discovery · 1976–1978</div><p>Virologist <strong>Ho Wang Lee</strong> isolates the pathogen from the striped field mouse near the <strong>Hantan River</strong>, Korea. Named Hantaan virus. A new viral family is identified — and the war mystery is finally explained.</p></div>
-    <div class="tli"><div class="tly">Four Corners · May 1993</div><p>Cluster of unexplained deaths strikes the American Southwest. Young, healthy Navajo people dying of acute respiratory failure within days. CDC emergency teams identify <strong>Sin Nombre virus</strong> in deer mice in under five weeks. Shocks the world: 50%+ fatality in early cases. The modern hantavirus era begins.</p></div>
-    <div class="tli"><div class="tly">Americas Expansion · 1993–2000</div><p>Multiple new strains discovered across North and South America. <strong>Andes virus</strong> (Argentina/Chile) becomes the only hantavirus with documented person-to-person transmission.</p></div>
-    <div class="tli"><div class="tly">Yosemite · 2012</div><p>Ten park visitors contract HPS in tent cabins. Three die. 10,000 former visitors alerted. Massive national decontamination effort. The last major US outbreak cluster.</p></div>
-    <div class="tli"><div class="tly">Climate Era · 2020s–Present</div><p>El Niño cycles drive rodent population explosions. Warming temperatures shift carrier species' ranges northward. Hantavirus risk zones are expanding. The predictions tracker exists because the geography is changing.</p></div>
-  </div>
-
-  <div class="ad">Advertisement</div>
-
-</div>
-</main>
-
-
-<!-- ════════════════════════════════════════════════════════════
-     CONTACT
-════════════════════════════════════════════════════════════ -->
-<section id="contact">
-  <div class="tag">Advertising</div>
-  <h2>Reach a Targeted Global Audience</h2>
-  <p>HantaVirus.bet attracts health-aware, news-following readers worldwide — researchers, journalists, outbreak-watchers, and engaged citizens tracking real events.</p>
-  <div class="ctbox">
-    <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 0 0-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
-    </svg>
-    <div>
-      <div class="tgl">Contact for advertising</div>
-      <div class="tgh"><a href="https://t.me/ksufeeva" target="_blank" style="color:#2AABEE">@ksufeeva</a></div>
+  <div id="disease-panel">
+    <div class="dp-title">Disease</div>
+    <div class="dp-name">HANTAVIRUS</div>
+    <div class="dp-sub">SNV · Andes · Chapare</div>
+    <div class="dp-rows">
+      <div class="dp-row"><span class="dk">Mortality</span><span class="dv-red">~36 %</span></div>
+      <div class="dp-row"><span class="dk">Vector</span><span class="dv">Rodent → Human</span></div>
+      <div class="dp-row"><span class="dk">P2P spread</span><span class="dv">Andes only</span></div>
     </div>
   </div>
-  <div class="chips">
-    <div class="chip">Banner 728×90</div>
-    <div class="chip">Banner 300×250</div>
-    <div class="chip">Prediction Sponsor</div>
-    <div class="chip">Native Placement</div>
-    <div class="chip">Newsletter</div>
+
+  <div id="country-panel">
+    <div id="cp-photo">🌍</div>
+    <div id="cp-info">
+      <div id="cp-country-name">World</div>
+      <div id="cp-country-sub">Hover a zone on map for details</div>
+      <div class="cp-stat-row">
+        <span class="cp-icon">☣</span>
+        <span class="cp-stat-label">Infected</span>
+        <span class="cp-stat-val csv-infected" id="cp-infected">1,247</span>
+      </div>
+      <div class="cp-stat-row">
+        <span class="cp-icon">💀</span>
+        <span class="cp-stat-label">Dead</span>
+        <span class="cp-stat-val csv-dead" id="cp-dead">456</span>
+      </div>
+    </div>
+    <div class="cp-bars">
+      <div class="cp-bar-wrap">
+        <span class="cp-bar-label">INFECTED</span>
+        <div class="cp-bar-track"><div class="cp-bar-fill-i" id="bar-infected" style="width:60%"></div></div>
+      </div>
+      <div class="cp-bar-wrap">
+        <span class="cp-bar-label">DEAD</span>
+        <div class="cp-bar-track"><div class="cp-bar-fill-d" id="bar-dead" style="width:37%"></div></div>
+      </div>
+    </div>
+    <div id="cp-dots">• • •</div>
   </div>
-</section>
 
-<footer>
-  <div>© 2025 HantaVirus.bet</div>
-  <div><a href="#pred-section">Predict</a> · <a href="#about">Learn</a> · <a href="#prevention">Prevent</a> · <a href="#contact">Advertise</a></div>
-  <div class="foot-disc">DISCLAIMER: HantaVirus.bet is an independent news aggregator, educational resource, and community prediction platform. Predictions are for informational and entertainment purposes only — no monetary value involved. Content sourced from WHO, CDC, PAHO, and major news outlets. This site does not provide medical advice. If you suspect hantavirus exposure, contact emergency services immediately.</div>
-</footer>
+  <div id="world-panel">
+    <div class="wp-header">
+      <div class="wp-title">World</div>
+      <div id="wp-icon">🌐</div>
+    </div>
+    <div class="wp-row"><span class="wk">Infected</span><span class="wv" id="wp-infected">1,247</span></div>
+    <div class="wp-row"><span class="wk">Deaths</span><span class="wv" id="wp-deaths">456</span></div>
+    <div class="wp-row"><span class="wk">Recovered</span><span class="wv" id="wp-recovered">791</span></div>
+    <div class="wp-cure">
+      <div class="wp-cure-hdr"><span>Cure research</span><span id="wp-cure-pct">1.0%</span></div>
+      <div class="wp-cure-track"><div class="wp-cure-fill" id="wp-cure-bar"></div></div>
+    </div>
+  </div>
 
+</div>
+</div><!-- /app -->
 
-<!-- ════════════════════════════════════════════════════════════
-     SCRIPTS
-════════════════════════════════════════════════════════════ -->
 <script>
-// ── DARK MAP POPUP STYLE ───────────────────────────────────────────
-const ps = document.createElement('style');
-ps.textContent = `.dp .leaflet-popup-content-wrapper{background:#0c1118;border:1px solid #192535;border-radius:0;box-shadow:0 4px 20px rgba(0,0,0,.7)}.dp .leaflet-popup-tip{background:#0c1118}.dp .leaflet-popup-close-button{color:#d93a27!important}`;
-document.head.appendChild(ps);
+'use strict';
 
-// ── PULSE ICON FACTORY ─────────────────────────────────────────────
-function pIcon(cls, size) {
-  return L.divIcon({
-    html: `<div class="pm ${cls}" style="width:${size}px;height:${size}px"></div>`,
-    className: '', iconSize: [size, size], iconAnchor: [size/2, size/2]
+/* ════════════ STATUS CONFIG ════════════ */
+const S = {
+  critical:{ color:'#c0392b', r:22, rMax:42, fillOp:.28, w:2 },
+  active:  { color:'#e67e22', r:15, rMax:28, fillOp:.20, w:1.5 },
+  sporadic:{ color:'#d4ac0d', r:10, rMax:18, fillOp:.14, w:1 },
+  hist:    { color:'#445566', r:7,  rMax:12, fillOp:.08, w:1 }
+};
+
+/* ════════════ TIMELINE DATA ════════════ */
+const TL = [
+  { label:'1993',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'Four Corners, USA',      country:'USA',         inf:24,   d:13,  rec:11,  s:'critical', note:'Sin Nombre Virus first identified. 13 deaths out of 24 cases.'},
+    ], routes:[] },
+
+  { label:'1995',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:148,  d:57,  rec:91,  s:'critical'},
+      {id:'ca',  lat:39.7,  lng:-121.8, name:'California, USA',        country:'USA',         inf:23,   d:9,   rec:14,  s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Neuquén, Argentina',     country:'Argentina',   inf:18,   d:8,   rec:10,  s:'critical', note:'Andes Virus — first confirmed person-to-person transmission.'},
+    ], routes:[['us','ar']] },
+
+  { label:'1997',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:200,  d:80,  rec:120, s:'active'},
+      {id:'ca',  lat:39.7,  lng:-121.8, name:'California, USA',        country:'USA',         inf:35,   d:13,  rec:22,  s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:61,   d:22,  rec:39,  s:'critical'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:29,   d:10,  rec:19,  s:'active'},
+      {id:'br',  lat:-15.6, lng:-47.9,  name:'Brazil',                 country:'Brazil',      inf:12,   d:4,   rec:8,   s:'sporadic'},
+    ], routes:[['ar','cl'],['ar','br']] },
+
+  { label:'2000',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:280,  d:110, rec:170, s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:120,  d:44,  rec:76,  s:'critical'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:65,   d:22,  rec:43,  s:'active'},
+      {id:'br',  lat:-15.6, lng:-47.9,  name:'Brazil',                 country:'Brazil',      inf:35,   d:11,  rec:24,  s:'active'},
+      {id:'pa',  lat:8.5,   lng:-80.3,  name:'Panama',                 country:'Panama',      inf:8,    d:3,   rec:5,   s:'sporadic'},
+      {id:'bk',  lat:44.0,  lng:17.8,   name:'Balkans, Europe',        country:'Bosnia',      inf:22,   d:5,   rec:17,  s:'active', note:'Puumala/Dobrava variants across former Yugoslavia.'},
+      {id:'cn',  lat:36.0,  lng:104.0,  name:'China',                  country:'China',       inf:340,  d:88,  rec:252, s:'critical', note:'HFRS endemic — Hantaan virus.'},
+    ], routes:[['ar','pa'],['bk','cn']] },
+
+  { label:'2005',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:420,  d:155, rec:265, s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:215,  d:77,  rec:138, s:'critical'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:120,  d:41,  rec:79,  s:'critical'},
+      {id:'br',  lat:-15.6, lng:-47.9,  name:'Brazil',                 country:'Brazil',      inf:70,   d:21,  rec:49,  s:'active'},
+      {id:'bk',  lat:44.0,  lng:17.8,   name:'Balkans, Europe',        country:'Bosnia',      inf:55,   d:10,  rec:45,  s:'active'},
+      {id:'fi',  lat:64.5,  lng:26.0,   name:'Scandinavia',            country:'Finland',     inf:90,   d:3,   rec:87,  s:'sporadic', note:'Puumala HFRS — high case count, very low mortality.'},
+      {id:'cn',  lat:36.0,  lng:104.0,  name:'China',                  country:'China',       inf:810,  d:200, rec:610, s:'critical'},
+    ], routes:[['bk','fi']] },
+
+  { label:'2012',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:587,  d:216, rec:371, s:'active'},
+      {id:'yo',  lat:37.8,  lng:-119.5, name:'Yosemite NP, USA',       country:'USA',         inf:10,   d:3,   rec:7,   s:'active', note:'Tent cabins contaminated. ~230 000 visitors alerted by CDC.'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:380,  d:134, rec:246, s:'critical'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:190,  d:65,  rec:125, s:'critical'},
+      {id:'cn',  lat:36.0,  lng:104.0,  name:'China',                  country:'China',       inf:1200, d:302, rec:898, s:'critical'},
+      {id:'bk',  lat:44.0,  lng:17.8,   name:'Balkans, Europe',        country:'Bosnia',      inf:110,  d:18,  rec:92,  s:'active'},
+      {id:'fi',  lat:64.5,  lng:26.0,   name:'Scandinavia',            country:'Finland',     inf:140,  d:4,   rec:136, s:'sporadic'},
+    ], routes:[] },
+
+  { label:'2019',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:728,  d:267, rec:461, s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:520,  d:181, rec:339, s:'critical'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:248,  d:85,  rec:163, s:'critical'},
+      {id:'br',  lat:-15.6, lng:-47.9,  name:'Brazil',                 country:'Brazil',      inf:160,  d:52,  rec:108, s:'active'},
+      {id:'cn',  lat:36.0,  lng:104.0,  name:'China',                  country:'China',       inf:1580, d:398, rec:1182,s:'critical'},
+      {id:'sd',  lat:36.3,  lng:117.0,  name:'Shandong, China',        country:'China',       inf:3,    d:1,   rec:2,   s:'sporadic', note:'Worker dies on business trip — hantavirus positive, global media panic.'},
+      {id:'bk',  lat:44.0,  lng:17.8,   name:'Balkans, Europe',        country:'Bosnia',      inf:160,  d:24,  rec:136, s:'active'},
+      {id:'fi',  lat:64.5,  lng:26.0,   name:'Scandinavia',            country:'Finland',     inf:180,  d:5,   rec:175, s:'sporadic'},
+    ], routes:[['cn','sd']] },
+
+  { label:'2023',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:810,  d:296, rec:514, s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:630,  d:218, rec:412, s:'critical'},
+      {id:'ab',  lat:-34.6, lng:-58.4,  name:'Buenos Aires Prov.',     country:'Argentina',   inf:28,   d:8,   rec:20,  s:'active'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:295,  d:101, rec:194, s:'critical'},
+      {id:'br',  lat:-15.6, lng:-47.9,  name:'Brazil',                 country:'Brazil',      inf:205,  d:68,  rec:137, s:'active'},
+      {id:'bo',  lat:-14.8, lng:-64.9,  name:'Beni, Bolivia',          country:'Bolivia',     inf:42,   d:15,  rec:27,  s:'critical', note:'Chapare virus — person-to-person transmission suspected.'},
+      {id:'cn',  lat:36.0,  lng:104.0,  name:'China',                  country:'China',       inf:1580, d:398, rec:1182,s:'critical'},
+      {id:'bk',  lat:44.0,  lng:17.8,   name:'Balkans, Europe',        country:'Bosnia',      inf:210,  d:31,  rec:179, s:'active'},
+      {id:'fi',  lat:64.5,  lng:26.0,   name:'Scandinavia',            country:'Finland',     inf:180,  d:5,   rec:175, s:'sporadic'},
+    ], routes:[['ar','ab'],['br','bo']] },
+
+  { label:'NOW',
+    zones:[
+      {id:'us',  lat:36.9,  lng:-108.7, name:'SW United States',       country:'USA',         inf:875,  d:320, rec:555, s:'active'},
+      {id:'ar',  lat:-38.9, lng:-68.1,  name:'Patagonia, Argentina',   country:'Argentina',   inf:712,  d:248, rec:464, s:'critical'},
+      {id:'ab',  lat:-34.6, lng:-58.4,  name:'Buenos Aires Prov.',     country:'Argentina',   inf:51,   d:15,  rec:36,  s:'active'},
+      {id:'cl',  lat:-40.5, lng:-72.4,  name:'Los Lagos, Chile',       country:'Chile',       inf:330,  d:116, rec:214, s:'critical'},
+      {id:'br',  lat:-15.6, lng:-47.9,  name:'Brazil',                 country:'Brazil',      inf:238,  d:79,  rec:159, s:'active'},
+      {id:'bo',  lat:-14.8, lng:-64.9,  name:'Beni, Bolivia',          country:'Bolivia',     inf:89,   d:31,  rec:58,  s:'critical'},
+      {id:'pa',  lat:8.5,   lng:-80.3,  name:'Panama',                 country:'Panama',      inf:22,   d:8,   rec:14,  s:'sporadic'},
+      {id:'cn',  lat:36.0,  lng:104.0,  name:'China',                  country:'China',       inf:1700, d:428, rec:1272,s:'critical'},
+      {id:'sd',  lat:36.3,  lng:117.0,  name:'Shandong, China',        country:'China',       inf:17,   d:5,   rec:12,  s:'sporadic'},
+      {id:'bk',  lat:44.0,  lng:17.8,   name:'Balkans, Europe',        country:'Bosnia',      inf:248,  d:37,  rec:211, s:'active'},
+      {id:'fi',  lat:64.5,  lng:26.0,   name:'Scandinavia',            country:'Finland',     inf:202,  d:6,   rec:196, s:'sporadic'},
+      {id:'ru',  lat:55.0,  lng:82.9,   name:'W. Siberia, Russia',     country:'Russia',      inf:55,   d:14,  rec:41,  s:'active'},
+      {id:'kr',  lat:37.5,  lng:127.0,  name:'South Korea',            country:'South Korea', inf:68,   d:8,   rec:60,  s:'sporadic', note:'Seoul virus HFRS variant.'},
+    ], routes:[['bo','pa'],['ru','kr']] }
+];
+
+/* ════════════ MAP INIT ════════════ */
+const map = L.map('map', {
+  center:[15, 10], zoom:2,
+  minZoom:2, maxZoom:7,
+  zoomControl:true, attributionControl:true
+});
+
+/* Satellite tiles */
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  attribution:'&copy; Esri World Imagery',
+  maxZoom:18
+}).addTo(map);
+
+/* Dark label overlay */
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png', {
+  attribution:'', subdomains:'abcd', maxZoom:18, opacity:0.55
+}).addTo(map);
+
+/* ════════════ RENDER ════════════ */
+let layers = [];
+function clearLayers(){ layers.forEach(l=>map.removeLayer(l)); layers=[]; }
+function addL(l){ l.addTo(map); layers.push(l); }
+
+function popupHTML(z){
+  const cfg = S[z.s]||S.sporadic;
+  const mort = z.inf>0 ? Math.round(z.d/z.inf*100) : 0;
+  return `<div class="cpop">
+    <div class="cpop-header">
+      <div class="cpop-dot" style="background:${cfg.color};box-shadow:0 0 8px ${cfg.color}88"></div>
+      <div class="cpop-name">${z.name}</div>
+    </div>
+    <div class="cpop-row"><span class="cpop-k">Infected</span><span class="cpop-v-i">${z.inf.toLocaleString()}</span></div>
+    <div class="cpop-row"><span class="cpop-k">Deaths</span><span class="cpop-v-d">${z.d.toLocaleString()}</span></div>
+    <div class="cpop-row"><span class="cpop-k">Recovered</span><span class="cpop-v-r">${z.rec.toLocaleString()}</span></div>
+    <div class="cpop-row"><span class="cpop-k">Mortality</span><span class="cpop-v-m">${mort}%</span></div>
+    ${z.note?`<div class="cpop-note">⚑ ${z.note}</div>`:''}
+    <div class="cpop-bar"><div class="cpop-bar-fill" style="width:${mort}%"></div></div>
+  </div>`;
+}
+
+const FLAGS = {USA:'🇺🇸',Argentina:'🇦🇷',Chile:'🇨🇱',Brazil:'🇧🇷',Bolivia:'🇧🇴',
+               Panama:'🇵🇦',China:'🇨🇳',Bosnia:'🇧🇦',Finland:'🇫🇮',Russia:'🇷🇺','South Korea':'🇰🇷'};
+
+function showPanel(z){
+  document.getElementById('cp-country-name').textContent = z.name;
+  document.getElementById('cp-country-sub').textContent  = z.country + ' · ' + z.s.toUpperCase();
+  document.getElementById('cp-infected').textContent     = z.inf.toLocaleString();
+  document.getElementById('cp-dead').textContent         = z.d.toLocaleString();
+  document.getElementById('cp-photo').textContent        = FLAGS[z.country]||'🌍';
+  const mort = z.inf>0 ? Math.min(100,Math.round(z.d/z.inf*100)) : 0;
+  document.getElementById('bar-infected').style.width = Math.min(100,z.inf/18)+'%';
+  document.getElementById('bar-dead').style.width     = mort+'%';
+}
+
+function renderSnap(snap){
+  clearLayers();
+  const zm={};
+  snap.zones.forEach(z=>{ zm[z.id]=z; });
+
+  snap.zones.forEach(z=>{
+    const cfg = S[z.s]||S.sporadic;
+    const ratio = Math.min(1, z.inf/400);
+    const rad   = (cfg.r + ratio*(cfg.rMax-cfg.r)) * 55000;
+
+    /* Glow spread circle */
+    const circ = L.circle([z.lat,z.lng],{
+      radius:rad,
+      color:cfg.color, weight:cfg.w,
+      fillColor:cfg.color, fillOpacity:cfg.fillOp,
+      opacity:0.45
+    });
+    circ.on('mouseover',()=>showPanel(z));
+    circ.bindPopup(popupHTML(z),{maxWidth:280});
+    addL(circ);
+
+    /* Pulse marker */
+    const sz = (cfg.r + ratio*(cfg.rMax-cfg.r)) * 2.4;
+    const icon = L.divIcon({
+      className:'inf-marker',
+      html:`
+        <div class="pulse-ring" style="width:${sz}px;height:${sz}px;top:${-sz/2}px;left:${-sz/2}px;border-color:${cfg.color}77"></div>
+        <div class="pulse-ring" style="width:${sz}px;height:${sz}px;top:${-sz/2}px;left:${-sz/2}px;border-color:${cfg.color}44"></div>
+        <div class="pulse-ring" style="width:${sz}px;height:${sz}px;top:${-sz/2}px;left:${-sz/2}px;border-color:${cfg.color}22"></div>
+        <div class="inf-core" style="width:${sz*.32}px;height:${sz*.32}px;top:${-sz*.16}px;left:${-sz*.16}px;background:radial-gradient(circle,${cfg.color}ff 0%,${cfg.color}99 50%,transparent 100%);box-shadow:0 0 ${sz*.4}px ${cfg.color}99"></div>`,
+      iconSize:[0,0],iconAnchor:[0,0]
+    });
+    const mk = L.marker([z.lat,z.lng],{icon})
+      .on('mouseover',()=>showPanel(z))
+      .bindPopup(popupHTML(z),{maxWidth:280});
+    addL(mk);
+  });
+
+  /* Spread lines */
+  snap.routes.forEach(([a,b])=>{
+    const za=zm[a],zb=zm[b];
+    if(!za||!zb) return;
+    addL(L.polyline([[za.lat,za.lng],[zb.lat,zb.lng]],{
+      color:'rgba(192,57,43,.6)', weight:1.8, dashArray:'7 5'
+    }));
   });
 }
 
-// ── OUTBREAK ZONES ─────────────────────────────────────────────────
-const ZONES = [
-  {lat:36.8,  lng:-108.5, n:'Four Corners, USA',      t:'HPS · Sin Nombre',    s:'r', z:20, c:'Endemic — highest US risk zone'},
-  {lat:37.8,  lng:-119.5, n:'Yosemite, CA, USA',      t:'HPS · Sin Nombre',    s:'a', z:14, c:'Outbreak 2012, 3 fatalities'},
-  {lat:44.5,  lng:-103.8, n:'South Dakota, USA',       t:'HPS · Sin Nombre',    s:'a', z:14, c:'Endemic zone'},
-  {lat:-38.4, lng:-66.0,  n:'Patagonia, Argentina',   t:'HPS · Andes Virus',   s:'r', z:18, c:'Human-to-human transmission confirmed'},
-  {lat:-41.5, lng:-72.5,  n:'Los Lagos, Chile',        t:'HPS · Andes Virus',   s:'r', z:18, c:'Endemic zone, annual cases'},
-  {lat:-23.5, lng:-46.6,  n:'São Paulo, Brazil',       t:'HPS · Juquitiba',     s:'a', z:14, c:'Sporadic cases'},
-  {lat:-17.8, lng:-63.2,  n:'Santa Cruz, Bolivia',     t:'HPS · Rio Mamore',    s:'a', z:12, c:'Sporadic'},
-  {lat:61.9,  lng:25.7,   n:'Central Finland',         t:'HFRS · Puumala',      s:'a', z:14, c:'~1000/yr in peak years'},
-  {lat:51.0,  lng:10.0,   n:'Germany',                 t:'HFRS · Puumala',      s:'a', z:14, c:'2600+ cases in outbreak years'},
-  {lat:46.5,  lng:20.0,   n:'Balkans',                 t:'HFRS · Dobrava',      s:'r', z:18, c:'5–12% fatality rate'},
-  {lat:56.0,  lng:44.0,   n:'Volga Region, Russia',   t:'HFRS · Puumala',      s:'r', z:18, c:'Largest European HFRS burden'},
-  {lat:38.0,  lng:127.0,  n:'Korean Peninsula',        t:'HFRS · Hantaan',      s:'a', z:14, c:'Historic epicenter, 1951–'},
-  {lat:36.0,  lng:104.0,  n:'Central China',           t:'HFRS · Hantaan/Seoul',s:'r', z:20, c:'~50% of global HFRS burden'},
-  {lat:43.5,  lng:132.0,  n:'Primorsky Krai, Russia', t:'HFRS · Hantaan',      s:'a', z:12, c:'Sporadic'},
-  {lat:51.5,  lng:-0.1,   n:'London, UK',              t:'HFRS · Seoul',        s:'g', z:10, c:'Imported via domestic rats'},
-  {lat:40.7,  lng:-74.0,  n:'New York, USA',           t:'HFRS · Seoul',        s:'g', z:10, c:'Urban rat exposure'},
+/* ════════════ PLAYER ════════════ */
+let curIdx=TL.length-1, playing=false, speed=1, timer=null;
+const slider  = document.getElementById('tl-slider');
+const dateLbl = document.getElementById('top-date');
+const btnPlay = document.getElementById('pb-play');
+const spdEl   = document.getElementById('speed-label');
+
+slider.max   = TL.length-1;
+slider.value = curIdx;
+
+/* year labels */
+const yearsEl = document.getElementById('tl-years');
+TL.forEach((t,i)=>{
+  const pct = i/(TL.length-1)*100;
+  const sp  = document.createElement('span');
+  sp.className='tl-yr';
+  sp.textContent=t.label;
+  sp.style.left=pct+'%';
+  yearsEl.appendChild(sp);
+});
+
+function goto(i){
+  curIdx=Math.max(0,Math.min(TL.length-1,i));
+  slider.value=curIdx;
+  dateLbl.textContent=TL[curIdx].label;
+  renderSnap(TL[curIdx]);
+}
+function stopPlay(){
+  playing=false; btnPlay.textContent='▶';
+  btnPlay.classList.remove('active');
+  clearInterval(timer);
+}
+function startPlay(){
+  playing=true; btnPlay.textContent='⏸';
+  btnPlay.classList.add('active');
+  timer=setInterval(()=>{ if(curIdx>=TL.length-1){stopPlay();return;} goto(curIdx+1); },1400/speed);
+}
+
+btnPlay.addEventListener('click',()=>{ if(playing)stopPlay(); else{ if(curIdx>=TL.length-1)goto(0); startPlay(); } });
+document.getElementById('pb-first').addEventListener('click',()=>{ stopPlay(); goto(0); });
+document.getElementById('pb-prev') .addEventListener('click',()=>{ stopPlay(); goto(curIdx-1); });
+document.getElementById('pb-next') .addEventListener('click',()=>{ stopPlay(); goto(curIdx+1); });
+document.getElementById('pb-last') .addEventListener('click',()=>{ stopPlay(); goto(TL.length-1); });
+slider.addEventListener('input',()=>{ stopPlay(); goto(+slider.value); });
+
+const SPEEDS=[1,2,5]; let sI=0;
+spdEl.addEventListener('click',()=>{
+  sI=(sI+1)%SPEEDS.length; speed=SPEEDS[sI];
+  spdEl.textContent=speed+'×';
+  if(playing){ clearInterval(timer); startPlay(); }
+});
+
+/* ════════════ NEWS ════════════ */
+const FALLBACK=[
+  {t:'Bolivia: escalating Chapare virus — 3 deaths this week in Beni region',s:'WHO',u:'https://www.who.int'},
+  {t:'Argentina health ministry issues Patagonia hantavirus travel advisory',s:'Reuters',u:'https://reuters.com'},
+  {t:'CDC urges rodent control as hantavirus season peaks across US Southwest',s:'CDC',u:'https://www.cdc.gov'},
+  {t:'Chile confirms 12 new Andes virus cases in Los Lagos — highest since 2019',s:'ProMED',u:'https://promedmail.org'},
+  {t:'Scientists link La Niña weather cycles to surges in South American hantavirus outbreaks',s:'Nature',u:'https://nature.com'},
+  {t:'Brazil: São Paulo state on alert after hantavirus fatality in rural farming area',s:'PAHO',u:'https://www.paho.org'},
+  {t:'WHO: no evidence of sustained human-to-human transmission outside Andes variant',s:'WHO',u:'https://www.who.int'},
+  {t:'New Mexico reports first hantavirus case in 18 months — exposure via deer mice',s:'AP',u:'https://apnews.com'},
+  {t:'ECDC: Finland and Sweden HFRS cases running above 5-year average in 2026',s:'ECDC',u:'https://ecdc.europa.eu'},
+  {t:'Bolivia Chapare virus: genomic sequencing confirms novel strain, WHO monitoring',s:'BBC',u:'https://www.bbc.com'},
 ];
 
-function addMarkers(mapInstance) {
-  ZONES.forEach(z => {
-    L.marker([z.lat, z.lng], { icon: pIcon(z.s, z.z) })
-      .bindPopup(
-        `<div style="font-family:monospace;font-size:.75rem;color:#bfcdd8;padding:2px">
-          <div style="color:#d93a27;font-weight:700;font-size:.87rem;margin-bottom:5px">${z.n}</div>
-          <div><b>Strain:</b> ${z.t}</div>
-          <div><b>Status:</b> ${z.c}</div>
-        </div>`,
-        { className: 'dp', maxWidth: 220 }
-      )
-      .addTo(mapInstance);
-  });
+async function loadNews(){
+  let items=FALLBACK;
+  try{
+    const r=await fetch('./news.json?'+Date.now());
+    const d=await r.json();
+    if(d.articles&&d.articles.length>2)
+      items=d.articles.map(a=>({t:a.title,s:a.source||'News',u:a.url||'#'}));
+  }catch(e){}
+  const el=document.getElementById('news-scroll');
+  const double=[...items,...items];
+  el.innerHTML=double.map(n=>
+    `<a class="news-entry" href="${n.u}" target="_blank" rel="noopener">
+      <span class="ns">${n.s.toUpperCase()}</span>${n.t}
+    </a>`
+  ).join('');
 }
 
-// ── HERO MAP ───────────────────────────────────────────────────────
-const heroMap = L.map('map', { center: [22, 8], zoom: 2, zoomControl: false, attributionControl: false, minZoom: 2 });
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(heroMap);
-addMarkers(heroMap);
-
-// ── MINI MAP (sidebar) ─────────────────────────────────────────────
-const miniMap = L.map('mini-map', { center: [22, 8], zoom: 2, zoomControl: false, attributionControl: false, minZoom: 2 });
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(miniMap);
-miniMap.getContainer().style.setProperty('--tile-filter', 'brightness(.22) saturate(.3) hue-rotate(185deg)');
-// Apply dark filter to mini-map tiles too
-const miniStyle = document.createElement('style');
-miniStyle.textContent = `#mini-map .leaflet-tile{filter:brightness(.22) saturate(.3) hue-rotate(185deg);}`;
-document.head.appendChild(miniStyle);
-addMarkers(miniMap);
-
-// ── PREDICTIONS ────────────────────────────────────────────────────
-const PREDS = [
-  { id:'p1', q:'Will the US report more than 10 HPS cases by end of 2025?',                       dl:'2025-12-31', yes:61, no:39, total:2847, tag:'Americas · HPS' },
-  { id:'p2', q:'Will a hantavirus cluster (3+ cases) be confirmed in Western Europe in 2025?',    dl:'2025-12-31', yes:44, no:56, total:1923, tag:'Europe · HFRS' },
-  { id:'p3', q:'Will Andes virus person-to-person spread be confirmed in a new country by Q4?',   dl:'2025-10-01', yes:22, no:78, total:3102, tag:'South America' },
-  { id:'p4', q:'Will WHO issue a global hantavirus health alert in 2025?',                        dl:'2025-12-31', yes:18, no:82, total:4450, tag:'WHO · Global' },
-  { id:'p5', q:'Will China report a significant HFRS surge compared to 2024?',                   dl:'2025-09-30', yes:55, no:45, total:1678, tag:'Asia · HFRS' },
-  { id:'p6', q:'Will a new hantavirus strain be officially identified and named in 2025?',        dl:'2025-12-31', yes:31, no:69, total:2210, tag:'Research' },
-];
-
-function fmtN(n){ return n>=1000?(n/1000).toFixed(1)+'k':String(n); }
-function getV(){ try{return JSON.parse(localStorage.getItem('hv_v')||'{}')}catch{return{}} }
-function saveV(id,c){ const v=getV(); v[id]=c; localStorage.setItem('hv_v',JSON.stringify(v)); }
-
-function renderPreds() {
-  const votes = getV();
-  let totalVotes = PREDS.reduce((s,p)=>s+p.total,0) + parseInt(localStorage.getItem('hv_tv')||'0');
-  document.getElementById('hero-votes').textContent = fmtN(totalVotes);
-
-  document.getElementById('pred-grid').innerHTML = PREDS.map(p => {
-    const voted = votes[p.id];
-    const tot   = p.total + (voted && !localStorage.getItem('hvc_'+p.id) ? 1 : 0);
-    const dl    = new Date(p.dl).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
-    return `
-      <div class="pcard open" id="pc-${p.id}">
-        <div class="pc-status"><div class="d"></div><span>OPEN · ${p.tag}</span></div>
-        <div class="pc-q">${p.q}</div>
-        <div class="pc-dl">Resolves: ${dl}</div>
-        <div class="pc-vol">${fmtN(tot)} votes</div>
-        <div class="bar-wrap"><div class="bar-yes" id="by-${p.id}" style="width:${p.yes}%"></div></div>
-        <div class="pct-row">
-          <span class="y" id="yp-${p.id}">YES ${p.yes}%</span>
-          <span class="tot" id="tv-${p.id}">${fmtN(tot)}</span>
-          <span class="n"  id="np-${p.id}">NO ${p.no}%</span>
-        </div>
-        ${voted
-          ? `<div class="vm ${voted[0]}" id="vm-${p.id}">✓ Voted <strong>${voted.toUpperCase()}</strong> — awaiting resolution</div>`
-          : `<div class="btn-row"><button class="by" onclick="vote('${p.id}','yes')">▲ YES</button><button class="bn" onclick="vote('${p.id}','no')">▼ NO</button></div>`
-        }
-      </div>`;
-  }).join('');
-}
-
-function vote(id, c) {
-  saveV(id, c);
-  if (!localStorage.getItem('hvc_'+id)) {
-    localStorage.setItem('hvc_'+id,'1');
-    localStorage.setItem('hv_tv', (parseInt(localStorage.getItem('hv_tv')||'0')+1));
-  }
-  const p = PREDS.find(x=>x.id===id);
-  const newTot = p.total+1;
-  const delta  = c==='yes' ? 1 : -1;
-  const newY   = Math.max(5, Math.min(95, Math.round(p.yes + delta*(100-p.yes)/newTot*0.5)));
-  const newN   = 100 - newY;
-
-  document.getElementById('by-'+id).style.width = newY+'%';
-  document.getElementById('yp-'+id).textContent = `YES ${newY}%`;
-  document.getElementById('np-'+id).textContent = `NO ${newN}%`;
-  document.getElementById('tv-'+id).textContent = fmtN(newTot);
-
-  const card = document.getElementById('pc-'+id);
-  const row  = card.querySelector('.btn-row');
-  if (row) {
-    const msg = document.createElement('div');
-    msg.className = `vm ${c[0]}`;
-    msg.innerHTML = `✓ Voted <strong>${c.toUpperCase()}</strong> — awaiting resolution`;
-    row.replaceWith(msg);
-  }
-
-  const total = PREDS.reduce((s,pp)=>s+pp.total,0) + parseInt(localStorage.getItem('hv_tv')||'0');
-  document.getElementById('hero-votes').textContent = fmtN(total);
-}
-
-// ── NEWS ───────────────────────────────────────────────────────────
-const FALLBACK = [
-  { title:"Hantavirus cases confirmed in Chile's Los Lagos region amid rodent surge", description:"Provincial health authorities confirm 3 new HPS cases following El Niño-driven mast seeding event.", source:"Reuters Health", date:new Date().toISOString(), link:"https://www.reuters.com/health" },
-  { title:"CDC updates hantavirus exposure guidelines for outdoor workers 2025",       description:"New N95 respirator guidance for agricultural and construction workers in endemic zones.", source:"CDC", date:new Date(Date.now()-86400000).toISOString(), link:"https://www.cdc.gov/hantavirus" },
-  { title:"Germany reports elevated HFRS cases as bank vole populations peak",         description:"Puumala virus cases in Baden-Württemberg highest since 2019, linked to beech mast crop.", source:"WHO Europe", date:new Date(Date.now()-2*86400000).toISOString(), link:"https://www.euro.who.int" },
-  { title:"Seoul virus detected in pet rat community across multiple US states",        description:"CDC links Seoul hantavirus cluster to domestic rat breeders. No fatalities.", source:"ProMED", date:new Date(Date.now()-3*86400000).toISOString(), link:"https://promedmail.org" },
-  { title:"Climate change expanding deer mouse range — hantavirus risk zones shift north", description:"Nature study: 20–30% expansion of Sin Nombre risk zones by 2040.", source:"Nature", date:new Date(Date.now()-4*86400000).toISOString(), link:"https://www.nature.com" },
-  { title:"Argentina reports fatal HPS case in Neuquén province",                      description:"Andes virus infection. Contact investigation ongoing. No secondary spread detected.", source:"PAHO", date:new Date(Date.now()-5*86400000).toISOString(), link:"https://www.paho.org" },
-  { title:"Yosemite valley: seasonal hantavirus warning issued ahead of hiking season", description:"NPS reminds visitors of rodent-contamination risks in older facilities.", source:"NPS", date:new Date(Date.now()-6*86400000).toISOString(), link:"https://www.nps.gov" },
-];
-
-function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
-
-async function loadNews() {
-  const panel   = document.getElementById('news-panel');
-  const countEl = document.getElementById('news-count');
-  try {
-    const r = await fetch('news.json?t='+Date.now());
-    if (!r.ok) throw 0;
-    const d = await r.json();
-    const arts = d.articles && d.articles.length ? d.articles : FALLBACK;
-    render(arts, countEl, panel);
-  } catch {
-    render(FALLBACK, countEl, panel);
-  }
-}
-
-function render(arts, countEl, panel) {
-  countEl.textContent = arts.length+' articles';
-  panel.innerHTML = arts.map(a=>`
-    <div class="ni" onclick="window.open('${esc(a.link)}','_blank')">
-      <div class="ni-s"><span>${esc(a.source||'News')}</span>${a.date?new Date(a.date).toLocaleDateString('en-US',{month:'short',day:'numeric'}):''}</div>
-      <div class="ni-t">${esc(a.title)}</div>
-      ${a.description?`<div class="ni-d">${esc(a.description.slice(0,110))}…</div>`:''}
-    </div>`).join('');
-}
-
-// ── INIT ───────────────────────────────────────────────────────────
-renderPreds();
+/* ════════════ INIT ════════════ */
+goto(TL.length-1);
 loadNews();
-setInterval(loadNews, 15*60*1000);
+setInterval(loadNews,3600000);
+
+/* Slowly tick cure % */
+let cureP=1.0;
+setInterval(()=>{
+  if(cureP<9){ cureP+=0.03;
+    document.getElementById('wp-cure-pct').textContent=cureP.toFixed(1)+'%';
+    document.getElementById('wp-cure-bar').style.width=cureP+'%';
+  }
+},4000);
 </script>
 </body>
 </html>
