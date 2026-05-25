@@ -1,17 +1,81 @@
 {
-  "updated": "2026-05-25T12:13:29.251269+00:00",
+  "updated": "2026-05-25T18:18:52.992698+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
     {
+      "title": "Health ministry confirms another hantavirus case in Spain - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnJBUnpjNzdub24xTElYT3pFSUllWW1rVHBPRDRWNE5hV1BnLTRDNjE4QTN5UXRRbHFKaEE0RUNTQzRxN2xDdW9CYk9GdkZScURuZXlweHZCLWVDLXljaEQ4Q20tQnlBUHRlYVRUd3pKTGk4dkxrRFgyczRxSXBYOFBDc09pZEZubE1vWUhDeTVuM1Z1cEFncm1KZXJqTDUzRzFQVVdNV01CZm1JYm4zOG43NkJ6a2VkdC1IRmNSXzFwaWFzaXBrVGktcw?oc=5",
+      "description": "Health ministry confirms another hantavirus case in Spain &nbsp;&nbsp; Euronews.com",
+      "source": "Google News",
+      "date": "2026-05-25T17:50:43+00:00",
+      "raw_date": "Mon, 25 May 2026 17:50:43 GMT"
+    },
+    {
+      "title": "Is the Hantavirus Mortality Rate Really That Scary? - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9seUxGYlBhWkN3a3p4NmxzaVhTcFBNLTF3ZTNOZjFYdDV2VDNTZzVFelFFdEt1ejg0cEg3RXI1bXYyMm5lNGgtZU1pSmpOTGsyZjRtOEpaTlA5emxObzl6cVhPTjg5Wjh1cDBXcDhHeHY3dERDVUxCaGlUcV8?oc=5",
+      "description": "Is the Hantavirus Mortality Rate Really That Scary? &nbsp;&nbsp; Drug Topics",
+      "source": "Google News",
+      "date": "2026-05-25T16:11:35+00:00",
+      "raw_date": "Mon, 25 May 2026 16:11:35 GMT"
+    },
+    {
+      "title": "Hantavirus ‘stable for now,’ WHO leader says - Yahoo News New Zealand",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyNWhaWWUtd2FVdlFpTXM3bXBEeHRTcUhEZGp6eFB4VmdlR1JGdFRoZl9wdVgwTmlIZ045VXd4cWJscjlOYnNxQUdxQVFXRHVxOEFFSjBKTHdmcU9Nd3l6bWRfYzNDV2E4eEdYNUIxVEhVR0RRbkxXUWhMN29yRmM?oc=5",
+      "description": "Hantavirus ‘stable for now,’ WHO leader says &nbsp;&nbsp; Yahoo News New Zealand",
+      "source": "Google News",
+      "date": "2026-05-25T15:43:32+00:00",
+      "raw_date": "Mon, 25 May 2026 15:43:32 GMT"
+    },
+    {
+      "title": "Hantavirus ‘stable for now,’ WHO leader says - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXFpRHJMbm93LXlCQldrbGlHM2pxRjRhdGZObFFjZjFqVVR5dGZSRUxILS1WNmpHNTg4WHk4RG9zSGNpNURxbHRWaks3Z2E4WkZfUGpheEVTS1pnN3l4WnhzSzM5RzFROFNIQUJMOUZKV0VWdHJ2aXhsVmNaWFJMY3pQYw?oc=5",
+      "description": "Hantavirus ‘stable for now,’ WHO leader says &nbsp;&nbsp; AOL.com",
+      "source": "Google News",
+      "date": "2026-05-25T15:43:32+00:00",
+      "raw_date": "Mon, 25 May 2026 15:43:32 GMT"
+    },
+    {
+      "title": "Georgia Tech expert discusses Ebola and hantavirus - 11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGZpNG0zVjYyaG1oWS1mTGlpQmVLbUJ3ZFJJMUowbC14QS01c183R1RWX21DcndHOEVsTHVGYXdPeTJONnF2aGNOOUNHMzEwTmVGZWpBMHFybENtR1JUS0g2VlRaT2lRMDJMWnRaYUhMTjJQNVJkbFhyMEFTLV9iSlVSTFlWUldqQ2ltOURtUjhXRmZNYmpheGluOGp6aVpfdjZlVmpMdEdrV3MwT1huTUQ5X1kwX25lVnVLTHFrOG5oYl8xZlJmbjJUZGI?oc=5",
+      "description": "Georgia Tech expert discusses Ebola and hantavirus &nbsp;&nbsp; 11Alive.com",
+      "source": "Google News",
+      "date": "2026-05-25T13:28:00+00:00",
+      "raw_date": "Mon, 25 May 2026 13:28:00 GMT"
+    },
+    {
+      "title": "Washington State University study sheds new light on hantavirus - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV2UzUVdZLTg4WGRsbGlmNUZVbXZUX2xjSmxZY1g0dVlBejJPTUFZeDBHaVE2TVY0RGFneWU3XzJ6anBZczkxMURkZTNvLWRkMWNtQ0lyU2VaNjdpZ25MZWEwVjRVcUZ6SjZRaUZWRUVVNVNSYmdFdVo2TFNNZkhkcVp1TlJVcTRFNmlrYzdUTFo4T09uSnRQZ29pRnJiWnhKZ0Z0Q3lsQXEzY3RtVlhIWXh5WTh6MnViWjJLTkxaOHBVWkVMREszVG9KRDdLQkhxZTB6c3paUjNTT0tx?oc=5",
+      "description": "Washington State University study sheds new light on hantavirus &nbsp;&nbsp; KING5.com",
+      "source": "Google News",
+      "date": "2026-05-25T13:14:00+00:00",
+      "raw_date": "Mon, 25 May 2026 13:14:00 GMT"
+    },
+    {
+      "title": "Protect yourself and your home with these hantavirus awareness and prevention tips - Westfair Communications",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWoxWi1GVzZFa2MxTTUzaThXQzI3NWFMMFhDSXlPeFZYal91SVRYQmR0WVVQUWl5NGtRaWE3LVdwaC0ySzByNmc4UVlKWDVTYzdaSkk5Q3RWclVUdDAwWUdwRmk4N2xpcHdKaXhfNmFsSDhJV2E4TzdVOXA5WDhDRUxjeDFES2twdFBsR2pwc0lUU0VfMEFqNUxkM0Z1VkdhUVRHY0l2OVRMSm5GZlZnTHJpbVdybVQ4aHc?oc=5",
+      "description": "Protect yourself and your home with these hantavirus awareness and prevention tips &nbsp;&nbsp; Westfair Communications",
+      "source": "Google News",
+      "date": "2026-05-25T13:00:58+00:00",
+      "raw_date": "Mon, 25 May 2026 13:00:58 GMT"
+    },
+    {
       "title": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTG0yVEUycEoyZjAwdnlZaUo5Mlk0X1A3NjFEYzc4c3pBQ3ZBZ242eWpQY1FkTVBXMkgyT2dsMmpLVm4zcW9TYW5SbTFLY1poSml5ZFIyV09OV2V0QWVKa1RsZkZCQ3BYYlhvNlNIcnQzZ3dRaGNtX3lZeWhPMGpJSTNMR0V1Y1FmaU5icw?oc=5",
       "description": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US &nbsp;&nbsp; The Guardian",
       "source": "Google News",
-      "date": "2026-05-25T12:01:00+00:00",
-      "raw_date": "Mon, 25 May 2026 12:01:00 GMT"
+      "date": "2026-05-25T12:57:00+00:00",
+      "raw_date": "Mon, 25 May 2026 12:57:00 GMT"
+    },
+    {
+      "title": "Poop Cruises Are No Laughing Matter - Nautilus | Science",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtdGFDTm8zZ0NMVmNNYWtZYVVjVXlQaktLWWNtdXcxQXM4dzhXM3d2cmJEX0hRY05uR19XbERRb19sUFQ3d05xNGhjS05lSnFrN0t3RXlvZnFiN1R1c0h6enBxeVhFVWVfQko2dXFB?oc=5",
+      "description": "Poop Cruises Are No Laughing Matter &nbsp;&nbsp; Nautilus | Science",
+      "source": "Google News",
+      "date": "2026-05-25T12:00:00+00:00",
+      "raw_date": "Mon, 25 May 2026 12:00:00 GMT"
     },
     {
       "title": "Hantavirus-exposed Americans under quarantine in Nebraska | Daily Sabah - Daily Sabah",
@@ -30,12 +94,12 @@
       "raw_date": "Mon, 25 May 2026 09:57:00 GMT"
     },
     {
-      "title": "Be mindful of hantavirus when spring cleaning - Times Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3paZFE0TExIcG45YnlWOHpKS0NjdVM4Z0Rxc1U5SC1MWjlZa1MwLXNHSmpYa2FQaFk4ZUdsRHlMZ3JpV2xKNC0tTUVyWmZzSmtfaGhIYzZQcE5jZXdrOFYwRlVEZFNEQlRNaGFjYTY0Mk5Qbng5dm1XU0paVk5tWTlB?oc=5",
-      "description": "Be mindful of hantavirus when spring cleaning &nbsp;&nbsp; Times Chronicle",
+      "title": "More than a quarter of mice on the Palouse show signs of previous Hantavirus infection, WSU study finds - The Spokesman-Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFkzaGtJYzJraDFJX1NvRktmN2l2U2Q3bUhhNGdGR3Q1TDdnWi0xaVZ6bkVYZ1JtYnNVS1NyTzR1QTYwYnNadkZpQkJPR09SV196Unh6NnhWdjRic3NwOHVHSDFlUkpNLUtBX0I0bTFfWl9kVDdZZEp5U2xqdmhOaTlaZ3Z4dFJRbzhtMnhBRzBwcHUzRFNUY3hHRXM4dw?oc=5",
+      "description": "More than a quarter of mice on the Palouse show signs of previous Hantavirus infection, WSU study finds &nbsp;&nbsp; The Spokesman-Review",
       "source": "Google News",
-      "date": "2026-05-25T07:03:05+00:00",
-      "raw_date": "Mon, 25 May 2026 07:03:05 GMT"
+      "date": "2026-05-25T09:30:00+00:00",
+      "raw_date": "Mon, 25 May 2026 09:30:00 GMT"
     },
     {
       "title": "Should You Be Worried About Hantavirus? - Manhattan Times News",
@@ -70,14 +134,6 @@
       "raw_date": "Mon, 25 May 2026 01:23:58 GMT"
     },
     {
-      "title": "U.S. vulnerable to threats like hantavirus - The Bradford Era",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkxQV3BSRDltdHlxeUxsb2I2cGhSVzBDQlpGUUMyb1NvSmVJWFBJZGlMQlBzRUFRWUVwMWR2bS1RVkcyQVJUVXhyOXJaVTJXMFRiS0NwZEZKTGotM3RHRDZQejZ2M09VUXhFQ3RWbnV3NTJjclNFYXRwSlZCRm5TeHBxeW4?oc=5",
-      "description": "U.S. vulnerable to threats like hantavirus &nbsp;&nbsp; The Bradford Era",
-      "source": "Google News",
-      "date": "2026-05-25T01:10:20+00:00",
-      "raw_date": "Mon, 25 May 2026 01:10:20 GMT"
-    },
-    {
       "title": "WHO chief says hantavirus ‘situation is stable for now’ - The Hill",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjFxUWhneXRrVzg2b3U5RG00cHBRdm4yM2tVSzYzaWFNWjVZeEpKalZGT3dibGMxVHBaX3V6NmNqZExuUExzNDlycXVFSmtybFNaYzhfMDdWSE5TdmVUVjk5dDhIalhPXzEtWkdxWWNueGVNODU1QzVIQlVmZ215edIBhgFBVV95cUxOVEh5TnFwX0drOXUxVWVJRE14S0o5NEdUMU1PeS1TaG5uYUlCMUU1d1h6UloxdkJzNTZNSk8wZ2VSSXZXSmtpamExT0tKbnBEN2ZNeERnOEtnODBRN3lyanRhLVdPOXNaRVlqWlBOUkJUNTB5R05vdXNVbElEV3Z1OXhQOUxVdw?oc=5",
       "description": "WHO chief says hantavirus ‘situation is stable for now’ &nbsp;&nbsp; The Hill",
@@ -86,12 +142,12 @@
       "raw_date": "Sun, 24 May 2026 22:17:00 GMT"
     },
     {
-      "title": "Hantavirus: Do We Need to Worry About This Rare Infection? - The Good Men Project",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG8xc3FIM25EcXBoMjVzNGhlZndxUzB3OTd1V1FXVHM4RDEtZmlna3dCOS1TUGY2YUpWVnBzN0hlenk3M3IzRVBzTUdWdmJVR3ltRjlSaHVFZ2tnRDlMci1pWTdzeXI1eTdTZ3lQWVRER0lBS1dwcUJjWkxyMmxxcXYtMVRYQ1FCekNkV2ZEMzB3eURMWHdLMjZ3ZU5xenE5Q3lR?oc=5",
-      "description": "Hantavirus: Do We Need to Worry About This Rare Infection? &nbsp;&nbsp; The Good Men Project",
+      "title": "The race to identify hantavirus on a cruise ship thousands of miles away - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmo5V29lc05ELU9xdURQTTZXSngtR3BucU5LaDZTWi1mZ3ZYeXVGc2lVSTZHZkxUendtcXdKZE11bkxhcG1iRUdmSlptZ2t6Q0pMRC1CT2FicGNXQnRCT1k0NktJeTdPVFRwektEdU5IaW1sTHpnTzJ3OEdxQ2ZBVmxSZENWRnY5U2p2ZFF2NWpDcmp1Z3EtMmNFekxpbEhkdVAzWE5taU04eXM?oc=5",
+      "description": "The race to identify hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; The Independent",
       "source": "Google News",
-      "date": "2026-05-24T22:02:51+00:00",
-      "raw_date": "Sun, 24 May 2026 22:02:51 GMT"
+      "date": "2026-05-24T20:25:00+00:00",
+      "raw_date": "Sun, 24 May 2026 20:25:00 GMT"
     },
     {
       "title": "Hantavirus is gaining ground in the US, startling researchers: ‘Widespread and complex virus’ - New York Post",
@@ -102,36 +158,12 @@
       "raw_date": "Sun, 24 May 2026 14:13:00 GMT"
     },
     {
-      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds - KTVZ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDc2NGhDWWtsdnR4WVA0QVlkZXQ2elB5eFMwdXZodzJuRTg3eGlYQkdtSlhLUXgyMkhmNDUzVXBVTkViVVJ3Z2hTNTFiV1k0WmR0VTdWR3JEUTlXRUZDRVpTSjd3YVVjMTFuNWljLVRQUDJVRHBpS0s5YmtOY04zOTRnZFdfZ1VLN1prN2V6ekJUMlliclV6MnJhU0xERW5PMnBaUmpWN2hmanVITGdleWNwcmRob05td015ZDZtWGJabWc?oc=5",
-      "description": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds &nbsp;&nbsp; KTVZ",
-      "source": "Google News",
-      "date": "2026-05-24T04:39:22+00:00",
-      "raw_date": "Sun, 24 May 2026 04:39:22 GMT"
-    },
-    {
       "title": "Hantavirus cases on expedition ship haven't impacted cruise sales or pricing - Travel Weekly",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVV85WWdxd0hyc3hZZjlhSmpleUU4enVuM0ZTVndaVW0wTG1uZjRPbUdzRmtqR0NUMW5LTEp1T05tdEFnOTJZTDJKSF9vVmM2MEUtQjAtUENlVllOR0tOb3lPNmhSbUhBNVVWSUdvQ1hyTlg5cktaZ0Y1czc0bTRReHlzYUV1U205QTh3bzF0Yl9wbFpObllrc2NOS3VIZnM?oc=5",
       "description": "Hantavirus cases on expedition ship haven't impacted cruise sales or pricing &nbsp;&nbsp; Travel Weekly",
       "source": "Google News",
       "date": "2026-05-24T04:36:55+00:00",
       "raw_date": "Sun, 24 May 2026 04:36:55 GMT"
-    },
-    {
-      "title": "Ohioans should 'just generally stay tuned and not worry' about hantavirus, local experts agree - Toledo Blade",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV2U5b0FqX2s4UzBoaW1PYU9ISWR5T1RUMGtvQTNEZnIydGJCSTFNNXdsRU1KSktNenRHbnk2aEFweEhUVkQ4aGdYeUpJMEk5eGVNa0todGdSOHVRYmZZSHdUbHlaVm9yS3ZsbTE1a3dEMXpBaWpwdGt1c212R3JJT25SNnZsNzA4MVBrNE5FdTBBbk1IWk9YUlFyR2xOa2owZ3ZUdGxMbGx6aGxqaFp3R2dJb0txYlVmOUp2UU1fWHMxWDd3Y1lFd1I5UE01SGxaZjdtSjZTTVNaTE00TlJCaHp6N0ZKajA0OUJ2Y2RHNTNnTDM4QkE?oc=5",
-      "description": "Ohioans should 'just generally stay tuned and not worry' about hantavirus, local experts agree &nbsp;&nbsp; Toledo Blade",
-      "source": "Google News",
-      "date": "2026-05-24T04:05:58+00:00",
-      "raw_date": "Sun, 24 May 2026 04:05:58 GMT"
-    },
-    {
-      "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGRNTGp0QnJVOVdMcTI0N1o2SVc3YU9IbGlpeGxCUWRiUWZTeE16RUduTDhQUUMyY2tMUWtrRmtHOXEzd1JPZnk0cWwxd0tUT1dyV0dQcnMwMU1BSUR6SEtvaTJBT1k0VThGVE13Y0YwSmxVS01yUFFfQUJCSG5NeENpZ2RQMGVob3JqVVJBZEdSUVY3dXZSd2pRaTlYY3M5U2N4c1FkZm9aaEJUbEJpVFk5WWtHOWJKdVFPakx6TjROQ0N5dXJtTFRzTUVYX2xuekZEOEpiVVRoS2NvU1HSAeMBQVVfeXFMTmYxYVlMVy1UNm9pLTBBMEVvM3lHN0V0UDd4WXhBY093Z2tRemVrSlduMnBfUlMtaTdyOG1yUW9hOGE4OWV3a3lWRk1rZElLLVlZTXRJYTBzMHZQSDA3cGtXUmRSaF8ybkp4Uy1EUXd1TVJQdkN1VUFfTzFzVTAxUlFVMFowcEdXMnFLanJfWW5ndTQzNm5DTHJSQldfdjFRb3o2S3hzQ2pqNmlzQnpwVVZ1dDF2dnhWU1V1RW9kMDZnZGI3OHd4OFZYOHc3Q2NSeFNRZkJjQlNkTDl6RkRSSS00VWc?oc=5",
-      "description": "Mayday! SA scientists identified hantavirus outbreak in 24 hours &nbsp;&nbsp; The Times of India",
-      "source": "Google News",
-      "date": "2026-05-24T00:04:00+00:00",
-      "raw_date": "Sun, 24 May 2026 00:04:00 GMT"
     },
     {
       "title": "Why the quarantine for hantavirus is so long - The Washington Post",
@@ -158,52 +190,12 @@
       "raw_date": "Sat, 23 May 2026 13:49:00 GMT"
     },
     {
-      "title": "Guest Commentary: What Yakima residents need to know about recent hantavirus reports - Yakima Herald-Republic",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX09IQVNCbVo2d2VvQ0JFV2hjRll1X3JTNmZKeGhIdTA5NHNfb05mSnptMU1NZlZyc1QtRnBtSG9sTWl3ckFGNE80TjhQMnA0TDZqMzBETnB5NWhtbVVXaUpZeEU0NGYtekFXQmtKSTFMb1djUkxnV05nMFYzaExlNlQyVWE3RnZhSG1vczhMODFKV093ck5KX2ZyZjc5b0ZEWTlhOGY3N3VkM1pmQUxzQnZfa1RIMV9CcUJMTUJVdmF3S25vOHI1NEJvNE5MUWNvVmRzSFZuQzdBRWZZYjFVY2xXVkhjZkVxbFdYbXBubjJkazN2MGp4N2VNZmxLS0HSAYQCQVVfeXFMTmFRdGdKbHFDcWVCZFBDTWpYazhRZExUWUN1bXFKUm1PY00yNlFWV0FtX2kzeVdaSEl1dXlCR1NDd3ZvajdhN05yTEpTN2xxNXhIYjBaUmFpcHo4YjU3dVUxNjBycGppamlUdHBlM2liaTJEbmJONGt6QnpIczd1VDAtZWZHMEZ6MjN3aHVKLU04QUQwLWNDM0paWThSb0pVcXRCMXFHUXhDay1DdDZDS3BzVUhnRU12aHNibXZxSjMzOVc3ZDg2WmxYRDMyT1dmWUx3NGRUYmdSSHZwSGNQWHI2cHFKZGFKSG9IbWlZTkJYbzF3cmR0UkR0QWhOeEUxcV9mQTg?oc=5",
-      "description": "Guest Commentary: What Yakima residents need to know about recent hantavirus reports &nbsp;&nbsp; Yakima Herald-Republic",
-      "source": "Google News",
-      "date": "2026-05-23T12:00:42+00:00",
-      "raw_date": "Sat, 23 May 2026 12:00:42 GMT"
-    },
-    {
-      "title": "Hantavirus, Type II Diabetes Trial, Maricopa Community College Funding - Arizona PBS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbENTdmFsb1RicDV4eE5neFVDV3VtYVdGelVXbjNxVXJCLXpSQm1ISlZCTjBwS2Rqdnh6a0ZHV19lTGVOaVExdTRFQ2lGTXAxblJZcUNLaXlhRGVvYlp5SW9KLVdTa2R1dTA0ZnozeUhXbUFYUVphQzJ3bFN1bHRGYkNVTjdCc2M5SGdrTU5xRWwtdXoybzhhSUR1U1M0UENBcDZJOTB3?oc=5",
-      "description": "Hantavirus, Type II Diabetes Trial, Maricopa Community College Funding &nbsp;&nbsp; Arizona PBS",
-      "source": "Google News",
-      "date": "2026-05-23T07:13:50+00:00",
-      "raw_date": "Sat, 23 May 2026 07:13:50 GMT"
-    },
-    {
-      "title": "Hantavirus in the news - West Valley View",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTS1DWUNzbWNZbmhsbFdmdXhReDNKY25oRTFjb3FRMncxb1F0SWVLN3FLNVZMa1pjQk9kOS1rT1RJVzBpMEZJTU1wR20wNlFCRUNTLWVwTW1lcVotS1A5MkdQNm96NlhUSkVmZkhRNjI0UGE1eFkzek92QTlkUHhQd0pDMnhEVWJTVUR1Nm53Y1I3QlNSenJkbk1HMmNZVEFhWC05dkJiOTEtdGNYUmdINzVB?oc=5",
-      "description": "Hantavirus in the news &nbsp;&nbsp; West Valley View",
-      "source": "Google News",
-      "date": "2026-05-23T07:00:00+00:00",
-      "raw_date": "Sat, 23 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Researchers highlight hidden spread of Hantavirus in Pacific Northwest rodents - krem.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQVEyNmlmMjN6cjZZUVVGQjNMZHFENUhEQzI2cXM2aFF1YUQ0VFlVcU45UEVqZXdRTmlZWjRuY3lVOS1sOWlDMGFPREt2VXg0MUhhazdZUHExcnRlNVZkNEpfN3d2bGxYTUxDUlZXa2I5NzEwTlFkX1Q4QzMzY3pZdTBuNHZSaEU0R2s0YnBOQkZpZGhld1dIS3Ytcm5rODhCYlFGcFhXNFhGemZ0b20zcVQzTlR1SnJGWGM2T2JHVlEwR1p1MVc1Z284ZjdkVk4xZ0tfQmFpaUVfQjAwcmkwTm5aYnpmNVF6?oc=5",
       "description": "Researchers highlight hidden spread of Hantavirus in Pacific Northwest rodents &nbsp;&nbsp; krem.com",
       "source": "Google News",
       "date": "2026-05-23T05:43:00+00:00",
       "raw_date": "Sat, 23 May 2026 05:43:00 GMT"
-    },
-    {
-      "title": "Why Europe is becoming ‘increasingly suitable’ for hantavirus hosts - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVpNNXhFbjRYS0FSVHc3TlRRVTVQd2hLSndoQXpDVEd2MDhQRHhNRHozMGtRVDhWckExX0ZjV0ZIRTBEMlVRYlBxQVFhMGhNbEZXTzZMZmJ4QjY0aTRNdE5nNjg0QU5TakxBcGJ6ZjZyS1NPR3JlX2lxZGlRbUF3WTc0SGhFbXVVbV81VXRtRFRFemszRGZMdkg3N2JMM0MyZEZ3QUJqcDRZaWp5OGZ1bC0wY0s1aEI3T3p2QWNUN24wOU1U?oc=5",
-      "description": "Why Europe is becoming ‘increasingly suitable’ for hantavirus hosts &nbsp;&nbsp; Euronews.com",
-      "source": "Google News",
-      "date": "2026-05-23T05:00:18+00:00",
-      "raw_date": "Sat, 23 May 2026 05:00:18 GMT"
-    },
-    {
-      "title": "Passengers exposed to hantavirus get Nebraska food, Tai Chi and tornado warning during quarantine - KETV",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHJwZm5hWlVka01CYWV6bGZPdDBkQ2QwYzBiTmdHVFh6UUR0SzU2Rk0xZ016T0JkZUZyeEREeExBd2pYV1lJMGZxenRRZVpqYnFZdkNTMFVMOExJbVRGQ3RUdElJUzF0RF8wek11ZkJLdGRUQjFUS2ZTU3A3bTVyWFJwZnNLdU16WVhv?oc=5",
-      "description": "Passengers exposed to hantavirus get Nebraska food, Tai Chi and tornado warning during quarantine &nbsp;&nbsp; KETV",
-      "source": "Google News",
-      "date": "2026-05-23T01:39:00+00:00",
-      "raw_date": "Sat, 23 May 2026 01:39:00 GMT"
     },
     {
       "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine - AP News",
@@ -222,20 +214,12 @@
       "raw_date": "Fri, 22 May 2026 21:00:52 GMT"
     },
     {
-      "title": "Hantavirus risk from rodents may be higher in Pacific Northwest - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjdDdThiRUZYY2ZDeEMweEdZOVlINUFYUVUyRjcxb0xhX0FGSW0tUXZkTG1nbHN4MkVORGZabndVTGhJcnNvMjRsY012c3pFZTEtY1N0aVN3NkdxUmFVWDlfT0luY2NZaHoxYUs0UFYyX3VSdGdrNEdydjBobWxFVERJaDFYcE1xZUEtWXlSV0RWckdnempfSmxIWmxjUHBxWk1CY1EzODlTMTlnRDBlRGpB?oc=5",
-      "description": "Hantavirus risk from rodents may be higher in Pacific Northwest &nbsp;&nbsp; USA Today",
-      "source": "Google News",
-      "date": "2026-05-22T18:24:00+00:00",
-      "raw_date": "Fri, 22 May 2026 18:24:00 GMT"
-    },
-    {
       "title": "WHO says 12th person infected with hantavirus detected in the Netherlands - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkRYcVhEU28tbVZPYjdxQTRUMXFrczNlSEIwN3ZHdGRncG9UMWppaEVrOXp2cTNQOWctYVpmLU1CSTdPaXFGYWpsdXVsSE1fX1I5WWFKamRycUlqa3dHSExlZWtxOU9lejg1bHJvUkQ3YTU3WlczLWlxaTBXS1ZYaEc1UVFvdWlGMmxGN1RSTVlhcERSa24wcC1Gc3FfSzZYdmU2enpzZEhSZXlFSVhmaFVVMC3SAboBQVVfeXFMTW1BaEdIekxvWWhpUDg4b2xidGY4WWpaVWNzWjh1UTdOSVJJcnJtOVl4dUMzUkZmRndaMjlyVFRNSzVkZTRqNzcyeC1MZjc5a0VjUnVma3E1dGZobk0ySDFSaHZFWGtFOGl2SV93Y0liNEk3UjNuaEFCZjdzSUE4TFVlVzd6V1cxYXd4aWEwRDJ1V3hSTllKZHhxM1JqTlhJOUljbTladjFrcE9RU2paTThoak1URTZZLXlR?oc=5",
       "description": "WHO says 12th person infected with hantavirus detected in the Netherlands &nbsp;&nbsp; Al Jazeera",
       "source": "Google News",
-      "date": "2026-05-22T16:40:47+00:00",
-      "raw_date": "Fri, 22 May 2026 16:40:47 GMT"
+      "date": "2026-05-22T16:36:38+00:00",
+      "raw_date": "Fri, 22 May 2026 16:36:38 GMT"
     },
     {
       "title": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive - NBC News",
@@ -252,22 +236,6 @@
       "source": "Google News",
       "date": "2026-05-22T14:00:00+00:00",
       "raw_date": "Fri, 22 May 2026 14:00:00 GMT"
-    },
-    {
-      "title": "LIVE AT 9:15 A.M.: Officials to brief on cruise ship hantavirus quarantine in Omaha - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUNYT2FOcG9oTlBJcUZNUVktZkhOc2hvNG41aVBSaE1KaE9iOFJIVklnUDlPQVdwbTlkRDVNVklSQ090NUZJTHNyRVF4WndPbGlVdXNmRmJKaDZmQmlQZmpMaWtSOUtVLWtFMlZlT3ctdGtLMXBwNHJyZlUzR2dGTlJPbmhuZ01OYjR4NEVTRG9KOUxkVVVtbGtGUmYtUQ?oc=5",
-      "description": "LIVE AT 9:15 A.M.: Officials to brief on cruise ship hantavirus quarantine in Omaha &nbsp;&nbsp; WOWT",
-      "source": "Google News",
-      "date": "2026-05-22T14:00:00+00:00",
-      "raw_date": "Fri, 22 May 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus: What People Should Know About the Rare but Serious Virus - National Academy of Medicine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOC1oSnp5cHJZbG10NVE1UUJuWXdfdXY0ZWIyblpmejA2RTZObF90U05IaWp4ZU00aWIyT3VpV2dwaTF3V1g0TEJNc1NsbUgxY1ViUWxnR1NhZzZnUHU0TmZWSFZMYlluVHlTSW9MX1RGbnlYX01NdVc3WEl6eFNuakh6V2dPWFAtak5uaUF5YWhiWnpnVlJ6a0NfMlpJR2ZLVXduZA?oc=5",
-      "description": "Hantavirus: What People Should Know About the Rare but Serious Virus &nbsp;&nbsp; National Academy of Medicine",
-      "source": "Google News",
-      "date": "2026-05-22T13:48:45+00:00",
-      "raw_date": "Fri, 22 May 2026 13:48:45 GMT"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus natural history, infection control and clinical management of patients in hospital - World Health Organization (WHO)",
@@ -300,14 +268,6 @@
       "source": "Google News",
       "date": "2026-05-22T11:00:02+00:00",
       "raw_date": "Fri, 22 May 2026 11:00:02 GMT"
-    },
-    {
-      "title": "Health Experts ‘Stunned’ by Trump Officials’ Strict Quarantine Measures - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmdiMUpQZm90UkJ4T3BLdzdPQk90QmV3emhrWFZ6UmZuNjJYMU9RSC01RnFFalZUcXlNWXJlNFJKZ2hPMnJ0bVU1WFVHUzlIbWFyTW5lRDZJQlBLMjRGalRGMFVSMTMxZk00LXdvLWUzeHA3NUFQdG8ydHduZVBXbzlR?oc=5",
-      "description": "Health Experts ‘Stunned’ by Trump Officials’ Strict Quarantine Measures &nbsp;&nbsp; The New York Times",
-      "source": "Google News",
-      "date": "2026-05-21T23:55:24+00:00",
-      "raw_date": "Thu, 21 May 2026 23:55:24 GMT"
     },
     {
       "title": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says - OregonLive.com",
@@ -350,14 +310,6 @@
       "raw_date": "Thu, 21 May 2026 19:15:00 GMT"
     },
     {
-      "title": "‘Do travel bans even work?’ Answering questions about Ebola and hantavirus - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFExb3JFUVVFb1JoWUNfTDUxSml2OEp0Zm9qNTRmTEJ2Wm5yeEV2UGswbzNCYkN1eFE1TU96eEUwWHJiTS1HX19yZkw3bVJiYUhkU3hKalh2UGJXb0VOWXA5V0wwa2w2UHhxOUpFRi04TzNuN2xoTld5ZFpwajJ2T2xjM0U2Ukp5OW1Qc2lOVXI4VUR0MzVHSTNFZ3hLVTg?oc=5",
-      "description": "‘Do travel bans even work?’ Answering questions about Ebola and hantavirus &nbsp;&nbsp; The Washington Post",
-      "source": "Google News",
-      "date": "2026-05-21T18:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 18:00:00 GMT"
-    },
-    {
       "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
       "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
@@ -372,14 +324,6 @@
       "source": "Google News",
       "date": "2026-05-21T16:03:50+00:00",
       "raw_date": "Thu, 21 May 2026 16:03:50 GMT"
-    },
-    {
-      "title": "Opinion: What the Hantavirus Story Reveals About Medical Mistrust - Undark Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oT0hfS09jaUxBVHNJR3U4Vlh6NnVUdnBYWlVLNDhTV1pPMGdyNU5vQnllbGx0T1R2MXFnb2V1QmtJeHF5a1J4S3VDckxId2hYV1dBVHI2QWdId1ZQMkFzeXBEbGtraE1oTVp1WjF4bElNSmVR?oc=5",
-      "description": "Opinion: What the Hantavirus Story Reveals About Medical Mistrust &nbsp;&nbsp; Undark Magazine",
-      "source": "Google News",
-      "date": "2026-05-21T14:30:49+00:00",
-      "raw_date": "Thu, 21 May 2026 14:30:49 GMT"
     },
     {
       "title": "Sentara prepares for possible hantavirus infections - WAVY.com",
@@ -398,12 +342,68 @@
       "raw_date": "Thu, 21 May 2026 09:00:00 GMT"
     },
     {
-      "title": "What Ebola and hantavirus are revealing about America’s public health system - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1loTDAxemdLT285cDNreXlKVDNjUVRMbVdENUJlOEtTSUpzNzVOSEUtNzRyTXpJdGdvUFV5ZGpDWXJoRG0tUnJ2S0RCRjVFQXlRTzZQNGJtLTIyVnVxLUk1OURldzExRXFGaVYxS0lkVE95UEJQclkwYmZ3SFZqdFhzekRaX3VwbkFfa3p3?oc=5",
-      "description": "What Ebola and hantavirus are revealing about America’s public health system &nbsp;&nbsp; Politico",
+      "title": "American cruise ship passengers push for home quarantine after hantavirus exposure - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHpHTW9OOXRPek1iMS1GcXlDM1EzclQ1bHJpMmNTWjBXQjVQaVRPRHo1T1IxcU5FQUFvcmd3RmJSMEdHdjBlZDhwN3NJYUJkX29QY2lfdzFEb2NadGJneVFBZ05BTXZHckNISm5zQ2Vjc0RLVzdoM1ZCVDZjRkJYajdSZHFSQXpKWkdnalZacWh0dlNaTWpGX1R6dXVNYXVPbkpiSWdtdUwwWHBiZG93bXpkSjhORkhsbnhCRklOanlWZ1hP?oc=5",
+      "description": "American cruise ship passengers push for home quarantine after hantavirus exposure &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
-      "date": "2026-05-21T09:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 09:00:00 GMT"
+      "date": "2026-05-20T17:40:00+00:00",
+      "raw_date": "Wed, 20 May 2026 17:40:00 GMT"
+    },
+    {
+      "title": "The hantavirus outbreak is a tragedy—and a valuable data source - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2cyY1JBckhNYW5SYkg0Tk5jU0t0ZUZZbDdrdXQyRTlHWDBONFVueTV4RDdkLU5FanVWUnhEdXQ0M09iOEdlNkJjWGM1OEhwQkhPQ3VOLXlDa1FuQXB0bzlEYi0wci1MeTA0dDZWS2dSeHNNSi1Ub2hQQnF3STdONFRTd2lRMmVyaVV3bXVDcGZnSVYteWMtVzhLT1Z3dkNiNFcwdU9Hb3dKdGJSZUp2ckgtcEZWZ3R1Y0VRclRZdnY?oc=5",
+      "description": "The hantavirus outbreak is a tragedy—and a valuable data source &nbsp;&nbsp; The Economist",
+      "source": "Google News",
+      "date": "2026-05-20T16:37:15+00:00",
+      "raw_date": "Wed, 20 May 2026 16:37:15 GMT"
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-05-20T12:00:00+00:00",
+      "raw_date": "Wed, 20 May 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Opinion | There’s a clear takeaway from the hantavirus and ebola outbreaks - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HajBVTHh3Ynl4N2xpMzVmT1hoX1pNYjY5TTFrVjFzREY0N1RsQi1IYm5HVGtmOG5LTGRrWVd4T196eWMtOEk0NEVSMEc0VEZ5bHRfbVdGa0VudUI2M0NaTTJYOERtemtDT195M1J5TnpsVVdoNGt6T3VYUUhidw?oc=5",
+      "description": "Opinion | There’s a clear takeaway from the hantavirus and ebola outbreaks &nbsp;&nbsp; MS NOW",
+      "source": "Google News",
+      "date": "2026-05-20T07:00:00+00:00",
+      "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "American passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YVXhGRlpNQXN5bkI2VFJTNmNGdExsb3VWQTBZN2NfWGFySEVyMkU3WEM0SVdCTmVmc2d2MXNockh2Vy1Hb2h2Wm9vNDVLeFNlYmNDbFd6amlrbnFiV21QXzNuZGVlN1dNUnJ2REFYSEVEVGtOZlBlag?oc=5",
+      "description": "American passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders &nbsp;&nbsp; CNN",
+      "source": "Google News",
+      "date": "2026-05-20T02:12:00+00:00",
+      "raw_date": "Wed, 20 May 2026 02:12:00 GMT"
+    },
+    {
+      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1VFVjFERTZoWGVaRU9TTk0zN1JJTUY5UVU5YVg0T2psR2E2OENSdVNJcjY3WDV2ZWRfZTg4SE9ybUIxMjdUWVVKUkh4dW5MSF9FRkItRDEtX2YwTlpxQWVvM2J5OHZGandMU1BybVBOU2ExcGl5Z0hIMkNFdXZaTEh0S2VIUWd5ckVBZ2Fn?oc=5",
+      "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-05-19T22:40:51+00:00",
+      "raw_date": "Tue, 19 May 2026 22:40:51 GMT"
+    },
+    {
+      "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjg3UDg3WnpDSzFvbDF5cXZIc1R6Y3pUR1FSNEhObGpwS0p3OTFhV1lYUURMMXRncjdqMGh1MjQwX09BN1l2aVE2SzFEcVE0OG56X3pHdjdWNlpjSXE4TVI4WUNfUUg4WlVrR0VYV080UmVrRlJGbnFnd2tfZ3FISDlvc2h0eG5JOG5IVnpJVVh3UE1wcHpmNzBlWjZ5TEFKSXR0Zk9YUkU3QzgxRktaOE52V1ZoY1N1TnlFWkJPd1FBcHJxN1JDejJMMA?oc=5",
+      "description": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-05-19T22:35:44+00:00",
+      "raw_date": "Tue, 19 May 2026 22:35:44 GMT"
+    },
+    {
+      "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUZTXzhTZ3BPcUtKX29ud1dLbTV0ZG8zM1R2RjNCRHBOS1dNaE1rV0x0dGgtU3k3d0VUOFJ0SThlaVYySEl6aUt3dkZiZ2U3a2Y4dGM0WTRGcUc2T29MM05TS0g0UzNNWXF0MUY4SDRSb2IwT2pKWFdmTWlxcGJzZ0QtcUE2OFpNRFFCbWdzQzNGTy1xVWpKOGxPcFk4cEU?oc=5",
+      "description": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-05-19T20:53:00+00:00",
+      "raw_date": "Tue, 19 May 2026 20:53:00 GMT"
     }
   ]
 }
