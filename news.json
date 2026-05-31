@@ -1,18 +1,10 @@
 {
-  "updated": "2026-05-31T18:56:05.805200+00:00",
+  "updated": "2026-05-31T22:37:31.447725+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Hantavirus quarantine to end for some US cruise passengers - Havasu News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0dWR2tldmxjZ2lrTno5RHRvTXA1N1lERW5jZFdNM3prYmwzd014dVBlSnlEOWw0LW9WUWhPb0tFcmhsU3VuOW41UGZUdVUwUnUzNzdRVVM4dzRycGMzcVZYR3YyOWUtUGRMdG1iR2dpOGZsZDd2NUFTTW1CWnk2ZHRLSlczVTd2RXFOZlZIWGRRWjFraEZwNEJmUlE3U3FRMkZ2cHBPcXgxN2VoMlBZcmVSZkJOeDUxbXh4bGVXZFJmTFlqMTM2QVhlSGRzX3VGYWFZSmxtTTk2WE5kZHZOdQ?oc=5",
-      "description": "Hantavirus quarantine to end for some US cruise passengers &nbsp;&nbsp; Havasu News",
-      "source": "Google News",
-      "date": "2026-05-31T15:35:00+00:00",
-      "raw_date": "Sun, 31 May 2026 15:35:00 GMT"
-    },
     {
       "title": "Hantavirus, Ebola and other pandemics yet to come | Pius Kamau - Denver Gazette",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnFvR2doRUduSk1QWEItZE8zMEZjWnlMcnhLQi1kRTgtcVUwRm5NV3E3ei1pSHQ2T3MtcDIzN0JBd0dCN09xUUthZ0RoUGplQ3NQUllBa2J0UnJ0d1V4VGYyU3FranVHdngzT3M3ODd5dE5WNzZDWEg5Rm5pRlV0aC1YdElpSDNoc0pHMHNkMDZHUzY1OFBNd1g5clRDa3F4QlRB?oc=5",
@@ -30,9 +22,9 @@
       "raw_date": "Sun, 31 May 2026 08:35:00 GMT"
     },
     {
-      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - The Portland Press Herald",
+      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - Portland Press Herald - Maine Sunday Telegram",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SjJaV28yai1CQTRQM1MwU1lscGpmOWctWklHeVdGaHJjQU50ZE1sR1MwSExDQmxDb3NjLUVJT3hoMFpZeGZMU2NoYVBQMGM?oc=5",
-      "description": "Ebola, hantavirus and the warning America should not ignore | Opinion &nbsp;&nbsp; The Portland Press Herald",
+      "description": "Ebola, hantavirus and the warning America should not ignore | Opinion &nbsp;&nbsp; Portland Press Herald - Maine Sunday Telegram",
       "source": "Google News",
       "date": "2026-05-31T08:34:00+00:00",
       "raw_date": "Sun, 31 May 2026 08:34:00 GMT"
@@ -78,9 +70,9 @@
       "raw_date": "Sat, 30 May 2026 11:33:45 GMT"
     },
     {
-      "title": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week - ABC7 Eyewitness News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk4a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln0gHAAUFVX3lxTFAxUm1RSzNJeFVDMmN5bGZFdDI5N2hwT0swcFJSMl91MlJrMzZlU3l0bmNkS01KcnB0dHRYU0czWDNfMlBiMC0xV1hWRnFFTjJOeEZkT0p4V2N6WVdSeFhMNXV5NlBEV2t0anRsV1kzLXBlM2kwRGUzOWcwYlB4Qm4xSDBYQlY2UDR3WEk3R19uZmRVcGtJWVVOUWgzOS0xVUxJczRCQlY3aGlqR0VPc0FPTGFaaXVabGs4dTlVWk9CLQ?oc=5",
-      "description": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week &nbsp;&nbsp; ABC7 Eyewitness News",
+      "title": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to NY next week - ABC7 Eyewitness News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk4a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln?oc=5",
+      "description": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to NY next week &nbsp;&nbsp; ABC7 Eyewitness News",
       "source": "Google News",
       "date": "2026-05-30T04:25:11+00:00",
       "raw_date": "Sat, 30 May 2026 04:25:11 GMT"
@@ -158,14 +150,6 @@
       "raw_date": "Fri, 29 May 2026 17:01:28 GMT"
     },
     {
-      "title": "The US hantavirus cruise passengers may soon go home ahead of the 42-day symptom period. Here’s why - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTJiSENBUlVhdXI3ZTk0WHpxMk83MzY2Z1o0QWdhZ3ZEOVI0cm1LUERmVkpDcnc0V3RfTlpLSU5TTV9FUGxuLUVSa3A4TVZpcXo3Z1drQnZqTmVUNDhaOGEwQW9ZT2NGNkdrcFI2S0d4bWpzc2daRnJ3X092STA3ZXU4cTJEMjFhSHFiNVc1X3oyZ1hCN3c?oc=5",
-      "description": "The US hantavirus cruise passengers may soon go home ahead of the 42-day symptom period. Here’s why &nbsp;&nbsp; The Independent",
-      "source": "Google News",
-      "date": "2026-05-29T16:15:00+00:00",
-      "raw_date": "Fri, 29 May 2026 16:15:00 GMT"
-    },
-    {
       "title": "Hantavirus: Climate change suspected of contributing to recent surge in cases in Argentina - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNb2xKMHJZQzJGSjNUcHhjeXhpTkt0djB4S1VqZFNEcmdULTNITFEyT3UzNXUxb0c3dUZ5S3J4Rmc5aDI3WVFaN3dnYVFhLVl1VGFzNGRiTUVoenVHRzc0Tnh5SHdBekRWejlzZ1VQOExSVjlZLVRmeDlZU0VfVUVmMmlXVUFhN0pJdXlsY3pOX1JZX3ppLXNWTVFqQ0lJb01pTW9wc2twNWxCQTNkMTI2UmpLUjAwRmdoT2xXeWx4a3Yxb0g2SGUtSE9feFVxNDdlR2ptUWNwSzlUYmdVTFNYSzBtMTFjNGg0cWV6dkQybXBPM19zWWc?oc=5",
       "description": "Hantavirus: Climate change suspected of contributing to recent surge in cases in Argentina &nbsp;&nbsp; Le Monde.fr",
@@ -180,14 +164,6 @@
       "source": "Google News",
       "date": "2026-05-29T12:00:07+00:00",
       "raw_date": "Fri, 29 May 2026 12:00:07 GMT"
-    },
-    {
-      "title": "Hantavirus Outbreak, New Viking CEO and Biggest Cruise News Stories From May - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3g0akttUnpraUNGV19JcHFXOG1MN0kweURCbVktQTMxNGtoWEx3SHJXNzRKMFhoR3hqSDMxcXBaaENVLVdKRlEzeFJ6QTRZT2U5U251SWdQQjZrUUozRi1CeWhxUTM5NUZCUUdLM2dZVWVhWkU4eTdWTnp6eXZHRzB1bWtHdGhicFhHdUQzT1NmaC1pTk95OHg1TGkzWDVoZlRGMG9FN0k4d29Rd1ROZnh6QmtsVFlVYnc?oc=5",
-      "description": "Hantavirus Outbreak, New Viking CEO and Biggest Cruise News Stories From May &nbsp;&nbsp; TravelPulse",
-      "source": "Google News",
-      "date": "2026-05-29T11:00:00+00:00",
-      "raw_date": "Fri, 29 May 2026 11:00:00 GMT"
     },
     {
       "title": "WHO DON Update: Hantavirus outbreak linked to cruise ship travel, Multi-locations - Avian Flu Diary",
@@ -262,12 +238,12 @@
       "raw_date": "Thu, 28 May 2026 17:43:00 GMT"
     },
     {
-      "title": "Ebola, Hantavirus, and the Garden Grove chemical crisis - Substack",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWxsZGc1WGZROXB2VUVKUV9pZ2c3YUNONWFXS1pLSmVCRTNqbFFscFNxeUttUG5oNnpCXzZoQTdySlZKQWZSSENCX1pNR2hfY2ZHcm9MS2lndVMxTy1zZnZQQkVJUXcyRVZlYU05Ujk5TVpvRnJNek1GMFdOb1FKblZrZTB5eDhMNDlCQVROWQ?oc=5",
-      "description": "Ebola, Hantavirus, and the Garden Grove chemical crisis &nbsp;&nbsp; Substack",
+      "title": "Planes, trains and pandemics: Lessons from COVID‑19 about travel risks posed by hantavirus and Ebola - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm92b0RIOXZsWnZfZ2ZrUUNULTkydFF0dF9aeHNYSk9vWlZGaEdPUG1TOVVDcUdtUGFhd0tkTU04T2VHUmg1aGNMVnFTbXJ1VDEwU0xTbTlycFRXMy1NNEhXakpPdGo4MUQ1UWZmSGxoOTNRZDNHbzFGNzB5dHF2bU1ncXRFQjJTSklYa2ZMRFAtalNhY0pKNWVPRGxDa0xGUjdabG5Kb2ptRXdUSFpuQmd4Zlo?oc=5",
+      "description": "Planes, trains and pandemics: Lessons from COVID‑19 about travel risks posed by hantavirus and Ebola &nbsp;&nbsp; Gavi, the Vaccine Alliance",
       "source": "Google News",
-      "date": "2026-05-28T14:38:10+00:00",
-      "raw_date": "Thu, 28 May 2026 14:38:10 GMT"
+      "date": "2026-05-28T14:09:28+00:00",
+      "raw_date": "Thu, 28 May 2026 14:09:28 GMT"
     },
     {
       "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
@@ -358,28 +334,12 @@
       "raw_date": "Wed, 27 May 2026 17:23:51 GMT"
     },
     {
-      "title": "Hantavirus Cruise Ship Will Welcome Guests for New Voyage 34 Days After Outbreak Passengers Disembarked - People.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3ppNmZzNjlQVEdoazlpQ203dVZ3N2J4Q3ZTd0VINzJWQkhIM1h6aFJuWnV3bDIyQUJtMnQ4M0JMMmFUZFZ2U2c1LXJwQWpEWlRSYUNfR3BqdnJZSzcwa2ZfeGh6akZZb0RDc3RNei11MVBySjV5TkpjWFdkSFVyNVBnaHJEVXl3TDh1RzRGanNYakctQW54N29XbnhMb014aXlvM1kzNGI0eVZFQlhVR2lKREo?oc=5",
-      "description": "Hantavirus Cruise Ship Will Welcome Guests for New Voyage 34 Days After Outbreak Passengers Disembarked &nbsp;&nbsp; People.com",
-      "source": "Google News",
-      "date": "2026-05-27T15:21:27+00:00",
-      "raw_date": "Wed, 27 May 2026 15:21:27 GMT"
-    },
-    {
       "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
       "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-05-27T14:00:08+00:00",
       "raw_date": "Wed, 27 May 2026 14:00:08 GMT"
-    },
-    {
-      "title": "Hantavirus cases linked to cruise ship outbreak rise to 13 - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5MYzdnT09EdDZLWUdhTGVFZGxhcGpUM2QxVVpOM3ljaWxEWHRPaXFIZWkzd2FWTUFfVmxJNDN2TXBNLXdoVFIzcFRIc1JEbGdzQWhfN2c2bTluNW1qOEtWeU5oS0dRaEZVQjNUSEo4NHZRcjFsV1o1YzNKM2t4eGJCd3ZxY0dhbnk3WWs5cWlWbHdaYVE?oc=5",
-      "description": "Hantavirus cases linked to cruise ship outbreak rise to 13 &nbsp;&nbsp; politico.eu",
-      "source": "Google News",
-      "date": "2026-05-27T13:24:00+00:00",
-      "raw_date": "Wed, 27 May 2026 13:24:00 GMT"
     },
     {
       "title": "Ebola, chemical plants and health, hantavirus, common colds, heat and more - Your Local Epidemiologist",
@@ -398,12 +358,52 @@
       "raw_date": "Wed, 27 May 2026 11:26:56 GMT"
     },
     {
-      "title": "Fact check: Viral hantavirus map does not show confirmed cases - Euronews.com",
+      "title": "Fact check: Viral hantavirus map does not show confirmed cases - Euronews",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLU9BSVB3SDU5R0lHaTF6S2VhblcyeDFjWUtSbVFGVUN5X29RVFg3N0Npc3ZlXzlsa1R0TFM3R0VQSDI4ZGROendva1l5TzlhUEhVMnBQN2lYTVM2Nm1zSGlmSnRmcXNwc21NbEtoV25yd2oxdXRuRzN0WlF1bmg5NDdoY0NXNzk4MkZtS29VUjdKWWhIUThxVEVDTXNGRkNVdDd5YUs1aEVxbVk?oc=5",
-      "description": "Fact check: Viral hantavirus map does not show confirmed cases &nbsp;&nbsp; Euronews.com",
+      "description": "Fact check: Viral hantavirus map does not show confirmed cases &nbsp;&nbsp; Euronews",
       "source": "Google News",
       "date": "2026-05-27T10:56:40+00:00",
       "raw_date": "Wed, 27 May 2026 10:56:40 GMT"
+    },
+    {
+      "title": "Kennedy offers legal shield to develop hantavirus treatment - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84UlhfZXBjN0hLOVE4SFlwbTBDQ19xbU9kUnRRRkF4M3pwVXJvRlF1NjFsTTJFTVczTUFMTnFfcnVGSXZzTVpXVnU4UEFMSzNpR280YVNDdWRJRnFISVd0TFZvODhMU282QkRUZnZfN015NzhGaG9oSw?oc=5",
+      "description": "Kennedy offers legal shield to develop hantavirus treatment &nbsp;&nbsp; Axios",
+      "source": "Google News",
+      "date": "2026-05-27T00:46:23+00:00",
+      "raw_date": "Wed, 27 May 2026 00:46:23 GMT"
+    },
+    {
+      "title": "PitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak - AspenTimes.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR2k0N08zQk5TS1BpZkc3V0ZDTmxILTJEOElQbUNmQUdqQnZVS3piYUFYSW1uMTFwMUpUWjMzdXo2Vm1raW5BOWFvbkNJOENvdXJUQjBwdlNCeGpaU2dCYmhITDhtZm9TODFfTy02YWpVUkhVNi10Qk5MenRGY1VyQm1hLUVtYWZOUmRCU09SUmdKQnNscWtNckE3R2gwSTk4WkNfaW5qbTNMak1BZWZwdXROMmU0MkZtbkZuYw?oc=5",
+      "description": "PitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak &nbsp;&nbsp; AspenTimes.com",
+      "source": "Google News",
+      "date": "2026-05-26T23:30:00+00:00",
+      "raw_date": "Tue, 26 May 2026 23:30:00 GMT"
+    },
+    {
+      "title": "Cruise ship at center of deadly hantavirus outbreak has to undergo extra cleaning - wdbj7.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmcyT1hpaElQalhVRlNfNjJNX09oXzAyb041NjNxZm5iVy1zZGZxbW5PenNGX08yaG5OSFU3NHhEaWlpNjJWRlBkdVNsbDNFLWlITVk3YmlCWFlLZFF0cFB1ZmtfNGdCbFhmSzd3WjRLSEFNM3J3emViSS1hb2pIZUVubUI5d09ZcXlPTnBKRzkzS3BIdUFEUUhHSGJRbW01eDBrcmp5NHFkQQ?oc=5",
+      "description": "Cruise ship at center of deadly hantavirus outbreak has to undergo extra cleaning &nbsp;&nbsp; wdbj7.com",
+      "source": "Google News",
+      "date": "2026-05-26T22:40:00+00:00",
+      "raw_date": "Tue, 26 May 2026 22:40:00 GMT"
+    },
+    {
+      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
+      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
+      "source": "Google News",
+      "date": "2026-05-26T21:22:24+00:00",
+      "raw_date": "Tue, 26 May 2026 21:22:24 GMT"
+    },
+    {
+      "title": "The MV Hondius Hantavirus Outbreak—Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkFsYUM1cHAtbWtBTmRCNzgwZ3lBbUdqaDFBRDdXVnk0VGVUVExVb1JoYm1GdTZEY0VEQ0lrWkE4NHJvRkF5YjhzSFNiM2ZMN3E4R19YWXlhRDhTZDNvYmx1bGVpei1KSzY0ejg3dW9BYVh6THM2dVI4c0gtODU5OW9RY0RPLWNOamJKTTZRcEtzNHdnU3d2bnI4dHNMM0VUd2wtR011UXIyUQ?oc=5",
+      "description": "The MV Hondius Hantavirus Outbreak—Lessons for Pandemic Preparedness &nbsp;&nbsp; Florida Hospital News and Healthcare Report",
+      "source": "Google News",
+      "date": "2026-05-26T20:48:06+00:00",
+      "raw_date": "Tue, 26 May 2026 20:48:06 GMT"
     }
   ]
 }
