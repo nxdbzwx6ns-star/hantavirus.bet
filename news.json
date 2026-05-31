@@ -1,14 +1,22 @@
 {
-  "updated": "2026-05-31T14:58:26.813125+00:00",
+  "updated": "2026-05-31T18:56:05.805200+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
     {
-      "title": "Hantavirus, ebola and other pandemics yet to come | Pius Kamau - Denver Gazette",
+      "title": "Hantavirus quarantine to end for some US cruise passengers - Havasu News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0dWR2tldmxjZ2lrTno5RHRvTXA1N1lERW5jZFdNM3prYmwzd014dVBlSnlEOWw0LW9WUWhPb0tFcmhsU3VuOW41UGZUdVUwUnUzNzdRVVM4dzRycGMzcVZYR3YyOWUtUGRMdG1iR2dpOGZsZDd2NUFTTW1CWnk2ZHRLSlczVTd2RXFOZlZIWGRRWjFraEZwNEJmUlE3U3FRMkZ2cHBPcXgxN2VoMlBZcmVSZkJOeDUxbXh4bGVXZFJmTFlqMTM2QVhlSGRzX3VGYWFZSmxtTTk2WE5kZHZOdQ?oc=5",
+      "description": "Hantavirus quarantine to end for some US cruise passengers &nbsp;&nbsp; Havasu News",
+      "source": "Google News",
+      "date": "2026-05-31T15:35:00+00:00",
+      "raw_date": "Sun, 31 May 2026 15:35:00 GMT"
+    },
+    {
+      "title": "Hantavirus, Ebola and other pandemics yet to come | Pius Kamau - Denver Gazette",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnFvR2doRUduSk1QWEItZE8zMEZjWnlMcnhLQi1kRTgtcVUwRm5NV3E3ei1pSHQ2T3MtcDIzN0JBd0dCN09xUUthZ0RoUGplQ3NQUllBa2J0UnJ0d1V4VGYyU3FranVHdngzT3M3ODd5dE5WNzZDWEg5Rm5pRlV0aC1YdElpSDNoc0pHMHNkMDZHUzY1OFBNd1g5clRDa3F4QlRB?oc=5",
-      "description": "Hantavirus, ebola and other pandemics yet to come | Pius Kamau &nbsp;&nbsp; Denver Gazette",
+      "description": "Hantavirus, Ebola and other pandemics yet to come | Pius Kamau &nbsp;&nbsp; Denver Gazette",
       "source": "Google News",
       "date": "2026-05-31T12:00:31+00:00",
       "raw_date": "Sun, 31 May 2026 12:00:31 GMT"
@@ -44,14 +52,6 @@
       "source": "Google News",
       "date": "2026-05-30T20:12:15+00:00",
       "raw_date": "Sat, 30 May 2026 20:12:15 GMT"
-    },
-    {
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - El Dorado News-Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWxaVEhJTVZjeGJhcEt2YXJWTUxxU2JuNGFpQVdqX01CUnZSbjFCdjd5M1ZkZlctcHpBSnExbENvTnFlTERVdGprSnR2ZTBFd2NhRDc0RnpxQ2tSakY0eVNZRThoWkxtal9yeUk0MjdFRTBSVHBrU2RQbDRlNXJ2U2c4Ri1IMVNvaDNVRnd0aw?oc=5",
-      "description": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; El Dorado News-Times",
-      "source": "Google News",
-      "date": "2026-05-30T19:00:00+00:00",
-      "raw_date": "Sat, 30 May 2026 19:00:00 GMT"
     },
     {
       "title": "Dispute grows over home monitoring of hantavirus passengers - The Washington Post",
@@ -182,20 +182,20 @@
       "raw_date": "Fri, 29 May 2026 12:00:07 GMT"
     },
     {
+      "title": "Hantavirus Outbreak, New Viking CEO and Biggest Cruise News Stories From May - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3g0akttUnpraUNGV19JcHFXOG1MN0kweURCbVktQTMxNGtoWEx3SHJXNzRKMFhoR3hqSDMxcXBaaENVLVdKRlEzeFJ6QTRZT2U5U251SWdQQjZrUUozRi1CeWhxUTM5NUZCUUdLM2dZVWVhWkU4eTdWTnp6eXZHRzB1bWtHdGhicFhHdUQzT1NmaC1pTk95OHg1TGkzWDVoZlRGMG9FN0k4d29Rd1ROZnh6QmtsVFlVYnc?oc=5",
+      "description": "Hantavirus Outbreak, New Viking CEO and Biggest Cruise News Stories From May &nbsp;&nbsp; TravelPulse",
+      "source": "Google News",
+      "date": "2026-05-29T11:00:00+00:00",
+      "raw_date": "Fri, 29 May 2026 11:00:00 GMT"
+    },
+    {
       "title": "WHO DON Update: Hantavirus outbreak linked to cruise ship travel, Multi-locations - Avian Flu Diary",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0pWVGw5X2l1N2RKQjlFbmZqaGVzc0RvTzZubW1nU0NHcVROQWNoMGxzNC1ia1BIcGJyU1Q1aVN5VWhEbkpXc0VVZHZ2Mm1XeFZvYndvMVNqZmo0dmxndTdSM0E3aWRXZGszVmQyOFRjbjJ1ZTY2eGZxcVc4a2ZnV2ptM2w?oc=5",
       "description": "WHO DON Update: Hantavirus outbreak linked to cruise ship travel, Multi-locations &nbsp;&nbsp; Avian Flu Diary",
       "source": "Google News",
       "date": "2026-05-29T09:32:00+00:00",
       "raw_date": "Fri, 29 May 2026 09:32:00 GMT"
-    },
-    {
-      "title": "How Climate Change Could Help Hantavirus Find More Hosts - Impakter",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmluQ3ZhZ2hyQV9WVmd2RFlpLV90OTdUTFdCQS0zVlBLRDdrREQ1VUE5RFRLZXE4NE5yZ19QbUFXVlJDcmpqcXhVVEV1QzlaWlp4cTZwWk1HOWJoQVpBcExrUjNieVlZZTBOZUljeW1FWDc0SDlybWo4dGRiWnFlX2tVS0s?oc=5",
-      "description": "How Climate Change Could Help Hantavirus Find More Hosts &nbsp;&nbsp; Impakter",
-      "source": "Google News",
-      "date": "2026-05-29T09:14:17+00:00",
-      "raw_date": "Fri, 29 May 2026 09:14:17 GMT"
     },
     {
       "title": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts - CBS News",
@@ -268,14 +268,6 @@
       "source": "Google News",
       "date": "2026-05-28T14:38:10+00:00",
       "raw_date": "Thu, 28 May 2026 14:38:10 GMT"
-    },
-    {
-      "title": "Planes, trains and pandemics: Lessons from COVID‑19 about travel risks posed by hantavirus and Ebola - Gavi, the Vaccine Alliance",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm92b0RIOXZsWnZfZ2ZrUUNULTkydFF0dF9aeHNYSk9vWlZGaEdPUG1TOVVDcUdtUGFhd0tkTU04T2VHUmg1aGNMVnFTbXJ1VDEwU0xTbTlycFRXMy1NNEhXakpPdGo4MUQ1UWZmSGxoOTNRZDNHbzFGNzB5dHF2bU1ncXRFQjJTSklYa2ZMRFAtalNhY0pKNWVPRGxDa0xGUjdabG5Kb2ptRXdUSFpuQmd4Zlo?oc=5",
-      "description": "Planes, trains and pandemics: Lessons from COVID‑19 about travel risks posed by hantavirus and Ebola &nbsp;&nbsp; Gavi, the Vaccine Alliance",
-      "source": "Google News",
-      "date": "2026-05-28T14:09:28+00:00",
-      "raw_date": "Thu, 28 May 2026 14:09:28 GMT"
     },
     {
       "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-05-27T11:26:56+00:00",
       "raw_date": "Wed, 27 May 2026 11:26:56 GMT"
+    },
+    {
+      "title": "Fact check: Viral hantavirus map does not show confirmed cases - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLU9BSVB3SDU5R0lHaTF6S2VhblcyeDFjWUtSbVFGVUN5X29RVFg3N0Npc3ZlXzlsa1R0TFM3R0VQSDI4ZGROendva1l5TzlhUEhVMnBQN2lYTVM2Nm1zSGlmSnRmcXNwc21NbEtoV25yd2oxdXRuRzN0WlF1bmg5NDdoY0NXNzk4MkZtS29VUjdKWWhIUThxVEVDTXNGRkNVdDd5YUs1aEVxbVk?oc=5",
+      "description": "Fact check: Viral hantavirus map does not show confirmed cases &nbsp;&nbsp; Euronews.com",
+      "source": "Google News",
+      "date": "2026-05-27T10:56:40+00:00",
+      "raw_date": "Wed, 27 May 2026 10:56:40 GMT"
     }
   ]
 }
