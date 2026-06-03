@@ -1,33 +1,137 @@
 {
-  "updated": "2026-06-02T22:06:31.926753+00:00",
+  "updated": "2026-06-03T16:04:37.970535+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
     {
+      "title": "Sin Nombre Hantavirus Strain Kills One In Arizona - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5",
+      "description": "Sin Nombre Hantavirus Strain Kills One In Arizona &nbsp;&nbsp; Forbes",
+      "source": "Google News",
+      "date": "2026-06-03T14:05:07+00:00",
+      "raw_date": "Wed, 03 Jun 2026 14:05:07 GMT"
+    },
+    {
+      "title": "Could environmental changes affect hantavirus risk? Duke researchers think so - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlVqOXFCSUl5S2otVzlKV0J3R3VTcGpkbmV5ZUtGVnZ4bGtNQUJzZzN1Y2NYZE5LdzVoZU1ZMkUxMEpXakJGcFk3V1JjcFBhTlRfU3k4RUlMYTRpYWh3ME1vYzNQQzNTY0xKVllOenZPaURCcms3QmFxTUNaOWRmeEJUTnJPcHdHV3BQR0o5SjQyQkwtMlB2MWw5MXhmRzlzTU5zeVhuaw?oc=5",
+      "description": "Could environmental changes affect hantavirus risk? Duke researchers think so &nbsp;&nbsp; WRAL",
+      "source": "Google News",
+      "date": "2026-06-03T07:03:53+00:00",
+      "raw_date": "Wed, 03 Jun 2026 07:03:53 GMT"
+    },
+    {
+      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
+      "description": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
+      "source": "Google News",
+      "date": "2026-06-03T04:33:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 04:33:00 GMT"
+    },
+    {
+      "title": "First hantavirus death in 2026 reported in Arizona - WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUd5VXFDLUh1UG0tb0lmZ0Nya2tFV2k5Sk95T0xJMkQ0aGItTFNqMldZbmVYeTBSZmQ0VVdsNGtpb19TRjN0eDM4S2hITDM5UGJacW1JUmk3cjZoYVFLWnlyTjh4aXdJZHJSaWpFZWpHZWdjTlAxVy1sRDlSSGNmWGE5OE83OXBKRV9uaQ?oc=5",
+      "description": "First hantavirus death in 2026 reported in Arizona &nbsp;&nbsp; WDBJ7",
+      "source": "Google News",
+      "date": "2026-06-03T04:32:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 04:32:00 GMT"
+    },
+    {
+      "title": "First hantavirus death in 2026 reported in Arizona - WSAZ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnc0ckZnY1VaY3NEOXZLc1BxVWM0X1Vua3Vhb1YxTThiZkRHWkk4djA2RzNXOHlCWER5WDhUZlBxU2VreWVYQ3VxZEtMMG96dlN4OUx0WVAxLV9OZ2dxbi1Nc0kwVHBUS3VKMWxRLUVZN3ZCTEwtSGZ6UVMyWU50MzB4b3hrXzJHblJR?oc=5",
+      "description": "First hantavirus death in 2026 reported in Arizona &nbsp;&nbsp; WSAZ",
+      "source": "Google News",
+      "date": "2026-06-03T04:32:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 04:32:00 GMT"
+    },
+    {
+      "title": "First hantavirus death in 2026 reported in Arizona - fox8live.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0lYX09ITTQtZ2s0WTVBczljY2ZwbjZnaVUwMkRDRF9KQzZsQ1JVdE03VWFqSEhqT2I0UTEzRUYteWFlSXVXckg1V3FOUVVQNU5FbHBteV9sa2ozRkw1SDQzZ2R3UHI3ZTVCb2ZsRFZveFZXQnFXZGZIUDQxaDN5VGlpUDhta1V5TkxmeG5ZNlI?oc=5",
+      "description": "First hantavirus death in 2026 reported in Arizona &nbsp;&nbsp; fox8live.com",
+      "source": "Google News",
+      "date": "2026-06-03T04:32:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 04:32:00 GMT"
+    },
+    {
+      "title": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
+      "description": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
+      "source": "Google News",
+      "date": "2026-06-03T03:26:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 03:26:00 GMT"
+    },
+    {
+      "title": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5",
+      "description": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post",
+      "source": "Google News",
+      "date": "2026-06-03T01:44:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 01:44:00 GMT"
+    },
+    {
       "title": "Oregonian exposed to hantavirus returns home, goes into quarantine - Statesman Journal",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0NDQkN3TVhjWkZ1SGZMcFdkcU9oek83OU9ja3kzbEgxdTJpTWRVTlFyYWw5UFpyN2FSNXdDaF9lSlhUWEIwc3J4YXJaejJpT1l4SVB4TFhmWTZ4aVF2WjFEUDlqV2RQcFFBQ0Z1Mmg1V2dPUlZjTWxrRl9JLTZiTzlsbkNKbmtzS2Y2eThZVHp0NmpuSi1yQ3htRXpVblVTRjUzck5Gb2Fxd1J2RHM4M0I1ZW5XRmZDdlE?oc=5",
       "description": "Oregonian exposed to hantavirus returns home, goes into quarantine &nbsp;&nbsp; Statesman Journal",
       "source": "Google News",
-      "date": "2026-06-02T21:55:00+00:00",
-      "raw_date": "Tue, 02 Jun 2026 21:55:00 GMT"
+      "date": "2026-06-03T00:39:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 00:39:00 GMT"
     },
     {
-      "title": "MV Hondius To Resume Sailing 34 Days After Hantavirus Outbreak Passengers Disembarked - Travel Noire",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iQS1OdW5JcFc3RmlFT2FaZUR3clV0YUROeVZmRUpIUG84RmhJaExJZFQ2ZVNfMF9EMWFSQjlaamJhVmN6bUwwUTZiSzRDV3dQcGpDVm8xLXVvZ1FNRTlnT0h5RDQ?oc=5",
-      "description": "MV Hondius To Resume Sailing 34 Days After Hantavirus Outbreak Passengers Disembarked &nbsp;&nbsp; Travel Noire",
+      "title": "Oregon resident exposed to hantavirus from cruise ship returns home - KGW",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3F2ckJuQTlWd2ROSk50ek9fZTQ2MGNsSlV6N1dJMlJBSENyM3ktMzVHanVlVkRMNXFUbU9WREZmRnlUcVZFajJGcm5hdUc3VWxVWFJQN3VqUkRPZlZOSmotNlRKYnlvRURVbUpfZDBTOUVFNmMxd3RtVmpHQ0lhYjhPdzdhdmM2OGJMMkcwQ3M4MTdMRGJBaGlwQ0gyZDNTdUwzRG0zaGVJMzR6NmQ2UEFLVUJrUzNvRWlpcUFFQm9LanZRemRiLVBFSGkxQUhsdjVIYkhjZGlHVU82bUo0?oc=5",
+      "description": "Oregon resident exposed to hantavirus from cruise ship returns home &nbsp;&nbsp; KGW",
       "source": "Google News",
-      "date": "2026-06-02T21:49:19+00:00",
-      "raw_date": "Tue, 02 Jun 2026 21:49:19 GMT"
+      "date": "2026-06-03T00:16:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 00:16:00 GMT"
     },
     {
-      "title": "Five MV Hondius passengers leave hantavirus quarantine in Nebraska - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wME9sQVNkcUJuRVdkUUZNWmxiUFlCdEFSQm9xMEZvaTB6ajJOdnVKWVc0Ujd1VVRjRmJIRnlGLWRRQ19lVUt0U0JfZnNTTVN1LV9xRjFXNnIwOEhsaVNOb0thQlFQU3RXVTU4ODNPZVYtVC1MR1F3RDUzZkY?oc=5",
-      "description": "Five MV Hondius passengers leave hantavirus quarantine in Nebraska &nbsp;&nbsp; AOL.com",
+      "title": "Hantavirus cruise ship to resume service - WANDTV.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTJjVE9BNDhDbG5mc2xuSDFXNkxIeVBiaHd1TzMtMUhEeXQyZ1dVSVROUkhYMlRSVWNyZVVIeTVXbzdodF9abXRqUkVfejNoZXNhdnVHQlNGR3d4eExpSjhxUVhaUmQ3V2Ewc0Fxc21nWXUwR3pfaHk4blV2QXhNS2d6eVQ0RDh0cTk1TUlYU1pIMUZJLVpWTnl3WlNwZVNKbjJjVEJnNGNnUHY4emRWYy1LcVFNV3lMcnFXNU1Ga0o?oc=5",
+      "description": "Hantavirus cruise ship to resume service &nbsp;&nbsp; WANDTV.com",
       "source": "Google News",
-      "date": "2026-06-02T21:47:41+00:00",
-      "raw_date": "Tue, 02 Jun 2026 21:47:41 GMT"
+      "date": "2026-06-02T23:34:46+00:00",
+      "raw_date": "Tue, 02 Jun 2026 23:34:46 GMT"
+    },
+    {
+      "title": "Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1 - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORm5IVWRkUmsxcWJuUGhoenRLWjdBNGExREFYSk9xd3ZmaTZUZDFZLW5EYk5GdjFmbUdwZDdHZ01TYVJ2dzd0LWpBLW5UazhMNFFqVEczS1o1SkwxRFgxdUVWdEZ2dlRvcXlRS09mRFZzSnRRU2FjVk9jSm9ReXNyLTg4MVpQY284SnhXWVBINHhnd1NP?oc=5",
+      "description": "Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1 &nbsp;&nbsp; New York Post",
+      "source": "Google News",
+      "date": "2026-06-02T23:17:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 23:17:00 GMT"
+    },
+    {
+      "title": "More Americans exposed to hantavirus leave federal quarantine - WDRB",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTBFYkxTUzlXTmxrUGEzRlNocHNyOUFjVUg4Z0EzcDh0T1YxRnVuN3ZNenp3WVFCRkZwWDFxTklWT2xrSWVuR0xBQXVTRnZTN0JoTl9TWW5CT25URXZVMG9WeGpQRHQyRVpmeWQ1YVZpMERlbWl0Y0ItMGs4UjRVM0RkYUE0Q25nNlppaVlRekk5UWE0OGYtQ2tzQVRzUzlfWldzaGlhcXJIVlBXdGd2RVVVdUFJWEpJNlctR3EtYnBTUXRVOFVYbmFn?oc=5",
+      "description": "More Americans exposed to hantavirus leave federal quarantine &nbsp;&nbsp; WDRB",
+      "source": "Google News",
+      "date": "2026-06-02T22:50:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 22:50:00 GMT"
+    },
+    {
+      "title": "Dr. Stephen Kornfeld could be back in Oregon after hantavirus outbreak on cruise ship - KTVZ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYndUNWUwbGVOZ2lnZUdid3B0TjN6azlFdi1QbnpPYUVFOXR4a1NWUjZOcWtaU0oyQjhBX1Z1Q3RGelc1SThuajZrSVZiRGlXRUh1VjZjRDJqOVpSWjJHdTROM0tlWEprV3I0MGdadzZnTUJBSHpnVURCU2NZV3BlLVotaTF0VW9mLUFob1g4UURYb3c1akJHbE9GblBudHZGM3d2Y1ozSkxyMU5Xd2VPc1NB?oc=5",
+      "description": "Dr. Stephen Kornfeld could be back in Oregon after hantavirus outbreak on cruise ship &nbsp;&nbsp; KTVZ",
+      "source": "Google News",
+      "date": "2026-06-02T22:44:31+00:00",
+      "raw_date": "Tue, 02 Jun 2026 22:44:31 GMT"
+    },
+    {
+      "title": "Some passengers released from hantavirus quarantine after cruise exposure - cbs19.tv",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUVYMnluSFN0ZS1tbDFObEg4TWtTQmJQOUZLU1ZWRnVSUUVya1RIVEhxTDZ2Zlh3QW52UzNhYzVUXzR5N3UtWmNaOUNSTERzZDFqdG1QZG9vTU5ELUxwTjhVR19vQTlKOWhqd1ZRMU5KQnU4NXhmSVlHc24ydjR0Y0FiT3laaVQtUXhPRkRtUlNwNjlRTXU3QVBDemJJNEhYbEdidW5nN0ZZemRqUnF3TUttSDNYT1Z1WkJvQWhmT2RNampBU3Y1ekhtMmRpMUJreGVOVUlzMFdFanZwU1NWNG5qQ0czc2M?oc=5",
+      "description": "Some passengers released from hantavirus quarantine after cruise exposure &nbsp;&nbsp; cbs19.tv",
+      "source": "Google News",
+      "date": "2026-06-02T22:23:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 22:23:00 GMT"
+    },
+    {
+      "title": "Five U.S. passengers from hantavirus-hit cruise ship depart quarantine in Omaha - KLKN-TV",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlNtVENvRVY0ZUZPZ04yZWRLOHVPSmVGdUVLeUVsMV9oakxaRzR3UVhUdWUxMFRFVjVQc2l5dXpMU3RMZklISFJJR3pOMjVLOXo2cURPZWplRWJ2bmRXNHdvTXVlWk42c0J0WDdiVWVJOU53SzA0UEJlWWRoZl9rakE1Y0JBZXpuY1JmeWJPNHVOUm9KN3N5cXF0MF90LUVlMmN1RQ?oc=5",
+      "description": "Five U.S. passengers from hantavirus-hit cruise ship depart quarantine in Omaha &nbsp;&nbsp; KLKN-TV",
+      "source": "Google News",
+      "date": "2026-06-02T22:10:09+00:00",
+      "raw_date": "Tue, 02 Jun 2026 22:10:09 GMT"
     },
     {
       "title": "5 Americans exposed to hantavirus on a cruise ship are leaving quarantine - WUSA9",
@@ -38,28 +142,12 @@
       "raw_date": "Tue, 02 Jun 2026 21:41:00 GMT"
     },
     {
-      "title": "Five Americans on hantavirus ship homebound after quarantine - Washington Examiner",
+      "title": "Five Americans from hantavirus ship homebound after Nebraska quarantine - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlFBWTRpSllCNlo2V0xBeWxXYjRZZEljZHVFTkFXenhYTHB3UmNGeFFoWEFVclhheEdHSWpQVlo2bEVad21LeUlaRWVtRXdqTnlXYzJBdExuS3NBR2JFMGowNUxWcXlUdWs4cmVmdkJNYzROZmRtVmZVVVZEMDF1SWpLY1k2R0ZrMlYwN1lQYlN1cVNEcnBWR1BNN3RLMFdPWmpGUzk1UUlqNFJhdFlCT0N4Zks?oc=5",
-      "description": "Five Americans on hantavirus ship homebound after quarantine &nbsp;&nbsp; Washington Examiner",
+      "description": "Five Americans from hantavirus ship homebound after Nebraska quarantine &nbsp;&nbsp; Washington Examiner",
       "source": "Google News",
       "date": "2026-06-02T21:17:00+00:00",
       "raw_date": "Tue, 02 Jun 2026 21:17:00 GMT"
-    },
-    {
-      "title": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZFpPMjdYaU95ZVhiOTN0alNxRlVJLWxWTTdKc1hPU1BpU0VGeEFyTktPZ0Z1c01KTFFWNWlSTktHN09jaG5NeUpTQU83WFpkT1hPNjhad2Y4bGpkYXZ1ZjFoWW14Y2NxblR2NXlGQ19CbHk3QjdtZk9BSU0yZWM?oc=5",
-      "description": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again &nbsp;&nbsp; AOL.com",
-      "source": "Google News",
-      "date": "2026-06-02T20:48:17+00:00",
-      "raw_date": "Tue, 02 Jun 2026 20:48:17 GMT"
-    },
-    {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2026-06-02T20:46:17+00:00",
-      "raw_date": "Tue, 02 Jun 2026 20:46:17 GMT"
     },
     {
       "title": "Hantavirus in AZ; 'Baywatch' actor David Chokachi | FOX 10 Talks - FOX 10 Phoenix",
@@ -70,14 +158,6 @@
       "raw_date": "Tue, 02 Jun 2026 20:15:15 GMT"
     },
     {
-      "title": "Five Americans exposed to hantavirus released from quarantine - KMTV 3 News Now Omaha",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUlNOXFUTnBwQVRQOG1RcVFfUElDeUxkQkdaQjZWbVE1MDNoQ0RVOTdiNVRfbWdEWndXNVYtYkZldHJoc2JMZm5WV1ctY0dZWFVrdzVFN2w0WUJHdXVDaTlpbU9va3YzeVVMUmJVRTNJT1V5eVh6OFN6a2FsUm5pMlc2WENJUE9JTUNKZ0JBc3NyUFV4NURhVnFvMUpxajhfVGZnbk5wMWVjSXNOUUw0?oc=5",
-      "description": "Five Americans exposed to hantavirus released from quarantine &nbsp;&nbsp; KMTV 3 News Now Omaha",
-      "source": "Google News",
-      "date": "2026-06-02T20:10:37+00:00",
-      "raw_date": "Tue, 02 Jun 2026 20:10:37 GMT"
-    },
-    {
       "title": "How Worried Should You Be About Hantavirus? - The Good Men Project",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdl91bkgtdlJ5eWN6MEYwd0VMVk5uaDF3d3dhbHVsdE9hRGNYUVpGWmNybU52SkJuU1Y5UjVadU1tQ3V0RUIyMU1Ic3dkSV94aWtBeXhyT0FON0JTWEdlREtWN0U4N05wS243YTV0ZUwtVVZhTW5xNURBc0JPaFhHZ1N0UEJJalRTbjRMZnBtWEE?oc=5",
       "description": "How Worried Should You Be About Hantavirus? &nbsp;&nbsp; The Good Men Project",
@@ -86,36 +166,12 @@
       "raw_date": "Tue, 02 Jun 2026 20:02:51 GMT"
     },
     {
-      "title": "Five quarantined cruise passengers facing hantavirus risk head home from Nebraska; 13 remain - Rapid City Journal",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUk5NHRQc3Vwd2dxam9ReGZoOVI0WEctUmdRYnRRdDVKTmI3QlR5QzRNd3BFQ2RhY2VnY0FKZ3VmUkh4Q250ZjZrX2pKQVhhekxDZ0t4bE8yalBzMXk3LXlTNk0tSjJGNkdYLVdmN1lXT2hSV3BnSkY3cllMX0ZHWFVrelBIc0hvMHVxaEtWbm84T3VJRWxXclJIRFlBUDhFVVRR?oc=5",
-      "description": "Five quarantined cruise passengers facing hantavirus risk head home from Nebraska; 13 remain &nbsp;&nbsp; Rapid City Journal",
+      "title": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again - dailyvoice.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjFLYmF1S0xDNWF0V1NIV0NBSTdEMEJNRVU0VTZoNWViQlJFeW1kaTJHZGZ1TFl3Vk1RS1MxSUNtTDNQVGZocXFLT2FTX3g5bmNSaC1DNDFsd19NMmF0amthZzI4ZUJvMkhZZHFjRmZ1cGJLUXl0UVFlYW1yTEN3dkpxTklZX2hiVVZ2eDZUYmxSc3ZGYWNZTVFFSXpqRUI3VGNlOQ?oc=5",
+      "description": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again &nbsp;&nbsp; dailyvoice.com",
       "source": "Google News",
-      "date": "2026-06-02T20:00:00+00:00",
-      "raw_date": "Tue, 02 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus cruise ship to resume service - WANDTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTJjVE9BNDhDbG5mc2xuSDFXNkxIeVBiaHd1TzMtMUhEeXQyZ1dVSVROUkhYMlRSVWNyZVVIeTVXbzdodF9abXRqUkVfejNoZXNhdnVHQlNGR3d4eExpSjhxUVhaUmQ3V2Ewc0Fxc21nWXUwR3pfaHk4blV2QXhNS2d6eVQ0RDh0cTk1TUlYU1pIMUZJLVpWTnl3WlNwZVNKbjJjVEJnNGNnUHY4emRWYy1LcVFNV3lMcnFXNU1Ga0o?oc=5",
-      "description": "Hantavirus cruise ship to resume service &nbsp;&nbsp; WANDTV.com",
-      "source": "Google News",
-      "date": "2026-06-02T19:27:02+00:00",
-      "raw_date": "Tue, 02 Jun 2026 19:27:02 GMT"
-    },
-    {
-      "title": "Hantavirus Cruise Travel Safety in Spotlight as Five American Passengers End Quarantine and Return Home After South Atlantic Voyage - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZNDZ5TFBzeXZjdGx1WlQ1b0xaYkY3WWg2TU9XaVpDeGxiaWdNYlZyc003U1hGVVFlREhEeFgwaS1QSTVCQ0oxVWNEWTBKUGxtd1FVMEJHcEx2ZVFuelMxV3RpdjVvRVpKbmdlT3R3?oc=5",
-      "description": "Hantavirus Cruise Travel Safety in Spotlight as Five American Passengers End Quarantine and Return Home After South Atlantic Voyage &nbsp;&nbsp; Travel And Tour World",
-      "source": "Google News",
-      "date": "2026-06-02T19:22:11+00:00",
-      "raw_date": "Tue, 02 Jun 2026 19:22:11 GMT"
-    },
-    {
-      "title": "Could environmental changes affect hantavirus risk? Duke researchers think so - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlVqOXFCSUl5S2otVzlKV0J3R3VTcGpkbmV5ZUtGVnZ4bGtNQUJzZzN1Y2NYZE5LdzVoZU1ZMkUxMEpXakJGcFk3V1JjcFBhTlRfU3k4RUlMYTRpYWh3ME1vYzNQQzNTY0xKVllOenZPaURCcms3QmFxTUNaOWRmeEJUTnJPcHdHV3BQR0o5SjQyQkwtMlB2MWw5MXhmRzlzTU5zeVhuaw?oc=5",
-      "description": "Could environmental changes affect hantavirus risk? Duke researchers think so &nbsp;&nbsp; WRAL",
-      "source": "Google News",
-      "date": "2026-06-02T19:17:08+00:00",
-      "raw_date": "Tue, 02 Jun 2026 19:17:08 GMT"
+      "date": "2026-06-02T19:20:30+00:00",
+      "raw_date": "Tue, 02 Jun 2026 19:20:30 GMT"
     },
     {
       "title": "Nebraska governor: Cruise ship passengers’ release from quarantine facility a ‘positive development’ - The Hill",
@@ -124,30 +180,6 @@
       "source": "Google News",
       "date": "2026-06-02T19:12:00+00:00",
       "raw_date": "Tue, 02 Jun 2026 19:12:00 GMT"
-    },
-    {
-      "title": "Five people have left hantavirus quarantine facility in Nebraska - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRlemZwNEhraTIwUEdhcnVXNDRKdVNkZTVGVTRKWmNWTTRMSUtRZm5lNWxWbmcwRFpsRU5MVE5OMUpyYks5NF92UWRBdDJVV1V3Y0JSTkIydUVIZ3hLMy1xRXZwLThUbmJOcHJjN1hlSDJvYjZKODk0b2RhWEdfV0VWS21xLVhCcUM4Um45WEVxS29KQ1dlYjZGbl9QckgxRlNjaTRQTms5a0ZSYXhNbldyUGtGdGdRajN3eWVtWWk?oc=5",
-      "description": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-02T18:44:25+00:00",
-      "raw_date": "Tue, 02 Jun 2026 18:44:25 GMT"
-    },
-    {
-      "title": "Five passengers from hantavirus-stricken cruise ship depart quarantine in Omaha - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrVTRKdWFVd2lLTmpaT0NLOVdOaGktZGxEX1NYbUxnNFZ3bDRFdEtDcFMzWTJSVE9FOHRCeGlXa05ZamxjQVMwVE5UU0ZoY0xHVU8xRC02YTNxS3RTdXBEVjBQd2RSV18yVkRVdURuaTFoaDA5VWN6Zl9KanZUMnlXc1pTTllmR01XYWlzOEtxcXNjWXgybzZEMVJ0aTM1?oc=5",
-      "description": "Five passengers from hantavirus-stricken cruise ship depart quarantine in Omaha &nbsp;&nbsp; Omaha World-Herald",
-      "source": "Google News",
-      "date": "2026-06-02T18:40:03+00:00",
-      "raw_date": "Tue, 02 Jun 2026 18:40:03 GMT"
-    },
-    {
-      "title": "Cruise ship passenger exposed to hantavirus now under quarantine in Oregon - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGFGX21LYjBXRnNUVU9uWm03dF9HMUxxOVdNWTVrbzRod2x6UHYzaFFad1JSX1ZnUGJCX0FLNGFtaFFRUFJxTGJJT3FzSmdwWTBCa1c5Q0s4NGYxN0VuRU5VTHhQT1MwcXFEMVhiZlNkdFlwS3RmbzdubmE3d3M1Ry1FdWF2RjFnTndWTGJrS2wzeGp1dmJpdFpDWkNYMjJGZUQ40gG3AUFVX3lxTFA5RmEtOVREaF9udjdvdmlLa1BDVDA1TTh2Q0x0Z3RubHBXOVZnX1dLdjdXQUdYVHBGVXdBVzV4b1FROFBPajVQallxclNYd1ZwUFFWbmFlR0JSTDVTX3k2OWY5WE9UMks2SWlxb1M4Ykp5XzFIMUZvZ2Y3YW03UEZHOG1icDk5Y28yX1VIZlgyVmszQ1ZTQzhCOFlGQ0REc2JybHktYm5YWDRwM2hjVjZLejBycmtrYw?oc=5",
-      "description": "Cruise ship passenger exposed to hantavirus now under quarantine in Oregon &nbsp;&nbsp; KPTV",
-      "source": "Google News",
-      "date": "2026-06-02T18:40:00+00:00",
-      "raw_date": "Tue, 02 Jun 2026 18:40:00 GMT"
     },
     {
       "title": "Several American Hantavirus patients released from quarantine - NonStop Local Billings",
@@ -166,20 +198,12 @@
       "raw_date": "Tue, 02 Jun 2026 18:19:00 GMT"
     },
     {
-      "title": "Dr. Stephen Kornfeld returns to Oregon after hantavirus outbreak on cruise ship - KTVZ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYndUNWUwbGVOZ2lnZUdid3B0TjN6azlFdi1QbnpPYUVFOXR4a1NWUjZOcWtaU0oyQjhBX1Z1Q3RGelc1SThuajZrSVZiRGlXRUh1VjZjRDJqOVpSWjJHdTROM0tlWEprV3I0MGdadzZnTUJBSHpnVURCU2NZV3BlLVotaTF0VW9mLUFob1g4UURYb3c1akJHbE9GblBudHZGM3d2Y1ozSkxyMU5Xd2VPc1NB?oc=5",
-      "description": "Dr. Stephen Kornfeld returns to Oregon after hantavirus outbreak on cruise ship &nbsp;&nbsp; KTVZ",
+      "title": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak - KVAL",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWXIweVgwenM3Q253emNUWnFCdVN6MXN3bGpPSExXb29EckxWb3VOZ05LbjQyME1Dam92TzR2MGw0MENTazlZRTQwUjlMWkpobDM4N0NyRDR3VmU2MnNUREtHcGN6NnlQMGd3VGxYdzVGXzBWVEhUVHVBbC1XT01yUmJQdHktOVlTRVZ5R1h0YjJvY3hhcEhWcS1uMEZHblg2YnZuUXd1MDcwVEMzSThiSzJNWFBnSDVvYmF2cExZQW1PZDlsR2ZYX1dERk5SOVBMQ2NLcnFCcTFLbXdxSFc0XzlZQQ?oc=5",
+      "description": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak &nbsp;&nbsp; KVAL",
       "source": "Google News",
-      "date": "2026-06-02T18:15:04+00:00",
-      "raw_date": "Tue, 02 Jun 2026 18:15:04 GMT"
-    },
-    {
-      "title": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak - KATU",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmRJQjAyX293WEtFeDhrQlZjTk5vUWVETkFLOURuZXdXY2drcmYtaXBnQTNVWDZQcVpQdHc2YUVYS3Z3TTVuQ0dXa01iYXVJaWh0UzlZM3JuY1pjZlRZdXRDaG1GQThLXzc0ZVh5dmNFd1AwLTlEMVdOZEZLMXpKb1JYSURMOXR2MlBHSW5QM01BWHJXTm1ibmRkMXFDa3kwb0s3TWItSTUyQm9IdGxVTlVXbjZYdk41TmlYX2g2YlNJRE9TUDRJQ0FWQ1JRWnA3eERGTmtkaFU4NmpCcElIUENkdjBDQWhIRDZQSGNn?oc=5",
-      "description": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak &nbsp;&nbsp; KATU",
-      "source": "Google News",
-      "date": "2026-06-02T18:01:09+00:00",
-      "raw_date": "Tue, 02 Jun 2026 18:01:09 GMT"
+      "date": "2026-06-02T18:01:13+00:00",
+      "raw_date": "Tue, 02 Jun 2026 18:01:13 GMT"
     },
     {
       "title": "Five former hantavirus cruise passengers choose to leave UNMC quarantine in Nebraska - KETV",
@@ -188,14 +212,6 @@
       "source": "Google News",
       "date": "2026-06-02T17:57:00+00:00",
       "raw_date": "Tue, 02 Jun 2026 17:57:00 GMT"
-    },
-    {
-      "title": "Verifying viral odd claims about hantavirus on social media - Dubawa",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX1EzZU9nbEtHTGxOWGowbXljTUZuSGRXNEZqWXhLTmhLMjMtTzRxVG52VElhekpyWWNMMlpSNTVrdVBoTmhkMmpiYnBBSlZOYjVNUVBySVRRSWhtbGx4OFBDQXN1NldnYndHdWgzS2NENHlEVU9aNjVLdk5kQ3FObWF0Rm0yd9IBjgFBVV95cUxNaXlVRENPTEtmblZXVlNnX1Z2QlBjQk8zdndGczZPVEo3SmQwTkU0VXVya2Z4bHVqeHVuU0c3SDU4and5Zll0aUFHemZtWUdrOHhMRzlZaXdCc3hNNm1EekhtdDNyTV9zSWY4bUFzSGpPVVFxV3ROaDFlMi10TnZVUGFfTFl1WEdkUUNGbFln?oc=5",
-      "description": "Verifying viral odd claims about hantavirus on social media &nbsp;&nbsp; Dubawa",
-      "source": "Google News",
-      "date": "2026-06-02T17:44:37+00:00",
-      "raw_date": "Tue, 02 Jun 2026 17:44:37 GMT"
     },
     {
       "title": "Bend doctor who aided hantavirus-stricken cruise passengers returns home for final quarantine - Central Oregon Daily",
@@ -238,38 +254,6 @@
       "raw_date": "Tue, 02 Jun 2026 15:31:24 GMT"
     },
     {
-      "title": "Five Americans exposed to hantavirus released from quarantine - WRTV",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEpXWEpmOEJ3N0o3VURsajJpdjlRZ1J6Z0F4NWkwTDlZZF96ZUFfd0NCVmh5ZF9MSkF6R2xMOVpvZDEyUlJxeVlNN1cwdzNDZ2RNS1RiY2E2WnpZc0dwbUd6MGEta19SbFEzUlV1YWNkcF83cEhZSTF5dDFMVjhRSTc4ZzVTNW95eF9XS0VjRzQ3X01XRk90ZHl6N3U?oc=5",
-      "description": "Five Americans exposed to hantavirus released from quarantine &nbsp;&nbsp; WRTV",
-      "source": "Google News",
-      "date": "2026-06-02T15:13:02+00:00",
-      "raw_date": "Tue, 02 Jun 2026 15:13:02 GMT"
-    },
-    {
-      "title": "Five Americans exposed to hantavirus released from quarantine - WXYZ Channel 7",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVbTNJckxqQUswQ2FQc0hnNVBjZTJRbm1fQVVaQXFUQU9Zc1BxbHlpWHY0aURROUIxSmU5Nms4MUFRN1MzbVQ4enhuWk9pYVNod0JIRjhfN0JaWWdTR2MxLWVwQkU5dC0yWkk3a2RrTFFzREM3YldUZTk3NHdqT2hOQmpyZ2NDLWRVekNLU1JIa2VZNGF2Q0lZb0lZTDJ2UHYwaEFLX0I2UQ?oc=5",
-      "description": "Five Americans exposed to hantavirus released from quarantine &nbsp;&nbsp; WXYZ Channel 7",
-      "source": "Google News",
-      "date": "2026-06-02T15:13:02+00:00",
-      "raw_date": "Tue, 02 Jun 2026 15:13:02 GMT"
-    },
-    {
-      "title": "Five Americans exposed to hantavirus released from quarantine - FOX 47 News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMURXLUJzb016T05EQ2FiQks0bEwtTmFfN1JXN09mWGtnT1FibkVmYndjNDhZZnFQSm10RDJwcklsZFRwYndHd2dxaUR5cF9Ednk1cWl2R3hBd0FuMXliZTJxRjNSdHZQc3VhT2ROM3JGbU91RnJ3ZG1YdFRfRUttdzBZd0kzNlVaSDYta3g0aVlYTUxMa1AyQXEtb0FEX0hEYjMybXJtUWxoa1pLSmNPcQ?oc=5",
-      "description": "Five Americans exposed to hantavirus released from quarantine &nbsp;&nbsp; FOX 47 News",
-      "source": "Google News",
-      "date": "2026-06-02T15:13:02+00:00",
-      "raw_date": "Tue, 02 Jun 2026 15:13:02 GMT"
-    },
-    {
-      "title": "Five Americans exposed to hantavirus released from quarantine - KGUN 9",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVd3Qm1FMGM4czFrdkw1bFNrZDJfZUJ0NjRYYWFpSnR5NFJLUmNQaG1UTGZZQ1pBZFdaY0RKdlR2QVlqd1lTNTNGYVhhUDc2Ymd3a0JmWDM2U3V6UGRqbmFMSXBuWm1USV9SNFlsWWxRZnA5VXJHcFNVM3p5RUZ6QTVvMU1IejVDSjM5VUwwWDBmS3hSS3M1UlFtUnpLaERiSC1wbzkxUjZWa0pqS01r?oc=5",
-      "description": "Five Americans exposed to hantavirus released from quarantine &nbsp;&nbsp; KGUN 9",
-      "source": "Google News",
-      "date": "2026-06-02T15:13:02+00:00",
-      "raw_date": "Tue, 02 Jun 2026 15:13:02 GMT"
-    },
-    {
       "title": "5 Americans exposed to hantavirus return home after weeks in quarantine - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVENqNThZRWxXS3gyNlFUeHo4NWNKdFVsRzBNMmxqMk1tcTlqYnZXWnFFUTNiR24xRUM2YTdoMVpFV21mMy1zQTVsZVN4M2xnaVhxMnJwN1hGMVRwcWZ1YVd5blMxbGp0dzB5QlpfVGVqSlJGa193NFVBc19KeDdIMEwtejJYa2ZacnhpSHdZR01vS1NhbTFkMjNYTE9kdTZscTZzcUVDbjdVcHlIckFaOENESWFjRWZJSUE?oc=5",
       "description": "5 Americans exposed to hantavirus return home after weeks in quarantine &nbsp;&nbsp; USA Today",
@@ -278,28 +262,12 @@
       "raw_date": "Tue, 02 Jun 2026 14:57:00 GMT"
     },
     {
-      "title": "VIDEO: American cruise ship passengers exposed to hantavirus can go home today - KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFVRRFVETXhXT0xENnVFbkpRdHJ2LU1IMmFrblJvb1FDWGd0TFpSZ0QxaU1fbmtEQ3A2bDZ6RmFDYzc2VXhKSzNkdkxvaHgwd0RraG4tdHRGcm54Uk4tRXdXLXpIclNEb0REb2hOTE5hVEQySFlCcmF5TVJfcEphbDJmdVdDSmNNQTdieTEwV2E5ZW9oUXpKY1F2TV9TVXQ5Y1lqR2QwUDByNUxuQ2xyazBJZllQY2F1SWg5WFZTNzJPMUtUQWp3eWVjdm43TFlvZHVXc1dKaGJEUEp5TWc?oc=5",
-      "description": "VIDEO: American cruise ship passengers exposed to hantavirus can go home today &nbsp;&nbsp; KIRO 7 News Seattle",
-      "source": "Google News",
-      "date": "2026-06-02T14:51:24+00:00",
-      "raw_date": "Tue, 02 Jun 2026 14:51:24 GMT"
-    },
-    {
       "title": "Five quarantined cruise passengers facing hantavirus risk head home from Nebraska; 13 remain - Nebraska Examiner",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGloNDREWDVSanJ2WGRDTFNISHQ4RnEzdlptSWFTak50MldZdmlTNDg4OWV0bDdEaEFULWE5Yk5NNDdldVQ4b2tVeHhmTTJjYXFZbEZzVGdqYUNKaXdPejJObU1aR1FOenJNbk9NZGxBOGxqMmpmM2laZ3cwd2dGV25lWXNvZE9SSTZ3NUZPZHpCb05NVC14dS1wX1kzbFBUY2c3MWhkU3dqS0RnMmRTLXNmSUppeGkzX1RJR2hUNEhscHdMVEw0?oc=5",
       "description": "Five quarantined cruise passengers facing hantavirus risk head home from Nebraska; 13 remain &nbsp;&nbsp; Nebraska Examiner",
       "source": "Google News",
       "date": "2026-06-02T14:40:56+00:00",
       "raw_date": "Tue, 02 Jun 2026 14:40:56 GMT"
-    },
-    {
-      "title": "Five MV Hondius passengers leave hantavirus quarantine in Nebraska - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMC1ESll4Umc3aDRERnJsMTVjaFg2QTdkZFgtTlFvU3hRdkN2WEZHNXZHTzJHNE43bDVwNTlWY0ZZWlBmelB5aUpRR2ZWM1UtcmI2SVR6VnF3NVA2cUZiTU1HOENhN2VWd04teTg3UjI5dWlzbTh2Z01wX2FQMk5RZEJkSWYxWGNMZTVuTU02MG1qQlpBU0pHTzRB0gGaAUFVX3lxTE8wLURKWXhSZzdoNERGcmwxNWNoWDZBN2RkWC1OUW9TeFF2Q3ZYRkc1dkdPMkc0TjdsNXA1OVZjRllaUGZ6UHlpSlFHZlYzVS1yYjZJVHpWcXc1UDZxRmJNTUc4Q2E3ZVZ3Ti15ODdSMjl1aXNtOHZnTXBfYVAyTlFkQmRJZjFYY0xlNW5NTTYwbWpCWkFTSkdPNEE?oc=5",
-      "description": "Five MV Hondius passengers leave hantavirus quarantine in Nebraska &nbsp;&nbsp; NewsNation",
-      "source": "Google News",
-      "date": "2026-06-02T14:15:38+00:00",
-      "raw_date": "Tue, 02 Jun 2026 14:15:38 GMT"
     },
     {
       "title": "Five US passengers from hantavirus-hit ship return to home states - Reuters",
@@ -312,7 +280,7 @@
     {
       "title": "Hantavirus update: five cruise passengers leave Omaha quarantine unit - WOWT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1oxTTZLZjBJQ0xyTERxTmlwdlIzOGhob2ZnUDIwemhyTElLYUszSmhZdk5nbDJqQ0pJTHJjM1l1cEtWeDcxZ2hZbVN2ejVFYTJveWd0MUdCVzJNc2h6SGQ5N0FjejAzTzU4b2MyU2VNZFZNMy1jblhvNlktQXpKY2kzTGZ1Q2VlRXBOZi1SQllHV2NjdVE0Vi04cVNWQnpKMzFr?oc=5",
-      "description": "Hantavirus update: five cruise passengers leave Omaha quarantine unit &nbsp;&nbsp; WOWT State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home &nbsp;&nbsp; NBC News 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times",
+      "description": "Hantavirus update: five cruise passengers leave Omaha quarantine unit &nbsp;&nbsp; WOWT",
       "source": "Google News",
       "date": "2026-06-02T13:50:00+00:00",
       "raw_date": "Tue, 02 Jun 2026 13:50:00 GMT"
@@ -326,20 +294,12 @@
       "raw_date": "Tue, 02 Jun 2026 13:44:47 GMT"
     },
     {
-      "title": "Hantavirus search surge could lead to panic, misinformation - Pest Management Professional",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNnN2xsUlBoMkVwTVVwY1VLemx1ZHJNZFZQRmlYT3dmS00xemhpUk45MndqZ3VicHZZUy0xVnFNbUdrT2NQQTBhS0FfeVFXVnQtTTlhUGVFc05zVUJoaVVLNUV0U2dXZTRqblNwcGJNTldSZjdxdURHTGtoVHFRRUQxSWtHbEdx?oc=5",
-      "description": "Hantavirus search surge could lead to panic, misinformation &nbsp;&nbsp; Pest Management Professional",
+      "title": "Video Hantavirus cruise passengers return home - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96NlVuZEhsZ0ZTVERaaEJUUnJ3UThwWVkzcmZaVURVRGU2OW1ORWFiN3lHTjVvdHZDQVN5RFlIaGpscGQ2UndSNzlBbjc?oc=5",
+      "description": "Video Hantavirus cruise passengers return home &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "Google News",
-      "date": "2026-06-02T13:34:26+00:00",
-      "raw_date": "Tue, 02 Jun 2026 13:34:26 GMT"
-    },
-    {
-      "title": "5 Americans exposed to hantavirus return home after weeks in quarantine - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkZ4NHdrWG8weGttOGk3c0d4by11Z1Vyb1JDRy1vNDlUR09VZjJHVDhfTDJTckpuX2ZSN0RGWWZXWlAtdnJSSVBabXM4RXZ2VFdWMnVZLVF3bDJWWno1X3pEaG1XazlzemwwUWxPT1JDSmJmVnhDQTBHR28wb2Y5R21HcWF3SmtH?oc=5",
-      "description": "5 Americans exposed to hantavirus return home after weeks in quarantine &nbsp;&nbsp; AOL.com",
-      "source": "Google News",
-      "date": "2026-06-02T11:42:14+00:00",
-      "raw_date": "Tue, 02 Jun 2026 11:42:14 GMT"
+      "date": "2026-06-02T12:02:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 12:02:00 GMT"
     },
     {
       "title": "Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump's Health Cuts - U.S. News & World Report",
@@ -366,20 +326,12 @@
       "raw_date": "Tue, 02 Jun 2026 09:30:00 GMT"
     },
     {
-      "title": "Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump's Health Cuts - HealthDay",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3ZYcjJuWC1XRGo2QWJ5UzBMSjk5VG1yWjc3aGdKYy1CQzJGbVRHQy1XNXJZNndJbU5NOGVZbE9GbVViZU00Y3ZjSHFQUERvT29kdFlVZEJZRk91QWhhaFBBQUhpVVplWkpHTWlSZDNDS0x6Q1RRZ2t0QS1pYVpEa1dDM3B2RllFbjVXUnhmUGFCWUNpR1huTVkya1FibUZndnlGX0hDVWRFcmRncUhNWjhSUnpSOXYxZWtSaHc5TG8?oc=5",
-      "description": "Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump's Health Cuts &nbsp;&nbsp; HealthDay",
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News",
-      "date": "2026-06-02T09:30:00+00:00",
-      "raw_date": "Tue, 02 Jun 2026 09:30:00 GMT"
-    },
-    {
-      "title": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona – KLAS - KLAS 8 News Now",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmZEWFowdWpvd0JNMndCNUxrNUxtN3VRRkdQOXRtUndYTUhUcEN6aWhuMmFYVUlyNlRTdnFwNml1cndoYzNYNk4yY3BJME5wamdKcEotVzhrSXV3ZGU1enlWMWY1TGJBQkI4bTRqN3JoZy1YY1RMX3BHNUpSODVGUFJrUGZNbDdRX0NDUDgzNVE5T2FJLWo0c0JqcjJvS0pj?oc=5",
-      "description": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona – KLAS &nbsp;&nbsp; KLAS 8 News Now",
-      "source": "Google News",
-      "date": "2026-06-02T06:10:11+00:00",
-      "raw_date": "Tue, 02 Jun 2026 06:10:11 GMT"
+      "date": "2026-06-02T07:00:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Western Arizona resident dies from Hantavirus - KSNV",
@@ -390,20 +342,68 @@
       "raw_date": "Tue, 02 Jun 2026 04:23:38 GMT"
     },
     {
-      "title": "Americans exposed to hantavirus released from Nebraska facility - TMJ4 News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWlVeDBGSElLUVp3NUZ4bTZGZE5iTnBLb3RCOU15dk5fQ0dpMHZ5cGpEeHl4RGRuV1pHX3ZHdkttajM5X01MQjJ3UTV2cFY4clo0U3Fhc3VYNWZuWmxvSEtkSmdkdjFRVGJVdmdWQlAtSlhPem9YNDVlMGZKYkZ2WVY0eXlrYmF5T0ZuVldWNDNCM1ZYZlNkWGxuU2dkOVVlNUtJVnNWMFQ1RHFo?oc=5",
-      "description": "Americans exposed to hantavirus released from Nebraska facility &nbsp;&nbsp; TMJ4 News",
+      "title": "One person has died in Arizona following hantavirus infection - 12News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalVzY2JRa3ZnRmtENDhRQ216eDkyU19DcDVZTmIzSkV1SmNxYVpoYW1EaFhwVE0tX01vcnVwRjZpb2Jya05ZQ1dQYkRsWE40M1BuY0swVF9abkhJMmpDR3piUnJSN0ZYUXQyVldDZFFpeUNMb2V1VnV5WWxyTFZRbVRublhTbHNuck9JZmEzd0lmWFZBQlNIaXlFazVYTEZkQkFwcU9aQUxSSG8zSGVBal9GdVhZY0ZoeFBFX0ROM0tnejE4LWY4dg?oc=5",
+      "description": "One person has died in Arizona following hantavirus infection &nbsp;&nbsp; 12News",
       "source": "Google News",
-      "date": "2026-06-02T04:21:38+00:00",
-      "raw_date": "Tue, 02 Jun 2026 04:21:38 GMT"
+      "date": "2026-06-02T02:45:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 02:45:00 GMT"
     },
     {
-      "title": "Arizona hantavirus death: Sin Nombre strain kills Mohave County resident - FOX 10 Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0NG8taXA5TW9ZUUExVElTTTVjRnRNcm9JS1ZKNUNQX044b3pXcVhXZnFCS243RTFINklGX2J0STJHWFd4RVp2N3ZETVp6eWprRHlFTDk1SEtRQ1AyaVRJcmY1SjF5QdIBa0FVX3lxTFA2YmZwRVBzazJhZ1dRN01xd3pHY0JZaW45X0NvR2FNSmktd0Z5SW1TZDlfMllaazBweXF4N1JacmllanR1UzhwcF9RVTlkWlM3Q01HVFNWc3pDSVVlbmZyc2pFYUhvQ3pnOWZB?oc=5",
-      "description": "Arizona hantavirus death: Sin Nombre strain kills Mohave County resident &nbsp;&nbsp; FOX 10 Phoenix",
+      "title": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona - KLAS 8 News Now",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjJvdWdJak96Wll0U21SbG5EUGpfcHRBaTdiekdUTWtEQ1lhZmhMbjhNZGl3c0hySjNZNzBoQ1VfSFJCNVBsV01VRjg2dDFTSmlJQUowT2RRekM3ZDNxR2lPdklHM1ptUW83VUhDWjFmY2NYejFjekp1QUxrdno2cy1zNGJPMXlCajRJYWx0UnBEQlZ0WVN4QkxtWlNhQXhQUWfSAacBQVVfeXFMTUxQaVhUd013dXJReDM4OFN2ZjRJdjlLWi00SzZtcnhnMlB4ZXdVcVJTYlVwdS11Q1NVM09SSDdHTDJQUFBVU0FFNEVyTkNuWUhTZ0FiV2h2NDBsX0hYTThIYk9YbjN1SlBPaGNUbWdrZ09xcWgybkotemJwM3R2LXRBZFJCSEd5SzB1WU1abWtBZ2hmSE5ScklrMWgzenFPdUg1TE1LZlU?oc=5",
+      "description": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona &nbsp;&nbsp; KLAS 8 News Now",
       "source": "Google News",
-      "date": "2026-06-02T04:15:30+00:00",
-      "raw_date": "Tue, 02 Jun 2026 04:15:30 GMT"
+      "date": "2026-06-02T01:43:06+00:00",
+      "raw_date": "Tue, 02 Jun 2026 01:43:06 GMT"
+    },
+    {
+      "title": "Hantavirus kills Mohave County resident - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnhVZWlkUUg4Slo0RzV1OUE1eUt1YkVhOHNYSGdkeWhPZmJMWmpXVDVuMGRpWk5VSDBSdVkybDJGdXBXNjEzNEJmNVhlRDBKU0VOVWZKUklTYmtQRFZzNHl3S1ptNkc1MlZEbG1sV21wUUtWaS1RNzl4R0ZjNUE1WlQ3aHBXZWNobjYtU1hSeDVrMWtZQks5VDNNV2M4bmvSAaQBQVVfeXFMTlB5d050U2pBd0NKN1BubV9FQWc3Yl9ONGk3ZUt5SGNYc08xdGtFRmp5Q2lfa040dUVVNm16NndJMmFleEpLZFZCNzdmajFreWhORXZjYWFpSGU0ZmxGTVNuSGNad3JtRk9GZ1RhUW1zcVo3ZG9NT2VaTVlXVVc2MU5QaGZqMUJWbFhaSWNyTDlidjJRTVEzS0RHTlBLVzBuN09nOUw?oc=5",
+      "description": "Hantavirus kills Mohave County resident &nbsp;&nbsp; FOX 10 Phoenix",
+      "source": "Google News",
+      "date": "2026-06-02T01:09:54+00:00",
+      "raw_date": "Tue, 02 Jun 2026 01:09:54 GMT"
+    },
+    {
+      "title": "Health commissioner updates on NYers exposed to hantavirus - SILive.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1d6dm5IRjNibW5QREpiemlUQzZ6cElTZXJNaWtpWG02X0lPcThqZFVhMnVlcXdWOThBT18zWnJxQlNFNzN3c2VzTXZEaFd6TklTVjdVa0N6dTFvREJGZ0ZhdHlPT0RRM0hHU3BLNWJ4aktiTERydnRzSnZHZ0RRSnEtenptckVyR3ZHSjRReWE3S0dsbnRFTlQwRHRxT3lK0gG0AUFVX3lxTE9RMUZjSDFWamZLbjU1TjRzc2RGeW5qQ0NkaEZKbWVBRUVEVFpVNjRFQkhYNThQV2k0cTl6eGVQaE51YWRwRVQ1VTdhekJWeXloWi1VSzloNEVYSTVPYllfdy0wemtoQ3U5alZsRVRHMUlTWlNaWW9jbE4wWmdYSVB4anlMUWM1U0hadE16b2ppNjhqQzhIdE5JRTM2YnJUWk84ZFpzbjdReFgxSUlLOVYwc1VSSA?oc=5",
+      "description": "Health commissioner updates on NYers exposed to hantavirus &nbsp;&nbsp; SILive.com",
+      "source": "Google News",
+      "date": "2026-06-02T01:06:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 01:06:00 GMT"
+    },
+    {
+      "title": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
+      "description": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine &nbsp;&nbsp; CNN",
+      "source": "Google News",
+      "date": "2026-06-02T00:10:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 00:10:00 GMT"
+    },
+    {
+      "title": "5 American cruise ship passengers leave Nebraska quarantine facility - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWThjbE5FS05hd1AwclROVWE5a0lrUnJmU3lpd0tkQkJ4cHgtelZBeldvZzhFVjFJTHNDRWF0T0U1SmpBTG5SVFNsdS1KNm02RHR4ZVJBTDdkSGwwaXNUdG5TV1FuUzQxWTlTemFNYnFTZ3JKSXhvVC1Odm9oQS1JamFzdURiZHUwYjBBMHpUSmF3OUdrcnBrZFMtZGRXY2QzTW53dU40QU1pUEZHdGRscmF3?oc=5",
+      "description": "5 American cruise ship passengers leave Nebraska quarantine facility &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-06-01T23:51:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 23:51:00 GMT"
+    },
+    {
+      "title": "5 hantavirus cruise ship passengers leave quarantine facility as transparency concerns grow - Healthbeat",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFRqU3RicXMyZ19nSG9KdGQ1Vk0xa0l6NkVXUHhIaHNoU0d5V0YzZlhncGFObGRvdS1TSlVzYWFWYWZVTjN3UWVPOUI0Q0ktMG9kSmJIc0J1SlZnMWRPdDFZMktta1g1QW5GMWplODhxeTF1Yy1ncW5hZFBTR3FLbXJ0aVZPOWY1RVZ3UUN3Vnh2aXdCRURsNGJfRVk1Zm5hdGc?oc=5",
+      "description": "5 hantavirus cruise ship passengers leave quarantine facility as transparency concerns grow &nbsp;&nbsp; Healthbeat",
+      "source": "Google News",
+      "date": "2026-06-01T23:21:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 23:21:00 GMT"
+    },
+    {
+      "title": "Arizona resident dies from hantavirus - azcentral.com and The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFpJU2c0V2hJTkotXzQ2Y1JmWWtsNW9uYTJ2cE9Gak82a1VEdS1UZzBPNWpuek1Na3RZZDJ3aV9rcHZKUFJXMVNoMjloZ29XR1dpSDR4TERxR21vSDFTMi0tNHV0MFVVTzZkZ2lxUGd1VHBwZnVCTkltdV9OUVFWMktSQy1iRW8zUEdMdGwyT25laG41V3lnMzI2WmRETWNSOFV1Y3hoU1IzOThZQmRjTm96X3RLMUQydkJwQXFZeTIwUlowa0dGVzZZTTNFRElmejA5dHlpdw?oc=5",
+      "description": "Arizona resident dies from hantavirus &nbsp;&nbsp; azcentral.com and The Arizona Republic",
+      "source": "Google News",
+      "date": "2026-06-01T22:50:38+00:00",
+      "raw_date": "Mon, 01 Jun 2026 22:50:38 GMT"
     }
   ]
 }
