@@ -1,18 +1,10 @@
 {
-  "updated": "2026-06-09T09:46:51.926828+00:00",
+  "updated": "2026-06-09T12:38:41.232753+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "In the news today: MPs plan Taiwan trip, B.C. hantavirus recovery, Energy show begins - thecanadianpressnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1gteWRJb0g2TlAxelhIVVl0ZzA3TUgzYTNtYlQ2dVpuYkFabmwxWHNPUXc4MzFtaFRRSkpkdHllNVdMQ1FsaDFxeUJoakRPX1dmaHBOX1ZfS0dqa0NKMFJXbi14dElhZkMzV3hhRUlEc0hVZzlMeEN3bWdGVjVpVXhIRU9tcDBiLVdlWXBvVG5tZWVFTG41VWdsRWUwYm54M1V0TnlpNkdsWEI1ZlVDeWs2S0kzUjN1ZzdRd3RMSE9kV05PMkx1cEhhWFhrUEUxWUFMdzlKRFRvYWVHalQ2Mmhlbl9pY0x1MllBMkUzb2NSajdEX09kcmJHUEdaWTRYV01BYjBNQQ?oc=5",
-      "description": "In the news today: MPs plan Taiwan trip, B.C. hantavirus recovery, Energy show begins &nbsp;&nbsp; thecanadianpressnews.ca",
-      "source": "Google News",
-      "date": "2026-06-09T08:03:26+00:00",
-      "raw_date": "Tue, 09 Jun 2026 08:03:26 GMT"
-    },
     {
       "title": "Defence Medics parachute into Tristan da Cunha to treat hantavirus patient - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXNOVl9GemNERVZncV95eDZHVFNDNHdKUjVTUUxSMVRkTnpmWGdVQ1VuZnU5a2xmaEhfeGh1aWxaeWhtMVFIWHRjVGlyY1RCc2NqQUN4d1p2czNLcEVpQ0g4VmRqX2NmZkZjSVJhbkxfWml4bU9seGtfMExlcVd6OUVBOWN0b21iOE5ranhJVWttR1hJcFBkdUs5a3RORWRRcFVJTlNUN2xjajVsZWc?oc=5",
@@ -262,9 +254,9 @@
       "raw_date": "Sat, 06 Jun 2026 05:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
+      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
       "source": "Google News",
       "date": "2026-06-06T03:30:52+00:00",
       "raw_date": "Sat, 06 Jun 2026 03:30:52 GMT"
@@ -334,12 +326,28 @@
       "raw_date": "Tue, 02 Jun 2026 22:44:31 GMT"
     },
     {
+      "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXZ3VVFnU0t4S1pVaVJULXhfLU1rWnpGRzFpWlZGYk9aWHNnOXRFeVN4eGZ0c1owNFNjQXFBSmVQN0JDZ2ZjOUpmRFdoWDcxVFpISS00cXRFSU1GMDBtY3VsbXp0LVl1UlY3X3RpTVp1MFNXNnBnOTdUdlhDbk5DTg?oc=5",
+      "description": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-06-02T07:00:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News",
       "date": "2026-06-02T07:00:00+00:00",
       "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "One person has died in Arizona following hantavirus infection - 12News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalVzY2JRa3ZnRmtENDhRQ216eDkyU19DcDVZTmIzSkV1SmNxYVpoYW1EaFhwVE0tX01vcnVwRjZpb2Jya05ZQ1dQYkRsWE40M1BuY0swVF9abkhJMmpDR3piUnJSN0ZYUXQyVldDZFFpeUNMb2V1VnV5WWxyTFZRbVRublhTbHNuck9JZmEzd0lmWFZBQlNIaXlFazVYTEZkQkFwcU9aQUxSSG8zSGVBal9GdVhZY0ZoeFBFX0ROM0tnejE4LWY4dg?oc=5",
+      "description": "One person has died in Arizona following hantavirus infection &nbsp;&nbsp; 12News",
+      "source": "Google News",
+      "date": "2026-06-02T02:45:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 02:45:00 GMT"
     },
     {
       "title": "Hantavirus kills Mohave County resident - FOX 10 Phoenix",
@@ -374,17 +382,17 @@
       "raw_date": "Sat, 30 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
-      "description": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home &nbsp;&nbsp; The New York Times",
+      "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week - WSLS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0VNRnJmcC01U2JBVEptSWdVbFd2SExPTkVxTHdJbFlxMFZZaGw4Tk1rdTl0eUZ2OW9GU1BKNEt1OThHZTBvY2tqRnRNVG1jZ1pmeE1SSGpGMmpLenR4ZUNleWViUWlTTkxHU29XN0h4WXN1RkdoSmMxVlFvNEk5WlZJOW5lN2FHamV6cVZyVlR2VDdlZ3V0VGpST1ZyRHdwQmVWdjVtM1o3NnRockIycWRXQ2tNcTVWQWg2WGZtNXBlTUF5dk9z?oc=5",
+      "description": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week &nbsp;&nbsp; WSLS",
       "source": "Google News",
       "date": "2026-05-29T07:00:00+00:00",
       "raw_date": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
-      "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week - WSLS",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0VNRnJmcC01U2JBVEptSWdVbFd2SExPTkVxTHdJbFlxMFZZaGw4Tk1rdTl0eUZ2OW9GU1BKNEt1OThHZTBvY2tqRnRNVG1jZ1pmeE1SSGpGMmpLenR4ZUNleWViUWlTTkxHU29XN0h4WXN1RkdoSmMxVlFvNEk5WlZJOW5lN2FHamV6cVZyVlR2VDdlZ3V0VGpST1ZyRHdwQmVWdjVtM1o3NnRockIycWRXQ2tNcTVWQWg2WGZtNXBlTUF5dk9z?oc=5",
-      "description": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week &nbsp;&nbsp; WSLS",
+      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
+      "description": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-05-29T07:00:00+00:00",
       "raw_date": "Fri, 29 May 2026 07:00:00 GMT"
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-29T07:00:00+00:00",
       "raw_date": "Fri, 29 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
-      "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; KFF",
-      "source": "Google News",
-      "date": "2026-05-28T07:00:00+00:00",
-      "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
     }
   ]
 }
