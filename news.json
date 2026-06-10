@@ -1,10 +1,18 @@
 {
-  "updated": "2026-06-10T00:15:26.784329+00:00",
+  "updated": "2026-06-10T05:19:56.184216+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-06-10T01:27:44+00:00",
+      "raw_date": "Wed, 10 Jun 2026 01:27:44 GMT"
+    },
     {
       "title": "Hantavirus patient discharged from Victoria hospital - Times Colonist",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHlYSl93eGJaVTRrdktHMG9KZ1hsN0Y0OWN1LXN2bEU5UHlMMGFRWGxPWlRQUGpaZDZ4U1BmSlVNZGlkSFhtb01tUU1UZ0I4aEpsN2k4a3ctUFU3VnVzb0tFeHRKcnBwVWM1cHpnOWFwZ2MtWU9aOUl3REVtazZaV1p3b3kwR0JoRmNQUXIxamt3V0NCNTd3cDdFOWd6b3NTZDhZcw?oc=5",
@@ -58,16 +66,8 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFB6dzNqWXlTUDZYV3lFaEZEUk5fb095VHRrWlBLVWZVOFZfRXpBdWwyclBTbXRvZXNqaXFNMkxqM2VSbGtZV0FDd0VJUjh5ZDJQUmU3WTgwNXJRaC15Y2QtOF9YSTJkeFJnWUVOaWg0MmlXT09RLW9kVmdkS2NBQTFxb1FrX19KODFUQUJuZkxJRzVtQzJ1UV9wbEd0a0U2X0E?oc=5",
       "description": "Three more passengers from hantavirus-hit cruise ship leave Omaha quarantine &nbsp;&nbsp; KLKN-TV",
       "source": "Google News",
-      "date": "2026-06-09T20:31:29+00:00",
-      "raw_date": "Tue, 09 Jun 2026 20:31:29 GMT"
-    },
-    {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2026-06-09T19:27:36+00:00",
-      "raw_date": "Tue, 09 Jun 2026 19:27:36 GMT"
+      "date": "2026-06-09T20:31:53+00:00",
+      "raw_date": "Tue, 09 Jun 2026 20:31:53 GMT"
     },
     {
       "title": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping - ABC7 Los Angeles",
@@ -78,28 +78,12 @@
       "raw_date": "Tue, 09 Jun 2026 18:48:03 GMT"
     },
     {
-      "title": "3 more US hantavirus cruise passengers return home after weeks at quarantine facility - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEtzLU4zTUZ4WnRZUEFITDVWWnFLd1A5RE5aSXZZVF9sQlg2RzVIQzlDZGtTMy1ZTVp2OUphUHQ5SWV2aFJCSHpjT1dNUnlKTXBxQmY5Xzhidk15MVNHSUxCSkMzcWs5N1hqM0lmcmt3VjZ5WlJJczF4RW9fVUpXNWJqcVJ5cTkyMm1VSHNkM3RKaXVZSHgybzd1TGthd0VaSnhSZ0lBeC1yeFYxdXVoVGF0OTJIQ21fRHZtY05kOA?oc=5",
-      "description": "3 more US hantavirus cruise passengers return home after weeks at quarantine facility &nbsp;&nbsp; USA Today",
-      "source": "Google News",
-      "date": "2026-06-09T18:05:00+00:00",
-      "raw_date": "Tue, 09 Jun 2026 18:05:00 GMT"
-    },
-    {
       "title": "UNMC releases three more hantavirus cruise ship passengers - KETV",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdThqVzZ3VnZpWUJIYS1WUDZia1kyN1A1T2pHV3RlaGxWdTJuZ2VZbHhfdlVoYnNWbUk1SmNBWFgyV3A1R2NSMTQwdUJMR0tYSFNYeHZQOEh2aW9FSldycDZZVWpNYlMtVlZhMHlCNWppaHRaY0JjMEpIRGVweE5qNTV1WExPM28zcVBGNjVNaEpoZTIxVl9lZ01xTHFyc2Q4SnRMd3d0VQ?oc=5",
       "description": "UNMC releases three more hantavirus cruise ship passengers &nbsp;&nbsp; KETV",
       "source": "Google News",
       "date": "2026-06-09T17:18:00+00:00",
       "raw_date": "Tue, 09 Jun 2026 17:18:00 GMT"
-    },
-    {
-      "title": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak - thereader.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk5kMk1taVhMakc5bFV3MFQwMkZ3SlpiamJyODI1cGExNnRkeHZjZmhiSkdLV180a3g5WHFkR3VqY2dRaWdlQjk2Q2RtajV5NzN6cFAzNHh6Y1BRYU1pRGVpU3BJNVQtbnl3djlxY0hGaGZ3U3VYMzFjcm9rX2lfWllldEdyNnNidUdCS3ZRSzFIdEN2N0lwWg?oc=5",
-      "description": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak &nbsp;&nbsp; thereader.com",
-      "source": "Google News",
-      "date": "2026-06-09T16:45:13+00:00",
-      "raw_date": "Tue, 09 Jun 2026 16:45:13 GMT"
     },
     {
       "title": "Health Matters: Canadian who tested positive for hantavirus has recovered - Yahoo News Canada",
@@ -132,6 +116,14 @@
       "source": "Google News",
       "date": "2026-06-09T14:35:45+00:00",
       "raw_date": "Tue, 09 Jun 2026 14:35:45 GMT"
+    },
+    {
+      "title": "Three more US passengers from hantavirus-hit ship return to home states - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjlUdFZraWhqcm5Ka3hFOHdoVE9Obk5SYm04QUthLWFIeXBuVDFVazRZUnJSOE5UZ3JPa3UyMUVsVXhyUk02OVotT2JGMkZuMTB6X2poZnBOU2ZzNWFoQ2FVNEVtQUhQbTF3RTFQYXMwUjB4bVAzQ3hwZmpRNUgwZzBUZV81Y1ZQUFljTXpET3pSTjA?oc=5",
+      "description": "Three more US passengers from hantavirus-hit ship return to home states &nbsp;&nbsp; Yahoo",
+      "source": "Google News",
+      "date": "2026-06-09T14:34:32+00:00",
+      "raw_date": "Tue, 09 Jun 2026 14:34:32 GMT"
     },
     {
       "title": "Three more US passengers from hantavirus-hit ship return to home states - TradingView",
@@ -174,44 +166,12 @@
       "raw_date": "Tue, 09 Jun 2026 12:25:15 GMT"
     },
     {
-      "title": "Defence Medics parachute into Tristan da Cunha to treat hantavirus patient - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXNOVl9GemNERVZncV95eDZHVFNDNHdKUjVTUUxSMVRkTnpmWGdVQ1VuZnU5a2xmaEhfeGh1aWxaeWhtMVFIWHRjVGlyY1RCc2NqQUN4d1p2czNLcEVpQ0g4VmRqX2NmZkZjSVJhbkxfWml4bU9seGtfMExlcVd6OUVBOWN0b21iOE5ranhJVWttR1hJcFBkdUs5a3RORWRRcFVJTlNUN2xjajVsZWc?oc=5",
-      "description": "Defence Medics parachute into Tristan da Cunha to treat hantavirus patient &nbsp;&nbsp; GOV.UK",
-      "source": "Google News",
-      "date": "2026-06-09T08:00:01+00:00",
-      "raw_date": "Tue, 09 Jun 2026 08:00:01 GMT"
-    },
-    {
-      "title": "Our View: Mohave County's first hantavirus case is a reminder, not a shock - The Kingman Daily Miner",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjBhTDRHQjBOUTFMY09tbkdqdGUwRDBzWEFoZTZicl9pTlh3aFB4TllnOVM0b2hBLXFVTEl6eXZEdU5VQkFPYmtZeVJXNGRMcFVDNmFuRFBneEt3azNhQTktbkZlVFlBSHJVZkdLc3hfNWlMSkQ4ODhZT2R5VWlES0NlcGl6cTBzRW1YQ0xGZXQwTjdXQUZ5OTh0cE9qVkVXazdKdlVqQngwQkZKU2h4ZVQ0VTktazBGeFpHeHlwZ3YtbHM3al82ekI2bjRhbExEYnNvbHJFYnFWVERTZzRlMFhGR3o5dThn?oc=5",
-      "description": "Our View: Mohave County's first hantavirus case is a reminder, not a shock &nbsp;&nbsp; The Kingman Daily Miner",
-      "source": "Google News",
-      "date": "2026-06-09T07:15:00+00:00",
-      "raw_date": "Tue, 09 Jun 2026 07:15:00 GMT"
-    },
-    {
       "title": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5",
       "description": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say &nbsp;&nbsp; CBC",
       "source": "Google News",
       "date": "2026-06-09T01:06:00+00:00",
       "raw_date": "Tue, 09 Jun 2026 01:06:00 GMT"
-    },
-    {
-      "title": "B.C.'s first hantavirus patient has recovered, discharged from hospital - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmhpZVE4dXB6X1RqX2stbkVRUkJzNmczQXRyRlhZb2dNc3JBUF9DR2cyMXozUHdFZlpkUEh2NVJWVXlLRWYzM05jYnBtUTRNUGlGanNhSlVtU1JVLWFGeF9oWmFPaEdxOGoxVFdwelgzREJCaTRyV3BYeEU2YWZna3hNTTFPbDVYT0hkNm5UVllXME9oeUpj?oc=5",
-      "description": "B.C.'s first hantavirus patient has recovered, discharged from hospital &nbsp;&nbsp; Vancouver Sun",
-      "source": "Google News",
-      "date": "2026-06-09T00:45:22+00:00",
-      "raw_date": "Tue, 09 Jun 2026 00:45:22 GMT"
-    },
-    {
-      "title": "Two Texans cleared of hantavirus risk after period of isolation - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmdLNkVsQzJ1eUlOMHZnMjJGZURXdktLUGtTc2FzcUZZTWg0QVljOE41VWo0QWlMMjhGWkJfV19HUDhuVFIwSE53NU5NRnRjQWd1a3NBZ2haUWJwajU2NVpSLTA2U0RGT2NYNklwS0phQXRnanpEZV9MSjczR0pNSTFvXzluRmh2OHRoV2dSQjhGMkJrMWFyOFpmSF9pSlI3b01BODlITmg?oc=5",
-      "description": "Two Texans cleared of hantavirus risk after period of isolation &nbsp;&nbsp; HPPR",
-      "source": "Google News",
-      "date": "2026-06-08T22:30:00+00:00",
-      "raw_date": "Mon, 08 Jun 2026 22:30:00 GMT"
     },
     {
       "title": "Doctor quarantining at home after being monitored for hantavirus in Omaha - KETV",
@@ -254,20 +214,20 @@
       "raw_date": "Mon, 08 Jun 2026 13:42:34 GMT"
     },
     {
+      "title": "Two Texans cleared of hantavirus risk after period of isolation - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXVxUEoxZHBWc0ZaRjJQSlIwZE9UVms1OXNKdHB1Q1FacWZNdmIyZFEyX2xoa3Z3anFCWThxREUyLWxfcmZIb0E5S0FHdmJ1dFlCMkl6Y3JBaHFIdlB5U2N0ZnpNRjRDVjJJMzlXdVc4dlNfODhNYjZETndPWlY2S0lmbm1kalhSdThrODNzXzV5YTNMQ0VEcDVtZXFST0F3UUFobThETElXV1hBSDc4RUhwUzFlUGttMHQ5Q3M1d1hGTnh5Ym1XcjZGTFN5OS1qcUEySUV5VEh5czYzVVg4LTdIVUgwSzN0ZjRfZ1Z30gH2AUFVX3lxTE1HMmtMeHpqbnBuUm10UTRudU8tMXBDdlp1c0MtRWxiVkxiY3RnT1hPR1FwdzZ6UkZfd2djMklsY1JlQnVtajlvbTJVeEpFMUdKSGpmajZnaFJ4aWRDWEhqYlY2RnoxdldjdEg1aG55UVp6aU16am1LbXdyV3htZVpiLV9yT0N4NzY0bVRyaGh0SThaWEpHTVo5ZFk4MS01dlMwSFE5UllqeDl4bUpjRkgxd1lyaGs5ZFZGWnVOMzF6VHh4RWhNbHIwalYwY2JPWTZzNjdCUm9EdW42RDNZVU9WVU9qWkY0UU1odThhaks0dDRlRVY3UQ?oc=5",
+      "description": "Two Texans cleared of hantavirus risk after period of isolation &nbsp;&nbsp; Houston Public Media",
+      "source": "Google News",
+      "date": "2026-06-08T13:18:19+00:00",
+      "raw_date": "Mon, 08 Jun 2026 13:18:19 GMT"
+    },
+    {
       "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - Santa Fe New Mexican",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGxkTldfRnA0WGo0aUU4VlVBZUNQMXZURHhVMVFPYzlRVGVrUnJNTUJmT3l3ZXNhVUFXTHNHYjRhSmtfYmRydGVGNVdpR0lFWkhsYzZSaTh2REg4UVNWUWVvOVA0WG9qN25WcFVVZWRMOC1XNUVfOURZbGpWYTR4TlA0UkJLWnNVQlZFWlFIbW80UGcyR1p3TmlaNHYzSmJvUVRCNGFQbnhicFVUdHktTUlYZTlJd2VQZVh3NGlSUnNxX1QyZ0thbGR3VVowa0kyZ09DcjFFMVlkQkRCZnJTNXNEd0w2SFJCaEtRaTB1bmotRTBKYUpNWkZ6U3NUNUFDU0l2alhIMEdKZ1JuN05mSDdZaGoyTU5hQ0tNTUR2QVlzYUlRN1hkcHAtcw?oc=5",
       "description": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; Santa Fe New Mexican",
       "source": "Google News",
       "date": "2026-06-08T03:25:00+00:00",
       "raw_date": "Mon, 08 Jun 2026 03:25:00 GMT"
-    },
-    {
-      "title": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
-      "description": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
-      "source": "Google News",
-      "date": "2026-06-07T18:16:00+00:00",
-      "raw_date": "Sun, 07 Jun 2026 18:16:00 GMT"
     },
     {
       "title": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
@@ -286,12 +246,12 @@
       "raw_date": "Sun, 07 Jun 2026 02:32:43 GMT"
     },
     {
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - KHBS",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TV2xjeTQwN1l3VHQxZmJEZllkWkdZMnlfeUF3aUNoZ1FwUW1nY3ZJOENSbGhDd2x0WDNTUmJhSllKN29ZdUluM3l1SlNOV2JTelFvaW9TTEQ0cl81UnFvbFQ0WmVlWE8wWDk3MGFaZ1luVDA?oc=5",
-      "description": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; KHBS",
+      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - KETV",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KQ1JiWmh1cGhscXV6MUpFaHdYTGhhMFN5bkJzNlRzZjBtYXJqOFh5YjVfQU9weU9hVC1UVDljelVJMmY2MlJHQ3JEbVlHdFYtbnlVZTZNaEN3MDh0SXotbnVxVnhUaHhUbGVMb2NFM2Y?oc=5",
+      "description": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; KETV",
       "source": "Google News",
-      "date": "2026-06-07T00:53:00+00:00",
-      "raw_date": "Sun, 07 Jun 2026 00:53:00 GMT"
+      "date": "2026-06-07T00:56:00+00:00",
+      "raw_date": "Sun, 07 Jun 2026 00:56:00 GMT"
     },
     {
       "title": "Texas cruise passengers complete hantavirus monitoring with no infections, state says - FOX 7 Austin",
@@ -358,17 +318,9 @@
       "raw_date": "Sat, 06 Jun 2026 14:56:01 GMT"
     },
     {
-      "title": "Hantavirus case was diagnosed in the 1980s in a Lufkin hospital - The Lufkin Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGowRm9SMGNuX1p4aHN5OEJqWmR0aDYyUGRNVnQ1enZIVEdFdWpWS1loOWl0QzZucWN5UnMzRUFhNXlaWlB3eXhHVEQ3Zm9VRU9JRnlaY2hFY2tTbGlZUXpKcVBreklxWV9nWllLeFhHLS1kb0RTd0ZPWGloMzU5b0g2SXJNcmhHMHJDQnJqR2hjQlZfc0NZRUp1c3A4Wk8zVEd2NUVra2QtQ1FKN0dpSl9OLXd4c09JQ2pZc29tNUpzbzlLQi1uU0EzTlNNRHZKeDh1a0xPLVBXNnV6WDAyZEE4Smd5OVE?oc=5",
-      "description": "Hantavirus case was diagnosed in the 1980s in a Lufkin hospital &nbsp;&nbsp; The Lufkin Daily News",
-      "source": "Google News",
-      "date": "2026-06-06T05:00:00+00:00",
-      "raw_date": "Sat, 06 Jun 2026 05:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
+      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
       "source": "Google News",
       "date": "2026-06-06T03:30:52+00:00",
       "raw_date": "Sat, 06 Jun 2026 03:30:52 GMT"
@@ -404,6 +356,54 @@
       "source": "Google News",
       "date": "2026-06-04T23:32:05+00:00",
       "raw_date": "Thu, 04 Jun 2026 23:32:05 GMT"
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRktvd2xiNHJPU2dCeXhfTVNHLWhfNzlHc2NyTHdxUF83UThDTjlUd2dUTzdJWEJ2S2tJR1N5bUdVUFprQUUxemhCLXZmdDhYMGpyLVZMZTIzbHBwNlFYbWM0TDB5c3BKQl9tWlRyNHFxelV3amctQTIxOGNsakdoOU4wRksxZ3BGQlp2eGRSZGpHcThBcTlYUWRvbXB2Vk1vWXVEU0hfd2F5U3p3T2M5NXZKWWJfb0JZOTdjUjMwdnV2NlliM29zejItcE1kcURkMTBiVWdiTDdQLXp2MFNaTldvR3BhbnVEeDNEc1JFcGdac1VqMjhzNnFyUWZhNXpuZ3J0ejJFaGVob2xROTJJNENxdHVFVUJFdmp5eVoya0dmS1N4?oc=5",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-06-04T12:00:00+00:00",
+      "raw_date": "Thu, 04 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "5 People Leave Hantavirus Quarantine in Omaha - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmE2WlBtWW92bXdOR1U4eXVucDhUSVJhSF9yS2dTeTlueVJ3dGpBMlI5S2RGMUpZTl94bnNzLVhUcDJGVFZya1FLREdmcVIwWFE2UVJPbFNyeXZtNWV0LW85dEJQVzZldXV3X1JqVUFrbGFkVFdBZ1Y1dmtWYjhWcDJKTzFSUQ?oc=5",
+      "description": "5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-06-01T07:00:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Mohave County health officials report first hantavirus death in Kingman - FOX5 Vegas",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRURCVnVWa0VIeng2MERFWVJpcHpyUWVFXzNwbEpKWkE1elZnNTFjc1QtY2FyTUdBNzc2eS1EbU9YZGx6TS1ZblNhSUo2Ml9TVzBINTY5cFdtRnMyUzNIUHRxd0tfUDNmc2x1VnIxRXAzUXdyTExQZjVMLWpiLVRCTF9aa2E1YUlkWEREUGg2a2VEYjJtNEJDVWlYVXZTNEtjTWdwNnV1QzdOQdIBvgFBVV95cUxOeDJzVVpTZkhGVHVuNm9aV3QyOWw5QU96bC1mNFpKWl9qbXlxN3JWT0F0aTJ1UWtPVnEySmE5R1h6d3EwenpkRjd2TXEtb0ttZ1gxeUlPNDNVTTlkLV9pWEViZHlCWkR6cmxGMlJESTBpblAxOEF0MVdvTUhpekE4T0p0dTM4LXpBWWFiNTE4UDgzWlc3VmdYRmRVMTlFSllLbm41WjI4SGRYNXo3RjBNVzJnUjJxX0xsLUVvVmVR?oc=5",
+      "description": "Mohave County health officials report first hantavirus death in Kingman &nbsp;&nbsp; FOX5 Vegas",
+      "source": "Google News",
+      "date": "2026-06-01T07:00:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus kills Mohave County resident - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnhVZWlkUUg4Slo0RzV1OUE1eUt1YkVhOHNYSGdkeWhPZmJMWmpXVDVuMGRpWk5VSDBSdVkybDJGdXBXNjEzNEJmNVhlRDBKU0VOVWZKUklTYmtQRFZzNHl3S1ptNkc1MlZEbG1sV21wUUtWaS1RNzl4R0ZjNUE1WlQ3aHBXZWNobjYtU1hSeDVrMWtZQks5VDNNV2M4bmvSAaQBQVVfeXFMTlB5d050U2pBd0NKN1BubV9FQWc3Yl9ONGk3ZUt5SGNYc08xdGtFRmp5Q2lfa040dUVVNm16NndJMmFleEpLZFZCNzdmajFreWhORXZjYWFpSGU0ZmxGTVNuSGNad3JtRk9GZ1RhUW1zcVo3ZG9NT2VaTVlXVVc2MU5QaGZqMUJWbFhaSWNyTDlidjJRTVEzS0RHTlBLVzBuN09nOUw?oc=5",
+      "description": "Hantavirus kills Mohave County resident &nbsp;&nbsp; FOX 10 Phoenix",
+      "source": "Google News",
+      "date": "2026-06-01T07:00:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week - WSLS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0VNRnJmcC01U2JBVEptSWdVbFd2SExPTkVxTHdJbFlxMFZZaGw4Tk1rdTl0eUZ2OW9GU1BKNEt1OThHZTBvY2tqRnRNVG1jZ1pmeE1SSGpGMmpLenR4ZUNleWViUWlTTkxHU29XN0h4WXN1RkdoSmMxVlFvNEk5WlZJOW5lN2FHamV6cVZyVlR2VDdlZ3V0VGpST1ZyRHdwQmVWdjVtM1o3NnRockIycWRXQ2tNcTVWQWg2WGZtNXBlTUF5dk9z?oc=5",
+      "description": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week &nbsp;&nbsp; WSLS",
+      "source": "Google News",
+      "date": "2026-05-29T07:00:00+00:00",
+      "raw_date": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Exposed Hantavirus Patients Could Go Home—If They Agree To 24/7 Surveillance (Latest Updates) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMUJJQ1V1NHdEeFlydkV2X0o5SHk2QW1EYXNHZXRETm9QeHNtWHNKQnVFT2JOLWpYZzYyWTc3bEMtUTdlNGRVczBtelljcHlfanpBUEtZSlF5TjJBLTljWW5RRWpwOUtFMkkyMmhXT0owM2FUaGdydDRySTZiTWNLNmE5ZVd2YUZVTlQ3bENSdThabEd4YXNCSzI3MUg3Ym9uREt5Nm12OEVpX3F3QXdPSnd0UjJOQ3g0M0Z3aDljMi11d3RneXA0eG1KNTR0ZzkxRzdnNE1oaENweTNGNUlzVDBkWGludXFrVS1VUnJoZHJKZndQMHBjTQ?oc=5",
+      "description": "Exposed Hantavirus Patients Could Go Home—If They Agree To 24/7 Surveillance (Latest Updates) &nbsp;&nbsp; Forbes",
+      "source": "Google News",
+      "date": "2026-05-29T07:00:00+00:00",
+      "raw_date": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ]
 }
