@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-13T03:54:27.441732+00:00",
+  "updated": "2026-06-13T07:49:54.269315+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
     {
@@ -13,6 +13,14 @@
       "source": "Google News",
       "date": "2026-06-13T03:39:43+00:00",
       "raw_date": "Sat, 13 Jun 2026 03:39:43 GMT"
+    },
+    {
+      "title": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHhIODFQNDR3NXY3QmNjaUtFV1BCbjdqeTdjSnZ4cDdRZXl3ZWJfZ245S1ZKV0FNWUJsSExDSld1N1BTdFBkOEpDel9xOUR2dHh3dEhqbjVEcWJ5cGtCWHl2UmxIaXRhcDI5TGNLQU5DOFlsTnY2MTJ5VDZVUVpoNGZrUDR3bEZwOTRpTnZqbWVoNjNuVHpaUVpNRTlQWThDQWIyOUZuUS1yMHNVMjA2SmFVY25RUjBzRC0wekR4Mkc1XzTSAcgBQVVfeXFMTjNhX1hnX2VJbGZ2TnNmVlp0cTdObUQxT0M3TUVRQ09zejVGMldjT09MLWJ0Zk5QMmZJZUs5dWZJXzZEMzAwZHdsc3M1QXFkMmpidThuM0FoT3V3M2pOdElkWGJ6V1J2aTlxQ1ZtY2VXWm5ObWtTVGdNNjFHZTBmYnZPZnZMUW5vUDJYeU1FZ0JVc3Z1NGdUdXdtdmJ2VXRnXzFtdUNWVFBfdndFeGZ4UDl4OGNhbjBqSGhTVVdoc1cwVXJoR1dSVzg?oc=5",
+      "description": "No hantavirus found in second Argentine province: ministry &nbsp;&nbsp; ET HealthWorld",
+      "source": "Google News",
+      "date": "2026-06-13T02:13:39+00:00",
+      "raw_date": "Sat, 13 Jun 2026 02:13:39 GMT"
     },
     {
       "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Prescott Daily Courier",
@@ -29,6 +37,14 @@
       "source": "Google News",
       "date": "2026-06-13T01:06:25+00:00",
       "raw_date": "Sat, 13 Jun 2026 01:06:25 GMT"
+    },
+    {
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - WCAX",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXgxX29DSjlBOXNoSkFHVk8yNEVCd19xdEZGRnlfRFZFUjhJdE01MkgzYUVHQjF1VWRsdUhPaldDMDRxU2stcV9obURpSFVNTmptc084ZmYtN0VaSmQ0bEo1Y1ZRN0tFTVI3U29kZFc1RUJ3MWQ5bXFaZWszWVJOTHhVaHZjTXd0VzMtTUc0eUZGTnl2NXRGRTBxQUlPQlppdko3S2VlYWxhTmRRZjZJVUdLQldKOTVueEk0VHpn?oc=5",
+      "description": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; WCAX",
+      "source": "Google News",
+      "date": "2026-06-12T23:37:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 23:37:00 GMT"
     },
     {
       "title": "Officials say possible hantavirus case in San Quentin prison was false positive - The Daily Gazette",
@@ -55,14 +71,6 @@
       "raw_date": "Fri, 12 Jun 2026 22:30:00 GMT"
     },
     {
-      "title": "Hantavirus ruled out for San Quentin inmate - Marin Independent Journal",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnp6V3hjV2pjNS1fR3VRSjZQMXBVY1ZVbGNEc2JNMWFwYzd2cV80ZllsQ1hyRmJva2dnWXhZMFlEWXFsZV9UNzdZZWpjeE9GYktMNkFqd2RlMWNfVzJsaE9vUkZVdU9pSWk4VmpXcGxkelRheHJDSGdvWkV1VTFtYWNuY1ZhQdIBiwFBVV95cUxPenF3Yzl2MHpQb09NMC1jVEZvVXRCcGdGWTFMcnlSMDF4ejdqUk1MeDh2Z0V3WXQ5bm1jRG1SRHJkSUpnVXEtcjVLVlFXdWJldW1vdWxtVHh6d0FzWXZnR3FfdlhkbkVYaHBVQ2c2NllrMmV0bjMxdTNsQ0lmekZfRno3c2tNZmVzdWtR?oc=5",
-      "description": "Hantavirus ruled out for San Quentin inmate &nbsp;&nbsp; Marin Independent Journal",
-      "source": "Google News",
-      "date": "2026-06-12T21:46:13+00:00",
-      "raw_date": "Fri, 12 Jun 2026 21:46:13 GMT"
-    },
-    {
       "title": "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnhoX0kwYUVMUjhEX2dtLWtBazdtVlJRaWhRV21jNTlINlY2YWVSTkV3RkdzejR6N1lqa0pJUUdBeHlKV3UyNjlGN1J4TXRtZExnY0JGMkdYYmVpRVByOVFmQ3psM3hUanRtZzJHSHdadFZvOHJhMHM4bGd5MWdsXzhXQXBuckFKRkxSb3RHaUVGUHRjcml4eGM5Ml94ejdWVkRLdTZuc1N6WjZONVN6MlZLalpPdw?oc=5",
       "description": "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat &nbsp;&nbsp; Eurasia Review",
@@ -77,6 +85,14 @@
       "source": "Google News",
       "date": "2026-06-12T21:22:44+00:00",
       "raw_date": "Fri, 12 Jun 2026 21:22:44 GMT"
+    },
+    {
+      "title": "Hantavirus ruled out for San Quentin inmate - The Press Democrat",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXBaejVfVU54OGt0RU52dmdZQTg3WnZxMnVxc0k2Ml9pQkVGLUV0R282OWpuN0lYaXlTZmFJSWlTR0VDVVRmRHpNOTdMSkY4d182cW5nbjllaklGUEVyaG53aE4tWWlIeVBUUmtGWGlRRXQ1WG04VXp3dFhVWlpWc2trRjdEUi1oM1p2czlR?oc=5",
+      "description": "Hantavirus ruled out for San Quentin inmate &nbsp;&nbsp; The Press Democrat",
+      "source": "Google News",
+      "date": "2026-06-12T21:18:52+00:00",
+      "raw_date": "Fri, 12 Jun 2026 21:18:52 GMT"
     },
     {
       "title": "How Hantavirus May Expand Cruise Ship Liability Concerns - Law360",
@@ -389,22 +405,6 @@
       "source": "Google News",
       "date": "2026-06-11T10:00:47+00:00",
       "raw_date": "Thu, 11 Jun 2026 10:00:47 GMT"
-    },
-    {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5",
-      "description": "Possible hantavirus case at San Quentin prompts testing, decontamination &nbsp;&nbsp; San Francisco Chronicle",
-      "source": "Google News",
-      "date": "2026-06-11T04:48:21+00:00",
-      "raw_date": "Thu, 11 Jun 2026 04:48:21 GMT"
     }
   ]
 }
