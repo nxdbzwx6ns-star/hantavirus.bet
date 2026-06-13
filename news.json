@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-13T19:27:26.304073+00:00",
+  "updated": "2026-06-13T21:17:33.132899+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
     {
@@ -47,12 +47,12 @@
       "raw_date": "Sat, 13 Jun 2026 03:39:43 GMT"
     },
     {
-      "title": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHhIODFQNDR3NXY3QmNjaUtFV1BCbjdqeTdjSnZ4cDdRZXl3ZWJfZ245S1ZKV0FNWUJsSExDSld1N1BTdFBkOEpDel9xOUR2dHh3dEhqbjVEcWJ5cGtCWHl2UmxIaXRhcDI5TGNLQU5DOFlsTnY2MTJ5VDZVUVpoNGZrUDR3bEZwOTRpTnZqbWVoNjNuVHpaUVpNRTlQWThDQWIyOUZuUS1yMHNVMjA2SmFVY25RUjBzRC0wekR4Mkc1XzTSAcgBQVVfeXFMTjNhX1hnX2VJbGZ2TnNmVlp0cTdObUQxT0M3TUVRQ09zejVGMldjT09MLWJ0Zk5QMmZJZUs5dWZJXzZEMzAwZHdsc3M1QXFkMmpidThuM0FoT3V3M2pOdElkWGJ6V1J2aTlxQ1ZtY2VXWm5ObWtTVGdNNjFHZTBmYnZPZnZMUW5vUDJYeU1FZ0JVc3Z1NGdUdXdtdmJ2VXRnXzFtdUNWVFBfdndFeGZ4UDl4OGNhbjBqSGhTVVdoc1cwVXJoR1dSVzg?oc=5",
-      "description": "No hantavirus found in second Argentine province: ministry &nbsp;&nbsp; ET HealthWorld",
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Prescott Daily Courier",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTGdHY2NSam9jUzAyX2oyX3p4R2g3MUFTZ3d5Y0hTazhuOHpjYzBRX1ZBZkxiZ09nem02OUlPNUZxOFhPNEdxWFlqdnJNMzZLUEtocmtEbmoxdHZoeU5hTnZiTFJLay0xQlAwQWMzYWd0NFhzSVI3MlpOY2JqY1d1WkZ5ZWpuNkhzM0o3WnA4VzJlWVVIVktxMmRoRC1DdU1EQnp1UDFVb0RzRUV0eXJvaEJnU044Nmc0cFRhMHRxU2JKLW03RFBqUllXQ19CVEJMRTR1NXhmZUw0eGZ0a2NYVGJvV2lrR2hJX01IcDEtWm1waFhq?oc=5",
+      "description": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Prescott Daily Courier",
       "source": "Google News",
-      "date": "2026-06-13T02:13:39+00:00",
-      "raw_date": "Sat, 13 Jun 2026 02:13:39 GMT"
+      "date": "2026-06-13T02:00:00+00:00",
+      "raw_date": "Sat, 13 Jun 2026 02:00:00 GMT"
     },
     {
       "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
@@ -61,14 +61,6 @@
       "source": "Google News",
       "date": "2026-06-13T01:06:25+00:00",
       "raw_date": "Sat, 13 Jun 2026 01:06:25 GMT"
-    },
-    {
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Cleveland 19 News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3ZfMXZ4dnJuZVdKWHNYeHo4eHBhR2RsMXlVM2gxZkd1SDhHV19CbXhOcFhXbndXMmE1Q3ZYNlVOUExEVmxrNnFXWnRKdUk1U3h2d1pVbGlKWFk2QXhZWTBTbWRZd2ZhR0l5X19Fc09GNnQ2X1NpMjJYS09IeGNFdS1xc1MyaTJCY29SOFI1T3FjODBJQjBQV0pKYUFoc0N5OGFMZmJ1a1F1Z3hZck1zMjJCb3pzMnl0LWNIbFlGMHRMel81YWZ3?oc=5",
-      "description": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Cleveland 19 News",
-      "source": "Google News",
-      "date": "2026-06-12T23:37:00+00:00",
-      "raw_date": "Fri, 12 Jun 2026 23:37:00 GMT"
     },
     {
       "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - KKCO 11 News",
@@ -109,6 +101,14 @@
       "source": "Google News",
       "date": "2026-06-12T21:41:00+00:00",
       "raw_date": "Fri, 12 Jun 2026 21:41:00 GMT"
+    },
+    {
+      "title": "No hantavirus found in Mendoza Province after tests - Buenos Aires Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzZ1SHNlcVpqUTY1ckFRV3FUeFVUaTVZN1ltZlVTdjdFVnZMQjdKeE40ZW42WnYzTzRSSnZuWTFNZExjRHJKYU13SDRqWEZIdmxMdGMzWEV1WjNBZ1BSR1dUVWJxSEg2NUtUdnBHS2lrTHZMV1RjYVBxQU85blRVNy1FUWhMREI3dDJWNjl5cEdodWhLQWdlaTJyNU11YWsxcWNpZUNSdno2YnlYaWVTMVpiVzJUWjBEWFFxbNIBwgFBVV95cUxNalNJcFROZVlwSmZXZmtUM1JkQWhGVUFxNDdqVGwwTTRMWTZXOGhacWI3VUN5Z0FPU2ZmVWdoTXNURjNLZjJvN2FXX3VOWFFYb2tWRWl1a25Ja3VyajJpVEJZbEhfMHloUFBPRXNTTHdFZFZrTHhfYndQeUZac0p6dHFhamhGX094QzBKN1g2bzZyOGdTT1JTZVNlOUwyM0pOOU44aHVkcVZxUGN6ZU9PM1Z2bVltLXpad3hEdVE3Zkd3Zw?oc=5",
+      "description": "No hantavirus found in Mendoza Province after tests &nbsp;&nbsp; Buenos Aires Times",
+      "source": "Google News",
+      "date": "2026-06-12T19:54:27+00:00",
+      "raw_date": "Fri, 12 Jun 2026 19:54:27 GMT"
     },
     {
       "title": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas - Pan American Health Organization (PAHO)",
@@ -167,20 +167,20 @@
       "raw_date": "Fri, 12 Jun 2026 15:01:18 GMT"
     },
     {
+      "title": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight - The Cool Down",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTW82RnUzYTdVamtUcmFQN01kSE1ZNUVkT3FsVThvZFctX241WmtaeGJXY0RyOFpfSU54UXNVR1NhWmRCLVZtOWhMdHZmbEM5R29mYnRSaGJsOWVmOEdhRGtMMmctckV0NWNwU0FOUk02dnd1bUdPNHlvQTl4SXg2eTBoUU1hRkRyc2c?oc=5",
+      "description": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight &nbsp;&nbsp; The Cool Down",
+      "source": "Google News",
+      "date": "2026-06-12T14:39:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 14:39:00 GMT"
+    },
+    {
       "title": "San Quentin prison reports possible hantavirus case - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BmZDdZa0hkSGFNUGdEWEY0cjh5TTFSbmI0bzAxSWhxMHUzM0tzUVU0VDJFS3BuTGhhcmZjWkV0bE9JblFDZlRIcTdsdXM1SVcyenphQ2R3MlRiQ0hxVC15T1poM1BVQjU2QkQ1YnZtUE1tMnFtakxZaTIxS0JSb0Y5NjBMZ0hibV95Qm9XTkR5NVduSXfSAZsBQVVfeXFMTkh1UnYtZXZxeEluU09hSlBJM1dWMHB3T3k0ZTJxWlFYXzY1TElRNlJGSXlfLXpwR0c0a1RnbURSRWF0SVBibHBKT1JkOWRSQmlsYmFYazYtd3E1NWw1bGFXSEJCeU9UcTNYb25TLS1PazRzeUNaLXBQU191WnhpMllQcVhlVld2NEc1T1llejVQMkNMREMxTWloRk0?oc=5",
       "description": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
       "source": "Google News",
       "date": "2026-06-12T12:25:57+00:00",
       "raw_date": "Fri, 12 Jun 2026 12:25:57 GMT"
-    },
-    {
-      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
-      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "Google News",
-      "date": "2026-06-12T09:09:27+00:00",
-      "raw_date": "Fri, 12 Jun 2026 09:09:27 GMT"
     },
     {
       "title": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
@@ -359,14 +359,6 @@
       "raw_date": "Thu, 11 Jun 2026 16:52:00 GMT"
     },
     {
-      "title": "Kylie Kelce Says She's Been 'Angrily Bleaching' Her House After Mice Infestation: ‘I Don’t Want Hantavirus!’ - People.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWlNMG8xT2hTVGR2dzB0amt4ZTdvS2k3enByaGxBWkdWajRRdUFkM0hza1RrUWVIQlhVVEQ1bno4S2NwQ3JrcFp6WTBrWHAxSk4yOWVrRTAwZ09tQklJcTFPT3NraDM0UUpueEduODh2OFo5YWNmNHpPNi1sSXQ3RE53dklLOGpBX0txdHNR?oc=5",
-      "description": "Kylie Kelce Says She's Been 'Angrily Bleaching' Her House After Mice Infestation: ‘I Don’t Want Hantavirus!’ &nbsp;&nbsp; People.com",
-      "source": "Google News",
-      "date": "2026-06-11T14:27:36+00:00",
-      "raw_date": "Thu, 11 Jun 2026 14:27:36 GMT"
-    },
-    {
       "title": "Hantavirus: Is it a New Coronavirus? - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpBZXdHOWYzWndsRHYxX1c0TXhacXRObDlSVDVzaVIzTm1yWnZxU25EZ2ZVNmJBU1cxMVR4ak5mRVM4bmdLODBudFZYcFItM1NVTmdhREpLU3NMNHhWTjVraUdXbUVuWWxvY1ZkanV6Z2ZJRFlacWdqNm1QNkdMSER3?oc=5",
       "description": "Hantavirus: Is it a New Coronavirus? &nbsp;&nbsp; The Media Line",
@@ -405,6 +397,14 @@
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5",
+      "description": "Possible hantavirus case at San Quentin prompts testing, decontamination &nbsp;&nbsp; San Francisco Chronicle",
+      "source": "Google News",
+      "date": "2026-06-11T04:48:21+00:00",
+      "raw_date": "Thu, 11 Jun 2026 04:48:21 GMT"
     }
   ]
 }
