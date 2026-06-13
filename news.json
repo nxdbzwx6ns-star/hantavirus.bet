@@ -1,11 +1,27 @@
 {
-  "updated": "2026-06-13T12:26:38.033945+00:00",
+  "updated": "2026-06-13T15:01:41.623808+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "PAHO"
+    "PAHO",
+    "Google News"
   ],
   "articles": [
+    {
+      "title": "Radboudumc lifts quarantine for some staff after hantavirus exposure - NL Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFlUTRhWjROOTBJUjVoTXhIM1ZXMG1YNE1ybGJWYjVjc0NuZE0xVWl4bFdVUUQ1akJEWFd6NkxaNkxodE14Tmd3aG9PZXZzWk8xQU10LV9tQWd1XzMzNkdHTUxGZ2p1WVR6aTVNWXdqYU5wd1lmRVZ0Y2JfNEJpdVVhYTRPY0RRQWM4?oc=5",
+      "description": "Radboudumc lifts quarantine for some staff after hantavirus exposure &nbsp;&nbsp; NL Times",
+      "source": "Google News",
+      "date": "2026-06-13T14:55:00+00:00",
+      "raw_date": "Sat, 13 Jun 2026 14:55:00 GMT"
+    },
+    {
+      "title": "Rodents can spread hantavirus and spark fires in your HVAC if left ignored. Here’s how to protect your home - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVdNaVJrbDFTS1I4d080bko4eUJNMXg3eFI4Qy13dk56eHBkR3FwT0w4d1RCMm96b2ZSMTlWYm51U0VnRFRjbjJ6MlBiUnB5ZVRKOWVycVNWeEFURElNcWJGck83T3lHNTduVDB0T1Voc1hrNGZ4UWliQndiUFFnZmE2UkxQek1wMXBxZDYybw?oc=5",
+      "description": "Rodents can spread hantavirus and spark fires in your HVAC if left ignored. Here’s how to protect your home &nbsp;&nbsp; Yahoo! Finance Canada",
+      "source": "Google News",
+      "date": "2026-06-13T13:30:00+00:00",
+      "raw_date": "Sat, 13 Jun 2026 13:30:00 GMT"
+    },
     {
       "title": "Tools to fight hantavirus show promise - Jamaica Gleaner",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTRKM014WGlnOTVfM09HV3lWMEVtY3RmSUJXc0JNRzRqNFNNRlhoVUxRSk5oNFZqNEdkZFp6c2NzMjFiUkFadzZSSkUzWEViYUM4d25SSlV2ek5iTkhSWEJwR1hUVHRRWThKVFBBQktDMUhXTmw1R3FWcWZGaWtTNlVrT2p2dk9yM3Y1Vw?oc=5",
@@ -367,14 +383,6 @@
       "raw_date": "Thu, 11 Jun 2026 16:52:00 GMT"
     },
     {
-      "title": "Kylie Kelce Says She's Been 'Angrily Bleaching' Her House After Mice Infestation: ‘I Don’t Want Hantavirus!’ - People.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWlNMG8xT2hTVGR2dzB0amt4ZTdvS2k3enByaGxBWkdWajRRdUFkM0hza1RrUWVIQlhVVEQ1bno4S2NwQ3JrcFp6WTBrWHAxSk4yOWVrRTAwZ09tQklJcTFPT3NraDM0UUpueEduODh2OFo5YWNmNHpPNi1sSXQ3RE53dklLOGpBX0txdHNR?oc=5",
-      "description": "Kylie Kelce Says She's Been 'Angrily Bleaching' Her House After Mice Infestation: ‘I Don’t Want Hantavirus!’ &nbsp;&nbsp; People.com",
-      "source": "Google News",
-      "date": "2026-06-11T14:27:36+00:00",
-      "raw_date": "Thu, 11 Jun 2026 14:27:36 GMT"
-    },
-    {
       "title": "Hantavirus: Is it a New Coronavirus? - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpBZXdHOWYzWndsRHYxX1c0TXhacXRObDlSVDVzaVIzTm1yWnZxU25EZ2ZVNmJBU1cxMVR4ak5mRVM4bmdLODBudFZYcFItM1NVTmdhREpLU3NMNHhWTjVraUdXbUVuWWxvY1ZkanV6Z2ZJRFlacWdqNm1QNkdMSER3?oc=5",
       "description": "Hantavirus: Is it a New Coronavirus? &nbsp;&nbsp; The Media Line",
@@ -397,14 +405,6 @@
       "source": "Google News",
       "date": "2026-06-11T12:20:26+00:00",
       "raw_date": "Thu, 11 Jun 2026 12:20:26 GMT"
-    },
-    {
-      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - Flatwater Free Press",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOC1BZkxob2tTTkZnQ09FVWEwNnFwamxqYnBnbU1oaExfVFNOdDMxaHNDSlBxZ1ZmNFVSZnI1MmNUWWxkaERLSkRINEFWa252NU9Bd0JURnEtemhzY20teFhuUW9wTkFOZ2NJVmJBQW80UF9JMkhCSXhicXJoWFREOHQwSmgtYjVBem9hdm5DZVUtYllvc3JGdGdMcE5QZVgxYk1DZUkxWWFyOUdNNGt0b2wxcjlBQQ?oc=5",
-      "description": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine &nbsp;&nbsp; Flatwater Free Press",
-      "source": "Google News",
-      "date": "2026-06-11T10:00:47+00:00",
-      "raw_date": "Thu, 11 Jun 2026 10:00:47 GMT"
     }
   ]
 }
