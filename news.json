@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-14T04:13:03.374424+00:00",
+  "updated": "2026-06-14T08:41:21.888252+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
     {
@@ -37,14 +37,6 @@
       "source": "Google News",
       "date": "2026-06-13T13:30:00+00:00",
       "raw_date": "Sat, 13 Jun 2026 13:30:00 GMT"
-    },
-    {
-      "title": "Tools to fight hantavirus show promise - Jamaica Gleaner",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTRKM014WGlnOTVfM09HV3lWMEVtY3RmSUJXc0JNRzRqNFNNRlhoVUxRSk5oNFZqNEdkZFp6c2NzMjFiUkFadzZSSkUzWEViYUM4d25SSlV2ek5iTkhSWEJwR1hUVHRRWThKVFBBQktDMUhXTmw1R3FWcWZGaWtTNlVrT2p2dk9yM3Y1Vw?oc=5",
-      "description": "Tools to fight hantavirus show promise &nbsp;&nbsp; Jamaica Gleaner",
-      "source": "Google News",
-      "date": "2026-06-13T10:03:23+00:00",
-      "raw_date": "Sat, 13 Jun 2026 10:03:23 GMT"
     },
     {
       "title": "After hantavirus exposures, 3 Kansans complete observation period - The Topeka Capital-Journal",
@@ -111,20 +103,20 @@
       "raw_date": "Fri, 12 Jun 2026 19:54:27 GMT"
     },
     {
+      "title": "How Hantavirus May Expand Cruise Ship Liability Concerns - Law360",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJwMlFKUGJoRzkxWGtTeGxkNndZSWhWTUpVRVJfRUFwTUEzRGd2VHhwQVNCRG4taEMxWmRDTUpJaVlEX0dBVFpHcS1aLXR0OUxKY3J5bzlDOHFMbWh3Q2VxdEpUc1czWEl2aGQ1aEI4WVJ0Mm9nLWNMOVFUM0NQaXhSVGNpVWpuQWlGTDByOGl2Sm9BQUZjanhIX1bSAVZBVV95cUxOSFhEdEJrMlF5WjdSM3ZDYVZfRlAwcWpnbldCNmNZWWxDMHYxX0l1ZllleWVRZ2FnSGRzdV9oUlUwZFluTE9pOV9NaVZ5Nl9XN0c5RDVmZw?oc=5",
+      "description": "How Hantavirus May Expand Cruise Ship Liability Concerns &nbsp;&nbsp; Law360",
+      "source": "Google News",
+      "date": "2026-06-12T19:41:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 19:41:00 GMT"
+    },
+    {
       "title": "OPS y socios fortalecen la vigilancia del hantavirus y otras fiebres hemorrágicas en las Américas",
       "link": "https://www.paho.org/es/noticias/12-6-2026-ops-socios-fortalecen-vigilancia-hantavirus-otras-fiebres-hemorragicas-americas",
       "description": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas Oscar Reyes 12 Jun 2026",
       "source": "PAHO",
       "date": "2026-06-12T19:23:14+00:00",
       "raw_date": "Fri, 12 Jun 2026 19:23:14 +0000"
-    },
-    {
-      "title": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms - Hanford Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSHUzV0F1RktJQUdldkRzckpiaWtDbFZsN19xdUluQzVmY0xBUFJTUTlLMHpXRkJJMEI5T3dRX0FGOWlienJ5QW1QSVhXbURQUGNWWDBzdUl5WFZzeklRNHI2b29PVDY2bVl5M3E5cXNJc2lvYkVNck9vaXVJR1F3R3lIZjNJZEx4QnlQOVRNT240Z3FaeVJpYzgwMEp5Z3Q0NE42ZzI0Z21SRTZJVncxekZpTWJxS1FZRW1mbWNldnZKdnU1OU1rcEtEWVlQWnRMMUt6ei1WTkk4WDdaclhMa0pybXlXTEVsOFU1am85bExNdzYtSS0tNVUwX2w3RFhkdTJfZ3JEOFJKYVBqaG5vY2trZUNzSVlXSmp0WEd1NmxBeDQ5UWJleXMtWFPSAbICQVVfeXFMTlVDeWJNU0gwV245bjFqVUpSNThIVW8wNldmeDBqbW50bng5T0o1T2pzYlJRaUs1VE1sS0xWcVNNVktaVFVnb1JueG90YmpXbnRlcHpSY0ZFVkhiYVVSdzgxSk02ME5BTEdDSnhMUUFuQjRpV0RqQW9maVN5YUZHamRLNHc4aXhEVVBBLU5DRU5jY3NBZFhIb3NHQVd6MndXR2N0c2x3LXc5R2YtZ2FJa210NXJBdmxQMXYwMTBFV0ktNzhLLXAyY205MC1NNW51NDZfbHI3cHo5UHRnSXJJaDBMUlNueXVIUzJRcDBSUUZpRWVEYTl3QzhuQkNNcG9PaUZ3dExiV3pSNTVHV0kwWDRrYkg0RnhSR2tJOUg2T3Yzbmt6eDNGc0pwaEhhVk1BaGxn?oc=5",
-      "description": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms &nbsp;&nbsp; Hanford Sentinel",
-      "source": "Google News",
-      "date": "2026-06-12T19:16:00+00:00",
-      "raw_date": "Fri, 12 Jun 2026 19:16:00 GMT"
     },
     {
       "title": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model - Genetic Engineering and Biotechnology News",
@@ -239,14 +231,6 @@
       "raw_date": "Thu, 11 Jun 2026 20:25:00 GMT"
     },
     {
-      "title": "Kylie Kelce Bleaches House After Hantavirus Fears - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0phdjI3aElVN1ZoWXRENGpCd0JNM2wweGNvXzBUR19TOGVQVTQyeXhDdjFneHY1c01yMENsQXJrY0ZzQS11Ukdlc1Zkbk8xb0d2MjEzTGFUSkh5M3dqTnVmZWM3c2V5bGdtRWMzOXM3SGJKcl9ZcTJYTi02SExDNUlKNVpNUHdhTHhoeHQ1UC1nZjFSeXE3QlFLNWN4QXhGZmlBMjRiX0JMeVk?oc=5",
-      "description": "Kylie Kelce Bleaches House After Hantavirus Fears &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-11T20:22:21+00:00",
-      "raw_date": "Thu, 11 Jun 2026 20:22:21 GMT"
-    },
-    {
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
       "description": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine &nbsp;&nbsp; NBC News",
@@ -277,14 +261,6 @@
       "source": "Google News",
       "date": "2026-06-11T18:19:19+00:00",
       "raw_date": "Thu, 11 Jun 2026 18:19:19 GMT"
-    },
-    {
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRDVfWGhJTC1fcE52bGJLeWFQUE56OXdISUdiaGJ0UkxxbUVNVXFQR0xfMFdoc255bHpWRW9iUmhsNU96TGVfYUVHaloxeklYaTEzV3VVZUVrMXp4VkgwbmdCSjNVQUJMNUpwZ2RoQUQxdE9uT184NFdGd25aV2Q1WmUzeTdIc3E3VmdTcTNNNEE5eDF2aHlMb0VYQk8zRlhNTm1UbTNfYmZnV1RzUlBaa041MndjbzZuQ1dnaV9KbXMtWnhPeXp1S29kLWFaZGxZUG93WjZEaFJ1SU9ndENYS2p2YS1aZ08yQmdqVUpkZTZieGRnT0xJM1NR?oc=5",
-      "description": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; The Killeen Daily Herald",
-      "source": "Google News",
-      "date": "2026-06-11T18:16:04+00:00",
-      "raw_date": "Thu, 11 Jun 2026 18:16:04 GMT"
     },
     {
       "title": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
@@ -405,6 +381,30 @@
       "source": "Google News",
       "date": "2026-06-10T10:30:43+00:00",
       "raw_date": "Wed, 10 Jun 2026 10:30:43 GMT"
+    },
+    {
+      "title": "Bowie County expert says hantavirus rare in East Texas region - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhzX2tCN3ctWVZTSklGNzZzUThvUElqOWtRM0ppaGJEbG4tWlhudC14ZU1ZMnNDR3FYOW1WRGVoZmtvU2VDSkZVQTYwdXZQSVY0eE9LWGZtbTFQbnRxM2xoRC1yX1luakFITGRlRzlDNGVtamM0NWRSc3lqbDZJMF9HWkg1SkYtRXRCSXlPUjcxaWZGOTVEMmEtRFFYQWk2?oc=5",
+      "description": "Bowie County expert says hantavirus rare in East Texas region &nbsp;&nbsp; Texarkana Gazette",
+      "source": "Google News",
+      "date": "2026-06-10T03:00:00+00:00",
+      "raw_date": "Wed, 10 Jun 2026 03:00:00 GMT"
+    },
+    {
+      "title": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak - Nebraska Public Media",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEcxRTRUNUNaX0dHTHp2T3ctUnZPbG1FeXNVNThDTXJma2lHRjZJV2oxYzltcVF6QWVHTDVhRW5FVWdSbHVSOHo4bEtSdTdVc2dta19Idi1UbG9RNlR4eGU0akpTdklFaFpQZWdYUm0tQS1HTnlMWG4zSDhTai1xU25lTkhWRzhWNWRLcTFhUE5CZkd6eVZIVzlod3lpQ0FleGV5TEEtcFRSRTNYZ3Y2amFPOFc?oc=5",
+      "description": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak &nbsp;&nbsp; Nebraska Public Media",
+      "source": "Google News",
+      "date": "2026-06-09T22:37:10+00:00",
+      "raw_date": "Tue, 09 Jun 2026 22:37:10 GMT"
+    },
+    {
+      "title": "Three more passengers from hantavirus-hit cruise ship leave Omaha quarantine - KLKN-TV",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFB6dzNqWXlTUDZYV3lFaEZEUk5fb095VHRrWlBLVWZVOFZfRXpBdWwyclBTbXRvZXNqaXFNMkxqM2VSbGtZV0FDd0VJUjh5ZDJQUmU3WTgwNXJRaC15Y2QtOF9YSTJkeFJnWUVOaWg0MmlXT09RLW9kVmdkS2NBQTFxb1FrX19KODFUQUJuZkxJRzVtQzJ1UV9wbEd0a0U2X0E?oc=5",
+      "description": "Three more passengers from hantavirus-hit cruise ship leave Omaha quarantine &nbsp;&nbsp; KLKN-TV",
+      "source": "Google News",
+      "date": "2026-06-09T20:06:12+00:00",
+      "raw_date": "Tue, 09 Jun 2026 20:06:12 GMT"
     }
   ]
 }
