@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-15T18:27:07.601438+00:00",
+  "updated": "2026-06-15T21:44:18.109305+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "PAHO"
+    "PAHO",
+    "Google News"
   ],
   "articles": [
+    {
+      "title": "When Hantavirus Meets Mass Panic: Cornell Scientists on Trust and Future Pandemic Communication - The Cornell Daily Sun",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV00tX2ZUUTBrV1lCUUo4UWF1Z282M2hrTXNLQUptWGRqQ0FGYWR0ZDBGcUlLVUFadTJ3bGxLVExFaENvZGpRb05UNHB5cGtwYW1XaHp6SVV6RG4tY1VLT0FDVGMtQU1MTVpkTWhxRmU4WkZPLVkyNE5rMlhHTEtKWXZJWmkyVk9NYkpHV0RpZllRSFVLcElWY2lWVWkzX0NiVlZhbHFya1dnXzU5RFdTdFJRazZrdGNCS0dPTDYzTWZXWjM2bDY4aEROaVk1VEVGbS04?oc=5",
+      "description": "When Hantavirus Meets Mass Panic: Cornell Scientists on Trust and Future Pandemic Communication &nbsp;&nbsp; The Cornell Daily Sun",
+      "source": "Google News",
+      "date": "2026-06-15T20:21:13+00:00",
+      "raw_date": "Mon, 15 Jun 2026 20:21:13 GMT"
+    },
     {
       "title": "Successful Containment of Hantavirus on MV Hondius Cruise Ship - Oz Arab Media",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTluZUtwclR1aFBCb3c0QUo5bWk5RmswbDQ1LXFmTjU5Y3FfN1dncW9HdFc3ZzNyV0h2T2Q1ZmNtak1tMlF0S0JpbVI4SjJiTXFTc01Ec2Z5MDl6T0hHMmxKeURHNTE0ajdFaW1TNGtiRm5VRFp4T0hfRlhaY0lDakdvU1RDTGhCR3RZeg?oc=5",
@@ -53,14 +61,6 @@
       "source": "Google News",
       "date": "2026-06-14T20:14:01+00:00",
       "raw_date": "Sun, 14 Jun 2026 20:14:01 GMT"
-    },
-    {
-      "title": "Reductions in Funding, Personnel Will Leave US Less Prepared for Future Infectious Disease Outbreaks - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVElFMEtCS3duX2kwWGFGb3ozVk9IM0xMVURzWGVLeDM3bnFIZGZGU0I2OHdZaUtmNFY2cVVKMUJIUl9WRzIxU1BySzRoWDdnM09CSlZVNm9XUUlaOTNva2diOF9lOHFRdmpqVndDQnNRM1g0b0Rrc05EZ0Y5dkJoaXFGeGk2TjNPZnl3NFFMckM0WDVISy02TUhoQ2d5Z3RQbFNERjc0VjNhZXhFVnpJRjYxUmpqZjJCSGhtSUdwWUg1Q1VJa1ZsZXdFbWk3TWM?oc=5",
-      "description": "Reductions in Funding, Personnel Will Leave US Less Prepared for Future Infectious Disease Outbreaks &nbsp;&nbsp; Contagion Live",
-      "source": "Google News",
-      "date": "2026-06-14T15:08:26+00:00",
-      "raw_date": "Sun, 14 Jun 2026 15:08:26 GMT"
     },
     {
       "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - thereader.com",
@@ -221,14 +221,6 @@
       "source": "Google News",
       "date": "2026-06-11T21:15:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 21:15:00 GMT"
-    },
-    {
-      "title": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5",
-      "description": "Hantavirus fears reignite as suspected case is investigated in California &nbsp;&nbsp; The Independent",
-      "source": "Google News",
-      "date": "2026-06-11T21:10:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 21:10:00 GMT"
     },
     {
       "title": "Prisoner at San Quentin may have hantavirus, authorities say - Yahoo",
@@ -405,6 +397,14 @@
       "source": "Google News",
       "date": "2026-06-05T15:39:07+00:00",
       "raw_date": "Fri, 05 Jun 2026 15:39:07 GMT"
+    },
+    {
+      "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV9WYXctbkRkNHQxeTVCd2VsSHRfRTI0UEJVYVJNOERaVVpBOFg3SDZIdEpvaG42S3RNZ3R2NzVlcTNRd1NPeExsUzNnQmlLLVpyVnd3QTV0V0hiNjVFaU1mTGJXTDA0ZzZWRjRDSWtSOElBS042RmZKZnQtZEJuV0ZpX01SMXFFYURtcFRQYnAxT3piX3V4aldNZHBRbUdUUXlvTV9XdldvUmFGX1F2ME13VFg?oc=5",
+      "description": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-06-05T07:00:00+00:00",
+      "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     }
   ]
 }
