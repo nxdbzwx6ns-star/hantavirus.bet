@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-15T06:25:21.695143+00:00",
+  "updated": "2026-06-15T13:15:34.644419+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "PAHO"
+    "PAHO",
+    "Google News"
   ],
   "articles": [
     {
@@ -71,14 +71,6 @@
       "raw_date": "Fri, 12 Jun 2026 23:01:00 GMT"
     },
     {
-      "title": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more - ictnews.org",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUphWkExMUJtNTZkNUVwRnh6VWRDbjJwTEp0bXBpUHpBd0lJVktuc0k0Y3lxNmtwRW5qcG9mVHBFejU0SjJsZE9LOU5rRXh3eHhwYjFjWEVDczMzTW9KU2MzZllWRWpqTU02YVBlYUcxX2NFV09SUEllQ3JJQWs2QWZKYVEyYm9hTEFVcmdmcEJKcUFGai1waTdKTUFFVW9UWmllSWlveV9wMWpPZnVBYWM3bTVGWWVjS3k0?oc=5",
-      "description": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more &nbsp;&nbsp; ictnews.org",
-      "source": "Google News",
-      "date": "2026-06-12T22:30:00+00:00",
-      "raw_date": "Fri, 12 Jun 2026 22:30:00 GMT"
-    },
-    {
       "title": "Hantavirus ruled out for San Quentin inmate - Marin Independent Journal",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnp6V3hjV2pjNS1fR3VRSjZQMXBVY1ZVbGNEc2JNMWFwYzd2cV80ZllsQ1hyRmJva2dnWXhZMFlEWXFsZV9UNzdZZWpjeE9GYktMNkFqd2RlMWNfVzJsaE9vUkZVdU9pSWk4VmpXcGxkelRheHJDSGdvWkV1VTFtYWNuY1ZhQdIBiwFBVV95cUxPenF3Yzl2MHpQb09NMC1jVEZvVXRCcGdGWTFMcnlSMDF4ejdqUk1MeDh2Z0V3WXQ5bm1jRG1SRHJkSUpnVXEtcjVLVlFXdWJldW1vdWxtVHh6d0FzWXZnR3FfdlhkbkVYaHBVQ2c2NllrMmV0bjMxdTNsQ0lmekZfRno3c2tNZmVzdWtR?oc=5",
       "description": "Hantavirus ruled out for San Quentin inmate &nbsp;&nbsp; Marin Independent Journal",
@@ -101,6 +93,14 @@
       "source": "Google News",
       "date": "2026-06-12T19:41:00+00:00",
       "raw_date": "Fri, 12 Jun 2026 19:41:00 GMT"
+    },
+    {
+      "title": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNNU2ZhSm0zdFdwOF8wbFFQSVMwSXNhZTBabjk4NEloMG5Xd21Bbjc1Z3NQZ2dCOGpubERzNTV3YzNRM2loQUE0MVgzbTR4T2YzSjhfNm1ZeGsyODg1T24ySUJXdEhheWRSekl4eWVkQS1kb1lBNmlxYnJnS2tqbGJNeVpPdTVlSnptS2ltV0sxSWh2Z0ZJcC05a2p6TC02M084Z285T1BmSVhLMFBhTXhLdTZUa3RaX0NLdw?oc=5",
+      "description": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas &nbsp;&nbsp; Pan American Health Organization (PAHO)",
+      "source": "Google News",
+      "date": "2026-06-12T19:23:14+00:00",
+      "raw_date": "Fri, 12 Jun 2026 19:23:14 GMT"
     },
     {
       "title": "OPS y socios fortalecen la vigilancia del hantavirus y otras fiebres hemorrágicas en las Américas",
@@ -135,14 +135,6 @@
       "raw_date": "Fri, 12 Jun 2026 17:09:00 GMT"
     },
     {
-      "title": "Data is not enough: from Covid to measles, America must relearn risk communication | Lynne Peeples - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXpIZ2dJYVhvVHdzdXZXc0hxUE5nR3NoQm1lSllzNTEyaC0wOE51bTBBZ0k5WFBWNDFEeTRHWkRlX3NSdFlpQ21RS1lDVEpkSTBpRnhlNTRyR0U3dGlsVnViQzhjUGZTeXM4cUptMGZMallwLVA1eml3SjNoaTNZcEYyVUVtbGp0dXJPTkpLdFZuTFhwZ3hHV3c0TjF3QXlJNkR5VW5n?oc=5",
-      "description": "Data is not enough: from Covid to measles, America must relearn risk communication | Lynne Peeples &nbsp;&nbsp; The Guardian",
-      "source": "Google News",
-      "date": "2026-06-12T16:58:00+00:00",
-      "raw_date": "Fri, 12 Jun 2026 16:58:00 GMT"
-    },
-    {
       "title": "Exclusive: Oceanwide CEO on hantavirus outbreak, impact and recovery - Cruise Trade News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXl4VWZJRFBFc1Rjc3JzcWdELXFGTXAtejNRSzVsLW9yWWlZUXc4dU9EMmswWkYycEItQzRmMEVFdlRDNFk5dm5HblYyR0tGTUZ4S3hMZHRXcmFwMERLQTJYQnNRRjIzNVlHZmZCYkpON2lVVlEta1d1S2RCNXYwOXp1Qk9PVjlzSURvRGZnX0E0aTRDOFRPU2NJbExiQlE?oc=5",
       "description": "Exclusive: Oceanwide CEO on hantavirus outbreak, impact and recovery &nbsp;&nbsp; Cruise Trade News",
@@ -165,14 +157,6 @@
       "source": "Google News",
       "date": "2026-06-12T11:20:04+00:00",
       "raw_date": "Fri, 12 Jun 2026 11:20:04 GMT"
-    },
-    {
-      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
-      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "Google News",
-      "date": "2026-06-12T09:09:27+00:00",
-      "raw_date": "Fri, 12 Jun 2026 09:09:27 GMT"
     },
     {
       "title": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
@@ -215,28 +199,12 @@
       "raw_date": "Thu, 11 Jun 2026 21:10:00 GMT"
     },
     {
-      "title": "US spends $750,000 to retrieve American from island after hantavirus isolation - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9IaHFucy1sd2JqeXEtSXNNWWFfMldkV1pMbXF0NzJqVHl0Q1Y3TzVEY2M2N1BfbVBuUnpsa1pQWUlOUlowZEZEZ3VwcWgtNjhZbll3aW1Ma1ZsTWphdU9GQlRQWmM1UTdfd3RpdEI2eWV0Uno2TWRZWTFXN3FBZDhVaV9SZTJQWU1RLTQyVW1FdkEzemhEalRjNkxpazdEelJR?oc=5",
-      "description": "US spends $750,000 to retrieve American from island after hantavirus isolation &nbsp;&nbsp; Washington Examiner",
-      "source": "Google News",
-      "date": "2026-06-11T21:04:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 21:04:00 GMT"
-    },
-    {
-      "title": "Prisoner at San Quentin may have hantavirus, authorities say - Yahoo",
+      "title": "Prisoner at San Quentin may have hantavirus, authorities say - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjAtTzhlOWx2YkswNGhHTDZiWEFNeWl1SExjNktaeE1VbHZ2bERJbFpnZ2VRdFFZdWxKelVkaDVvMUdOYUdnLVRvMmxRTDNyNHRLdFlnQmEtREpQYXZuSEtMTFlvZ0ZMSEZWQ0dKSXRpMDF3MU9HaFlLQ0xMcnJ4dWI5aFdaT1ZCb3lXU1F3Ui1Qa2Z1NV9xR213?oc=5",
-      "description": "Prisoner at San Quentin may have hantavirus, authorities say &nbsp;&nbsp; Yahoo",
+      "description": "Prisoner at San Quentin may have hantavirus, authorities say &nbsp;&nbsp; yahoo.com",
       "source": "Google News",
       "date": "2026-06-11T20:25:43+00:00",
       "raw_date": "Thu, 11 Jun 2026 20:25:43 GMT"
-    },
-    {
-      "title": "Prisoner at San Quentin may have hantavirus, authorities say - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDlfWmVvd0tqMkhuRXJ6SHZCTm5mOEk1R2lheDhIYVBIckk0b0tuR3NqYnQ1Mml1TnVnbldaRmd5VXNwb09qZ0EwdDQyU2JQMXl3a0E0UUdCb0JNcVFSMWdhZllfTU9UenBLQnZzb2lmZmV0Y2MyMllETUk2WGNqNkNxenIwbVF4VV82NUpwN3Qzb2lUMUJOaUFmbzNhQQ?oc=5",
-      "description": "Prisoner at San Quentin may have hantavirus, authorities say &nbsp;&nbsp; The Independent",
-      "source": "Google News",
-      "date": "2026-06-11T20:25:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 20:25:00 GMT"
     },
     {
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
@@ -253,14 +221,6 @@
       "source": "Google News",
       "date": "2026-06-11T18:53:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 18:53:00 GMT"
-    },
-    {
-      "title": "Netherlands Hantavirus Ship - Journal-News.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE8yWmxfNTdsX2JnYkxVaDNybWNIMG9mNkNqbnA2eE5kY3hDc2x1a2xDaXd0cVdiaVRhWWlldVNIek1YSmZTUXJHMkpGMW9LcEUzU1dHZGVySGxSSndsVmJXM1NkRDZKZE1HWHJRajNsS3ljb2ZCTkNJbzAwWG10YWlEckNickMtYmVMb3JkU3NGZEV6YVF3cWF1YmtoUy1aNmtFZ1JSMA?oc=5",
-      "description": "Netherlands Hantavirus Ship &nbsp;&nbsp; Journal-News.com",
-      "source": "Google News",
-      "date": "2026-06-11T18:22:36+00:00",
-      "raw_date": "Thu, 11 Jun 2026 18:22:36 GMT"
     },
     {
       "title": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
@@ -303,28 +263,12 @@
       "raw_date": "Thu, 11 Jun 2026 16:52:00 GMT"
     },
     {
-      "title": "Hantavirus: Is it a New Coronavirus? - The Media Line",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpBZXdHOWYzWndsRHYxX1c0TXhacXRObDlSVDVzaVIzTm1yWnZxU25EZ2ZVNmJBU1cxMVR4ak5mRVM4bmdLODBudFZYcFItM1NVTmdhREpLU3NMNHhWTjVraUdXbUVuWWxvY1ZkanV6Z2ZJRFlacWdqNm1QNkdMSER3?oc=5",
-      "description": "Hantavirus: Is it a New Coronavirus? &nbsp;&nbsp; The Media Line",
-      "source": "Google News",
-      "date": "2026-06-11T13:01:50+00:00",
-      "raw_date": "Thu, 11 Jun 2026 13:01:50 GMT"
-    },
-    {
       "title": "Hantavirus Cruise Passenger Says She's Being Held Against Will - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVRhaWt5SDFCbjV2ejhNVVJwdXEzeDJ4TDhRMHVUYnZwYVJlSUs5RWNLenMyY1F1dDk5RW9LcGJNcWUwRElNQkdjOHc3OWpGNGlBTXpXaFc3UW9Na0huM0tZekh0UEtiT3VhTWtTakVMaElmbnlLd0JMN05QeF9BTUtXYnNERElkb0h6SVdtUkdoU05Bc3lkNE1wY21HUFpGTFctMl9Xcw?oc=5",
       "description": "Hantavirus Cruise Passenger Says She's Being Held Against Will &nbsp;&nbsp; TODAY.com",
       "source": "Google News",
       "date": "2026-06-11T12:25:50+00:00",
       "raw_date": "Thu, 11 Jun 2026 12:25:50 GMT"
-    },
-    {
-      "title": "Hantavirus Cruise Passenger Says She's Being Held Against Will - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjJaSUE4QmZqTmRmSWp5Q05sbzhDWVFIcVl3YTZ3Q1NiV3NmNlhsRi11R0tSRHFUTWp4SFdkemV1cjFMdTZ1RV9XdUppTGs0SU1tS2pRSlhCTEh6Sk9XOTlfN3FjZ2RvcGR0Z2RqMVdpSnJ2Wl9wTjBPRjlkb3Ayc1AtXzZJN0FLX21VNkpXNA?oc=5",
-      "description": "Hantavirus Cruise Passenger Says She's Being Held Against Will &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-11T12:20:26+00:00",
-      "raw_date": "Thu, 11 Jun 2026 12:20:26 GMT"
     },
     {
       "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - Flatwater Free Press",
@@ -375,14 +319,6 @@
       "raw_date": "Wed, 10 Jun 2026 10:54:00 GMT"
     },
     {
-      "title": "Hantavirus outbreaks rare, but not unheard of in U.S. - Butler Eagle",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXkySDdMR0xvV2xNYldrb0Z4QVNIampiQUQxU3VlVUxRU3o0dHVRRXdUYmw2czc4OTJhU2pjaHBRbVZ6OEJ2eVVSaDFZTW9CTDVwM2VBSVo5VlhnQm5GMzZiX1lDanFoczVLVnV4Ty1aaUVKelZnRkRTdmctLXJXeDZpOTYyZmd4a241V0xPN1JwQkE?oc=5",
-      "description": "Hantavirus outbreaks rare, but not unheard of in U.S. &nbsp;&nbsp; Butler Eagle",
-      "source": "Google News",
-      "date": "2026-06-10T10:30:43+00:00",
-      "raw_date": "Wed, 10 Jun 2026 10:30:43 GMT"
-    },
-    {
       "title": "Bowie County expert says hantavirus rare in East Texas region - Texarkana Gazette",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhzX2tCN3ctWVZTSklGNzZzUThvUElqOWtRM0ppaGJEbG4tWlhudC14ZU1ZMnNDR3FYOW1WRGVoZmtvU2VDSkZVQTYwdXZQSVY0eE9LWGZtbTFQbnRxM2xoRC1yX1luakFITGRlRzlDNGVtamM0NWRSc3lqbDZJMF9HWkg1SkYtRXRCSXlPUjcxaWZGOTVEMmEtRFFYQWk2?oc=5",
       "description": "Bowie County expert says hantavirus rare in East Texas region &nbsp;&nbsp; Texarkana Gazette",
@@ -399,12 +335,76 @@
       "raw_date": "Tue, 09 Jun 2026 22:37:10 GMT"
     },
     {
+      "title": "3 Virginia people exposed to hantavirus healthy after incubation period passes - WUSA9",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5",
+      "description": "3 Virginia people exposed to hantavirus healthy after incubation period passes &nbsp;&nbsp; WUSA9",
+      "source": "Google News",
+      "date": "2026-06-09T22:14:00+00:00",
+      "raw_date": "Tue, 09 Jun 2026 22:14:00 GMT"
+    },
+    {
       "title": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnJpa0FYTThENVlTUFV3VHVVOFVtdkZMQ0QtQjdRNGp1UFFOX0ZYSkhqeGYyZEhEWnljSVg0TVRMQkR3MF83MGxVU2ZfbWNzQ1MzVXIzVHdzQk9fRVFNcDJZUmk3aW1ubEdIN3llT09CWnZVVUdJRXB2UVlwdUdUQ2wzQUFtYkNJQ0U0dnk0cC1SbElPRU53eXVMekZPelIzeHRXN1JfbXdVbXcxU1pGOXU4U1VYTkRJYkJYeEpjZFlhN0piZDUzTdIBzgFBVV95cUxPT3RzTFpVTUJWNDBzREV5c0RveUd3SHgxTDdtVTNReldKQ0htTkJ2Vmx6MG5RMHBHeHRSempXeExWeHFhemIxQ2NfX05MY2Ixa21oN2pDZVltVDZBbFlrMjJGRUFxNmFyVS10UGdUN3FwQ0YzZml4eXBjSWk0VkJ2d0IxTmZvNGhrQnpZUVl1VVJkdWNJaklKeDVrRlN6VHJVT3BJZXdzUlI4MnBqajFXSDRIQ2xkWk9zcW9GYURrWldFUW9JT1YxbjhRM1dzQQ?oc=5",
       "description": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping &nbsp;&nbsp; ABC7 Los Angeles",
       "source": "Google News",
       "date": "2026-06-09T18:48:03+00:00",
       "raw_date": "Tue, 09 Jun 2026 18:48:03 GMT"
+    },
+    {
+      "title": "3 more US hantavirus cruise passengers return home after weeks at quarantine facility - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEtzLU4zTUZ4WnRZUEFITDVWWnFLd1A5RE5aSXZZVF9sQlg2RzVIQzlDZGtTMy1ZTVp2OUphUHQ5SWV2aFJCSHpjT1dNUnlKTXBxQmY5Xzhidk15MVNHSUxCSkMzcWs5N1hqM0lmcmt3VjZ5WlJJczF4RW9fVUpXNWJqcVJ5cTkyMm1VSHNkM3RKaXVZSHgybzd1TGthd0VaSnhSZ0lBeC1yeFYxdXVoVGF0OTJIQ21fRHZtY05kOA?oc=5",
+      "description": "3 more US hantavirus cruise passengers return home after weeks at quarantine facility &nbsp;&nbsp; USA Today",
+      "source": "Google News",
+      "date": "2026-06-09T18:05:00+00:00",
+      "raw_date": "Tue, 09 Jun 2026 18:05:00 GMT"
+    },
+    {
+      "title": "Hantavirus update: 3 more cruise passengers leave Omaha quarantine unit - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXBJZGUwRHkwTS1SRVhOdXNmNUFkSzBCVzFySzdfT3YtUE85dkJIYkhYb29VdHRCR3d2emZhMElIM3Q1ajdtZjU1SzdJNURTQTdKVnRlbmNaMHQ1Tm1weDNTXzN1eWk4UDdlaDRBdnFNUDBka2lxUG1rTnVvQ09GOWxjSlhBY2E1OVlMamNTVG9zRnViWlFkZnY1UU05TGxzX2wwdEdHU3EwbVk?oc=5",
+      "description": "Hantavirus update: 3 more cruise passengers leave Omaha quarantine unit &nbsp;&nbsp; WOWT",
+      "source": "Google News",
+      "date": "2026-06-09T15:41:00+00:00",
+      "raw_date": "Tue, 09 Jun 2026 15:41:00 GMT"
+    },
+    {
+      "title": "Hantavirus Outbreak Highlights the Importance of One Health - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnpFX3k2SG00SGktek1Gbnk5QUpOZE9WNFhranhkYS1xUGpfRkE5Y0JXRlpLaWl2dHZtOGt1TjhMZWpnYnJGRTlIYjlTdzlhRHphVjJDRHUxOVVEYXNYdl9mcTUwVFlMeGhaWnJqd0l6NzRXWS14OWRJUkZvcHBMOTNNakpoM0J3bFVCZUpFS1U3S1M0NHM2aUUzS1FXbWoxTlg2Rw?oc=5",
+      "description": "Hantavirus Outbreak Highlights the Importance of One Health &nbsp;&nbsp; Medscape",
+      "source": "Google News",
+      "date": "2026-06-09T12:56:12+00:00",
+      "raw_date": "Tue, 09 Jun 2026 12:56:12 GMT"
+    },
+    {
+      "title": "Vaccines and therapeutics for Andes hantavirus - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
+      "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; Nature",
+      "source": "Google News",
+      "date": "2026-06-09T09:57:52+00:00",
+      "raw_date": "Tue, 09 Jun 2026 09:57:52 GMT"
+    },
+    {
+      "title": "Two Texans cleared of hantavirus risk after period of isolation - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXVxUEoxZHBWc0ZaRjJQSlIwZE9UVms1OXNKdHB1Q1FacWZNdmIyZFEyX2xoa3Z3anFCWThxREUyLWxfcmZIb0E5S0FHdmJ1dFlCMkl6Y3JBaHFIdlB5U2N0ZnpNRjRDVjJJMzlXdVc4dlNfODhNYjZETndPWlY2S0lmbm1kalhSdThrODNzXzV5YTNMQ0VEcDVtZXFST0F3UUFobThETElXV1hBSDc4RUhwUzFlUGttMHQ5Q3M1d1hGTnh5Ym1XcjZGTFN5OS1qcUEySUV5VEh5czYzVVg4LTdIVUgwSzN0ZjRfZ1Z30gH2AUFVX3lxTE1HMmtMeHpqbnBuUm10UTRudU8tMXBDdlp1c0MtRWxiVkxiY3RnT1hPR1FwdzZ6UkZfd2djMklsY1JlQnVtajlvbTJVeEpFMUdKSGpmajZnaFJ4aWRDWEhqYlY2RnoxdldjdEg1aG55UVp6aU16am1LbXdyV3htZVpiLV9yT0N4NzY0bVRyaGh0SThaWEpHTVo5ZFk4MS01dlMwSFE5UllqeDl4bUpjRkgxd1lyaGs5ZFZGWnVOMzF6VHh4RWhNbHIwalYwY2JPWTZzNjdCUm9EdW42RDNZVU9WVU9qWkY0UU1odThhaks0dDRlRVY3UQ?oc=5",
+      "description": "Two Texans cleared of hantavirus risk after period of isolation &nbsp;&nbsp; Houston Public Media",
+      "source": "Google News",
+      "date": "2026-06-08T13:18:19+00:00",
+      "raw_date": "Mon, 08 Jun 2026 13:18:19 GMT"
+    },
+    {
+      "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
+      "description": "Texans clear hantavirus quarantine following cruise outbreak &nbsp;&nbsp; Click2Houston",
+      "source": "Google News",
+      "date": "2026-06-06T07:00:00+00:00",
+      "raw_date": "Sat, 06 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "New Tool Quickly Sequences Hantavirus Genome - American Society for Microbiology",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlhsdHVIU2Y1MjFwX2dKXzZ0NUhPT3REQVNCV3RBYU9LYlNkMDR5M2kzUGFBZG5WMkxpNFJfMDZmaVNaVTFCQndGb0NjU3d6akljbVo2NjBIZzQ3Y1pIa0pKSWxkMUg3MlZkQXpQalNDSmRyS1YyTV91VDlUREVCNlowcDFOMVppWmxPYzBn?oc=5",
+      "description": "New Tool Quickly Sequences Hantavirus Genome &nbsp;&nbsp; American Society for Microbiology",
+      "source": "Google News",
+      "date": "2026-06-05T15:39:07+00:00",
+      "raw_date": "Fri, 05 Jun 2026 15:39:07 GMT"
     }
   ]
 }
