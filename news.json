@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-14T22:12:11.884150+00:00",
+  "updated": "2026-06-15T00:11:33.475264+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "PAHO"
+    "PAHO",
+    "Google News"
   ],
   "articles": [
+    {
+      "title": "San Quentin’s suspected hantavirus case a false positive, additional tests show - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2tIVkl5UkZ1OTNBalY3eGl2RjczZTZjSUxiTm0wVHdSZHFIRHhpTGFTRElhYmoxY3ZsTFg2M1NjZ192T3lfQWw0cmpJbXBEbVhpWHNVVzRpVGVKa0Q1QWExQTVLajMxUHlRdmllWkFLckRWaE84N3JmMmZNOHBxMno2NFA?oc=5",
+      "description": "San Quentin’s suspected hantavirus case a false positive, additional tests show &nbsp;&nbsp; San Francisco Chronicle",
+      "source": "Google News",
+      "date": "2026-06-14T22:53:51+00:00",
+      "raw_date": "Sun, 14 Jun 2026 22:53:51 GMT"
+    },
     {
       "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkJsc0toakpVZVhxd1o4bTdwRUU2VUtmaWhWXzNHX1F0b09Hc2N5S1pYb0VRSm1wd25POHh6ZVE4MGdmdzkxOTlQTmVqVEQ1d20xU1NzTzk1d0RVMTJoZHY3UkV1c3lmTkcwb19sNFNYcEVRUE80ay1hbUJDZDRxQ2ptNDhGbkdpYWo1UFZlMmJNTlZCakJUekhVcm80cEZUR3RNLWtsamVEbjJzNnhnVVNQRWkyZmlZTXNpTG5RbGV3eXpfbXA5VWpxczRFdk9ESWo0ag?oc=5",
@@ -143,6 +151,14 @@
       "raw_date": "Fri, 12 Jun 2026 17:09:00 GMT"
     },
     {
+      "title": "Data is not enough: from Covid to measles, America must relearn risk communication | Lynne Peeples - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXpIZ2dJYVhvVHdzdXZXc0hxUE5nR3NoQm1lSllzNTEyaC0wOE51bTBBZ0k5WFBWNDFEeTRHWkRlX3NSdFlpQ21RS1lDVEpkSTBpRnhlNTRyR0U3dGlsVnViQzhjUGZTeXM4cUptMGZMallwLVA1eml3SjNoaTNZcEYyVUVtbGp0dXJPTkpLdFZuTFhwZ3hHV3c0TjF3QXlJNkR5VW5n?oc=5",
+      "description": "Data is not enough: from Covid to measles, America must relearn risk communication | Lynne Peeples &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2026-06-12T16:58:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 16:58:00 GMT"
+    },
+    {
       "title": "Exclusive: Oceanwide CEO on hantavirus outbreak, impact and recovery - Cruise Trade News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXl4VWZJRFBFc1Rjc3JzcWdELXFGTXAtejNRSzVsLW9yWWlZUXc4dU9EMmswWkYycEItQzRmMEVFdlRDNFk5dm5HblYyR0tGTUZ4S3hMZHRXcmFwMERLQTJYQnNRRjIzNVlHZmZCYkpON2lVVlEta1d1S2RCNXYwOXp1Qk9PVjlzSURvRGZnX0E0aTRDOFRPU2NJbExiQlE?oc=5",
       "description": "Exclusive: Oceanwide CEO on hantavirus outbreak, impact and recovery &nbsp;&nbsp; Cruise Trade News",
@@ -215,14 +231,6 @@
       "raw_date": "Thu, 11 Jun 2026 21:15:00 GMT"
     },
     {
-      "title": "Two more passengers exposed to hantavirus leave UNMC quarantine in Omaha - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORTRyRGptN2pXYm00ZEJLZFVCd3RVSGFpWTlZS2RENExBQ19EUkpYQUNEMW1UejRwdGVZYjlXLVg2Y0lLRVFVb2V6c2hhcC1DbzlhQklKS3hwTGhUVWRybklGQmIzRnB3X1QyOHFZTmJ3alFyNnFyWnRWR2xmcU5xa2VaRnVlNlRzYmZGQjNGbWo?oc=5",
-      "description": "Two more passengers exposed to hantavirus leave UNMC quarantine in Omaha &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-11T21:11:10+00:00",
-      "raw_date": "Thu, 11 Jun 2026 21:11:10 GMT"
-    },
-    {
       "title": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5",
       "description": "Hantavirus fears reignite as suspected case is investigated in California &nbsp;&nbsp; The Independent",
@@ -269,14 +277,6 @@
       "source": "Google News",
       "date": "2026-06-11T18:53:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 18:53:00 GMT"
-    },
-    {
-      "title": "Hantavirus symptoms detected in California superspreader hot spot - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JFeThkVjNvVTVBNE1UbElkMTdsT3NVdjNCZ2JTQzVCRGhZX2FJa3RxZDhpcHlQY2hvOEtxcndiV1RSZjRuQkVKdlpTdVAza0FJUjBtcjN5Y2ZKeEFzYUhzZVVEYnBJa1lpd3JGTUNoWDdKLTJLYTM4QTZ5dkVxZkNrNHJUbE05OGxZZzAySW00OXBQeTNmYjNn?oc=5",
-      "description": "Hantavirus symptoms detected in California superspreader hot spot &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-11T18:41:27+00:00",
-      "raw_date": "Thu, 11 Jun 2026 18:41:27 GMT"
     },
     {
       "title": "Netherlands Hantavirus Ship - Journal-News.com",
