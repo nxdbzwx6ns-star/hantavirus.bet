@@ -1,11 +1,27 @@
 {
-  "updated": "2026-06-16T04:18:30.327978+00:00",
+  "updated": "2026-06-16T10:08:30.354556+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
+    {
+      "title": "Vaccine Breakthrough Targets Andes Hantavirus - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjVFUjREakhRZ3pGZnFjRGVuUTR4RTdRSFV0UjhNRzZjaVNodlN3TlJfNzdSWnJDdm1SZ0RlZWhZTTh1TlZsSkN0RGpnUnBaNTh5ZzBJNnU0UUhuUnN2TUk5TVlvRXBlZHVTcGZ3R0pyT3d2MlRFWUpHdGxRR0RGVk1Mejk0OUt3YXhFZTBfX3VPLW1IWmNBbFJqZlNwWGJXUkxUSGx2Z3lFbllyWXlsYQ?oc=5",
+      "description": "Vaccine Breakthrough Targets Andes Hantavirus &nbsp;&nbsp; EMJ",
+      "source": "Google News",
+      "date": "2026-06-16T07:33:59+00:00",
+      "raw_date": "Tue, 16 Jun 2026 07:33:59 GMT"
+    },
+    {
+      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHhXZC14bTl1VjJueFhkTlBkaFhNVHZmOFhsSFR5RFgybUdNZ3pJRVlFMkxiQ2laZFduRFVyNlhPWEQxbFZ4UzN3S2swSEw1RDM1VXBPX0tHWFFQcnk4TXhfU21DMlRFODVaekZjOV8zN0ZWR20yVDJCdVo5Q3BDNjNYazZIMDA?oc=5",
+      "description": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; AOL.com",
+      "source": "Google News",
+      "date": "2026-06-16T04:23:54+00:00",
+      "raw_date": "Tue, 16 Jun 2026 04:23:54 GMT"
+    },
     {
       "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - People.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFSVE1Sdk10dy1maXVVUjhfLTlQbWhMbjVxbjBnY3lHSTdOeFFDcVhzbHB0NVA0dWkzS0laLU8zVGhhcDc2YnhvNElrYTFRV2pGS25Gc0xIMmxSRVM3YnY3anpENzZhc0JpLUFiS2tVeE9kb2plRWZyc3FteFFvX24tWnFwWlBocndkcWM5NF9vRmZmSGkzeVdkYmtUTDNk?oc=5",
@@ -35,8 +51,8 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
       "description": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
       "source": "Google News",
-      "date": "2026-06-16T00:30:19+00:00",
-      "raw_date": "Tue, 16 Jun 2026 00:30:19 GMT"
+      "date": "2026-06-16T01:24:39+00:00",
+      "raw_date": "Tue, 16 Jun 2026 01:24:39 GMT"
     },
     {
       "title": "Kennedy orders woman to stay in hantavirus quarantine, despite CDC recommendation - Inquirer.com",
@@ -103,14 +119,6 @@
       "raw_date": "Sun, 14 Jun 2026 15:08:26 GMT"
     },
     {
-      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - thereader.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekkybE52RnR4TzhCbHdnTEVxRmFULUhpQ1hSMm9VVE1reEtBVENJbWNfdWxLblZfV2gtbnhoQjlxU2w0V3pRLVpBOTg0UGYxclZEV1pVRWdTRjdxS1BIMWRSb0VLN21WTm5YSmRmWnNzVVpHQXk4bHRMeEQyR3R1ODhLSW5CVDkxRG9YckpERFVlLWZ5Z1NuZFQ4VlktUm9pQlJ2VnYwNjd1T290c01uMnp2ZFJhSW90?oc=5",
-      "description": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine &nbsp;&nbsp; thereader.com",
-      "source": "Google News",
-      "date": "2026-06-14T11:00:00+00:00",
-      "raw_date": "Sun, 14 Jun 2026 11:00:00 GMT"
-    },
-    {
       "title": "Rodents can spread hantavirus and spark fires in your HVAC if left ignored. Here’s how to protect your home - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVdNaVJrbDFTS1I4d080bko4eUJNMXg3eFI4Qy13dk56eHBkR3FwT0w4d1RCMm96b2ZSMTlWYm51U0VnRFRjbjJ6MlBiUnB5ZVRKOWVycVNWeEFURElNcWJGck83T3lHNTduVDB0T1Voc1hrNGZ4UWliQndiUFFnZmE2UkxQek1wMXBxZDYybw?oc=5",
       "description": "Rodents can spread hantavirus and spark fires in your HVAC if left ignored. Here’s how to protect your home &nbsp;&nbsp; Yahoo! Finance Canada",
@@ -165,14 +173,6 @@
       "source": "Google News",
       "date": "2026-06-12T19:41:00+00:00",
       "raw_date": "Fri, 12 Jun 2026 19:41:00 GMT"
-    },
-    {
-      "title": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas - Pan American Health Organization (PAHO)",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNNU2ZhSm0zdFdwOF8wbFFQSVMwSXNhZTBabjk4NEloMG5Xd21Bbjc1Z3NQZ2dCOGpubERzNTV3YzNRM2loQUE0MVgzbTR4T2YzSjhfNm1ZeGsyODg1T24ySUJXdEhheWRSekl4eWVkQS1kb1lBNmlxYnJnS2tqbGJNeVpPdTVlSnptS2ltV0sxSWh2Z0ZJcC05a2p6TC02M084Z285T1BmSVhLMFBhTXhLdTZUa3RaX0NLdw?oc=5",
-      "description": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas &nbsp;&nbsp; Pan American Health Organization (PAHO)",
-      "source": "Google News",
-      "date": "2026-06-12T19:23:14+00:00",
-      "raw_date": "Fri, 12 Jun 2026 19:23:14 GMT"
     },
     {
       "title": "OPS y socios fortalecen la vigilancia del hantavirus y otras fiebres hemorrágicas en las Américas",
