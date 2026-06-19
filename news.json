@@ -1,11 +1,27 @@
 {
-  "updated": "2026-06-19T00:27:39.793942+00:00",
+  "updated": "2026-06-19T06:21:24.748755+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "PAHO"
+    "PAHO",
+    "Google News"
   ],
   "articles": [
+    {
+      "title": "What Hantavirus taught insurers and businesses about systemic risk - Insurance Biz",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FFRlcxRldZaXJnMmVBaTJfSVNfczRydkFqQlZfU213N0NRXzlfb2tpSUk3NEhORjdWYVkwejhUV08yS0hqYllpVi1majJDU1d3ZkFsY1JWWEF1OHZlWGdMLVFhZmhMUWhOaWlLamVJeFcwMDAtRGJfTXk3b2JWU2JrSm9ZbkpaQkFlT01VUTRDaWNXZnFNR3pVY2VhcEc4Q212UUgtNjJXOFFrbS1sdXotSG1zeklqTEE?oc=5",
+      "description": "What Hantavirus taught insurers and businesses about systemic risk &nbsp;&nbsp; Insurance Biz",
+      "source": "Google News",
+      "date": "2026-06-19T05:55:27+00:00",
+      "raw_date": "Fri, 19 Jun 2026 05:55:27 GMT"
+    },
+    {
+      "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha - KSNB",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnZaNnU3ZTNtVVpOQkFsQ2NzWnYta1JxRGtTeUdxOXVvTTU5VEdCb2dRcUZ2UnIxTUdWeHBBSTBYZXpJY3VGeEMxRnF4OGUwbDBBVmo2aldTTDUweG1KaUpTM0FwM0FiZUlfTEZOOGd5V1dONGRGODZ1V2s5aTJ5aVR0MGtPd2NmeV9nNDZRZVEyd3hVdnRyY0dlYlRMOXQ3aUE?oc=5",
+      "description": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha &nbsp;&nbsp; KSNB",
+      "source": "Google News",
+      "date": "2026-06-19T02:24:00+00:00",
+      "raw_date": "Fri, 19 Jun 2026 02:24:00 GMT"
+    },
     {
       "title": "Quarantine over for almost all hantavirus ship passengers, crew - NST Online",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNno0eTNfdDgzVU5RaHlyYzBZSTVXbVdyVkg0QmRHQjZaZlA0NGs0OU5OTXVNSmJlSDVRQmNBWjR0a0VFdHVmSlBaRk5Vd0JJMmVaN21iODh2SlFLREdxcVJUbGozNTJ0Mm5SeVF1M2U4LUVDOGVJTlZVTnFaeV9ZcEw4WHRlX21vNjI4YVFWXy16SWh5MGFqTFJfcmdEdjZmYzNIMTdQeWlpeUU0ZFHSAbMBQVVfeXFMUEUzb2NpRV92aThSMklieDU4TUxXTGxodHMzbVpNRGxZZVVkNXBfR1BmSThzenFNWjFuQzNxdWhGQmhkdWlHVXlIcDJOOTB6LW5HZE9YYTBDWS1KSkV0T3FPLTlSSldYcm9fVkxiLWhtMlBYMERRNG5YVGZxTGdoUGhzUFNFZnpILU1qLVNjQ1FGWm1aNUNUSF9Ic2lfNDVadGstMmJGV3pza2VLNUJjVDY5SlE?oc=5",
@@ -15,12 +31,12 @@
       "raw_date": "Thu, 18 Jun 2026 23:19:35 GMT"
     },
     {
-      "title": "Quarantine over for almost all hantavirus ship passengers, crew - France 24",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWtwVEFsdHBvZm9ZZEVncl9iaWxqbk9ZZFJyTTlNeVR1QnExVjV1cU5oVXVJWUtFT3U1eExWTkQ4eVlGVkNlZ0VhWHEzRWZValJJdEllWDgySU9LbVJDTnBtSzhQQnRXbmdrVWNGV0FqRE9yR1NTakdWNnlScTZmWEI4RkhpdEctaDJ6eE5tWUxoY3RBZThxVFVUc1hUUU95dXpwaV9TcExEdGVlSVE?oc=5",
-      "description": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; France 24",
+      "title": "Quarantine over for almost all hantavirus ship passengers, crew - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhHLWhoNFlfT2tNVGFsTS0ybnd5bEdWeURfamZtRTR5aGZvd3k2bzdOTFdLbW1aT1lDWlZlZ0pkRVhRQmVROEpBbnl5b3JGRVppQ0J2bUNMeXluLW1wcVNjNDFZUnlXdEFaYkpUdzVmYnpfdHlqRUVlV2dDVXk5bHhTcXA4bUxyR0V3Y3lVZXhVQTRKTWhXa1BqZ21iQQ?oc=5",
+      "description": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; Yahoo",
       "source": "Google News",
-      "date": "2026-06-18T20:49:08+00:00",
-      "raw_date": "Thu, 18 Jun 2026 20:49:08 GMT"
+      "date": "2026-06-18T20:48:07+00:00",
+      "raw_date": "Thu, 18 Jun 2026 20:48:07 GMT"
     },
     {
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
@@ -31,6 +47,14 @@
       "raw_date": "Thu, 18 Jun 2026 18:11:43 GMT"
     },
     {
+      "title": "Two more hantavirus-risk cruise passengers leave Omaha quarantine - Omaha World-Herald",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEtNYzVsRnVaV29NemZPbThPTGJiWmpBQjVlczNvckJhUWJBQ0lFRXRqT0QtZktCSDZCR095dW5NdlJNSnJVYlRaclRJU2JwMWdiYkFNbDd3WURyX1Z6TVhYblpIdy1EV1I3RUJ4N0J1UzJ2dF9uOXNzQU5Cak84dTlXdTI?oc=5",
+      "description": "Two more hantavirus-risk cruise passengers leave Omaha quarantine &nbsp;&nbsp; Omaha World-Herald",
+      "source": "Google News",
+      "date": "2026-06-18T17:52:00+00:00",
+      "raw_date": "Thu, 18 Jun 2026 17:52:00 GMT"
+    },
+    {
       "title": "U.S. Health Secretary Keeps American Hantavirus Cruise Passenger “Illegally” Caged As 42-Day Deadline Approaches - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ21URmlMX2R3QXh2SDhoMXNKYjFGRTZEa0U5NGpJZVk2TDJlNjVLUmhhS18tTlpZMjlCZ3Q0UGhKZmJFYmRpX1g4MDJHeUk4VGltTkg1UVd0blJDOXo1b2d5TFllYy1zekFoLWN6MFRsaUlVV0thRWVjUXhEYy01VnlNR2tIbVNDZVN4UUFmeVVLd0k2OE43ZlRvaTQzZTJIUEtfLTZxMzZ2QmF1elBYVXlsblI5blhnX2Nka1c4TlVSNEJ5Q3VERVdyUjBibFJV?oc=5",
       "description": "U.S. Health Secretary Keeps American Hantavirus Cruise Passenger “Illegally” Caged As 42-Day Deadline Approaches &nbsp;&nbsp; TheTravel",
@@ -39,20 +63,12 @@
       "raw_date": "Thu, 18 Jun 2026 16:26:24 GMT"
     },
     {
-      "title": "Two more hantavirus-risk cruise passengers leave Omaha quarantine - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEtNYzVsRnVaV29NemZPbThPTGJiWmpBQjVlczNvckJhUWJBQ0lFRXRqT0QtZktCSDZCR095dW5NdlJNSnJVYlRaclRJU2JwMWdiYkFNbDd3WURyX1Z6TVhYblpIdy1EV1I3RUJ4N0J1UzJ2dF9uOXNzQU5Cak84dTlXdTI?oc=5",
-      "description": "Two more hantavirus-risk cruise passengers leave Omaha quarantine &nbsp;&nbsp; Omaha World-Herald",
-      "source": "Google News",
-      "date": "2026-06-18T15:05:35+00:00",
-      "raw_date": "Thu, 18 Jun 2026 15:05:35 GMT"
-    },
-    {
       "title": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end - Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTVHVmUtX0s3X3Qyd2Fib3ZHaWhCbHZYdkNzMHdWclNRUjdaMUZYTlRienF1Zy15RkFJYTFmU0lvUHUyWW9Hanh1cm5CeW1Ya1MyYUpiSUIzVl9ITF9IR0V2QlM5cTdFTDNtRnFBUUJTSjBBMHA4MG9hZzNLMGl6eTFLZXFYZi11bFVLSnptVkNqOVNfa0Z4YUZsNnYybG16WTlyR1FwTmp0VWJsNzRv?oc=5",
       "description": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end &nbsp;&nbsp; Australian Broadcasting Corporation",
       "source": "Google News",
-      "date": "2026-06-17T22:53:24+00:00",
-      "raw_date": "Wed, 17 Jun 2026 22:53:24 GMT"
+      "date": "2026-06-17T22:51:00+00:00",
+      "raw_date": "Wed, 17 Jun 2026 22:51:00 GMT"
     },
     {
       "title": "Florida native forced to stay in Omaha during hantavirus quarantine - KETV",
@@ -127,12 +143,12 @@
       "raw_date": "Wed, 17 Jun 2026 13:56:31 GMT"
     },
     {
-      "title": "CrittereX Highlights the Importance of Rodent Control in Hudson Valley Amid Hantavirus Health Concerns - EIN Presswire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVVUwX2l3NHgyVVYzdlhiZWxzVFhhMFVGNXY2eFFzSHJqaF9RRmxWUkh3bjR5WUpnTGR5NlVwUS1rSW1hMENHWUZqeXBlbzc0WWg5UkxWVlZUS0g5LTNyMXV3LXlmLWFwQTFfaVZ2Rm5kTzE2RHhaMGZsSzN1cHlsaENNMWk3dm1CWVkyeXhJRHU4cHpkSVI5Yjk2alBlNG9scmtvTnFncHhwTXJGUmdMMjdaclBDWng5TWxNcGgybUIzVXBVNEhEWWxiaUlsZDdnNkVQeExzbGhQWWxqN2lNeGZDaw?oc=5",
-      "description": "CrittereX Highlights the Importance of Rodent Control in Hudson Valley Amid Hantavirus Health Concerns &nbsp;&nbsp; EIN Presswire",
+      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVhqUmxCUy01VGRRRTVRZjRXMEFZMHpFbGZiUzkwamxiNUVTOVhLVGtVenpIWlpMMWtPVHczMjRldWx1R1lMR2tSRkZQWFRIeDkzcEZPLWpSZ3FmYmZNQ1d5cC1MUXZsTWEtMHR5Yk1PbV9kQmo5ajg1aUx5WmdxeTkxNHpybk1KODVOREJBcEFidVA1MDVoY2tsZFNEdS1sR09CV25IWFdPaS1WUnV1OUI5NEJ4NERqNFEw?oc=5",
+      "description": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will &nbsp;&nbsp; USA Today",
       "source": "Google News",
-      "date": "2026-06-17T12:45:00+00:00",
-      "raw_date": "Wed, 17 Jun 2026 12:45:00 GMT"
+      "date": "2026-06-17T13:25:00+00:00",
+      "raw_date": "Wed, 17 Jun 2026 13:25:00 GMT"
     },
     {
       "title": "Robert F. Kennedy Jr. is forcing a hantavirus patient to remain in quarantine - Yahoo",
@@ -141,14 +157,6 @@
       "source": "Google News",
       "date": "2026-06-17T12:19:56+00:00",
       "raw_date": "Wed, 17 Jun 2026 12:19:56 GMT"
-    },
-    {
-      "title": "KLM Confirms Hantavirus Patient Was Briefly on Board JNB Flight - TravelWires",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSG5ZYkxtU0RQRjdYVnVJb0pKUzFabEZITVI4NVFleEs2N2pKMzkybW80ZnBmQVZidmU2aWZXWWxfRDFka1UwcnJtNjlKcmNHSDJfS2REUlFzYms2SGtKZ3dubkltOFVudUU2TFp2N2g5bDBDNjVxVHhYTXFYM0dxRHU5ZzgwX1lpZ3hjVk93WUx6eTF0c2ZN?oc=5",
-      "description": "KLM Confirms Hantavirus Patient Was Briefly on Board JNB Flight &nbsp;&nbsp; TravelWires",
-      "source": "Google News",
-      "date": "2026-06-17T11:53:41+00:00",
-      "raw_date": "Wed, 17 Jun 2026 11:53:41 GMT"
     },
     {
       "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports - Yahoo",
@@ -285,14 +293,6 @@
       "source": "Google News",
       "date": "2026-06-15T15:52:26+00:00",
       "raw_date": "Mon, 15 Jun 2026 15:52:26 GMT"
-    },
-    {
-      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
-      "description": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
-      "source": "Google News",
-      "date": "2026-06-15T14:09:00+00:00",
-      "raw_date": "Mon, 15 Jun 2026 14:09:00 GMT"
     },
     {
       "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
