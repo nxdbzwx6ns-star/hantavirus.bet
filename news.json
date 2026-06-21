@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-21T19:43:19.495815+00:00",
+  "updated": "2026-06-21T21:15:18.210928+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
     {
@@ -11,16 +11,16 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5",
       "description": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship &nbsp;&nbsp; The New York Times",
       "source": "Google News",
-      "date": "2026-06-21T18:00:41+00:00",
-      "raw_date": "Sun, 21 Jun 2026 18:00:41 GMT"
+      "date": "2026-06-21T19:04:34+00:00",
+      "raw_date": "Sun, 21 Jun 2026 19:04:34 GMT"
     },
     {
       "title": "Hantavirus incident highlights hidden risks in shipping delays - Business Day",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDJkN09jbTlpaWhUQ0YyTHlMZ3hnVW41ZjJWOFowX1g3V1NUUTBTT24wZThxaDdHNWtJeEdfUnYwSl9UODFJNGlxcXBtb0RmTjBic1Q3WGdGR3k2a3NtZXhtX1QxREs2R0JGb3lRaXdMQUdhc3dKc2U4Si02OS12UWtlYTY3SVk2aFVDemtWcGFMMVAwZGU4UzExa3VBbFNMQnZETzNwa1o4TVM2Y0lGZFNB?oc=5",
       "description": "Hantavirus incident highlights hidden risks in shipping delays &nbsp;&nbsp; Business Day",
       "source": "Google News",
-      "date": "2026-06-21T15:02:13+00:00",
-      "raw_date": "Sun, 21 Jun 2026 15:02:13 GMT"
+      "date": "2026-06-21T15:03:29+00:00",
+      "raw_date": "Sun, 21 Jun 2026 15:03:29 GMT"
     },
     {
       "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
@@ -45,14 +45,6 @@
       "source": "Google News",
       "date": "2026-06-20T11:00:00+00:00",
       "raw_date": "Sat, 20 Jun 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Quarantine over for almost all hantavirus ship passengers, crew - ABS-CBN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHNuWm1aUjNBbWlTYk45Tlc4V2RlWkt2TmRCTFlwZmR1ZGJCcXN3QW5jY0hVSHpCMm9QVjRldXFobTRPT0lvRDdxdTZma21yNnhNTkFaN1pzLS1LVXZNZDZzZVR5YnMyUnBWM3g3a0Fla2ZXS1k5TmthUmNUbnljbWxOY0hDWUcwX0RsZUo1VXBTcXpURHBaOEgyQUpLdGk1VVFUVkVHZTVEQTRGWjFUakR3?oc=5",
-      "description": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; ABS-CBN",
-      "source": "Google News",
-      "date": "2026-06-20T06:54:04+00:00",
-      "raw_date": "Sat, 20 Jun 2026 06:54:04 GMT"
     },
     {
       "title": "How Hantavirus Spreads and How to Protect Patients - Pharmacy Times",
@@ -301,6 +293,14 @@
       "source": "Google News",
       "date": "2026-06-15T15:52:26+00:00",
       "raw_date": "Mon, 15 Jun 2026 15:52:26 GMT"
+    },
+    {
+      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
+      "description": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2026-06-15T14:09:00+00:00",
+      "raw_date": "Mon, 15 Jun 2026 14:09:00 GMT"
     },
     {
       "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
