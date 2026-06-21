@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-21T15:52:50.149484+00:00",
+  "updated": "2026-06-21T17:39:57.670247+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "PAHO"
+    "PAHO",
+    "Google News"
   ],
   "articles": [
     {
@@ -11,8 +11,8 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDJkN09jbTlpaWhUQ0YyTHlMZ3hnVW41ZjJWOFowX1g3V1NUUTBTT24wZThxaDdHNWtJeEdfUnYwSl9UODFJNGlxcXBtb0RmTjBic1Q3WGdGR3k2a3NtZXhtX1QxREs2R0JGb3lRaXdMQUdhc3dKc2U4Si02OS12UWtlYTY3SVk2aFVDemtWcGFMMVAwZGU4UzExa3VBbFNMQnZETzNwa1o4TVM2Y0lGZFNB?oc=5",
       "description": "Hantavirus incident highlights hidden risks in shipping delays &nbsp;&nbsp; Business Day",
       "source": "Google News",
-      "date": "2026-06-21T15:03:29+00:00",
-      "raw_date": "Sun, 21 Jun 2026 15:03:29 GMT"
+      "date": "2026-06-21T15:02:13+00:00",
+      "raw_date": "Sun, 21 Jun 2026 15:02:13 GMT"
     },
     {
       "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
@@ -31,20 +31,20 @@
       "raw_date": "Sun, 21 Jun 2026 03:20:23 GMT"
     },
     {
-      "title": "Health Experts Criticize RFK Jr’s Hantavirus Quarantine Order - Oz Arab Media",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0lfVGpTNE9BOTl4UDFLSU94VHUwUG9jVnRmbmNGR3liSVY5X29xcGNrQ3VjdmloRnRwaDN5amJPRzVlNEpzdURtRjhRTGQtaGMxOUNBeTF6MjByaWFtcFNJQ3RzbG9Fbl94amJKeWJ4OWNvYjZGdmd5aXJYc0JRMFh1aEdVN1NObEE?oc=5",
-      "description": "Health Experts Criticize RFK Jr’s Hantavirus Quarantine Order &nbsp;&nbsp; Oz Arab Media",
-      "source": "Google News",
-      "date": "2026-06-20T17:30:37+00:00",
-      "raw_date": "Sat, 20 Jun 2026 17:30:37 GMT"
-    },
-    {
       "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
       "description": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
       "source": "Google News",
       "date": "2026-06-20T11:00:00+00:00",
       "raw_date": "Sat, 20 Jun 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Quarantine over for almost all hantavirus ship passengers, crew - ABS-CBN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHNuWm1aUjNBbWlTYk45Tlc4V2RlWkt2TmRCTFlwZmR1ZGJCcXN3QW5jY0hVSHpCMm9QVjRldXFobTRPT0lvRDdxdTZma21yNnhNTkFaN1pzLS1LVXZNZDZzZVR5YnMyUnBWM3g3a0Fla2ZXS1k5TmthUmNUbnljbWxOY0hDWUcwX0RsZUo1VXBTcXpURHBaOEgyQUpLdGk1VVFUVkVHZTVEQTRGWjFUakR3?oc=5",
+      "description": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; ABS-CBN",
+      "source": "Google News",
+      "date": "2026-06-20T06:54:04+00:00",
+      "raw_date": "Sat, 20 Jun 2026 06:54:04 GMT"
     },
     {
       "title": "How Hantavirus Spreads and How to Protect Patients - Pharmacy Times",
@@ -69,14 +69,6 @@
       "source": "Google News",
       "date": "2026-06-19T15:59:00+00:00",
       "raw_date": "Fri, 19 Jun 2026 15:59:00 GMT"
-    },
-    {
-      "title": "“I was not afraid of the Hantavirus,” Greek Passenger Says after Cruise Ordeal - tovima.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXVzd0x4YVItS0hvS2FVVWxfQ3BlRDd4aGNLUUR0T0NHbUNQN2Z1aFk2OVJPWnZKZlg4anNTNy1tdFRWeTl3WEZqN0w2bjJ6aFJUdzlLeWxqMTJJa2RwT2REajlhQ2lBeUh6bzQwQll4Y0h2WVNVblJ5Ql9ieTFJakNuZlZIVFZHdnJRc1RKOGRNd3FGOUxoZWwtZkdXaXpIUlMtNjZFNTJpaW_SAbABQVVfeXFMUHpHRnlZamFnTndxYTJHS1JtMng3NTN6X3gxUU03WlBoNm5GVTZJY3h1RzNpbGxGTUstNkZwWEJLQ0NDY3dwdXQ0c21FRDVFVmpGZTAyUGRPVFE1cVJ1WlhibEhpZWV6VkRnT0ZBUmtZQ0pFRndHalNvVm9WQTBhNUlPaFprNHV0c1NfNlp1Q19LZWlsaGJ3Y3ZoUzUxTHI3M1pOVVdXTlhsS1hmcHVxVlk?oc=5",
-      "description": "“I was not afraid of the Hantavirus,” Greek Passenger Says after Cruise Ordeal &nbsp;&nbsp; tovima.com",
-      "source": "Google News",
-      "date": "2026-06-19T12:26:17+00:00",
-      "raw_date": "Fri, 19 Jun 2026 12:26:17 GMT"
     },
     {
       "title": "What did we learn from the hantavirus cruise ship scare? - Yahoo",
@@ -399,9 +391,17 @@
       "raw_date": "Sun, 07 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
+      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
+      "source": "Google News",
+      "date": "2026-06-06T07:00:00+00:00",
+      "raw_date": "Sat, 06 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
+      "description": "Texans clear hantavirus quarantine following cruise outbreak &nbsp;&nbsp; Click2Houston",
       "source": "Google News",
       "date": "2026-06-06T07:00:00+00:00",
       "raw_date": "Sat, 06 Jun 2026 07:00:00 GMT"
