@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-21T17:39:57.670247+00:00",
+  "updated": "2026-06-21T19:43:19.495815+00:00",
   "total": 50,
   "sources": [
     "PAHO",
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5",
+      "description": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-06-21T18:00:41+00:00",
+      "raw_date": "Sun, 21 Jun 2026 18:00:41 GMT"
+    },
     {
       "title": "Hantavirus incident highlights hidden risks in shipping delays - Business Day",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDJkN09jbTlpaWhUQ0YyTHlMZ3hnVW41ZjJWOFowX1g3V1NUUTBTT24wZThxaDdHNWtJeEdfUnYwSl9UODFJNGlxcXBtb0RmTjBic1Q3WGdGR3k2a3NtZXhtX1QxREs2R0JGb3lRaXdMQUdhc3dKc2U4Si02OS12UWtlYTY3SVk2aFVDemtWcGFMMVAwZGU4UzExa3VBbFNMQnZETzNwa1o4TVM2Y0lGZFNB?oc=5",
@@ -69,14 +77,6 @@
       "source": "Google News",
       "date": "2026-06-19T15:59:00+00:00",
       "raw_date": "Fri, 19 Jun 2026 15:59:00 GMT"
-    },
-    {
-      "title": "What did we learn from the hantavirus cruise ship scare? - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0VjQ1JYeF9XekxPMmtsZVB2cU1WeUMyd1lIR2RIdmI2U1FGanV1anB3eTB5QWwtRE01WTNyRnd0VHVYeEl3ZWNvUlZ5VHJPT19VUEVuQzVZSHctOUV1YXpPRTFvWGg5SDBXOXptRGxRWXVmeVVmdG92M3pxVHI1RWtPOXJOSTFWdWNuQmNVYjk3QVRCa3c?oc=5",
-      "description": "What did we learn from the hantavirus cruise ship scare? &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-19T10:50:32+00:00",
-      "raw_date": "Fri, 19 Jun 2026 10:50:32 GMT"
     },
     {
       "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha - WOWT",
