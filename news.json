@@ -1,18 +1,34 @@
 {
-  "updated": "2026-06-22T04:22:41.989650+00:00",
+  "updated": "2026-06-22T10:39:05.712091+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
     {
-      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5",
-      "description": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship &nbsp;&nbsp; The New York Times",
+      "title": "Public Service: Swiss Hantavirus Crew Member Is No Longer in Quarantine | blue News - blue News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWhReDk0TEU1c3J1NUVRcHQtaTNpeGNuTktHUzRfbzQzZUVBbUZKMUpaeU41TFVKWkctaXkyV3huX2VXU1FvdzJvZkN3X0swTXN4MGZyU1JCRkhQZV9SSjZCN1BfTUxNOURRajRkUEN2U2tvWXNwSjFoNzZVa3gyTEMxWWtudXZvTDE1eVZuaGlVdm10dUw4b2U1OTdnLXhQd3RRMDRzYjVjcUxNeHFCdl9ndw?oc=5",
+      "description": "Public Service: Swiss Hantavirus Crew Member Is No Longer in Quarantine | blue News &nbsp;&nbsp; blue News",
       "source": "Google News",
-      "date": "2026-06-22T00:39:27+00:00",
-      "raw_date": "Mon, 22 Jun 2026 00:39:27 GMT"
+      "date": "2026-06-22T07:32:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:32:00 GMT"
+    },
+    {
+      "title": "Ebola and hantavirus can start like the flu but turn deadly fast - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUN04wSnVRMGVxTm16bzE4MVBXcG1kaEU0MmMtOW5jVTBnT3NQcE1zV3hPWGlxQ0hPZmFRd1pQZWN2bWhEN1h5NnExNXJCQVdTRGltUXVHVFJwRUtGVUFnV0dDdHRkelBhc0E3dVFB?oc=5",
+      "description": "Ebola and hantavirus can start like the flu but turn deadly fast &nbsp;&nbsp; ScienceDaily",
+      "source": "Google News",
+      "date": "2026-06-22T06:32:29+00:00",
+      "raw_date": "Mon, 22 Jun 2026 06:32:29 GMT"
+    },
+    {
+      "title": "10 Essential Facts About Hantavirus and Ebola Virus Disease - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFU3TG9ER1puVHdJbFdmMnN3bzZhSUVLSm1ZbTFndURSUF9GTEVwcFh6a0d4QURybGFmM091aWdxN2VVUEUyN1hMRUdCUTFwRXV1dkYwQTdQRGMwd3BsM28yeWNhTkQzUWx6cFI2bEpDdGdCNmtkcko5OVZGOFBEcW5mdzVYWm1nUkNLbg?oc=5",
+      "description": "10 Essential Facts About Hantavirus and Ebola Virus Disease &nbsp;&nbsp; Bioengineer.org",
+      "source": "Google News",
+      "date": "2026-06-22T05:44:54+00:00",
+      "raw_date": "Mon, 22 Jun 2026 05:44:54 GMT"
     },
     {
       "title": "Freedom day: British passengers on ‘rat-virus’ cruise ship leave lockdown - The Telegraph",
@@ -21,6 +37,14 @@
       "source": "Google News",
       "date": "2026-06-21T23:01:00+00:00",
       "raw_date": "Sun, 21 Jun 2026 23:01:00 GMT"
+    },
+    {
+      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5",
+      "description": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-06-21T18:00:41+00:00",
+      "raw_date": "Sun, 21 Jun 2026 18:00:41 GMT"
     },
     {
       "title": "Hantavirus incident highlights hidden risks in shipping delays - Business Day",
@@ -35,8 +59,8 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
       "description": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
       "source": "Google News",
-      "date": "2026-06-21T11:00:00+00:00",
-      "raw_date": "Sun, 21 Jun 2026 11:00:00 GMT"
+      "date": "2026-06-21T11:00:42+00:00",
+      "raw_date": "Sun, 21 Jun 2026 11:00:42 GMT"
     },
     {
       "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
@@ -151,14 +175,6 @@
       "raw_date": "Wed, 17 Jun 2026 17:03:44 GMT"
     },
     {
-      "title": "Oceanwide CEO Interview: Inside the Deadly Hantavirus Outbreak - World of Cruising",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2tsS1NDWGFvVF9tX3JXZmdRYzBmbnlXRm4wclFHM2tCRmtqbjhseE9pUjNmSzNYejJJREhjSV9yZktkam1COWtyc3BmVUF5MjVxRHVVRjREemxDcnV4MGdaQnB0Nk02UDVlbzY5YWZpTHpJNlo4X2RQQ3NaSC1jcF84V3RfY2ZYRW1sUzFYVDBuYU9FMjgw?oc=5",
-      "description": "Oceanwide CEO Interview: Inside the Deadly Hantavirus Outbreak &nbsp;&nbsp; World of Cruising",
-      "source": "Google News",
-      "date": "2026-06-17T14:29:03+00:00",
-      "raw_date": "Wed, 17 Jun 2026 14:29:03 GMT"
-    },
-    {
       "title": "RFK Jr. Orders FL Woman Exposed To Hantavirus To Remain Quarantined - Patch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDFFZlJSa3RiS0ZfWVhNTFNfangxdzV3N2JWOFkxV3RYS0hFZEwtYzZjTUdYc04xelNoWEljY2hHdzV2bjE0aUhjRi1ROTM1MVF0MldXUWpNVHRoamhmZFZEbjhzZnh0VG1jTS1CU3pyZkRQVXN1dU9NU1BDQ0hRdXdON1Q0djBzVUo4QkNyR2tEZFdXREZVZFVUd1Z6dXBC0gG2AUFVX3lxTE90TzJ6d3ZYX3BZX1dfM3o1cUN5VWJiLTJ0Mnp1NTMzZG9fSW5tRlpSazA2UDZuRkFZRE14SV9CMVRBYVhLcnhyX3I5V3dIS2l0Sm4zZEJJX3hzVWw2YzRpVVVibWF3SlZaV3pCRDJKdjd3WWhFQlRfRXJub0Z3REZKSi1CNFg1a2p3VzJodUVHakNKUWtwUlBfZURmOWlzMGRNM0F6RjQzQ3hYMS13LW5fbzFQbHhB?oc=5",
       "description": "RFK Jr. Orders FL Woman Exposed To Hantavirus To Remain Quarantined &nbsp;&nbsp; Patch",
@@ -207,14 +223,6 @@
       "raw_date": "Tue, 16 Jun 2026 23:12:39 GMT"
     },
     {
-      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2dLRTQ5Y0Nja3V6QXkyMHlXaUxmUjQtN3lIRG1mRkt0SnlQOEFtOGdqZEo5VmlMVVp6WXhfVVVEaUxqX2NqN2tRemlZbUg3RmdyVW9LRzRLYWpMTXlLSEt6Qnp3V1h5UldLbEs5NW5RakZadW5LMUhPMlN2ZzJzdURZOHVIWVlnbjVFOXBTdEVmcE93SkVpMEZzdkFwX2o4eERJbFFuamJQU28?oc=5",
-      "description": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; AP News",
-      "source": "Google News",
-      "date": "2026-06-16T22:59:00+00:00",
-      "raw_date": "Tue, 16 Jun 2026 22:59:00 GMT"
-    },
-    {
       "title": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility - CNN",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUJRZ2dXeUZFQ2VXdGowcm5MdlZLeVYwLXN4b3JGbFlqRkNwYjJrbVRuTG1xR1RGc1ZwaUlKY1h4Zjlob0NWX1l0UWJ5bnhTdEVBbTlrWXVGVVd0NnhDUExLdll5VHFlOWlpY3o0RDlYUEp3QlZ4RDRTY3pMaWh2UmZHc2VteDlxNTBiUVBNQQ?oc=5",
       "description": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility &nbsp;&nbsp; CNN",
@@ -229,6 +237,14 @@
       "source": "Google News",
       "date": "2026-06-16T21:50:00+00:00",
       "raw_date": "Tue, 16 Jun 2026 21:50:00 GMT"
+    },
+    {
+      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2dLRTQ5Y0Nja3V6QXkyMHlXaUxmUjQtN3lIRG1mRkt0SnlQOEFtOGdqZEo5VmlMVVp6WXhfVVVEaUxqX2NqN2tRemlZbUg3RmdyVW9LRzRLYWpMTXlLSEt6Qnp3V1h5UldLbEs5NW5RakZadW5LMUhPMlN2ZzJzdURZOHVIWVlnbjVFOXBTdEVmcE93SkVpMEZzdkFwX2o4eERJbFFuamJQU28?oc=5",
+      "description": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-06-16T21:45:16+00:00",
+      "raw_date": "Tue, 16 Jun 2026 21:45:16 GMT"
     },
     {
       "title": "RFK Jr. orders continued hantavirus quarantine of American woman despite CDC advice - The Hill",
@@ -277,14 +293,6 @@
       "source": "Google News",
       "date": "2026-06-16T15:29:00+00:00",
       "raw_date": "Tue, 16 Jun 2026 15:29:00 GMT"
-    },
-    {
-      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - People.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFSVE1Sdk10dy1maXVVUjhfLTlQbWhMbjVxbjBnY3lHSTdOeFFDcVhzbHB0NVA0dWkzS0laLU8zVGhhcDc2YnhvNElrYTFRV2pGS25Gc0xIMmxSRVM3YnY3anpENzZhc0JpLUFiS2tVeE9kb2plRWZyc3FteFFvX24tWnFwWlBocndkcWM5NF9vRmZmSGkzeVdkYmtUTDNk?oc=5",
-      "description": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; People.com",
-      "source": "Google News",
-      "date": "2026-06-16T04:10:46+00:00",
-      "raw_date": "Tue, 16 Jun 2026 04:10:46 GMT"
     },
     {
       "title": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation - The New York Times",
@@ -391,17 +399,9 @@
       "raw_date": "Sun, 07 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
-      "source": "Google News",
-      "date": "2026-06-06T07:00:00+00:00",
-      "raw_date": "Sat, 06 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
-      "description": "Texans clear hantavirus quarantine following cruise outbreak &nbsp;&nbsp; Click2Houston",
+      "description": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
       "source": "Google News",
       "date": "2026-06-06T07:00:00+00:00",
       "raw_date": "Sat, 06 Jun 2026 07:00:00 GMT"
