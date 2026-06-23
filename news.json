@@ -1,11 +1,35 @@
 {
-  "updated": "2026-06-23T22:14:32.447120+00:00",
+  "updated": "2026-06-23T23:58:44.769960+00:00",
   "total": 50,
   "sources": [
     "PAHO",
     "Google News"
   ],
   "articles": [
+    {
+      "title": "American passenger who quarantined after hantavirus outbreak on cruise returns home - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54VG0xWGtOSEdPMFhZWVhmS3h6cGlzSHZYQVBCaGtPWFdvNTRQWVVXSXluYjh1eUFZbHlMSUFyXzZpU0dKQVVSbWNjS0ZMQ29RMzdJWkZKdGNWa21LRDln0gFcQVVfeXFMTzYyd2FoVTFucEwteFh2bXBDdTlEU3VZLS00MTJtUWZPLXlxUEhoS2lBRVl5TjREM21CTUlGQ1lGRm0tUmdvdGlpNkpBeGtnU1hKWDlZVHVHT2hYRks?oc=5",
+      "description": "American passenger who quarantined after hantavirus outbreak on cruise returns home &nbsp;&nbsp; Modern Ghana",
+      "source": "Google News",
+      "date": "2026-06-23T23:40:20+00:00",
+      "raw_date": "Tue, 23 Jun 2026 23:40:20 GMT"
+    },
+    {
+      "title": "Omaha leaders mark end of quarantine for cruise passengers exposed to hantavirus - KETV",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnloMWFLSGlOUUlCeG5sTkh3Q1M0bWVzSXR3ODVwWG1zTHJONkNqelpmUTV1VlhiMWM3OUZEemlTaDJZemNVUV84OVJTbDlWY0hacktQV0htdDhCVUp3SWpKUkJxTE0yWUQ4U1FYd2lWVUFKTEtzSzJNX0hXNFdtdUtYOHAwME9yZVlQa0tB?oc=5",
+      "description": "Omaha leaders mark end of quarantine for cruise passengers exposed to hantavirus &nbsp;&nbsp; KETV",
+      "source": "Google News",
+      "date": "2026-06-23T22:49:00+00:00",
+      "raw_date": "Tue, 23 Jun 2026 22:49:00 GMT"
+    },
+    {
+      "title": "Latest Travel Warnings: Shocking Cruise Ship Hantavirus Cluster Triggers Immediate Global Border Quarantines Right Now! - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93dGNlQTNzTURMbE1aeDVwMzNPYWtoN1FWV0dwRDZzTWRMTG9SVm5xbFJha1NHUDJrRmlRS2gwOXIzb205UzliSHlXVkc5cllxLWZFY0RaV0Rsc0FNVVFreDlhNzZTUmFaR084RHBn?oc=5",
+      "description": "Latest Travel Warnings: Shocking Cruise Ship Hantavirus Cluster Triggers Immediate Global Border Quarantines Right Now! &nbsp;&nbsp; Travel And Tour World",
+      "source": "Google News",
+      "date": "2026-06-23T22:21:18+00:00",
+      "raw_date": "Tue, 23 Jun 2026 22:21:18 GMT"
+    },
     {
       "title": "Quarantine ends for more than dozen travelers on cruise ship impacted by hantavirus - 11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTVlVHNGRVN0STQ3V2RhVVp0UFExNVJfYnJDb2V4S215bVZzTjZacE4zcnRtYVIyTUhkRkcwUFJXNWFVSkdSVlgxcVFJSTlCaFpic0xSb1RyZWZ0azZiaTNyVTlkZFduUDJfZ2VuYWxoX1V4QXROeVdDOERpaHhvQlRXeHhmN0xaejV0TEg5MnZTTDh4aldRZGM0ZlhfTWFRblFuTk5yZENXYl9ENVl3MnVyWDJwcUlIYnRUVUtaaDhFRklhZXo4Q0tSZFl6VC1iQ1JTOWF1ZEpELTQxci11eVdVOG94MGZhWjhieGpmTzdWQjY3Q2RhUA?oc=5",
@@ -15,12 +39,20 @@
       "raw_date": "Tue, 23 Jun 2026 21:46:00 GMT"
     },
     {
-      "title": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls - News From The States",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm5XQVkyeklHTzM0TlNWMFhKY2Nkak45OEdXYlgxQkJ0YU1LR0NxT3NvT05rTm9VcG45WWFzaFZJZ2YxOEJRMmtLdWEwbU9hYzJrczdqYWh1NVFWSVpzdE56NklwdVd6UVhPNGRQRkhnLVNPZktRYU9INTlRRUtIODdBQVFuZjhXa3FaQVNmampJc0RWQnY4anRMRXd2TmZaLUk0X2EwaUZvemVV?oc=5",
-      "description": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls &nbsp;&nbsp; News From The States",
+      "title": "Hantavirus quarantine ends for exposed cruise passengers, including two with NH ties - WMUR",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjhGZmg2TEJYRU5TZDV5d0YzRFlRWHZwbDNQa0RQdjVCejE4U0tDODd5dkxxMmFCZHdYcGlSdEFXQ3J1bVdnZ0JZOG1wZzlFQW52SHdSOTZDVDdsN21FMGY5WEk4cTZIbGJMZV8xQUpTcmplbWh1bG1yTVZ1eU9Bd3RaT3k?oc=5",
+      "description": "Hantavirus quarantine ends for exposed cruise passengers, including two with NH ties &nbsp;&nbsp; WMUR",
       "source": "Google News",
-      "date": "2026-06-23T21:07:10+00:00",
-      "raw_date": "Tue, 23 Jun 2026 21:07:10 GMT"
+      "date": "2026-06-23T21:10:00+00:00",
+      "raw_date": "Tue, 23 Jun 2026 21:10:00 GMT"
+    },
+    {
+      "title": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls - Nebraska Examiner",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXVjVUJ2Y2E4M1NkT3VBa0xHeTJiUlpVM0lwNDUxeGd6UnpTSEdPS21IVnY5MDgwOF9lbUNRc0RVRnZqSEI2UVhwaTFQVlNwVXd6dldkZnJubXcwOVVyZWlCMWxoQzBsampqNjlGV2FIYThxZ1FSX2h5VkFaVnJDOGhMNktHUnpTQTEzZnRxM3BFWnhaekNqWUM5c3pOOUpzMzJFSXhzN1RoWk1wUkhN?oc=5",
+      "description": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls &nbsp;&nbsp; Nebraska Examiner",
+      "source": "Google News",
+      "date": "2026-06-23T21:07:15+00:00",
+      "raw_date": "Tue, 23 Jun 2026 21:07:15 GMT"
     },
     {
       "title": "American passenger on hantavirus cruise ship details 42 days in quarantine - Modern Ghana",
@@ -63,9 +95,9 @@
       "raw_date": "Tue, 23 Jun 2026 15:53:00 GMT"
     },
     {
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - WBKO",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTJwbXlWSFBLTHNpb3oySFJ3R3pueWdZdVdpbWZiQjJkYUdPaFF1R2tHZkRlTEotRDFkSUpXZXUtSDgxVHA1dU1iQWNzZE1maklic2Q5cXpMcFhpakE1OGRXeV81MjF2MEx1V2RoNWFRbXZwanBndzN1WElfU3U4eEtKenJSR3dOalFYWW5qbkdsTFhlcElWZG12aUxGd9IBsgFBVV95cUxPQzNYbmcyQWhlQkFVRkhrbC1OOG1VcmFXMzU5SUpFeVFfMVFIU213Ql9DWlNNQXVWY2lsSFlQdUtBNkdxc3piOTRVMGxxRUtjZ2VkT3VDc1hjQWRfTFdMLVRaTjdXQ2gzLW9aRDM5YUxScWVKSnRvcExBZEt6RmFZdllSVmN4YkVzT1JReVB3QW95VzYzQnY2VlFvXzdxTU9VRTRBMl9JdUl6ZEh0OGF0VnRR?oc=5",
-      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; WBKO",
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - WIFR",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDJKS3hSclBDc2V2UUp0eHhndzZSa3J0Mm90SVRmZUhIMng0amtMZmZtT2haOE5LSlN0VTJsbzZCNDB2ZHg0dzM2akNTYkd0OXB6a3RLTU90a2F6amJxZXJPd0Z5cDk0cktPLUdxVlAwS3lqejJCQVZEOWlvZ0pWNkowU09YamxUa05rY0NuSDBkd2JDdzdfZUx3TV9BZ9IBsgFBVV95cUxOUlFTQlRHSndrcTV0c0RTQl9OUk1XdDkwZGpBcWM0X1RIQkQ5NXBmeFhXLU82NUl6S3B0TFNrWXdkMndZT3pWVTlDMmVObnlzdkJMVDkxcG1JZWZmRm9FdlBTZWU5Y0pmUGVrUGd4WndRZ1hyUjlUWnNDanZFQ1ZORi00MGd4RERYWWxycTRBT2UwMFI1Rzk1YWNmbjRlXzJsakJwV282VVhfSkhhb1NqUzdR?oc=5",
+      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; WIFR",
       "source": "Google News",
       "date": "2026-06-23T15:18:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 15:18:00 GMT"
@@ -125,14 +157,6 @@
       "source": "Google News",
       "date": "2026-06-23T11:22:20+00:00",
       "raw_date": "Tue, 23 Jun 2026 11:22:20 GMT"
-    },
-    {
-      "title": "First hantavirus cruise passengers leave quarantine - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG5XdktkbTJZNG9Lb0w0VXk4aTBBODJIc1RlWUhGRUdWTzRkRTAyV0tDbjdiNDQwejB4WVZQSTk1bDJTWk1xSUNKalYwNXVTOVZ3ZW1XZ251REhHYUhMSVk0TlhKdGtIT0RVNXJrUEVSaW5DQnNvV3lpT3ZJdTQxajNKRjZENlRqQmN2TDRQN1RyV0dxeHpnbW1xS2Q1T1FOcU1zMXJwbw?oc=5",
-      "description": "First hantavirus cruise passengers leave quarantine &nbsp;&nbsp; SMH.com.au",
-      "source": "Google News",
-      "date": "2026-06-23T11:19:27+00:00",
-      "raw_date": "Tue, 23 Jun 2026 11:19:27 GMT"
     },
     {
       "title": "Final US cruise passengers released after hantavirus quarantine - cbs19.tv",
@@ -265,18 +289,18 @@
     {
       "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - CNN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyMEtZVFFtQVZYR2t2ZVpHS1NnMUQ5cTVrcnFPTFVNbzMxeG5LOExRQ3VsakNQcW93aUdWdDFyaWFoQWtlZVR3OEdDR3JMbzJaTEwyUks2dy1pM2V1LURCUHRaanJyQ3BNb09JVmZmcDRwWDNtYS1JZ3hR?oc=5",
-      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; CNN Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship &nbsp;&nbsp; The New York Times The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship &nbsp;&nbsp",
+      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; CNN Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship &nbsp;&nbsp; The New York Times Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; ",
       "source": "Google News",
       "date": "2026-06-22T19:58:05+00:00",
       "raw_date": "Mon, 22 Jun 2026 19:58:05 GMT"
     },
     {
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQnh4VW9pU2Z1Z29jbHM1OXBRWTl2X0RZa1prdDc5b1dxYzJzMnU1RkIxckt6RVZERTZla24yLXk0Z2kzUkRJN05vdXVWeE9kbzdqaEN3ZUdQbjZSUFVrNjd6RklfYzRjWTN5dWhORTg2NDVHLV81SHpncFA4dHdqSEEyVVl0b2xwY1k4ZkE5WDQ3Zy1zRWl4UVVJZEstckxUeEs4d09iT0ZGSmZnYjZmS0FOT2VmbHYxQkFkVENEWjB6VlVtbmsybEp5SDhFampORkhpZ3ExaXhzUVJxbTk5M1FVa0FOZ0lkYmszY1hYdU52RkdWOGdDWmJJdjY2S1RjeUVLd3BNOWZ1NG0wVkFFVkpn?oc=5",
-      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; Toronto Star",
+      "title": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha - wpafb.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHdXdVBFbHhXSmlMTFNJOHZqWWtqbWdZSGV5WlBYZDB4OXk4ejZzRldLeXZmX0pJWUNTbG1OV2cyaGhTUG8xWGI0VExfZVVuZ1A4Wmg4STd5UjFBbXFYWlVCeHNhcHpVcHJ2X2gwRS05Wi1mYkdQbVVOWkhJZnZfVmpZR09JU2NicXJfZWsyaDd1OGdDZjc4bXZFZ1VVTWFmQ2xwRWlLN1JBYS1QRUZXdEtfN3Y5WllWVFpXV2pmcHNmOEpsSTlBV1l4R1dzYy1u?oc=5",
+      "description": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha &nbsp;&nbsp; wpafb.af.mil",
       "source": "Google News",
-      "date": "2026-06-22T19:07:40+00:00",
-      "raw_date": "Mon, 22 Jun 2026 19:07:40 GMT"
+      "date": "2026-06-22T19:49:30+00:00",
+      "raw_date": "Mon, 22 Jun 2026 19:49:30 GMT"
     },
     {
       "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
@@ -293,14 +317,6 @@
       "source": "Google News",
       "date": "2026-06-22T16:24:03+00:00",
       "raw_date": "Mon, 22 Jun 2026 16:24:03 GMT"
-    },
-    {
-      "title": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha - afmc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOFU3RXpldDlwOGdQaElwQWF0Yy1sWURXeEVfQ2h6XzhUSFVIc29vZFM1blNRcU5TTmF0R2h2TFQ3RXY1c3NuV0phMjhRMkFhckx6TUMxTDNyUUF6Z2Z3SldTX1Njd3pUdzhvTGZxREN6a29ad1dqTVctdENQTjMxeHpWdEpCVjN5MlFLYWdqX3JRQ3VQQlp3M2xlYjJseDRmaGQ0RUVVLWlvMlNWeXd0X2NGMzNMV05iM084ZXJjSHd6cDFTUFlMSkVhR2pCNms?oc=5",
-      "description": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha &nbsp;&nbsp; afmc.af.mil",
-      "source": "Google News",
-      "date": "2026-06-22T16:09:29+00:00",
-      "raw_date": "Mon, 22 Jun 2026 16:09:29 GMT"
     },
     {
       "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage - MedPage Today",
@@ -383,25 +399,9 @@
       "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "San Quentin Rehabilitation Center investigating possible case of hantavirus in 38-year-old male inmate - ABC7 Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVlIWnRsUU1WUzR3dEY4VENxVXBqQzh1djVmQkFEQ1dtSUl2MTlPcnpyZWJSQTFNcU85bml0Mld2SVVodm9xWTVMeGIyMDlMbHJDcS1jMmdpZFNJQnl3Q0txMS1KQTdUVEJGMmRLZW5QUkxfenVfci1qcC1YNElMZkhWa3dXd1o3c3dmTEdYc2J1ZW5ueUwxSGE1Z0pPVlY3T1ZMMTFPbnFPZWRMVTNHMnJnclVGbkNTZGl0Y3hNZ3JyLUtoWFYxU3FiVHc1YUV2cEZNaNIB2gFBVV95cUxQMnZhOFZhTkdwekZRUWhnY0VUZEdGaG1TTFJ5bDVNdUZMaHBzNkozMjFreWVocHR4VUxLbThZMHhxOUdkSzBOWmxjMFpJSDkteXRObUlpbWRoYnU5cW9GcWZPUzhmc19sY3lHcmJRaU9vazlaMEwtUVppRWxjUnpKdnIzRmZBUGZ0UHJMNmN5TjRlTXRReGhlTE9yQ29WTmdXSmV1dXJjZDVOQjd1RDZtN2hRYlRvNGFfNFdnRDRzZkMzN3hoSWt0c2MzaGZLVVgtZWlGSE9USGtMdw?oc=5",
-      "description": "San Quentin Rehabilitation Center investigating possible case of hantavirus in 38-year-old male inmate &nbsp;&nbsp; ABC7 Bay Area",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
       "description": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates) - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
-      "description": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates) &nbsp;&nbsp; Forbes",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
