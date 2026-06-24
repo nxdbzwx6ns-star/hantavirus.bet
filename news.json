@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-24T04:18:12.004851+00:00",
+  "updated": "2026-06-24T08:22:24.430981+00:00",
   "total": 50,
   "sources": [
+    "PAHO",
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Americans on hantavirus-infected ship end quarantine - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFB2RmRuZzBHWHp5Tzdrc1ZSbHVEM0YxbDNJazZuTjByS3djV05kcDBndUUyV200VVVxMjZOUWJlLVZjRUdyZm9DRHl5TTNuVU9VbkFwZVhxVHgxU015aG9wMmY4UE1zeXd4MkFqVHZ5bUM5V2UwS0FJSlR0WUdqNzV6Ym9NRzI2cXFNczhDWDFYcEpBWUFtRGpXUVF0S2ZjYThwTg?oc=5",
+      "description": "Americans on hantavirus-infected ship end quarantine &nbsp;&nbsp; NBC News",
+      "source": "Google News",
+      "date": "2026-06-24T07:40:07+00:00",
+      "raw_date": "Wed, 24 Jun 2026 07:40:07 GMT"
+    },
     {
       "title": "Local influencer returns home after quarantine following hantavirus outbreak on ship - NBC Boston",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXI5RGpwR2FFdDFuYlNNeV9NX2lBczNudDNZTjlPSHZkZk4yc3A5ZjNSLWg2ZGFzQnV3NDZJTjloV0h3STFvaDFPbVdFN05SS1Aydjl3RkNNcDZqQTRralhaU3dXTkIxUlhpVXc4dGFobnJqOHNXX09tVDAwdDh4OVpNNUxNc1NXd3hWcm8zUVBlNFdEdk9Xck9hU1pCUkQ5N05nZzRmN1R6eGx1YS1FTkpmZ3R3cWk3dW5TamM3SUFpTHUySERlLVhha0hXYkx2MUHSAdoBQVVfeXFMTkhIQ0NzZTV4UGxuRnFZNkdvb2Y1RjlEeEl4T3ltS1VxbG15YS1EYk5URElyUnFRWUJTRV82Z1JkcVl3dzR1TVliam9XOWNxSzE2SklGM1g3RjVkVXl1Z2xmQmM1eC1wTWZVY2xZdnhhWGxJdGJfdjUydVFpcjF0ME5ENF85RVBfWXc0dERKRnYtZlRhRXQ0aDBRTHFpNHlkZkdXNHp2ckJhYjkzclVPc3ZqdkxzSEIycmVtREJyWkg4S3VudnUyclR4Vy1BMWpMb1JCeThLR0RIb1E?oc=5",
@@ -46,14 +55,6 @@
       "raw_date": "Tue, 23 Jun 2026 22:44:00 GMT"
     },
     {
-      "title": "Latest Travel Warnings: Shocking Cruise Ship Hantavirus Cluster Triggers Immediate Global Border Quarantines Right Now! - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93dGNlQTNzTURMbE1aeDVwMzNPYWtoN1FWV0dwRDZzTWRMTG9SVm5xbFJha1NHUDJrRmlRS2gwOXIzb205UzliSHlXVkc5cllxLWZFY0RaV0Rsc0FNVVFreDlhNzZTUmFaR084RHBn?oc=5",
-      "description": "Latest Travel Warnings: Shocking Cruise Ship Hantavirus Cluster Triggers Immediate Global Border Quarantines Right Now! &nbsp;&nbsp; Travel And Tour World",
-      "source": "Google News",
-      "date": "2026-06-23T22:21:18+00:00",
-      "raw_date": "Tue, 23 Jun 2026 22:21:18 GMT"
-    },
-    {
       "title": "Quarantine ends for more than dozen travelers on cruise ship impacted by hantavirus - 11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTVlVHNGRVN0STQ3V2RhVVp0UFExNVJfYnJDb2V4S215bVZzTjZacE4zcnRtYVIyTUhkRkcwUFJXNWFVSkdSVlgxcVFJSTlCaFpic0xSb1RyZWZ0azZiaTNyVTlkZFduUDJfZ2VuYWxoX1V4QXROeVdDOERpaHhvQlRXeHhmN0xaejV0TEg5MnZTTDh4aldRZGM0ZlhfTWFRblFuTk5yZENXYl9ENVl3MnVyWDJwcUlIYnRUVUtaaDhFRklhZXo4Q0tSZFl6VC1iQ1JTOWF1ZEpELTQxci11eVdVOG94MGZhWjhieGpmTzdWQjY3Q2RhUA?oc=5",
       "description": "Quarantine ends for more than dozen travelers on cruise ship impacted by hantavirus &nbsp;&nbsp; 11Alive.com",
@@ -76,14 +77,6 @@
       "source": "Google News",
       "date": "2026-06-23T21:07:15+00:00",
       "raw_date": "Tue, 23 Jun 2026 21:07:15 GMT"
-    },
-    {
-      "title": "American passenger on hantavirus cruise ship details 42 days in quarantine - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Zd1FOWTFqa0szN0NWLUN0d1hlNjhTc3NIVldaTUtWa1dPUjhjcWdMaG5vWTNQVHNUMnlTMjlSTE1YRUJaZjRJVXNvRjl2eGdYUV9JYkhVTFNCQUozMGNV0gFcQVVfeXFMUHRDUE05Q0dRU2MwUkxsVUJkTWVxUDIyY0RIWjdSNVJWQm1xVm5adFNCXzRoUFllTkpnbC1GeTNQY1NSTjZvV1BlN2xTWE9EVUFKWE9NcVU2S0hYdVY?oc=5",
-      "description": "American passenger on hantavirus cruise ship details 42 days in quarantine &nbsp;&nbsp; Modern Ghana",
-      "source": "Google News",
-      "date": "2026-06-23T21:03:47+00:00",
-      "raw_date": "Tue, 23 Jun 2026 21:03:47 GMT"
     },
     {
       "title": "Video American passenger aboard hantavirus ship details 42 days in quarantine - ABC News - Breaking News, Latest News and Videos",
@@ -166,22 +159,6 @@
       "raw_date": "Tue, 23 Jun 2026 11:49:13 GMT"
     },
     {
-      "title": "We’re closing in on ending Hantavirus outbreak — WHO - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlFYVTQzcjNET1Y0a2hycWRBOUdiRXJYTHFuTHR0cHloenVPQlZOcTY4QmVqZ2lXd3BXdl9BNDJaajB2UDhqWlJ4M3R0eGZ4NXY4bzBOMUE1QU9YNFg5YnpEMTRUeXV0dFZncFBjSW5zM2pPNEd2LTZCVGFLRTYtUzN2Y0ljR1JMdGhKVG5DeE9Ma3E0M3c?oc=5",
-      "description": "We’re closing in on ending Hantavirus outbreak — WHO &nbsp;&nbsp; Modern Ghana",
-      "source": "Google News",
-      "date": "2026-06-23T11:22:20+00:00",
-      "raw_date": "Tue, 23 Jun 2026 11:22:20 GMT"
-    },
-    {
-      "title": "First hantavirus cruise passengers leave quarantine - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG5XdktkbTJZNG9Lb0w0VXk4aTBBODJIc1RlWUhGRUdWTzRkRTAyV0tDbjdiNDQwejB4WVZQSTk1bDJTWk1xSUNKalYwNXVTOVZ3ZW1XZ251REhHYUhMSVk0TlhKdGtIT0RVNXJrUEVSaW5DQnNvV3lpT3ZJdTQxajNKRjZENlRqQmN2TDRQN1RyV0dxeHpnbW1xS2Q1T1FOcU1zMXJwbw?oc=5",
-      "description": "First hantavirus cruise passengers leave quarantine &nbsp;&nbsp; SMH.com.au",
-      "source": "Google News",
-      "date": "2026-06-23T11:19:27+00:00",
-      "raw_date": "Tue, 23 Jun 2026 11:19:27 GMT"
-    },
-    {
       "title": "Final US cruise passengers released after hantavirus quarantine - cbs19.tv",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVUFMUUdBQzc0U2lCZ25RNVE5VWRwaFFHMnU1czhWS2VxWVBjQWJFRC1Bb1ZQY0E2SjhzamRJTzkzaXg2YkZiQ0hzX3RqM3owZ0RMczMwQ281d2R6X1R3d2FhekpqVTdNZXdSb1prM1NjcEM0dnJpZnMwZ1p0UkZyalloblJMYUoyUlRhajJRRzB4LUpqdGduNm5KUVBUTDE5R0h2MWVhTGFVcEgzekpJQjQxdVFqclFRdDhlRDQtVy1MQ290Yjd5a0JlMWNyU0FmT1JhTmdmMmdvdw?oc=5",
       "description": "Final US cruise passengers released after hantavirus quarantine &nbsp;&nbsp; cbs19.tv",
@@ -196,22 +173,6 @@
       "source": "Google News",
       "date": "2026-06-23T10:15:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 10:15:00 GMT"
-    },
-    {
-      "title": "Quarantine over for Americans on hantavirus-infected cruise ship - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZUNvMDlrMENkQ2VJZHEwVjh2bGpjSUIwU1dpVUdUYUlrOUZtNXI5SDh1MjNhMFdoOVN0OWVsejNHZzh2cktHbHBWZlhodW5vV05hcHF1b0FIRDRDbVMw0gFcQVVfeXFMUGx0MFlqTndqZEhQSVdpU2tmNnQ4TkFCcXh0YVRFSGtTYU0xUnZGeS1ndEdSV0hORGFmTEx2Z2lCN01rNUtad0h4clR0eEhncjFhV0N4QVVsTnNGUkQ?oc=5",
-      "description": "Quarantine over for Americans on hantavirus-infected cruise ship &nbsp;&nbsp; Modern Ghana",
-      "source": "Google News",
-      "date": "2026-06-23T08:49:07+00:00",
-      "raw_date": "Tue, 23 Jun 2026 08:49:07 GMT"
-    },
-    {
-      "title": "Americans on hantavirus-infected ship end quarantine - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFB2RmRuZzBHWHp5Tzdrc1ZSbHVEM0YxbDNJazZuTjByS3djV05kcDBndUUyV200VVVxMjZOUWJlLVZjRUdyZm9DRHl5TTNuVU9VbkFwZVhxVHgxU015aG9wMmY4UE1zeXd4MkFqVHZ5bUM5V2UwS0FJSlR0WUdqNzV6Ym9NRzI2cXFNczhDWDFYcEpBWUFtRGpXUVF0S2ZjYThwTg?oc=5",
-      "description": "Americans on hantavirus-infected ship end quarantine &nbsp;&nbsp; NBC News",
-      "source": "Google News",
-      "date": "2026-06-23T04:33:02+00:00",
-      "raw_date": "Tue, 23 Jun 2026 04:33:02 GMT"
     },
     {
       "title": "Quarantine ends for last of American passengers of cruise ship hit by hantavirus outbreak - weareiowa.com",
@@ -360,7 +321,7 @@
     {
       "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
-      "description": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill All US passengers from hantavirus-hit ship return to home states &nbsp;&nbsp; Reuters Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship &nbsp;&nbsp; ABC News - Breaking Ne",
+      "description": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; The Guardian Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship &nbsp;&nbsp; ABC News -",
       "source": "Google News",
       "date": "2026-06-21T11:00:42+00:00",
       "raw_date": "Sun, 21 Jun 2026 11:00:42 GMT"
@@ -404,6 +365,46 @@
       "source": "Google News",
       "date": "2026-06-16T20:52:05+00:00",
       "raw_date": "Tue, 16 Jun 2026 20:52:05 GMT"
+    },
+    {
+      "title": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3c1SkR1WDdSTk5BV3lhUlVyNDUwUWh1M3ZfTTdMQ3NjaHdEeFZrcDBRMzlPSTRGUXNuMzRfLXpJaEE3eTdra0JnQ2NONzh1ZzBzME13Qk13TmwwcVBpQW1MZzEyZldtQ203Q0FjdEo0MldLaVdXYVVwYnBmLW9Kei1R?oc=5",
+      "description": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-06-15T07:00:00+00:00",
+      "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OPS y socios fortalecen la vigilancia del hantavirus y otras fiebres hemorrágicas en las Américas",
+      "link": "https://www.paho.org/es/noticias/12-6-2026-ops-socios-fortalecen-vigilancia-hantavirus-otras-fiebres-hemorragicas-americas",
+      "description": "PAHO and partners strengthen surveillance of hantavirus and other hemorrhagic fevers in the Americas Oscar Reyes 12 Jun 2026",
+      "source": "PAHO",
+      "date": "2026-06-12T19:23:14+00:00",
+      "raw_date": "Fri, 12 Jun 2026 19:23:14 +0000"
+    },
+    {
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
+      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-06-12T07:00:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTZvLVVETF9PX01sb0FJcXVYOGUxOVFXVDFjYTN0eDlOUVY5ejFVcG4wMjJyWlZDRXJ3bWN3cTUzTXZ5X3liQ3Q4V3FxbEthRHNPLWp3d2JQb0gxendqZjdrSHE3SDhZT3pudGZ3VFB5SFhZcUI2dmg1ZXc3UUFZVy1UTk03c3JMa1FNaUxycml6ZjBOV3B5Y2lyRTNBNWdBVWdPbk9rWnQ5N2NiblNVMEpldDI3dDZOajhZX0dLUlppbEtOX1lwV2tUdWJWWktYNExCWnhTR0VPMGgxZ2lWcG85VU0xWEtyY3fSAe8BQVVfeXFMTk1uN21HRGtCYUlUdlE5eWtDQ0RCUnJRR2tJX1c4M1NoVEJKRkY0QXplZ1pQd3VKWHZUV3NTb1JoZWE0blM4amZxUnpTTmpMUE1oUXhFNFd3QWoycWt6aE9SLW1JOGxIeTFSNVota2RQOXIza0ZkS2JjcFl4am96SFU5bDBDOHpYcVJjOEszREZyYTBYNURMT2lnZXZPWHRwR2R1bW85WVdsWnVLRTJXb0g2MVFIcU1JZ1J5Nzg3bnN1bERBTFFxdmdteGRvU2RBSHVOdWVSajU3cXhtdUttbW4tTDZaWkpXNFlMUGs0S00?oc=5",
+      "description": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say &nbsp;&nbsp; ABC7 Bay Area",
+      "source": "Google News",
+      "date": "2026-06-12T07:00:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Officials say possible hantavirus case in San Quentin prison was false positive - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHllWnNrTDhidWd5RWg3d2VhNFZoMWdVU0ZnZ0dKUjNsalp6blNBSDZOUVB5M1NFZFI0MDVSZTd4b1Jvc3pEeFhLcEtETjNOWS14dTdOWHF5X2Y2czZObEwzNmU0dHEzSHY5UW4yNzFrQTAwa09vcnlhbE83SHR0VnNLWWt1STh1OWtJMXRGc0MyUQ?oc=5",
+      "description": "Officials say possible hantavirus case in San Quentin prison was false positive &nbsp;&nbsp; Los Angeles Times",
+      "source": "Google News",
+      "date": "2026-06-12T07:00:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ]
 }
