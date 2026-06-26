@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:47:19.937032+00:00",
+  "updated": "2026-06-26T22:14:28.502517+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -86,9 +86,9 @@
       "raw_date": "Thu, 25 Jun 2026 05:12:00 GMT"
     },
     {
-      "title": "CDC concludes hantavirus response as outbreak eases - KSL News",
+      "title": "CDC concludes hantavirus response as outbreak eases - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVS0xOVY0UFJCUHI5TXFjTnFvQ3NDWnFDd1pjSW5JcGIteVlvLWxBR2RVQjRnQnV1UXVTSzVWenJ5d0xHUHgyYlFCYnFSd0djUEpBWUlWNk5aODY2TmVKaWp5SHBmS0Z1V0w4RTNnaDM0Tk16ZGExWGM0bVZqc0ZYWUl0aEFDcTU5VllQTWFXbFlzUQ?oc=5",
-      "description": "CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; KSL News",
+      "description": "CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; KSL.com",
       "source": "Google News",
       "date": "2026-06-24T23:40:10+00:00",
       "raw_date": "Wed, 24 Jun 2026 23:40:10 GMT"
@@ -142,9 +142,9 @@
       "raw_date": "Wed, 24 Jun 2026 21:19:00 GMT"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
+      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
       "source": "Google News",
       "date": "2026-06-24T21:07:47+00:00",
       "raw_date": "Wed, 24 Jun 2026 21:07:47 GMT"
@@ -212,6 +212,14 @@
       "source": "Google News",
       "date": "2026-06-24T15:10:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 15:10:00 GMT"
+    },
+    {
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "description": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
+      "source": "Google News",
+      "date": "2026-06-24T14:12:07+00:00",
+      "raw_date": "Wed, 24 Jun 2026 14:12:07 GMT"
     },
     {
       "title": "CDC prepares to end its hantavirus response as American passengers celebrate the end of quarantine - KHOU",
@@ -348,14 +356,6 @@
       "source": "Google News",
       "date": "2026-06-23T11:57:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 11:57:00 GMT"
-    },
-    {
-      "title": "Last Americans leave hantavirus quarantine - WCNC",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1A4YkdobTJUSmRJY1Z4aGMzLXY4NjFmd2tqV1dtdFpwc2lJODFlUXRaeDVjWUoxSDREM1FaYndyT2pCT05MaVJWd2tzbmQzeThGOE1NV1ZhTFVCdThGYzJTOG1tYzA3d1ByODBBek1CengyNG84ZkhPMldLX1dReVFJWHhBTGFva09jWlNUaHZXN3pxc1c0WGV1NGJnWnNkS1o5dmdOS29tQ0Y2akJtaEtNZw?oc=5",
-      "description": "Last Americans leave hantavirus quarantine &nbsp;&nbsp; WCNC",
-      "source": "Google News",
-      "date": "2026-06-23T10:15:00+00:00",
-      "raw_date": "Tue, 23 Jun 2026 10:15:00 GMT"
     },
     {
       "title": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC - WOWT",
