@@ -1,10 +1,18 @@
 {
-  "updated": "2026-06-28T11:08:11.075914+00:00",
+  "updated": "2026-06-28T13:48:19.853990+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Researchers uncover how Ebola, hantavirus outsmart immune systems - Caliber.Az",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFkxV1UybmJtOFlqcGtNcVl5bng5RWhnMF9DWlR3WTdwcnVEREFnSE1zdFA0UFdmbWxWZGRGQWY1NzRoWmw1QzNoWU1fZG9DQzgyLXEzRVRTbl9Wa2dscGhEbGRBV3VNa1V6aUZyUFZCTHFveVpodFRsSzNGZkEwTkdSVjI5Q0hKM1l5SFp6YTVDYzFTVXc?oc=5",
+      "description": "Researchers uncover how Ebola, hantavirus outsmart immune systems &nbsp;&nbsp; Caliber.Az",
+      "source": "Google News",
+      "date": "2026-06-28T13:41:59+00:00",
+      "raw_date": "Sun, 28 Jun 2026 13:41:59 GMT"
+    },
     {
       "title": "Bend doctor on hantavirus ship released from quarantine - bendbulletin.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHRHemFmenUtR3RjTWE5RmZJaWxPR2RpOTA1SzdQdUY0Y2RZTXd6TzdJSm9sMEIxS194QnhzVkdSbUR1Y1IwS1JxNTVrSXpyUndwT1NidlBsRHJBMlRoNXZOaGV1M2RQNjVQNEhpWlBZdkJ1aUY3NmxVc05ST3NZanEwMUxzamZQRWRCMjFXWmc4UWJDQjJB?oc=5",
@@ -12,22 +20,6 @@
       "source": "Google News",
       "date": "2026-06-28T00:46:22+00:00",
       "raw_date": "Sun, 28 Jun 2026 00:46:22 GMT"
-    },
-    {
-      "title": "Irish survivor of deadly hantavirus cruise ship plans next voyage - The Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGFKRVA1QksyZUZNUjhQSXZKN0d0NkMyTkxmcEVuby04SzM2Q0hHWjdfd0ItcjNqNmRhdmw2UkpWNGFVNmtwTjkxQ1JaOXpZcGxuTFFienlWSHJpV1pHYkdLeDdTTU50emhPdFowS19jYTNwc3Q1YlVqYnVlYWg1YzBWNmNvXy1QR0t3QlJ0MzNOQ2pUTXU0UWNEcklpR0hocGNxRQ?oc=5",
-      "description": "Irish survivor of deadly hantavirus cruise ship plans next voyage &nbsp;&nbsp; The Times",
-      "source": "Google News",
-      "date": "2026-06-27T19:45:15+00:00",
-      "raw_date": "Sat, 27 Jun 2026 19:45:15 GMT"
-    },
-    {
-      "title": "Irish woman on board hantavirus-hit cruise ship ‘surprised’ she didn’t become infected - The Irish Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDcwR1pONEZqU0tKSXNtTF9hVGZKVVlrYXEtUnpqd1JoT0ZWZ2xCSndaODRHdVBZbWR6S25zbGQycWRvQlFBRHVXeUktXzNpbGlrc1FTNjh2bFBpOWNlN3loOVJFcjZ0bjRBZmt0eVJ2S0pMZFNfcWtVeXo2dzhWZjJMUXJXQXU2a2kzbnNPcUhUelpvanJLZTdhRUI3TUVRdnN3ZWRad1k1MlB6eWxMWkNlYTRqdXdjYXFOM3lFZnlVTUtwZnRIZXlB?oc=5",
-      "description": "Irish woman on board hantavirus-hit cruise ship ‘surprised’ she didn’t become infected &nbsp;&nbsp; The Irish Times",
-      "source": "Google News",
-      "date": "2026-06-27T15:07:50+00:00",
-      "raw_date": "Sat, 27 Jun 2026 15:07:50 GMT"
     },
     {
       "title": "Hantavirus: Market versus Government Disease Control - Mises Institute",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-06-22T17:39:53+00:00",
       "raw_date": "Mon, 22 Jun 2026 17:39:53 GMT"
+    },
+    {
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
     }
   ]
 }
