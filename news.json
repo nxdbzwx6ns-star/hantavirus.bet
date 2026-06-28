@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T17:13:33.721972+00:00",
+  "updated": "2026-06-28T19:21:48.855788+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,6 +22,14 @@
       "raw_date": "Sun, 28 Jun 2026 00:46:22 GMT"
     },
     {
+      "title": "Irish survivor of deadly hantavirus cruise ship plans next voyage - The Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGFKRVA1QksyZUZNUjhQSXZKN0d0NkMyTkxmcEVuby04SzM2Q0hHWjdfd0ItcjNqNmRhdmw2UkpWNGFVNmtwTjkxQ1JaOXpZcGxuTFFienlWSHJpV1pHYkdLeDdTTU50emhPdFowS19jYTNwc3Q1YlVqYnVlYWg1YzBWNmNvXy1QR0t3QlJ0MzNOQ2pUTXU0UWNEcklpR0hocGNxRQ?oc=5",
+      "description": "Irish survivor of deadly hantavirus cruise ship plans next voyage &nbsp;&nbsp; The Times",
+      "source": "Google News",
+      "date": "2026-06-27T19:45:15+00:00",
+      "raw_date": "Sat, 27 Jun 2026 19:45:15 GMT"
+    },
+    {
       "title": "Hantavirus: Market versus Government Disease Control - Mises Institute",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWNqMEh0UUthaVNFVlBrLWpiNTJNUENZUzdJRmN3V00yYWFoMTFvTEQzV3k2VlhXaXBDV05WOG9ld0ZHelZVRWRVS0FNVWxLdklrOXVfSXBTbDVmSzhYQWhJWElna0lPSzNaYk1NT2RqT2pIY0cteWhOcGhDSUlFd3dncmhRclk?oc=5",
       "description": "Hantavirus: Market versus Government Disease Control &nbsp;&nbsp; Mises Institute",
@@ -36,14 +44,6 @@
       "source": "Google News",
       "date": "2026-06-26T10:30:40+00:00",
       "raw_date": "Fri, 26 Jun 2026 10:30:40 GMT"
-    },
-    {
-      "title": "Hantavirus Reveals Latin America Is Unprepared, Warns The Lancet Commentary - AIDS Healthcare Foundation",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORlk0TG5hbmwxai00eXlFWElTVm9CVjFaWHF0aDFYNmFURmNhc0NzcklFekdiQ0RJcnJlR294MEJzNTJzN3N5a3l5UEVxeHZkb19LYjB3bFc2dzU2eEIwQUlPcE50LVRSQnFKOFZFdnZkV1d5VS1Nck54MGhocU90S2pia1RHWDJlWllWbkN3N2RIZlBIMjE0V0RuNjRSTzgxU3NEM0szTUl3SVh5SVFF?oc=5",
-      "description": "Hantavirus Reveals Latin America Is Unprepared, Warns The Lancet Commentary &nbsp;&nbsp; AIDS Healthcare Foundation",
-      "source": "Google News",
-      "date": "2026-06-25T22:30:06+00:00",
-      "raw_date": "Thu, 25 Jun 2026 22:30:06 GMT"
     },
     {
       "title": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
@@ -238,14 +238,6 @@
       "raw_date": "Wed, 24 Jun 2026 09:46:19 GMT"
     },
     {
-      "title": "Local influencer returns home after quarantine following hantavirus outbreak on ship - NBC Boston",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXI5RGpwR2FFdDFuYlNNeV9NX2lBczNudDNZTjlPSHZkZk4yc3A5ZjNSLWg2ZGFzQnV3NDZJTjloV0h3STFvaDFPbVdFN05SS1Aydjl3RkNNcDZqQTRralhaU3dXTkIxUlhpVXc4dGFobnJqOHNXX09tVDAwdDh4OVpNNUxNc1NXd3hWcm8zUVBlNFdEdk9Xck9hU1pCUkQ5N05nZzRmN1R6eGx1YS1FTkpmZ3R3cWk3dW5TamM3SUFpTHUySERlLVhha0hXYkx2MUHSAdoBQVVfeXFMTkhIQ0NzZTV4UGxuRnFZNkdvb2Y1RjlEeEl4T3ltS1VxbG15YS1EYk5URElyUnFRWUJTRV82Z1JkcVl3dzR1TVliam9XOWNxSzE2SklGM1g3RjVkVXl1Z2xmQmM1eC1wTWZVY2xZdnhhWGxJdGJfdjUydVFpcjF0ME5ENF85RVBfWXc0dERKRnYtZlRhRXQ0aDBRTHFpNHlkZkdXNHp2ckJhYjkzclVPc3ZqdkxzSEIycmVtREJyWkg4S3VudnUyclR4Vy1BMWpMb1JCeThLR0RIb1E?oc=5",
-      "description": "Local influencer returns home after quarantine following hantavirus outbreak on ship &nbsp;&nbsp; NBC Boston",
-      "source": "Google News",
-      "date": "2026-06-24T03:38:11+00:00",
-      "raw_date": "Wed, 24 Jun 2026 03:38:11 GMT"
-    },
-    {
       "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
       "description": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; The Guardian",
@@ -382,14 +374,6 @@
       "raw_date": "Mon, 22 Jun 2026 21:15:07 GMT"
     },
     {
-      "title": "Hantavirus on imaging: What radiologists need to know - Radiology Business",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnAwOThRQ3BfRmNubk93N0RJQVFfNzRkSldlVUlIVE9OdXlyREs5MU9LOUdyc21HUlNsS21mZEN5TVdmSnRpWHA4VVg2aFFnYnlsTGdWRHo1VUdCcTJBM011ZTdwNjRodjFlNUxGekEzaVlRQk5xbnQ4MlR5dU5OUjhKekpuZFJGN0xZbGhzMzJiZ181WGg0TmFfOUdqRldHMzQyWGZiU3I5X3VQdHdBYXR4NDJXVTJDOGc?oc=5",
-      "description": "Hantavirus on imaging: What radiologists need to know &nbsp;&nbsp; Radiology Business",
-      "source": "Google News",
-      "date": "2026-06-22T20:42:06+00:00",
-      "raw_date": "Mon, 22 Jun 2026 20:42:06 GMT"
-    },
-    {
       "title": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha - wpafb.af.mil",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHdXdVBFbHhXSmlMTFNJOHZqWWtqbWdZSGV5WlBYZDB4OXk4ejZzRldLeXZmX0pJWUNTbG1OV2cyaGhTUG8xWGI0VExfZVVuZ1A4Wmg4STd5UjFBbXFYWlVCeHNhcHpVcHJ2X2gwRS05Wi1mYkdQbVVOWkhJZnZfVmpZR09JU2NicXJfZWsyaDd1OGdDZjc4bXZFZ1VVTWFmQ2xwRWlLN1JBYS1QRUZXdEtfN3Y5WllWVFpXV2pmcHNmOEpsSTlBV1l4R1dzYy1u?oc=5",
       "description": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha &nbsp;&nbsp; wpafb.af.mil",
@@ -404,6 +388,22 @@
       "source": "Google News",
       "date": "2026-06-22T17:39:53+00:00",
       "raw_date": "Mon, 22 Jun 2026 17:39:53 GMT"
+    },
+    {
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Ebola and hantavirus can start like the flu but turn deadly fast - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY0JXUmEzWXVfZ2o1QW1Ld0JqeWR3d2Q5Y2M3MjNUeUUxVWd5d2NOMlJpaF9sSHFqcTFHR25mMXhnTUFQSnlVUFNtZTlfOXdaSGtSLWhMdmJJTnl2SXZSNDhnMDZsMGFvN3M0Y19pTQ?oc=5",
+      "description": "Ebola and hantavirus can start like the flu but turn deadly fast &nbsp;&nbsp; ScienceDaily",
+      "source": "Google News",
+      "date": "2026-06-22T06:32:29+00:00",
+      "raw_date": "Mon, 22 Jun 2026 06:32:29 GMT"
     }
   ]
 }
