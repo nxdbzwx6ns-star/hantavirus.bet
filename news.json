@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T14:05:06.535981+00:00",
+  "updated": "2026-06-29T17:37:47.235936+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,6 +12,14 @@
       "source": "Google News",
       "date": "2026-06-29T08:01:00+00:00",
       "raw_date": "Mon, 29 Jun 2026 08:01:00 GMT"
+    },
+    {
+      "title": "Hantavirus Outbreak Nearing Its End, WHO Chief Says - Bernama",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UX080WkxkNDZ4b1RZZHhqcjJMd2xlTE5tUkZpNUJYNEt0TFZ4SXV3bFhZb0dmeXppQ19ZQ2FMMzlfb2VTWHItT3JDWC1DTXYtR2lzeG1RQnd2a1U?oc=5",
+      "description": "Hantavirus Outbreak Nearing Its End, WHO Chief Says &nbsp;&nbsp; Bernama",
+      "source": "Google News",
+      "date": "2026-06-29T07:59:26+00:00",
+      "raw_date": "Mon, 29 Jun 2026 07:59:26 GMT"
     },
     {
       "title": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO - Türkiye Today",
@@ -38,9 +46,9 @@
       "raw_date": "Mon, 29 Jun 2026 01:04:00 GMT"
     },
     {
-      "title": "Hantavirus and Ebola virus disease: 10 things to know - Hospital News",
+      "title": "Hantavirus and Ebola virus disease: 10 things to know - hospitalnews.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNazVZTlNvSVVCVEp6V0tEQ1c1V2VFTFhYMU1vNTdrazNhcVJMNExqTEZtR0d2cTVrQW5TLWd1VElVb1R3dFVTY19uNG1HUlVLaDJqUHpkZEZOTGdpZVBHaDl0bXZSVnFPU3EyMzBpTkJNWmhsTDh2RkJHd18yZlJmcTlhVWFXQ3N4R0E?oc=5",
-      "description": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; Hospital News",
+      "description": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; hospitalnews.com",
       "source": "Google News",
       "date": "2026-06-28T20:23:18+00:00",
       "raw_date": "Sun, 28 Jun 2026 20:23:18 GMT"
@@ -126,14 +134,6 @@
       "raw_date": "Thu, 25 Jun 2026 05:12:00 GMT"
     },
     {
-      "title": "CDC concludes hantavirus response as outbreak eases - KSL News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVS0xOVY0UFJCUHI5TXFjTnFvQ3NDWnFDd1pjSW5JcGIteVlvLWxBR2RVQjRnQnV1UXVTSzVWenJ5d0xHUHgyYlFCYnFSd0djUEpBWUlWNk5aODY2TmVKaWp5SHBmS0Z1V0w4RTNnaDM0Tk16ZGExWGM0bVZqc0ZYWUl0aEFDcTU5VllQTWFXbFlzUQ?oc=5",
-      "description": "CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; KSL News",
-      "source": "Google News",
-      "date": "2026-06-24T23:40:10+00:00",
-      "raw_date": "Wed, 24 Jun 2026 23:40:10 GMT"
-    },
-    {
       "title": "HHS Marks End of Hantavirus Response - news8000.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXh5ZjBKa05WMVV3UGZrYm44bldLN3JFandwbGlremRveGNRSGFzUWR6YlRvZ0E1TmFBa25JVnZnWjd2UzlOUTNzRlJycm9rdnpid19CczRzcDlnLUVqNVUzOU1MQ2oxM1U1ajFHN2hyWVZoN3Z5UFUyTGM4eno4TENMdHNQRGk4TlhoVzlUNzVmYkVOcENCcnpoS0k4R3dZWU9XUURYaFB2Tk4xMXJId2JibjU?oc=5",
       "description": "HHS Marks End of Hantavirus Response &nbsp;&nbsp; news8000.com",
@@ -198,12 +198,12 @@
       "raw_date": "Wed, 24 Jun 2026 19:49:51 GMT"
     },
     {
-      "title": "US CDC concludes hantavirus response as outbreak eases - WTAQ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd1NqRVB4ZWR3QllyYy1rZEVtRUJHMTBIVmF2NElZdnJ1YUV2OGdjSGZPZ3VzZ0MtcmVpNFhlMzBzZUpFVFVmMUREZEhBVzZCSjBOektTOUZhVFpxc0NxbVNodW1mVjItbWMtWkhqNlJQWENsMS1UMXpoVEFRNWM?oc=5",
-      "description": "US CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; WTAQ",
+      "title": "US CDC concludes hantavirus response as outbreak eases - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5",
+      "description": "US CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; Reuters",
       "source": "Google News",
-      "date": "2026-06-24T17:49:15+00:00",
-      "raw_date": "Wed, 24 Jun 2026 17:49:15 GMT"
+      "date": "2026-06-24T18:09:56+00:00",
+      "raw_date": "Wed, 24 Jun 2026 18:09:56 GMT"
     },
     {
       "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
