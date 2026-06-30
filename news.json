@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-30T20:01:07.505758+00:00",
+  "updated": "2026-06-30T22:15:23.926156+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
+    {
+      "title": "Self-isolation over for travellers exposed to hantavirus - thecanadianpressnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFk4M0prNEpsc2NrajRqQUlQZG5ORlpBeV9tYncxNDM5RkZMWWlkNFBpa1Y5NlRJSVJuVUZMYXgwX2JMS2R2MUF0eF9wbWE3VHVrVjJzcWV3eUdDY1VYeFgxMi1QckVWWnN0cjgxUm1zSWpMbGlOejNrVDNBdmZLXzFlMEFDdzJHNUptNTdTaTMyT2lQcWNsMmdITjBHR1BRUWFycV81ZFBQOWNxLTcxenVqNVdlMGRYc2ZjSmp6WTJybVppYmZKZUNzX19FQ1JlOFhaWThLdw?oc=5",
+      "description": "Self-isolation over for travellers exposed to hantavirus &nbsp;&nbsp; thecanadianpressnews.ca",
+      "source": "Google News",
+      "date": "2026-06-30T20:07:58+00:00",
+      "raw_date": "Tue, 30 Jun 2026 20:07:58 GMT"
+    },
     {
       "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CTV News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnNLLUhaTUtHOXl6OW15eUxXcmttNHNUYTZQNEIxYU1PM3lPaVV2bTNJZWZzUDVjR0Z0SzRWU0k1bURDdlVtODROcERIYllyb1dxdlBFNmxncU5VUWlUQ2plQm8yYWtoOEZ0eEl1aExjWnpmYmJJVGctQldMaE12cW85SlZVQkZpV1dWUERSUHpwVFY0SHVic2N5V1Z2MWo3dlRXc0ZvVXdYcUZnQjVoRV9sXzVDZjA?oc=5",
@@ -13,14 +21,6 @@
       "source": "Google News",
       "date": "2026-06-30T16:55:43+00:00",
       "raw_date": "Tue, 30 Jun 2026 16:55:43 GMT"
-    },
-    {
-      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjNiMDllRGthVUJ2TFAtN1dnSzQ3aTc1VnlrZ1Izb2pvS1RiNFlsemFrTjFOZFhyeUpSVkFYcmthZXNQZkliOXQwS0NzczEzR2RYSmEzYjRyV1BiT2FpOFpqd1FPLXBZY2UzN1Q2NTZrdVp2REhMTjNINWROMEFHVHVtSUJEbXhjeU9PcVR1aUVlZ2V4WTR4Ym5JZ2VoN0tlRXM4aGhhRVlGX01YY0toODZvU0V1bFphdEl5QXBYUkNuTmQ5ZERvaHhwQWlJcTJ3V1FXaHVIMTEzM1pFdU1jcmx4RDFVRFVjcGt6THRpQmtEYlJnLUlV?oc=5",
-      "description": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; Toronto Star",
-      "source": "Google News",
-      "date": "2026-06-30T16:39:33+00:00",
-      "raw_date": "Tue, 30 Jun 2026 16:39:33 GMT"
     },
     {
       "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - The Spec",
@@ -31,20 +31,28 @@
       "raw_date": "Tue, 30 Jun 2026 16:39:33 GMT"
     },
     {
+      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjNiMDllRGthVUJ2TFAtN1dnSzQ3aTc1VnlrZ1Izb2pvS1RiNFlsemFrTjFOZFhyeUpSVkFYcmthZXNQZkliOXQwS0NzczEzR2RYSmEzYjRyV1BiT2FpOFpqd1FPLXBZY2UzN1Q2NTZrdVp2REhMTjNINWROMEFHVHVtSUJEbXhjeU9PcVR1aUVlZ2V4WTR4Ym5JZ2VoN0tlRXM4aGhhRVlGX01YY0toODZvU0V1bFphdEl5QXBYUkNuTmQ5ZERvaHhwQWlJcTJ3V1FXaHVIMTEzM1pFdU1jcmx4RDFVRFVjcGt6THRpQmtEYlJnLUlV?oc=5",
+      "description": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; Toronto Star",
+      "source": "Google News",
+      "date": "2026-06-30T16:39:00+00:00",
+      "raw_date": "Tue, 30 Jun 2026 16:39:00 GMT"
+    },
+    {
+      "title": "Zero Americans Became Ill in a Cruise Ship Hantavirus Outbreak: Here's the Monitoring Process Behind It - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFVoVTlmZXFmek9nQ1RBTk81T1UyaHpEQUVHd0J2cU1YY0l2RUJTVkFsbExXbHlWaGs5dUFWeTllYWp2ZVJtSlJIQXhtekZrUm5ELVN4RHRGTmhvYXVFX25Gd0RVZ21fRjlaOVVDcGVJczFiWGl1RXU3ZUZmWV9uWmx4OExGaWZDU1RUNmhVWXdoRTF0SlY1UmxtVWpfMFQwczB4M193?oc=5",
+      "description": "Zero Americans Became Ill in a Cruise Ship Hantavirus Outbreak: Here's the Monitoring Process Behind It &nbsp;&nbsp; Medical Daily",
+      "source": "Google News",
+      "date": "2026-06-30T15:30:23+00:00",
+      "raw_date": "Tue, 30 Jun 2026 15:30:23 GMT"
+    },
+    {
       "title": "Canadians exposed to hantavirus on cruise ship complete isolation period - CBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVhvU0xvbUVHS1NWSkQzX2pvbW9kYmhpTUU1OHRlZUk3bFdPYzQ1YnU3S3l4NEF5bm9KXy02WVJiUERDeTJqZUdEYkJoemR6cE9WcEU1NDdpdFVPR1lWXzAwSDZYRGpvU01RZnlCRHE3bVdLVVhmNkpSemtPV0UwNWpFSmZIbmM?oc=5",
       "description": "Canadians exposed to hantavirus on cruise ship complete isolation period &nbsp;&nbsp; CBC",
       "source": "Google News",
       "date": "2026-06-29T23:33:25+00:00",
       "raw_date": "Mon, 29 Jun 2026 23:33:25 GMT"
-    },
-    {
-      "title": "CDC Ends Hantavirus Response as All 18 Americans from the Cruise Ship Return Home Safely - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlR1dVVHRUNCOHpURFAwRVFNU0F6S1cxai1iX2xRTU9xSjFqQTNhVkxUNnF4U09TaTVPTk9FSjFmSHNEQkpSWXVScUpBcDRwT2FuSGVPWWVDbEM1VzRMVVVJT0R4VGk1TTVVV1JRQjNtS015bllaN28xSUtKbUdKYTM5Wk1wc2xBWFZyZTFOeldNQ2hxTEoxbFFRbEhUdHlvZG05RXZTWW40cEoy?oc=5",
-      "description": "CDC Ends Hantavirus Response as All 18 Americans from the Cruise Ship Return Home Safely &nbsp;&nbsp; Medical Daily",
-      "source": "Google News",
-      "date": "2026-06-29T22:00:00+00:00",
-      "raw_date": "Mon, 29 Jun 2026 22:00:00 GMT"
     },
     {
       "title": "Experts: Hantavirus detected in Tierra del Fuego, but no link to cruise outbreak - Buenos Aires Times",
@@ -103,14 +111,6 @@
       "raw_date": "Thu, 25 Jun 2026 18:10:35 GMT"
     },
     {
-      "title": "No additional cases found after hantavirus cruise ship outbreak - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRDJYYUxoZ3VfY3BDXzRxLVZYMVAwSEFMQTBhampNamd6N3ZDUzRFNlF2WG9IbWZXeUdJLUhaMU5yOHV2VXRJaE5Vd0ZWcHdBQzFUSGtvX2M4bDJPZlVhc3p2RXlhTVZQaTg5MmpFU3NvWExIeXEwZUlxTXRNa1QtbnFJTjJJQXZpdHFYOUVXcjYtUFpJazJZTmdzV3ljQUhxdkppYXlqeDh3SkFQUnZBeHgxSFh3SnVDNEdTVXRCYjFweDNuYkNmMkhKTkNUdDhINTJSbU9FZ2FpdjZIMUd0UGxDbEJNdw?oc=5",
-      "description": "No additional cases found after hantavirus cruise ship outbreak &nbsp;&nbsp; Central Oregon Daily",
-      "source": "Google News",
-      "date": "2026-06-25T05:12:00+00:00",
-      "raw_date": "Thu, 25 Jun 2026 05:12:00 GMT"
-    },
-    {
       "title": "US ends hantavirus outbreak response with no answers on draconian quarantines - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5",
       "description": "US ends hantavirus outbreak response with no answers on draconian quarantines &nbsp;&nbsp; Ars Technica",
@@ -159,6 +159,14 @@
       "raw_date": "Wed, 24 Jun 2026 15:38:24 GMT"
     },
     {
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "description": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
+      "source": "Google News",
+      "date": "2026-06-24T14:12:07+00:00",
+      "raw_date": "Wed, 24 Jun 2026 14:12:07 GMT"
+    },
+    {
       "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
       "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
@@ -175,12 +183,12 @@
       "raw_date": "Wed, 24 Jun 2026 03:20:00 GMT"
     },
     {
-      "title": "Last American hantavirus cruise ship passenger released from quarantine - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzl2SFFxSzRjNzZxR2k5bVZkZS1ReFVMSGc3YTNEMnE4eDU2czBpLVNzUDRMd1JrR0tMSUthMlZPNEJ5cy1hZm81eHFFQmktSEtHQWVieV80a0lRR082bWZtNkFfakFjdUcxVkROUEhuaUJWS0ZESXVScXJINXdnVnBHMTdXZW10clZ30gGQAUFVX3lxTFA2cmxZTzZDMkMtcnBHcDZ4TnBGQUtMVWkxY0d5RGNmbjZieWl6WGJxa2VsdXQxYmF4cTdmbVctOUwtOTFMaVB1TTdBdlZ6MzRrZDl1M2wzZjcyd0hGNnlLNUc1TDhNZjYwcGxIU0lLLUtRSTdyR0FmclNiOTBEZ3R2aEZIWWFfVTZ1U3NWdlN0cQ?oc=5",
-      "description": "Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill",
+      "title": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNel9lZW9qUWstZ1p2NDlGTU9tazZRQ2diRTFvWWRHRVpqTDIxeUQtb1FMZUdnbE5UU2RwaDliZlVGeTVlSEZXNENJYlBFVjlGbnA3ZnBXY1N4TXkzblhvbFdlbTdvMmhoeEM0Ym1sSHlHVVhLeHVRdHlTdXFKWTBLT2MycUFrWDUycGp5b0ZHWFVaaUwtOFBoQnIxUnFzd1FuTGZkMUwxbXl2T092TEs1LXlqU0VzQmfSAbwBQVVfeXFMUGpEVU4zTlM3U0NDUWdlT2tXTktQNFNpSHl3MExWRDd4M01KT1lmWkxGVXcwd3dvSWlLNldjMFlrWi1pRk1jZG5SU0o3aXdLMVZpZkpfdU5QeU1xM2piN2g5UkhJby1tTEU5VF84Vmt5UTItWGNWRVdJMGFGTjFweS0wZE9pNHpEbTE4ZWNlMVA0OXdpZk1zemxKUUZXaVAyZTZYaEdnTWJPcHZnNXpmakhzZFM1Q1Nzek5ESEI?oc=5",
+      "description": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak &nbsp;&nbsp; ABC7 Los Angeles",
       "source": "Google News",
-      "date": "2026-06-23T22:17:00+00:00",
-      "raw_date": "Tue, 23 Jun 2026 22:17:00 GMT"
+      "date": "2026-06-22T20:38:43+00:00",
+      "raw_date": "Mon, 22 Jun 2026 20:38:43 GMT"
     },
     {
       "title": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha - wpafb.af.mil",
@@ -202,14 +210,6 @@
       "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
       "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; The Santa Barbara Independent",
-      "source": "Google News",
-      "date": "2026-06-22T07:00:00+00:00",
-      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "American Passenger from Hantavirus Cruise Ship Leaves Quarantine After 42 Days: 'Forever Grateful' - People.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlBIWlRGX1hwWWJWX2RiejZNalZtTkZweUZkTElsbmZxRUMzQUNOeF9kSVBsNF92bFdEU3E5X3RJQWJfbU9oQ0tKemtpb29MZXVEd1d0OGxOSGdIYUtkWHotSDZBaE13TFo0blRRXzdyTEg0U1habjFXTGZmalQ3aTRtRWFCTzZRX1k2djRQNjU3SXNLYUhQUnN2Yw?oc=5",
-      "description": "American Passenger from Hantavirus Cruise Ship Leaves Quarantine After 42 Days: 'Forever Grateful' &nbsp;&nbsp; People.com",
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
@@ -239,6 +239,22 @@
       "raw_date": "Fri, 19 Jun 2026 14:23:31 GMT"
     },
     {
+      "title": "What did we learn from the hantavirus cruise ship scare? - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0VjQ1JYeF9XekxPMmtsZVB2cU1WeUMyd1lIR2RIdmI2U1FGanV1anB3eTB5QWwtRE01WTNyRnd0VHVYeEl3ZWNvUlZ5VHJPT19VUEVuQzVZSHctOUV1YXpPRTFvWGg5SDBXOXptRGxRWXVmeVVmdG92M3pxVHI1RWtPOXJOSTFWdWNuQmNVYjk3QVRCa3c?oc=5",
+      "description": "What did we learn from the hantavirus cruise ship scare? &nbsp;&nbsp; Yahoo",
+      "source": "Google News",
+      "date": "2026-06-19T07:00:00+00:00",
+      "raw_date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Could a hantavirus vaccine be on the horizon? - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pODN6WXNJWS1hcHN4ZU9CVUZmeTNOTzV5ZkY3X3ZxQlBqNFVVUUQ4QnR2R2E1Nk53cTFwMWMzOEkzZ3dJTEdweTlHYjF3MEUyYmlaZm43VE9VNjI0UWcyQ3lZdEtIZEVYUDZuWjlXcGdaal9hNldCbw?oc=5",
+      "description": "Could a hantavirus vaccine be on the horizon? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+      "source": "Google News",
+      "date": "2026-06-17T07:00:00+00:00",
+      "raw_date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVhqUmxCUy01VGRRRTVRZjRXMEFZMHpFbGZiUzkwamxiNUVTOVhLVGtVenpIWlpMMWtPVHczMjRldWx1R1lMR2tSRkZQWFRIeDkzcEZPLWpSZ3FmYmZNQ1d5cC1MUXZsTWEtMHR5Yk1PbV9kQmo5ajg1aUx5WmdxeTkxNHpybk1KODVOREJBcEFidVA1MDVoY2tsZFNEdS1sR09CV25IWFdPaS1WUnV1OUI5NEJ4NERqNFEw?oc=5",
       "description": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will &nbsp;&nbsp; USA Today",
@@ -263,17 +279,17 @@
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "A federal medical reviewer said she could go home. RFK Jr. said no. - Healthbeat",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHZtMnAzdVpWc0x3MnV0aWJ1a0VuQWxYTVQyd0JndWpManJxMFlEcnk2Zi1sTFRybEs1cUpyNVpKeEt4ejYwc0VhWGFicUlVQmRYYlFCa3M4WGNDaEE1WGJ1cWhRZ2dLNzZKWVpYZFFDeXNCR1VrTGRjVkZvam9SR0RHbzRuVE8ybjNtUEZjdkxObWJuQUVsbGhhVXJHb0U2WTEzZi1kV3F5Zw?oc=5",
-      "description": "A federal medical reviewer said she could go home. RFK Jr. said no. &nbsp;&nbsp; Healthbeat",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-06-16T07:00:00+00:00",
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
-      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
+      "title": "A federal medical reviewer said she could go home. RFK Jr. said no. - Healthbeat",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHZtMnAzdVpWc0x3MnV0aWJ1a0VuQWxYTVQyd0JndWpManJxMFlEcnk2Zi1sTFRybEs1cUpyNVpKeEt4ejYwc0VhWGFicUlVQmRYYlFCa3M4WGNDaEE1WGJ1cWhRZ2dLNzZKWVpYZFFDeXNCR1VrTGRjVkZvam9SR0RHbzRuVE8ybjNtUEZjdkxObWJuQUVsbGhhVXJHb0U2WTEzZi1kV3F5Zw?oc=5",
+      "description": "A federal medical reviewer said she could go home. RFK Jr. said no. &nbsp;&nbsp; Healthbeat",
       "source": "Google News",
       "date": "2026-06-16T07:00:00+00:00",
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
@@ -375,33 +391,17 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5",
+      "description": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
+      "source": "Google News",
+      "date": "2026-06-11T07:00:00+00:00",
+      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "San Quentin Rehabilitation Center investigating possible case of hantavirus in 38-year-old male inmate - ABC7 Bay Area",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVlIWnRsUU1WUzR3dEY4VENxVXBqQzh1djVmQkFEQ1dtSUl2MTlPcnpyZWJSQTFNcU85bml0Mld2SVVodm9xWTVMeGIyMDlMbHJDcS1jMmdpZFNJQnl3Q0txMS1KQTdUVEJGMmRLZW5QUkxfenVfci1qcC1YNElMZkhWa3dXd1o3c3dmTEdYc2J1ZW5ueUwxSGE1Z0pPVlY3T1ZMMTFPbnFPZWRMVTNHMnJnclVGbkNTZGl0Y3hNZ3JyLUtoWFYxU3FiVHc1YUV2cEZNaNIB2gFBVV95cUxQMnZhOFZhTkdwekZRUWhnY0VUZEdGaG1TTFJ5bDVNdUZMaHBzNkozMjFreWVocHR4VUxLbThZMHhxOUdkSzBOWmxjMFpJSDkteXRObUlpbWRoYnU5cW9GcWZPUzhmc19sY3lHcmJRaU9vazlaMEwtUVppRWxjUnpKdnIzRmZBUGZ0UHJMNmN5TjRlTXRReGhlTE9yQ29WTmdXSmV1dXJjZDVOQjd1RDZtN2hRYlRvNGFfNFdnRDRzZkMzN3hoSWt0c2MzaGZLVVgtZWlGSE9USGtMdw?oc=5",
       "description": "San Quentin Rehabilitation Center investigating possible case of hantavirus in 38-year-old male inmate &nbsp;&nbsp; ABC7 Bay Area",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
-      "description": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - Flatwater Free Press",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOC1BZkxob2tTTkZnQ09FVWEwNnFwamxqYnBnbU1oaExfVFNOdDMxaHNDSlBxZ1ZmNFVSZnI1MmNUWWxkaERLSkRINEFWa252NU9Bd0JURnEtemhzY20teFhuUW9wTkFOZ2NJVmJBQW80UF9JMkhCSXhicXJoWFREOHQwSmgtYjVBem9hdm5DZVUtYllvc3JGdGdMcE5QZVgxYk1DZUkxWWFyOUdNNGt0b2wxcjlBQQ?oc=5",
-      "description": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine &nbsp;&nbsp; Flatwater Free Press",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZzd3hQQ1Q5TFpaelM5ZHF3RmNBVlg4VXVkekJyNm9zazhuZzU2QklHblE3ODVwZmhYUXJMaVVaZEp2NHZvZksyN0pBZzNTMmJHNGt3dUozbWFqanVIRm45VzJUSDdicXBTTC1lSndUc3J5ODlfTnB1ZFJ6U3A2RU10VnV2bE4tWmRsdEZZMjJyaVBKZlA3bnRZQdIBowFBVV95cUxNVGxYVHNEWEhyc0ttd1ZzRnRkUm50cEhpZDBqOTRBM0RpOWZ3dGduUjhNQWFaa3RKeHptdWw5TDVjWUs1bHA3S2RCS2cxZHNiN2t4cmx2UTh0Q2duOWduZl9pUTRtTUNEcnF1RnRxNUJwXzg2X2cwZDg5b2NPZ05GUHFycTFJckV1M2cxT285Q1hOMHR3aGRMbjhuS3pMZHFkQmJ3?oc=5",
-      "description": "Possible hantavirus case reported at San Quentin &nbsp;&nbsp; NBC Bay Area",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
