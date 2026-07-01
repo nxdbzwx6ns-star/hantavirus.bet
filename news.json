@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-01T05:21:45.904411+00:00",
+  "updated": "2026-07-01T09:49:24.506489+00:00",
   "total": 50,
   "sources": [
-    "PAHO",
-    "Google News"
+    "Google News",
+    "PAHO"
   ],
   "articles": [
     {
@@ -15,28 +15,20 @@
       "raw_date": "Tue, 30 Jun 2026 23:35:49 GMT"
     },
     {
-      "title": "Self-isolation over for travellers exposed to hantavirus - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWIwQnN2WTlfQU5pc3VJVXZzN3JTUWJET3lYV3BkYjlvRkNDeXRVTkJSSkVIbl9zcllCNU5OWkY1R25YZzhRR19nNVRGTWZIYjdQTi1UQlNUQm9ZZmpPa00zMkY4R1FJcHVqNHNjMFR3TEM2THFEUXFSM1JmUlN4ZENIMWRKdw?oc=5",
-      "description": "Self-isolation over for travellers exposed to hantavirus &nbsp;&nbsp; Yahoo News Canada",
+      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - thecanadianpressnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOGlUa3RMSE9RNTZrNnp0T1hSb3ZmaGhHbXkzSGVGb3hPYlZmNnZiWnhkZ29FcWdrWXFJdGVQNWdJeWJJd3pvQnFaT3hBY25JRmVXX196bkctV0RpaUZXUjJKWGVDRWtKczdGYVZ1Nzk0RnJ0a1RhaW1lVEN5anE1LUx3cFJEQ0RlUmRQVHU2Ry1nRWllbGtBR2t2ZTVXQUo2SmpQOTZGWUtpekJ0Z3Nrbl9qTkZBeW9DWEpSSE40YWNDM3Q2ZE9VWUV2Tm1McEVDSkk0RGtzS1dvdFRXVU4ySHBUaU5YSnVETkFMdnJEcWVrTlIxa1B1cHJlY1VmdzNHX2c?oc=5",
+      "description": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; thecanadianpressnews.ca",
       "source": "Google News",
-      "date": "2026-06-30T20:07:58+00:00",
-      "raw_date": "Tue, 30 Jun 2026 20:07:58 GMT"
+      "date": "2026-06-30T21:06:25+00:00",
+      "raw_date": "Tue, 30 Jun 2026 21:06:25 GMT"
     },
     {
-      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnNLLUhaTUtHOXl6OW15eUxXcmttNHNUYTZQNEIxYU1PM3lPaVV2bTNJZWZzUDVjR0Z0SzRWU0k1bURDdlVtODROcERIYllyb1dxdlBFNmxncU5VUWlUQ2plQm8yYWtoOEZ0eEl1aExjWnpmYmJJVGctQldMaE12cW85SlZVQkZpV1dWUERSUHpwVFY0SHVic2N5V1Z2MWo3dlRXc0ZvVXdYcUZnQjVoRV9sXzVDZjA?oc=5",
-      "description": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; CTV News",
+      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - larongeNOW",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDBpVlF5T2h5cHR1SzJWN2ZXaUxwOTgzOGFPdW9BVXRuZzJCNDBTUEFCWGdPZUtaYXBnWE90OUtMWE5JbXFjdkRGbDl5TU9GenRCYm5EUjFVcExUMDliTGcySWpNYUFwajdsZXhrUEtnLWdwdUtQbmE4RXFvVmhEUFlzSHQ0UmdfMzNGX1hjMVNITjVaWGFmRWdIUDh2dFF0OGM0WU5xWng4ZEZGcGxBQ19R?oc=5",
+      "description": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; larongeNOW",
       "source": "Google News",
-      "date": "2026-06-30T16:55:43+00:00",
-      "raw_date": "Tue, 30 Jun 2026 16:55:43 GMT"
-    },
-    {
-      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - The Spec",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUg2QWM2WUs1VUhjSlFZWGtLRGY4WlQxSFlEMzZ3ZFVWRjlKRFF4SjhheVRKVDFMbm1JejI0R3BDemd5TDFsTTZNUjVCRjlrWkJTUkF1MlFCRDJYOE1ON1AwZklBV2JKNlEyVGhuQndGeVBJSDQ0M3o5cWQzdTlsOFpxWHRhMi1JMkdYb2Z5SEwxbl9mVFN6Qmp6cUFvQ1hFU3FXYlFQbEY4Y1R3VklrX1BsWU4zRHZuMlV1eWZMT3RST2ZOMGREVHR0Z1loS3h1UWdydFRYR3hHYzNTSTFzMDZxc2lIQm50bmR6dw?oc=5",
-      "description": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; The Spec",
-      "source": "Google News",
-      "date": "2026-06-30T16:39:33+00:00",
-      "raw_date": "Tue, 30 Jun 2026 16:39:33 GMT"
+      "date": "2026-06-30T16:55:17+00:00",
+      "raw_date": "Tue, 30 Jun 2026 16:55:17 GMT"
     },
     {
       "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Toronto Star",
@@ -69,14 +61,6 @@
       "source": "Google News",
       "date": "2026-06-29T22:00:00+00:00",
       "raw_date": "Mon, 29 Jun 2026 22:00:00 GMT"
-    },
-    {
-      "title": "Experts: Hantavirus detected in Tierra del Fuego, but no link to cruise outbreak - Buenos Aires Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkpxaFpkY3lVQU84WTlTV2szZ2tGTzVDek1SZW43Q3dzYlBWNTFWSEZPTmFCY19ZZWJhbkpzakJ4QTFvWFNPQmhDNHhWSHVxMnJQOEo5am1CR0JtRkhRbExnV1ZyZUc2UFlWSFhvaDFlRkxYS1FGT3U3dDE3dWUxcU51ZTYxQUZfbHhadklZXzF0TzlScnVDX3lTM0I4cVoxSWlKeTh1NF9YVFdUSG5lbUpuMmlTODB5aGEwSVRZQkVjbHBT0gHKAUFVX3lxTE9ZbXMzVzRfdzN2ZnRXWEJ6b2pXU3JmUzVxY0Z5M2ZrYmxwekpoTGpjZ0FncVRKUVRfdkVaMDd6Z3NYVVExVURNZHBJeGM3aEt1SUtDMUdoUlRKaWFEai1Db0FvMjJHTG5QM01yNTZ2ZnplV0JUNlFMengyeERFY3ZDUEREc040bmExVFhVekExQUZMN0VUekI0eklFa0tWckFwZkw1Y29WY3ZUcVFDbVpvQnozczZWLXN2UFdxclRITlhfTjRBa1FsN0E?oc=5",
-      "description": "Experts: Hantavirus detected in Tierra del Fuego, but no link to cruise outbreak &nbsp;&nbsp; Buenos Aires Times",
-      "source": "Google News",
-      "date": "2026-06-29T19:14:45+00:00",
-      "raw_date": "Mon, 29 Jun 2026 19:14:45 GMT"
     },
     {
       "title": "Pennsylvania doctors share why you should take hantavirus seriously - Chambersburg Public Opinion",
@@ -125,6 +109,14 @@
       "source": "Google News",
       "date": "2026-06-25T18:10:35+00:00",
       "raw_date": "Thu, 25 Jun 2026 18:10:35 GMT"
+    },
+    {
+      "title": "CDC concludes hantavirus response as outbreak eases - KSL News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVS0xOVY0UFJCUHI5TXFjTnFvQ3NDWnFDd1pjSW5JcGIteVlvLWxBR2RVQjRnQnV1UXVTSzVWenJ5d0xHUHgyYlFCYnFSd0djUEpBWUlWNk5aODY2TmVKaWp5SHBmS0Z1V0w4RTNnaDM0Tk16ZGExWGM0bVZqc0ZYWUl0aEFDcTU5VllQTWFXbFlzUQ?oc=5",
+      "description": "CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; KSL News",
+      "source": "Google News",
+      "date": "2026-06-24T23:40:10+00:00",
+      "raw_date": "Wed, 24 Jun 2026 23:40:10 GMT"
     },
     {
       "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
@@ -191,17 +183,25 @@
       "raw_date": "Tue, 23 Jun 2026 22:45:57 GMT"
     },
     {
-      "title": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNel9lZW9qUWstZ1p2NDlGTU9tazZRQ2diRTFvWWRHRVpqTDIxeUQtb1FMZUdnbE5UU2RwaDliZlVGeTVlSEZXNENJYlBFVjlGbnA3ZnBXY1N4TXkzblhvbFdlbTdvMmhoeEM0Ym1sSHlHVVhLeHVRdHlTdXFKWTBLT2MycUFrWDUycGp5b0ZHWFVaaUwtOFBoQnIxUnFzd1FuTGZkMUwxbXl2T092TEs1LXlqU0VzQmfSAbwBQVVfeXFMUGpEVU4zTlM3U0NDUWdlT2tXTktQNFNpSHl3MExWRDd4M01KT1lmWkxGVXcwd3dvSWlLNldjMFlrWi1pRk1jZG5SU0o3aXdLMVZpZkpfdU5QeU1xM2piN2g5UkhJby1tTEU5VF84Vmt5UTItWGNWRVdJMGFGTjFweS0wZE9pNHpEbTE4ZWNlMVA0OXdpZk1zemxKUUZXaVAyZTZYaEdnTWJPcHZnNXpmakhzZFM1Q1Nzek5ESEI?oc=5",
-      "description": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak &nbsp;&nbsp; ABC7 Los Angeles",
+      "title": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
+      "description": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers &nbsp;&nbsp; Nebraska Public Media",
       "source": "Google News",
-      "date": "2026-06-22T20:38:43+00:00",
-      "raw_date": "Mon, 22 Jun 2026 20:38:43 GMT"
+      "date": "2026-06-23T17:54:31+00:00",
+      "raw_date": "Tue, 23 Jun 2026 17:54:31 GMT"
     },
     {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyMEtZVFFtQVZYR2t2ZVpHS1NnMUQ5cTVrcnFPTFVNbzMxeG5LOExRQ3VsakNQcW93aUdWdDFyaWFoQWtlZVR3OEdDR3JMbzJaTEwyUks2dy1pM2V1LURCUHRaanJyQ3BNb09JVmZmcDRwWDNtYS1JZ3hR?oc=5",
+      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; CNN",
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
@@ -237,6 +237,14 @@
       "source": "Google News",
       "date": "2026-06-21T07:00:00+00:00",
       "raw_date": "Sun, 21 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
+      "description": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2026-06-20T07:00:00+00:00",
+      "raw_date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Public Media",
@@ -327,14 +335,6 @@
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-      "description": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-15T07:00:00+00:00",
-      "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
       "description": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
@@ -349,14 +349,6 @@
       "source": "Google News",
       "date": "2026-06-15T07:00:00+00:00",
       "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkJsc0toakpVZVhxd1o4bTdwRUU2VUtmaWhWXzNHX1F0b09Hc2N5S1pYb0VRSm1wd25POHh6ZVE4MGdmdzkxOTlQTmVqVEQ1d20xU1NzTzk1d0RVMTJoZHY3UkV1c3lmTkcwb19sNFNYcEVRUE80ay1hbUJDZDRxQ2ptNDhGbkdpYWo1UFZlMmJNTlZCakJUekhVcm80cEZUR3RNLWtsamVEbjJzNnhnVVNQRWkyZmlZTXNpTG5RbGV3eXpfbXA5VWpxczRFdk9ESWo0ag?oc=5",
-      "description": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe &nbsp;&nbsp; The Conversation",
-      "source": "Google News",
-      "date": "2026-06-14T07:00:00+00:00",
-      "raw_date": "Sun, 14 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "OPS y socios fortalecen la vigilancia del hantavirus y otras fiebres hemorrágicas en las Américas",
@@ -399,9 +391,17 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
-      "description": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine &nbsp;&nbsp; NBC News",
+      "title": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
+      "description": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-06-11T07:00:00+00:00",
+      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5",
+      "description": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
