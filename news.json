@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-04T16:03:09.297273+00:00",
+  "updated": "2026-07-04T18:01:43.602143+00:00",
   "total": 50,
   "sources": [
-    "BBC Health",
-    "Google News"
+    "Google News",
+    "BBC Health"
   ],
   "articles": [
     {
@@ -141,14 +141,6 @@
       "source": "Google News",
       "date": "2026-07-03T02:50:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 02:50:00 GMT"
-    },
-    {
-      "title": "WHO declares Hantavirus outbreak tied to cruise ship over - cbs8.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWktvRlZqY2hiN19pSXJpNmMwTTRrVmRic1c1QlpGTFdCNFRWMURVNmx2V2tBV1JRVWt6c0dpYXJfdVItTG9CODJNSmxWT0p3SlpIZTRtQzN6c0dxeE5pQnVkdzQyTnpRU1R6b1lGUzE2aGE2YkhoMDlXVE0zSDM1R3RGTGhnLWphTWdNQ0o1V0xjVlo4b3VBdnFNRGpKX1N4emk3MjBIaXF1YV9rNktaT0tiQTZHM0NHZlRPSTJZT2RWVVpDSHRVdzJYNjZMQUU?oc=5",
-      "description": "WHO declares Hantavirus outbreak tied to cruise ship over &nbsp;&nbsp; cbs8.com",
-      "source": "Google News",
-      "date": "2026-07-03T00:36:00+00:00",
-      "raw_date": "Fri, 03 Jul 2026 00:36:00 GMT"
     },
     {
       "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
@@ -295,8 +287,16 @@
       "raw_date": "Thu, 02 Jul 2026 16:47:45 GMT"
     },
     {
-      "title": "WHO says Hantavirus outbreak linked to ship is over - BBC",
+      "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
+      "description": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
+      "source": "Google News",
+      "date": "2026-07-02T16:30:42+00:00",
+      "raw_date": "Thu, 02 Jul 2026 16:30:42 GMT"
+    },
+    {
+      "title": "WHO says Hantavirus outbreak linked to ship is over - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNHVHSzdETnIxcTlkMDNGbk9QTlNlcjBBQXI3ekZmX1Z0emJKaVhwLXZNVllUNjRvMHUtTjJwZTZ1dG1TQllzaGUySDZYN3llM3BtWmZldGxBTElu?oc=5",
       "description": "WHO says Hantavirus outbreak linked to ship is over &nbsp;&nbsp; BBC",
       "source": "Google News",
       "date": "2026-07-02T16:30:42+00:00",
