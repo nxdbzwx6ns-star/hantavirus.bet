@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T10:14:06.039788+00:00",
+  "updated": "2026-07-05T12:16:49.144220+00:00",
   "total": 50,
   "sources": [
     "BBC Health",
@@ -13,14 +13,6 @@
       "source": "Google News",
       "date": "2026-07-03T16:10:42+00:00",
       "raw_date": "Fri, 03 Jul 2026 16:10:42 GMT"
-    },
-    {
-      "title": "WHO declares international Hantavirus outbreak over - Premium Times Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1VMQkNEZnlqTXhmZlBpVjFFRE5IcjdWRW82SWtzMHl3ZGo4VFZsXzBubXFRMzV4SUFoV2dJeGdtUmdJVzBwcGJkZThxUlJlb3hqcWM3YmJ5Ujlla09Qam1fc2NSR0NfTURxalZYLXo0dDlpV1NoWUx1NXF5NlZOa3VjTWRtUTJJSnM1M3ltR2tjZWduWWhIdWFjOXFqNDhaaHJXa1lKZmtWYUU0Yjg3dHhzMA?oc=5",
-      "description": "WHO declares international Hantavirus outbreak over &nbsp;&nbsp; Premium Times Nigeria",
-      "source": "Google News",
-      "date": "2026-07-03T16:10:10+00:00",
-      "raw_date": "Fri, 03 Jul 2026 16:10:10 GMT"
     },
     {
       "title": "WHO declares deadly hantavirus outbreak on cruise ship over after three months - Yahoo News Canada",
@@ -117,14 +109,6 @@
       "source": "Google News",
       "date": "2026-07-03T02:50:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 02:50:00 GMT"
-    },
-    {
-      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE9zNzBEX2N0RUp5ODh5VS1UX1BxUFUtMEhENFR5ZDZHY1hvS3Rxd01QWF9RaDVQTWU3THpLZ3Rsb2VUZi15aTc3LUs0WXhBME5ScUFCSEJXb2VLT3NkNFpHRXB5Wms3RDI4bXlpTGpIdE84NXhsdDlyc3pJdFNlcg?oc=5",
-      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
-      "source": "Google News",
-      "date": "2026-07-03T00:20:03+00:00",
-      "raw_date": "Fri, 03 Jul 2026 00:20:03 GMT"
     },
     {
       "title": "Hantavirus outbreak on cruise liner concluded - Наша Ніва",
@@ -402,6 +386,22 @@
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - independent.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
+      "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; independent.com",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNel9lZW9qUWstZ1p2NDlGTU9tazZRQ2diRTFvWWRHRVpqTDIxeUQtb1FMZUdnbE5UU2RwaDliZlVGeTVlSEZXNENJYlBFVjlGbnA3ZnBXY1N4TXkzblhvbFdlbTdvMmhoeEM0Ym1sSHlHVVhLeHVRdHlTdXFKWTBLT2MycUFrWDUycGp5b0ZHWFVaaUwtOFBoQnIxUnFzd1FuTGZkMUwxbXl2T092TEs1LXlqU0VzQmfSAbwBQVVfeXFMUGpEVU4zTlM3U0NDUWdlT2tXTktQNFNpSHl3MExWRDd4M01KT1lmWkxGVXcwd3dvSWlLNldjMFlrWi1pRk1jZG5SU0o3aXdLMVZpZkpfdU5QeU1xM2piN2g5UkhJby1tTEU5VF84Vmt5UTItWGNWRVdJMGFGTjFweS0wZE9pNHpEbTE4ZWNlMVA0OXdpZk1zemxKUUZXaVAyZTZYaEdnTWJPcHZnNXpmakhzZFM1Q1Nzek5ESEI?oc=5",
+      "description": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak &nbsp;&nbsp; ABC7 Los Angeles",
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
