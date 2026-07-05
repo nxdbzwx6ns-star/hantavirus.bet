@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-05T12:16:49.144220+00:00",
+  "updated": "2026-07-05T14:44:04.114360+00:00",
   "total": 50,
   "sources": [
     "BBC Health",
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over - NL Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt?oc=5",
+      "description": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over &nbsp;&nbsp; NL Times",
+      "source": "Google News",
+      "date": "2026-07-05T12:45:00+00:00",
+      "raw_date": "Sun, 05 Jul 2026 12:45:00 GMT"
+    },
     {
       "title": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - Global News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5",
@@ -253,14 +261,6 @@
       "source": "Google News",
       "date": "2026-07-02T15:44:36+00:00",
       "raw_date": "Thu, 02 Jul 2026 15:44:36 GMT"
-    },
-    {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWF94X296UTRlVmt6Wk9rOGdNSWY1UWtQdEk2WHpZaGx1TEk1ckhHNjExaGN0S1R5NnFpWDNoemJ4ejBhcWxmdnZ2RDh1a1p0VmkwTWVlSEFkR3dic1c2cEF1S3U1SktkVlcyZ09MQjBnTE5jaUstelplSTJUX01lVHlwOEJ5emhDcGJBdDFsang4QmQ3aHJXRXNRLXpVLWMx?oc=5",
-      "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-07-02T15:34:44+00:00",
-      "raw_date": "Thu, 02 Jul 2026 15:34:44 GMT"
     },
     {
       "title": "WHO chief says cruise ship-linked hantavirus outbreak \"over\" - Global Times",
