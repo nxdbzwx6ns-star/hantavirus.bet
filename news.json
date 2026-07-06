@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T00:06:37.467782+00:00",
+  "updated": "2026-07-06T05:12:21.244529+00:00",
   "total": 50,
   "sources": [
     "Google News",
@@ -45,6 +45,14 @@
       "source": "Google News",
       "date": "2026-07-03T12:04:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 12:04:00 GMT"
+    },
+    {
+      "title": "Hantavirus outbreak is over, World Health Organization says - KHOU",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObG1ZUkpEMHFldmU4NVZXdGNubnZlcHo2WnlmcFUySlpJUUhIMzJkQjhRZ2xYTUIzZkxwUkQ1b2JQbE8yS1R4alRsT29odmRFYWNPRDdZOEdZX0FGNEt0QV9fZzk4QzBjY2lOT0NFbzExaTN0WFVWVWowTW1PUjgxYTNvNE5NRzRmOUQ2RUR5V2xROEZ6UFJjRERPSWlXaTB3c2o0TUNvYWt0M3p1TzZPd2I0dHhsOXg4ZUlCZV9UTGtvZ2xkZV9PTzFlR0U0bzlGb2hDNw?oc=5",
+      "description": "Hantavirus outbreak is over, World Health Organization says &nbsp;&nbsp; KHOU",
+      "source": "Google News",
+      "date": "2026-07-03T12:01:00+00:00",
+      "raw_date": "Fri, 03 Jul 2026 12:01:00 GMT"
     },
     {
       "title": "WHO declares cruise ship-linked hantavirus outbreak over - news.cgtn.com",
@@ -191,9 +199,9 @@
       "raw_date": "Thu, 02 Jul 2026 19:28:06 GMT"
     },
     {
-      "title": "Deadly hantavirus outbreak is officially over, WHO says - wng.org",
+      "title": "Deadly hantavirus outbreak is officially over, WHO says | WORLD - wng.org",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWN3N5NWtlZU5ybXZhdXJvZnZCOWM1ZU41Ym9maW1CN3dub0JvSlhuM0FiWXFhaWt6MlFUZFZqWDItdnVpd29UQU1fT2doMXI2MTNrRmtrM2xNdnRLY2tLQVVINFVOVjNUa3VtU1FJQXVTazA?oc=5",
-      "description": "Deadly hantavirus outbreak is officially over, WHO says &nbsp;&nbsp; wng.org",
+      "description": "Deadly hantavirus outbreak is officially over, WHO says | WORLD &nbsp;&nbsp; wng.org",
       "source": "Google News",
       "date": "2026-07-02T18:27:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 18:27:00 GMT"
@@ -303,6 +311,14 @@
       "raw_date": "Thu, 02 Jul 2026 13:27:44 GMT"
     },
     {
+      "title": "CDC ends US Hantavirus response - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjVHUzU0ZkVOZGJma3hkS3FFQ0pTbDFFVmxHTHZ4eEtDRUZ0WGppNjhjN19yXzlBRDE3WGZ0Q3hWdE03cGtCQkVmM1VSUHRuMEttS0ZuLXJ5d0pCamEzZmwtRDd6TEZBYVdoeEc5TFNRQXNfVFV3YmN3X0FsYjdOWNIBhgFBVV95cUxOb1ViUVBZZFlyVVVNa294NFBDR0x2VWRZTTRNcUdFcXlTTU94cVF4eXhnU1FhVVAwNzZEWHVMaHpmX0xKbmZ4ODZQUElqV1hCNkkwVloyeGxuQTVlSldfVFMxYTRPVVpGQ0ZOdFIxVDEwbmRwOG9ELTNwbE00MUUyUWJDMEZ1Zw?oc=5",
+      "description": "CDC ends US Hantavirus response &nbsp;&nbsp; The Hill",
+      "source": "Google News",
+      "date": "2026-06-24T07:00:00+00:00",
+      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
       "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
@@ -314,14 +330,6 @@
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
       "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
-      "source": "Google News",
-      "date": "2026-06-24T07:00:00+00:00",
-      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "CDC ends US Hantavirus response - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjVHUzU0ZkVOZGJma3hkS3FFQ0pTbDFFVmxHTHZ4eEtDRUZ0WGppNjhjN19yXzlBRDE3WGZ0Q3hWdE03cGtCQkVmM1VSUHRuMEttS0ZuLXJ5d0pCamEzZmwtRDd6TEZBYVdoeEc5TFNRQXNfVFV3YmN3X0FsYjdOWNIBhgFBVV95cUxOb1ViUVBZZFlyVVVNa294NFBDR0x2VWRZTTRNcUdFcXlTTU94cVF4eXhnU1FhVVAwNzZEWHVMaHpmX0xKbmZ4ODZQUElqV1hCNkkwVloyeGxuQTVlSldfVFMxYTRPVVpGQ0ZOdFIxVDEwbmRwOG9ELTNwbE00MUUyUWJDMEZ1Zw?oc=5",
-      "description": "CDC ends US Hantavirus response &nbsp;&nbsp; The Hill",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -394,14 +402,6 @@
       "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
       "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; The Santa Barbara Independent",
-      "source": "Google News",
-      "date": "2026-06-22T07:00:00+00:00",
-      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnM2NmZ3UGRzdGwwdkV2RUFNRlVILVNmNGlnZzgycTVGaDRnT0RGMTk4STU4YXhKZHlQVXowanliRkp4al9Zd1hUdFFoV2pxelRFbG55d0J2QUhwQklFaTFPSml6dVhYVnd2X2dKdmYyN0dscnVBZWFPaG1ESDJ4SVphQVZHNHpwc3dkN1g0WUE1ZzA1Wmcwdjl1d21lNUxXTjVYNmZHRUvSAa4BQVVfeXFMTWlUTi12eTRFS3Bac3JKb25mVmUtblo0QlZFakNVV05RTXA3bGFNZ2ozZG5la0tpb1NRRzRCdWN1VGc5a1Y3cmJJSmNpdFRhWFlfN21JZFBxWllQOExKbXl2SW1lNm9peXJzM0VXc1FwcXdZMjlQcXVBLUJYOERZVDRmYU1uTl9mQUd0VzY0azI2MXMwZnJGUmswZ3BkNWY0bGZybmdoM1h1WkVTblVR?oc=5",
-      "description": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
