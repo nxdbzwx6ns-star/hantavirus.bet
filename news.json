@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T05:12:21.244529+00:00",
+  "updated": "2026-07-06T10:24:26.275158+00:00",
   "total": 50,
   "sources": [
     "Google News",
@@ -21,14 +21,6 @@
       "source": "Google News",
       "date": "2026-07-03T16:10:42+00:00",
       "raw_date": "Fri, 03 Jul 2026 16:10:42 GMT"
-    },
-    {
-      "title": "WHO declares deadly hantavirus outbreak on cruise ship over after three months - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0t2V0phU2hPUnBYWEZXTmFmaW1EWjRJNzQ5WFZiUEJKU01uN3J3TDF6aGlIZGdNQ2p1SEVxMUgtU1F2ckJCNVluSDRxWHRzWTI5ejVjZS1vMWFKUmdQT2l0bnpmMEdGbE9Dekg0ZHJMZ1V4cEd3ei1mbm15dTdQUHdkVnBGR3p4Nmtz?oc=5",
-      "description": "WHO declares deadly hantavirus outbreak on cruise ship over after three months &nbsp;&nbsp; Yahoo News Canada",
-      "source": "Google News",
-      "date": "2026-07-03T12:32:25+00:00",
-      "raw_date": "Fri, 03 Jul 2026 12:32:25 GMT"
     },
     {
       "title": "WHO issues final update on deadly cruise ship hantavirus outbreak - The Independent",
@@ -61,14 +53,6 @@
       "source": "Google News",
       "date": "2026-07-03T11:56:55+00:00",
       "raw_date": "Fri, 03 Jul 2026 11:56:55 GMT"
-    },
-    {
-      "title": "WHO Declares Cruise Ship Hantavirus Outbreak Over After Global Response - Fox Rio Grande Valley",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHNyUXhiZS1ES3RrSUNJWGR6aG5RY1ZxZVkzTFBjZGRRRTBwaGNpS25NdlVmdm5LOVE3ekFwY1ZrdEhaX3AwNy1BRlNvLU1iaTc0Ti03Q25ES2ZBcDUtMUlLQUdpUnIxeUVkWnMyX0M2NnYzNEhzRVlRUGJvd19kSUVwd29WT0k5cDdXNjN3dmpJTXpf?oc=5",
-      "description": "WHO Declares Cruise Ship Hantavirus Outbreak Over After Global Response &nbsp;&nbsp; Fox Rio Grande Valley",
-      "source": "Google News",
-      "date": "2026-07-03T11:06:34+00:00",
-      "raw_date": "Fri, 03 Jul 2026 11:06:34 GMT"
     },
     {
       "title": "Serious Potato Chip Recall; Taylor Swift $$ for Hospitals; Hantavirus Outbreak Ends - MedPage Today",
@@ -125,22 +109,6 @@
       "source": "Google News",
       "date": "2026-07-03T02:50:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 02:50:00 GMT"
-    },
-    {
-      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE9zNzBEX2N0RUp5ODh5VS1UX1BxUFUtMEhENFR5ZDZHY1hvS3Rxd01QWF9RaDVQTWU3THpLZ3Rsb2VUZi15aTc3LUs0WXhBME5ScUFCSEJXb2VLT3NkNFpHRXB5Wms3RDI4bXlpTGpIdE84NXhsdDlyc3pJdFNlcg?oc=5",
-      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
-      "source": "Google News",
-      "date": "2026-07-03T00:20:03+00:00",
-      "raw_date": "Fri, 03 Jul 2026 00:20:03 GMT"
-    },
-    {
-      "title": "WHO Declares MV Hondius Hantavirus Outbreak Over After 13 Infected, 3 Dead: 19 Sources (Western Mainstream: 6) - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVDhHV3lKY1J1LUxKdTlocXNsWDNRN2VuRC1ZcjVMUVhFUHhjUTdrTXhTYllMTmhuWkJRclJxdXNxVTJyRzlSZDNQQTRMZWFnUWxZc0hOX0p0cHh2cllKUkNuZVRMVHJ3bmt4elk4XzdIVnBRWklpM2FMSjg0MktuNUtwU2c0dEpmeUtEY1lKOUhUdDlWTmJTLUJ5M253UmlHemFvTE1PR1NwczdYTzFLUk5odXdQRTJDakVkaEdvTzF1Zmc1UWVfNDgzMEkxa0xYaU9uUFdvUUc2TkFFRC1ONQ?oc=5",
-      "description": "WHO Declares MV Hondius Hantavirus Outbreak Over After 13 Infected, 3 Dead: 19 Sources (Western Mainstream: 6) &nbsp;&nbsp; NewsCord",
-      "source": "Google News",
-      "date": "2026-07-03T00:00:49+00:00",
-      "raw_date": "Fri, 03 Jul 2026 00:00:49 GMT"
     },
     {
       "title": "Cruise ship hantavirus outbreak declared over by WHO - BNO News",
@@ -311,6 +279,14 @@
       "raw_date": "Thu, 02 Jul 2026 13:27:44 GMT"
     },
     {
+      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
+      "description": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
+      "source": "Google News",
+      "date": "2026-07-02T05:04:00+00:00",
+      "raw_date": "Thu, 02 Jul 2026 05:04:00 GMT"
+    },
+    {
       "title": "CDC ends US Hantavirus response - The Hill",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjVHUzU0ZkVOZGJma3hkS3FFQ0pTbDFFVmxHTHZ4eEtDRUZ0WGppNjhjN19yXzlBRDE3WGZ0Q3hWdE03cGtCQkVmM1VSUHRuMEttS0ZuLXJ5d0pCamEzZmwtRDd6TEZBYVdoeEc5TFNRQXNfVFV3YmN3X0FsYjdOWNIBhgFBVV95cUxOb1ViUVBZZFlyVVVNa294NFBDR0x2VWRZTTRNcUdFcXlTTU94cVF4eXhnU1FhVVAwNzZEWHVMaHpmX0xKbmZ4ODZQUElqV1hCNkkwVloyeGxuQTVlSldfVFMxYTRPVVpGQ0ZOdFIxVDEwbmRwOG9ELTNwbE00MUUyUWJDMEZ1Zw?oc=5",
       "description": "CDC ends US Hantavirus response &nbsp;&nbsp; The Hill",
@@ -405,6 +381,30 @@
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnM2NmZ3UGRzdGwwdkV2RUFNRlVILVNmNGlnZzgycTVGaDRnT0RGMTk4STU4YXhKZHlQVXowanliRkp4al9Zd1hUdFFoV2pxelRFbG55d0J2QUhwQklFaTFPSml6dVhYVnd2X2dKdmYyN0dscnVBZWFPaG1ESDJ4SVphQVZHNHpwc3dkN1g0WUE1ZzA1Wmcwdjl1d21lNUxXTjVYNmZHRUvSAa4BQVVfeXFMTWlUTi12eTRFS3Bac3JKb25mVmUtblo0QlZFakNVV05RTXA3bGFNZ2ozZG5la0tpb1NRRzRCdWN1VGc5a1Y3cmJJSmNpdFRhWFlfN21JZFBxWllQOExKbXl2SW1lNm9peXJzM0VXc1FwcXdZMjlQcXVBLUJYOERZVDRmYU1uTl9mQUd0VzY0azI2MXMwZnJGUmswZ3BkNWY0bGZybmdoM1h1WkVTblVR?oc=5",
+      "description": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUtpc05zaVd3dUQ3dEowR1FxR2FMcjEwTFN2WGdsRmN2cjZkbkhZR28tX2FCR3NNamRnYnllcW0ydEJPMFZKQjd4Qmp1TUQwbWRuTjlaUnh1MEZIUG5UZWhjV0M5eTJ1OGFTczZKSmFKc29WQWZHT2JyVVZrOWYyelByRjRUYWc2eThHVU9GQUR1VWZRZEVFYWpEY3RUZ9IBsgFBVV95cUxQejNDSGc1em11LXJfZDVMRGZMbHBBZDN2djRaOHNnZXVKaUw2Sy1WVTh1eWtYdTBySEdyVFJ1OE9IaEtNNTNXNm5iNzR0aTVPem5hR0VwanhxcDBlYTVkeEpTZXdwa282SllwbjFOSXlTTEV1YUU0anRPT2tfbGNNUnZDYnNSRVhUOUxBV2U4S3gxZjcxWXZ4bC12WUk2b1BUN0I4aDlQNUU3N0EydG5EMmRB?oc=5",
+      "description": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC &nbsp;&nbsp; WOWT",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
+      "description": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
+      "source": "Google News",
+      "date": "2026-06-21T07:00:00+00:00",
+      "raw_date": "Sun, 21 Jun 2026 07:00:00 GMT"
     }
   ]
 }
