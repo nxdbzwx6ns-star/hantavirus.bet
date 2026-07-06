@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T14:26:16.594565+00:00",
+  "updated": "2026-07-06T17:44:12.089346+00:00",
   "total": 50,
   "sources": [
     "BBC Health",
@@ -29,14 +29,6 @@
       "source": "Google News",
       "date": "2026-07-05T12:45:00+00:00",
       "raw_date": "Sun, 05 Jul 2026 12:45:00 GMT"
-    },
-    {
-      "title": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - Global News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5",
-      "description": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO &nbsp;&nbsp; Global News",
-      "source": "Google News",
-      "date": "2026-07-03T16:10:42+00:00",
-      "raw_date": "Fri, 03 Jul 2026 16:10:42 GMT"
     },
     {
       "title": "WHO issues final update on deadly cruise ship hantavirus outbreak - The Independent",
@@ -109,14 +101,6 @@
       "source": "Google News",
       "date": "2026-07-03T05:07:30+00:00",
       "raw_date": "Fri, 03 Jul 2026 05:07:30 GMT"
-    },
-    {
-      "title": "Hantavirus Outbreak Tied To Cruise Ship Under WHO Investigation - Fox Rio Grande Valley",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDdHdGdKdjk1czdIYi1HQ1ZLOGFzbDVLMHFPZ3d0M2xVVTdPX1o0REhxVlVtX0dNWnFQd095MTNvNGNoSG9hUkJXc0VDeTdVQlVjWmY1X2g5NmZHZVNBZ00xX252VGZzc1NrcDFwVWR5MmtjNGd5Z1dXOTJKd3NzeWxhcEdDcUFpZUE?oc=5",
-      "description": "Hantavirus Outbreak Tied To Cruise Ship Under WHO Investigation &nbsp;&nbsp; Fox Rio Grande Valley",
-      "source": "Google News",
-      "date": "2026-07-03T03:08:04+00:00",
-      "raw_date": "Fri, 03 Jul 2026 03:08:04 GMT"
     },
     {
       "title": "Study links biodiversity loss to rising hantavirus spillover risk - News-Medical",
@@ -405,6 +389,22 @@
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUtpc05zaVd3dUQ3dEowR1FxR2FMcjEwTFN2WGdsRmN2cjZkbkhZR28tX2FCR3NNamRnYnllcW0ydEJPMFZKQjd4Qmp1TUQwbWRuTjlaUnh1MEZIUG5UZWhjV0M5eTJ1OGFTczZKSmFKc29WQWZHT2JyVVZrOWYyelByRjRUYWc2eThHVU9GQUR1VWZRZEVFYWpEY3RUZ9IBsgFBVV95cUxQejNDSGc1em11LXJfZDVMRGZMbHBBZDN2djRaOHNnZXVKaUw2Sy1WVTh1eWtYdTBySEdyVFJ1OE9IaEtNNTNXNm5iNzR0aTVPem5hR0VwanhxcDBlYTVkeEpTZXdwa282SllwbjFOSXlTTEV1YUU0anRPT2tfbGNNUnZDYnNSRVhUOUxBV2U4S3gxZjcxWXZ4bC12WUk2b1BUN0I4aDlQNUU3N0EydG5EMmRB?oc=5",
+      "description": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC &nbsp;&nbsp; WOWT",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
+      "description": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
+      "source": "Google News",
+      "date": "2026-06-21T07:00:00+00:00",
+      "raw_date": "Sun, 21 Jun 2026 07:00:00 GMT"
     }
   ]
 }
