@@ -1,11 +1,27 @@
 {
-  "updated": "2026-07-06T17:44:12.089346+00:00",
+  "updated": "2026-07-06T19:58:56.023824+00:00",
   "total": 50,
   "sources": [
     "BBC Health",
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR292MmhCajYtSUdFaU45SmpjWENuUnhtMlpydzVkcm1Rd2lUa2owalhIN0FUVUo1ZWM1LUs2aHl3TjRZd3ZJZ1pKQmRTaVdmelVKbTZkbEJaVml5RG5EWmFYTWVCU190MUE3SmxBX0Q3VlNUcW91YldyMDBVVUZZT042cWZLNnpoVjBaa3BqLWJPbmZWYWY4bkFhM3FPYkRyWE5RSWs0YjFXY2l5VldJanNrX25wcnlwLVlmZ3ZVTjJYV203S0hHRmxzd0s0TjdQLXVBVVBPdVMtQXphVjNHd1cxNm1SYU5rMzJlWVh0clNMQQ?oc=5",
+      "description": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project &nbsp;&nbsp; News-Medical",
+      "source": "Google News",
+      "date": "2026-07-06T19:06:00+00:00",
+      "raw_date": "Mon, 06 Jul 2026 19:06:00 GMT"
+    },
+    {
+      "title": "Preparing for Andes virus outbreaks to prevent transmission in health care settings - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeERnak5qeTFIQkExdWFJeW1tNlJSemNxSGhSNUluOEVDX1dCWjQ2bW1ZbWwxc1JVNjFMX19LS3VEZ0xNYjNlMS1PamlYd3BINENQbnRyaDVDc3UzQ0IzZUhvek44QWZjTDZzOVloamtmX0RBZ1RkbFZDSmRvSHNLZFJDUnBaeThoNUpPR1NR?oc=5",
+      "description": "Preparing for Andes virus outbreaks to prevent transmission in health care settings &nbsp;&nbsp; Medical Xpress",
+      "source": "Google News",
+      "date": "2026-07-06T17:40:01+00:00",
+      "raw_date": "Mon, 06 Jul 2026 17:40:01 GMT"
+    },
     {
       "title": "Nepal reports no public health risk from hantavirus, ministry dismisses online rumors - Khabarhub",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92LUIyM0FWdGNrUFZaSGVSVlVJamJLV29GM3MtZUdMWmFUcFFqLTZWemw5VGs5R2dhbVUzZmRlMWhudHdpV3VnQU41RVBQZV9sdTAyUWktYmI?oc=5",
@@ -45,14 +61,6 @@
       "source": "Google News",
       "date": "2026-07-03T12:04:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 12:04:00 GMT"
-    },
-    {
-      "title": "Hantavirus outbreak is over, World Health Organization says - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObG1ZUkpEMHFldmU4NVZXdGNubnZlcHo2WnlmcFUySlpJUUhIMzJkQjhRZ2xYTUIzZkxwUkQ1b2JQbE8yS1R4alRsT29odmRFYWNPRDdZOEdZX0FGNEt0QV9fZzk4QzBjY2lOT0NFbzExaTN0WFVWVWowTW1PUjgxYTNvNE5NRzRmOUQ2RUR5V2xROEZ6UFJjRERPSWlXaTB3c2o0TUNvYWt0M3p1TzZPd2I0dHhsOXg4ZUlCZV9UTGtvZ2xkZV9PTzFlR0U0bzlGb2hDNw?oc=5",
-      "description": "Hantavirus outbreak is over, World Health Organization says &nbsp;&nbsp; KHOU",
-      "source": "Google News",
-      "date": "2026-07-03T12:01:00+00:00",
-      "raw_date": "Fri, 03 Jul 2026 12:01:00 GMT"
     },
     {
       "title": "WHO declares cruise ship-linked hantavirus outbreak over - news.cgtn.com",
@@ -397,14 +405,6 @@
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
-      "description": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
-      "source": "Google News",
-      "date": "2026-06-21T07:00:00+00:00",
-      "raw_date": "Sun, 21 Jun 2026 07:00:00 GMT"
     }
   ]
 }
