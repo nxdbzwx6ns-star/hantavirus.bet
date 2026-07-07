@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-07T19:02:57.472600+00:00",
+  "updated": "2026-07-07T21:25:23.789784+00:00",
   "total": 50,
   "sources": [
-    "BBC Health",
-    "Google News"
+    "Google News",
+    "BBC Health"
   ],
   "articles": [
     {
@@ -45,6 +45,14 @@
       "source": "Google News",
       "date": "2026-07-05T12:45:00+00:00",
       "raw_date": "Sun, 05 Jul 2026 12:45:00 GMT"
+    },
+    {
+      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazNzXzlqY21qZzJtdGd6ejQzWmRUYkw0NVVueFRMNzNkaEdYWHNRTzBnTmY4Y29Qam5HaFZBankyTHpzT2FOX1g5cXFTeGM2Tmd3d0lIaURCSlVJTFBaa0dJZmNPcWszbHRHYm9BRHNnMmVQc1FvYVJoeTdpdlozMEtrWG01Y3dGM2M00gGLAUFVX3lxTE5rM3NfOWpjbWpnMm10Z3p6NDNaZFRiTDQ1VW54VEw3M2RoR1hYc1FPMGdOZjhjb1BqbkdoVkFqeTJMenNPYU5fWDlxcVN4YzZOZ3d3SUhpREJKVUlMUFprR0lmY09xazNsdEdib0FEc2cyZVBzUW9hUmh5N2l2WjMwS2tYbTVjd0YzYzQ?oc=5",
+      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
+      "source": "Google News",
+      "date": "2026-07-03T16:57:48+00:00",
+      "raw_date": "Fri, 03 Jul 2026 16:57:48 GMT"
     },
     {
       "title": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - Global News",
@@ -109,14 +117,6 @@
       "source": "Google News",
       "date": "2026-07-03T02:50:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 02:50:00 GMT"
-    },
-    {
-      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE9zNzBEX2N0RUp5ODh5VS1UX1BxUFUtMEhENFR5ZDZHY1hvS3Rxd01QWF9RaDVQTWU3THpLZ3Rsb2VUZi15aTc3LUs0WXhBME5ScUFCSEJXb2VLT3NkNFpHRXB5Wms3RDI4bXlpTGpIdE84NXhsdDlyc3pJdFNlcg?oc=5",
-      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
-      "source": "Google News",
-      "date": "2026-07-03T00:20:03+00:00",
-      "raw_date": "Fri, 03 Jul 2026 00:20:03 GMT"
     },
     {
       "title": "Cruise ship hantavirus outbreak declared over by WHO - BNO News",
