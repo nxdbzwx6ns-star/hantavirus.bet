@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-07T03:30:31.394576+00:00",
+  "updated": "2026-07-07T07:39:23.175877+00:00",
   "total": 50,
   "sources": [
-    "BBC Health",
-    "Google News"
+    "Google News",
+    "BBC Health"
   ],
   "articles": [
     {
@@ -45,14 +45,6 @@
       "source": "Google News",
       "date": "2026-07-06T17:40:01+00:00",
       "raw_date": "Mon, 06 Jul 2026 17:40:01 GMT"
-    },
-    {
-      "title": "Infectious Disease Roundup: Ebola, West Nile, Hantavirus - Labroots",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHNZb0ZSZnR0Y2tPWmZJd2JGTkhQRmtvclEzMnVKZjE3QnV2WVB2bHpGQmZjWEZfTnhEbV81RENfTUJvVU1JR19ER09YTFlOM0Z5YU1FN3pyLVBqQ0x5RzF3VHhwdmJuT1BQSkdoZHUtUjFkZ1VVSEREY1BaR01fTXJyRkpTSDBsSnNwNWQ5aDZ3UWZtbmNlNFVHbV9tVXdURUZmbGVWUUJoZ9IBrwFBVV95cUxNSHZ3WHVLOEJXclVtUWktazBUM2E2cHpuUzU1UUs2ZWhJTTlwUEFCMUpMT3JBaVVzTlRkRTJXT3ljWEpBN01rbVdncDFfRHhnUHd1RV9XMmV0MURNTFUwSVh3eENmdmljbFV4UGRLamd2S3Y1NzRMLVJlNkU2TVN2M043WHdIOVgtNk03QXhvNkpmSU93YnRSNGFDSHUtRjNKQ1ZFbWxVTXhGeDliTkhJ?oc=5",
-      "description": "Infectious Disease Roundup: Ebola, West Nile, Hantavirus &nbsp;&nbsp; Labroots",
-      "source": "Google News",
-      "date": "2026-07-05T15:27:00+00:00",
-      "raw_date": "Sun, 05 Jul 2026 15:27:00 GMT"
     },
     {
       "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over - NL Times",
@@ -151,6 +143,14 @@
       "raw_date": "Fri, 03 Jul 2026 00:36:00 GMT"
     },
     {
+      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE9zNzBEX2N0RUp5ODh5VS1UX1BxUFUtMEhENFR5ZDZHY1hvS3Rxd01QWF9RaDVQTWU3THpLZ3Rsb2VUZi15aTc3LUs0WXhBME5ScUFCSEJXb2VLT3NkNFpHRXB5Wms3RDI4bXlpTGpIdE84NXhsdDlyc3pJdFNlcg?oc=5",
+      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
+      "source": "Google News",
+      "date": "2026-07-03T00:20:03+00:00",
+      "raw_date": "Fri, 03 Jul 2026 00:20:03 GMT"
+    },
+    {
       "title": "Cruise ship hantavirus outbreak declared over by WHO - BNO News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOHQ4eXRpZHZEalctWmU0dnZzTGV6ZEJCSXU4TmNTa0JnNVhFa3Z1a3QtN054d20xY1NfUDhfUGZ5RmNQUGhHMDNIWFlZbHRzNlBQOTVkNkRFb1REa2hXZ1JwV3N2ODhYM2ZzT0d4dXlDS2dTcjNsNnhUeW5uVWFkTGJCRDlZREcyb0FBdkxFaERjclFGbVE?oc=5",
       "description": "Cruise ship hantavirus outbreak declared over by WHO &nbsp;&nbsp; BNO News",
@@ -247,14 +247,6 @@
       "raw_date": "Thu, 02 Jul 2026 16:30:42 GMT"
     },
     {
-      "title": "WHO says Hantavirus outbreak linked to ship is over - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNHVHSzdETnIxcTlkMDNGbk9QTlNlcjBBQXI3ekZmX1Z0emJKaVhwLXZNVllUNjRvMHUtTjJwZTZ1dG1TQllzaGUySDZYN3llM3BtWmZldGxBTElu?oc=5",
-      "description": "WHO says Hantavirus outbreak linked to ship is over &nbsp;&nbsp; BBC",
-      "source": "Google News",
-      "date": "2026-07-02T16:30:42+00:00",
-      "raw_date": "Thu, 02 Jul 2026 16:30:42 GMT"
-    },
-    {
       "title": "WHO says Hantavirus outbreak linked to ship is over",
       "link": "https://www.bbc.co.uk/news/articles/cd7wjy2e1d8o?at_medium=RSS&at_campaign=rss",
       "description": "The World Health Organization's director general says no further cases have been reported since 25 May.",
@@ -269,14 +261,6 @@
       "source": "Google News",
       "date": "2026-07-02T15:44:36+00:00",
       "raw_date": "Thu, 02 Jul 2026 15:44:36 GMT"
-    },
-    {
-      "title": "WHO chief says cruise ship-linked hantavirus outbreak \"over\" - Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rVmpZemFfUDlCZkVnWHhlWFB6YXFLSnJfaDV4THgwbzZhemM5UHJoYkZacHdPUHNvY1N3cV9seER0MTFDbmJ6MVF5RW1UUmZVOVkza2pkb2dzWGJobzBjX1N3?oc=5",
-      "description": "WHO chief says cruise ship-linked hantavirus outbreak \"over\" &nbsp;&nbsp; Global Times",
-      "source": "Google News",
-      "date": "2026-07-02T14:39:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 14:39:00 GMT"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
@@ -319,12 +303,12 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
-      "description": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
       "source": "Google News",
-      "date": "2026-07-02T05:04:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 05:04:00 GMT"
+      "date": "2026-06-24T07:00:00+00:00",
+      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "CDC ends US Hantavirus response - The Hill",
@@ -335,25 +319,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
-      "source": "Google News",
-      "date": "2026-06-24T07:00:00+00:00",
-      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
       "description": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "source": "Google News",
-      "date": "2026-06-24T07:00:00+00:00",
-      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
-      "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -370,6 +338,14 @@
       "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
       "description": "US public health agency concludes hantavirus response as outbreak eases &nbsp;&nbsp; Al Jazeera",
+      "source": "Google News",
+      "date": "2026-06-24T07:00:00+00:00",
+      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
+      "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -405,6 +381,30 @@
       "source": "Google News",
       "date": "2026-06-22T19:49:30+00:00",
       "raw_date": "Mon, 22 Jun 2026 19:49:30 GMT"
+    },
+    {
+      "title": "What Arizona should understand about hantavirus - ASU News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEt6SlRoVHllNFFsTk41MzhzUXZfRmhHa25oSlprcFEwRlVTdGhmWmN2WUwwSzl1eWdldHVPZjVaWGY0R2FITDhwYjZ0ZEgyMnpUVk5Ob0hRclREVEFrMFdaaENpNFBzakJQNEtCa191Y0JMSWFrVTduMTNqV3NHREZieHFIbXI5VUViaVRlMFRGeVBGYVZqSG5FeUNlQQ?oc=5",
+      "description": "What Arizona should understand about hantavirus &nbsp;&nbsp; ASU News",
+      "source": "Google News",
+      "date": "2026-06-22T16:24:03+00:00",
+      "raw_date": "Mon, 22 Jun 2026 16:24:03 GMT"
+    },
+    {
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "description": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyMEtZVFFtQVZYR2t2ZVpHS1NnMUQ5cTVrcnFPTFVNbzMxeG5LOExRQ3VsakNQcW93aUdWdDFyaWFoQWtlZVR3OEdDR3JMbzJaTEwyUks2dy1pM2V1LURCUHRaanJyQ3BNb09JVmZmcDRwWDNtYS1JZ3hR?oc=5",
+      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; CNN",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
     }
   ]
 }
