@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-08T16:39:38.346527+00:00",
+  "updated": "2026-07-08T18:18:11.685417+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "BBC Health"
+    "BBC Health",
+    "Google News"
   ],
   "articles": [
     {
@@ -55,14 +55,6 @@
       "raw_date": "Fri, 03 Jul 2026 16:10:42 GMT"
     },
     {
-      "title": "WHO Declares Deadly Hantavirus Outbreak Over - Newser",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnk2N3UxUWxSeUJCeDhMRjltN25nLTR3bll5cEgwazlXdGZIWjZibHBMRG53OWZ6Wm5JTW1DVGY4NjNQaC1vQkxCeU9GV1hVLTR1WElicDJIbi1WSS1HbnY1V3c1dzB4OFVUTTF4d1ltZjl3OGY3Y3Z2VnZOaWZETW5ZdFU0cFp3LWVfM2h3?oc=5",
-      "description": "WHO Declares Deadly Hantavirus Outbreak Over &nbsp;&nbsp; Newser",
-      "source": "Google News",
-      "date": "2026-07-03T12:04:00+00:00",
-      "raw_date": "Fri, 03 Jul 2026 12:04:00 GMT"
-    },
-    {
       "title": "WHO declares cruise ship-linked hantavirus outbreak over - news.cgtn.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjlKUHgzbHJKeFI3aG05UlJFY0g2Rzl1azgyOWFvTzhEWFp3a00wREMzU2RkQWs4OEhyZ25RX2l2bnRUS3JjRmNydUdibGw2Tm9Jd0EzRVJzVHhYaGZ4VDF2dTJjTVVMTkpnWV95YU9Ld0xOdXp5MS1wYW96dTNKMXN0Zmg0WkdKdWhLWnlvc0M2YkJvNktJazdJVGt5dzh0dFVxNjBoOTBoZkVIMDNqUWthYw?oc=5",
       "description": "WHO declares cruise ship-linked hantavirus outbreak over &nbsp;&nbsp; news.cgtn.com",
@@ -93,6 +85,14 @@
       "source": "Google News",
       "date": "2026-07-03T02:50:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 02:50:00 GMT"
+    },
+    {
+      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE9zNzBEX2N0RUp5ODh5VS1UX1BxUFUtMEhENFR5ZDZHY1hvS3Rxd01QWF9RaDVQTWU3THpLZ3Rsb2VUZi15aTc3LUs0WXhBME5ScUFCSEJXb2VLT3NkNFpHRXB5Wms3RDI4bXlpTGpIdE84NXhsdDlyc3pJdFNlcg?oc=5",
+      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
+      "source": "Google News",
+      "date": "2026-07-03T00:20:03+00:00",
+      "raw_date": "Fri, 03 Jul 2026 00:20:03 GMT"
     },
     {
       "title": "WHO declares cruise ship hantavirus outbreak over after 13 cases and three deaths - cbs19.tv",
