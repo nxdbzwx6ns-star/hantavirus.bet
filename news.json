@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-08T02:46:38.151346+00:00",
+  "updated": "2026-07-08T05:52:39.257175+00:00",
   "total": 50,
   "sources": [
-    "Google News",
-    "BBC Health"
+    "BBC Health",
+    "Google News"
   ],
   "articles": [
     {
@@ -135,14 +135,6 @@
       "raw_date": "Thu, 02 Jul 2026 20:57:46 GMT"
     },
     {
-      "title": "WHO Declares End Of Cruise Ship Hantavirus Outbreak - Newsradio 95 WXTK",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTBsa29OaEw1R1hCRTVpT3BVbmtoS21jOG45N2Z5M3plNUVUd1oyMFhyZkN5a29xOVNSLXZnWGNEZTJ0MUttX3p0RGR4SHQ3Q3g3M3I2QlhYVFlNazd4VEs3cENGZXlqYWV4OU10WmVQekZfMlZJSXJYZDNwT3d3YXl4R2ctM3lzOXotTDMwZ09ITEZOSVRGTkluRUhIMkt1OHlNdW16cHk3RjJ4UzVGWmx1Q25OU1MxYUk2emlQRU9Raml5?oc=5",
-      "description": "WHO Declares End Of Cruise Ship Hantavirus Outbreak &nbsp;&nbsp; Newsradio 95 WXTK",
-      "source": "Google News",
-      "date": "2026-07-02T20:24:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 20:24:00 GMT"
-    },
-    {
       "title": "WHO declares cruise ship hantavirus outbreak over - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnZEcVVCX0J2bzQ0S3Vlc1V4OWxPbGx4cXp0Y1d1R2lfVGY3anZWb1k3NEt0anFPSmhSSnlMbWRKcWt5QVJQU09YV2xPWXRnT2RMaDQ2UGEwOU5wMV9wTFpOalAzYlZxZmE4Z3FoU1VmZnppTlVxRFNCWU5COUZKSF9DRmZ1bTdwYzNfVS1OYUplRFgwOUFWdWxJUGdDQWkw?oc=5",
       "description": "WHO declares cruise ship hantavirus outbreak over &nbsp;&nbsp; Yahoo",
@@ -165,14 +157,6 @@
       "source": "Google News",
       "date": "2026-07-02T18:15:51+00:00",
       "raw_date": "Thu, 02 Jul 2026 18:15:51 GMT"
-    },
-    {
-      "title": "WHO declares hantavirus outbreak over as last patient finishes quarantine - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU52bVlTWDNQTTJmby1tRXpiczBhTWgyNHhGOE5YdVFrT2lLRmg2NG9sTHUwdFFSQnd3OXd0MkwyNUoxa3pmWlBkdE8yWWI4Z19DbU1lTXFUbFpINzFySjZqWWxzTnZIb3dxVlNac1VsVjV6cDN2eldXZV9pSjFSQ0ptSkM4TzNKZURvYnNIZjFBb21T?oc=5",
-      "description": "WHO declares hantavirus outbreak over as last patient finishes quarantine &nbsp;&nbsp; Washington Examiner",
-      "source": "Google News",
-      "date": "2026-07-02T17:44:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 17:44:00 GMT"
     },
     {
       "title": "Hantavirus outbreak linked to cruise ship over, says WHO - CBC",
@@ -255,9 +239,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends - CIDRAP",
+      "title": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends - University of Minnesota Twin Cities",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhMbzB1RmdxZDBCcUxLYWpyRVZEUXJmcHdBVEhaX2VXeW10b1QxWVdtTmRLX3hfSUhSUjZ2bXktSWlBS0g4MkNOZDN5TzVPc09rOTVQamdvVnNzZ2wzeGVEWU1BZ3dfa0dWUWVMa3FKT3pXTjJuUHlnMF96OTB3b0dlN3NFUEUzM3hDRUJwY09yd3F2QXA0aEx1MDlpQzhuVEduOGtJQWo1RjgtTUhlSFNTNHB1Zi1ub21KVXBTQlNSY3Qx?oc=5",
-      "description": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends &nbsp;&nbsp; CIDRAP",
+      "description": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends &nbsp;&nbsp; University of Minnesota Twin Cities",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -271,9 +255,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
+      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - University of Minnesota Twin Cities",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
-      "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
+      "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; University of Minnesota Twin Cities",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -405,6 +389,22 @@
       "source": "Google News",
       "date": "2026-06-20T07:00:00+00:00",
       "raw_date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The real reason a hantavirus disaster was averted | Letters - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeERBUlhjeVoybEk0cGVzQmhISEtoSVYxRnI1SWZldkM5amFSZVJORExrZ25YVXFDX0ZrR2k2S2ZzRWoyQk1zMXRBcW40aU1sTmdVYnZjdDBRTDNFbXphUElab2J1TDAtMFRqOFhQMXlkZGdlekRYLW5wdzNEdDFpUGlVSklMRkNOcEZMbVRSUFBoZDZkLXJXdGdxbw?oc=5",
+      "description": "The real reason a hantavirus disaster was averted | Letters &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2026-06-19T07:00:00+00:00",
+      "raw_date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHh5eUdrQ3JLOVg0Nk1UNnlWNFlXcXdaT0xKT3REYkVwY3AyRmkxWWVCOWhoMU91ZGZoRk9hQjl0cHpZUWxkVGRRMzVUX28xMG5JME5USk0zS1hSMEV2X3lScEVtOXk4R0lUVnh4bXBkS1RGam9ZQlJ3cUVBYWkyeGpHUVNnRU9xVEg1dW1heUg5dGJpaWdwS3BB?oc=5",
+      "description": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
+      "source": "Google News",
+      "date": "2026-06-18T07:00:00+00:00",
+      "raw_date": "Thu, 18 Jun 2026 07:00:00 GMT"
     }
   ]
 }
