@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:35:58.591898+00:00",
+  "updated": "2026-07-09T23:12:18.035921+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -52,14 +52,6 @@
       "source": "Google News",
       "date": "2026-07-06T20:38:18+00:00",
       "raw_date": "Mon, 06 Jul 2026 20:38:18 GMT"
-    },
-    {
-      "title": "Serious Potato Chip Recall; Taylor Swift $$ for Hospitals; Hantavirus Outbreak Ends - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lTDNRbnhSa1p2WGo4dTdmX3RJdHBFMVlFUnZDS0dSSkh0Z080ekxrOTNrZGs5S3BjYkktejVBbzJtX05sdlZCUlVlQlV3Z2gydFpieTNyZi1FaEdVV2VTS2oxaEFlSDdnWkZCeHFLc2ZpTnJodXc?oc=5",
-      "description": "Serious Potato Chip Recall; Taylor Swift $$ for Hospitals; Hantavirus Outbreak Ends &nbsp;&nbsp; MedPage Today",
-      "source": "Google News",
-      "date": "2026-07-03T10:00:26+00:00",
-      "raw_date": "Fri, 03 Jul 2026 10:00:26 GMT"
     },
     {
       "title": "Another Cruise Ship Virus Outbreak Infected More Than 100 Passengers - Forbes",
@@ -126,6 +118,14 @@
       "raw_date": "Thu, 02 Jul 2026 13:27:44 GMT"
     },
     {
+      "title": "The irony of the hantavirus quarantine - Your Local Epidemiologist",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjlmUnM3QnNrNjhFVGxiVThSNFU4NXRYOUdrblZqcldxVC01WDR0Q1g0ejJMQnlBZUJKM1l0ei1zMEwwSjhoc2tfTGU3V09KSEQ5Q0pubGRvdDRxSmVaRW92eHE5MGJJU19paHdnX1VuOXNmTk9jTlVxdDR2UTl5bEFUTnYzTFpNUS1HSEFR?oc=5",
+      "description": "The irony of the hantavirus quarantine &nbsp;&nbsp; Your Local Epidemiologist",
+      "source": "Google News",
+      "date": "2026-06-26T07:00:00+00:00",
+      "raw_date": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
       "description": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
@@ -158,17 +158,17 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5",
-      "description": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes &nbsp;&nbsp; WSJ",
+      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
+      "description": "US public health agency concludes hantavirus response as outbreak eases &nbsp;&nbsp; Al Jazeera",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
-      "description": "US public health agency concludes hantavirus response as outbreak eases &nbsp;&nbsp; Al Jazeera",
+      "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5",
+      "description": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes &nbsp;&nbsp; WSJ",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -294,20 +294,12 @@
       "raw_date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHh5eUdrQ3JLOVg0Nk1UNnlWNFlXcXdaT0xKT3REYkVwY3AyRmkxWWVCOWhoMU91ZGZoRk9hQjl0cHpZUWxkVGRRMzVUX28xMG5JME5USk0zS1hSMEV2X3lScEVtOXk4R0lUVnh4bXBkS1RGam9ZQlJ3cUVBYWkyeGpHUVNnRU9xVEg1dW1heUg5dGJpaWdwS3BB?oc=5",
-      "description": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
+      "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSldweG9WeEJkMDZYdDNaVElRWDk5eE5vcE9tU25sSXQxN2dTMjE0em05NEdkVGZuT3lhNlF1VkUxbWdPWFU4d3ExTnljUzNwZlJPdU9GQmstZ1JCLVltY2lOQWMzNEl0MnZzTTY5VU9HZDVkVlVIaVAwXzJwUGdpYjQ3MzZmMUJud0hyMDZLVFF4dUp6RnVVSWV5MU1fSkE5MFlESFllSXlwVlduOXZQNFAtMVdVZ21SMVVSY1ZSLXk3aFMzQ01OYi0xMFhrVFBldkxNMWtGZw?oc=5",
+      "description": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak &nbsp;&nbsp; Nebraska Public Media",
       "source": "Google News",
-      "date": "2026-06-18T07:00:00+00:00",
-      "raw_date": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa05CR1BnU29HMDVEYi0wNUVLb2ZvYXdKOFRIUVMwdXBNQ0QyNjhybTRUNUZhZ2ZhVkl0a1lEeERQeFZ0ekVpZXR1b25hTk1UNGRSWFdqand6YkRZMVdxUXd0ODdIWXJYQjd1T3JzeUJ3MS1XMVNBSmNWb3pkZ1JSZnJSS0VBV05zRnk5azJrSGhSeGgxeXVLRFFadUhlbjYwWEU4dEI5Wlp2MmRFSnFOVnZpUU1pd01ZRzhOX2VFbw?oc=5",
-      "description": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak &nbsp;&nbsp; Nebraska Examiner",
-      "source": "Google News",
-      "date": "2026-06-18T07:00:00+00:00",
-      "raw_date": "Thu, 18 Jun 2026 07:00:00 GMT"
+      "date": "2026-06-19T07:00:00+00:00",
+      "raw_date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Could a hantavirus vaccine be on the horizon? - Gavi, the Vaccine Alliance",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-06-09T07:00:00+00:00",
       "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
+      "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
+      "source": "Google News",
+      "date": "2026-06-04T02:49:03+00:00",
+      "raw_date": "Thu, 04 Jun 2026 02:49:03 GMT"
     }
   ]
 }
