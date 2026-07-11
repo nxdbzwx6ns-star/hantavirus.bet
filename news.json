@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T10:15:28.380357+00:00",
+  "updated": "2026-07-11T11:52:55.847536+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,6 +12,22 @@
       "source": "Google News",
       "date": "2026-07-10T11:44:09+00:00",
       "raw_date": "Fri, 10 Jul 2026 11:44:09 GMT"
+    },
+    {
+      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObThPUXJIallvX2NlWFlKamszaUZ4cTcxSG41akhqQmNTblNVWDVoUmVSUTV3cnd0LW9xdzlFVUs4ekgtRTBjNDQ0emxtdUJNTkxSM1pMeG9sUGVmYldPOUNLZFJQNEhWZWNGd2lGRHFHLU1jZkVWUVVXTnpSLVJkY2xINnB0TVNMNnc?oc=5",
+      "description": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
+      "source": "Google News",
+      "date": "2026-07-09T19:38:00+00:00",
+      "raw_date": "Thu, 09 Jul 2026 19:38:00 GMT"
+    },
+    {
+      "title": "Why Is This Deadly ‘Barn Virus’ Spreading So Fast? Experts Reveal the Truth - Futura, le média qui explore le monde",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDh1blZaYXB1VjlveDM0ejhfMzB5c05fcUxKVHJkVVVkQld3NU84MjdjeE9FXzB1OFhmQnltRWZ6MHZpUHp5aGE2WmFOMllHWjR1aDJzb3MyeVZnelVTa1dLQnA4Wi1OaTVtOEVOM3AxdnpBWjdjMkd0Vkhmbk44R0ZRME5ndXEwcm4wbFZtdmhYaExFaFNQMkQtbGwxMTRlVmVpcmRzS2tRSkJ2Zl96dUc4Rno?oc=5",
+      "description": "Why Is This Deadly ‘Barn Virus’ Spreading So Fast? Experts Reveal the Truth &nbsp;&nbsp; Futura, le média qui explore le monde",
+      "source": "Google News",
+      "date": "2026-07-08T19:07:20+00:00",
+      "raw_date": "Wed, 08 Jul 2026 19:07:20 GMT"
     },
     {
       "title": "These Two Deadly Viruses Can Look Like the Flu at First - SciTechDaily",
@@ -52,6 +68,14 @@
       "source": "Google News",
       "date": "2026-07-03T17:18:00+00:00",
       "raw_date": "Fri, 03 Jul 2026 17:18:00 GMT"
+    },
+    {
+      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE9zNzBEX2N0RUp5ODh5VS1UX1BxUFUtMEhENFR5ZDZHY1hvS3Rxd01QWF9RaDVQTWU3THpLZ3Rsb2VUZi15aTc3LUs0WXhBME5ScUFCSEJXb2VLT3NkNFpHRXB5Wms3RDI4bXlpTGpIdE84NXhsdDlyc3pJdFNlcg?oc=5",
+      "description": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread &nbsp;&nbsp; Phys.org",
+      "source": "Google News",
+      "date": "2026-07-03T00:20:03+00:00",
+      "raw_date": "Fri, 03 Jul 2026 00:20:03 GMT"
     },
     {
       "title": "Hantavirus in the South Atlantic: A One Health and Microbiome Wake‑Up Call | Newswise - Newswise",
@@ -380,30 +404,6 @@
       "source": "Google News",
       "date": "2026-06-17T07:00:00+00:00",
       "raw_date": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "A federal medical reviewer said she could go home. RFK Jr. said no. - Healthbeat",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHZtMnAzdVpWc0x3MnV0aWJ1a0VuQWxYTVQyd0JndWpManJxMFlEcnk2Zi1sTFRybEs1cUpyNVpKeEt4ejYwc0VhWGFicUlVQmRYYlFCa3M4WGNDaEE1WGJ1cWhRZ2dLNzZKWVpYZFFDeXNCR1VrTGRjVkZvam9SR0RHbzRuVE8ybjNtUEZjdkxObWJuQUVsbGhhVXJHb0U2WTEzZi1kV3F5Zw?oc=5",
-      "description": "A federal medical reviewer said she could go home. RFK Jr. said no. &nbsp;&nbsp; Healthbeat",
-      "source": "Google News",
-      "date": "2026-06-16T07:00:00+00:00",
-      "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
-      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "Google News",
-      "date": "2026-06-16T07:00:00+00:00",
-      "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5",
-      "description": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation &nbsp;&nbsp; CNN",
-      "source": "Google News",
-      "date": "2026-06-16T07:00:00+00:00",
-      "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     }
   ]
 }
