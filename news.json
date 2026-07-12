@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-12T17:58:46.258796+00:00",
+  "updated": "2026-07-12T19:17:31.506821+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakUzSlNQU2NNcEwxX3NnN1FDeVRxcklONm44TDdxc1BPTmp0QUhJTnM2Z09NSlhnVThRcTlyVkxRQ3FTM1Uxb0pXb3FpbG43WnJTU3hvQzJTbHExUVNZR1VOYjl6NVB1X1RBNTJMUl9wYlRwUkhMS2RYZTNXZHdEMTk0d0pnamd0Wll3RXVweHluSkVUbWc?oc=5",
+      "description": "Keystone Health Shares Hantavirus Prevention and Safety Guidance &nbsp;&nbsp; Franklin County Free Press",
+      "source": "Google News",
+      "date": "2026-07-12T18:55:59+00:00",
+      "raw_date": "Sun, 12 Jul 2026 18:55:59 GMT"
+    },
     {
       "title": "Hantavirus outbreak from cruise ship officially ends - The Star",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNC1UZ0tfaEphYXNYX29BZXcwRHVXMGFqMXRfWFBBeGxhMWR6dk1YaHR5M1M1NWJKamZYeWw3UVQ1WXJwX0ZrRFlHREZ4S0hUOVU2eTVFWV9TVXR4aVBYTEVsVDBDcVl5RTF1bXZXMDY2RDhLeVRybHFiT3R1dHJpbXVRZ1VmXzFSbWVlNHpoUWVpU3hBWFVHNFFLVDUzSmh5Z1E0Z1B0a0l2aHM?oc=5",
@@ -12,14 +20,6 @@
       "source": "Google News",
       "date": "2026-07-12T12:00:00+00:00",
       "raw_date": "Sun, 12 Jul 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb25heHJyblFEVkcwUUpMMUFZMVpnWGdkWG5HR0J4YUJzWk1yQnJEdDVxcjdQMlhhazRtRDJVQmtTcmNBUTdGVjdVbTItRFFEazBHQTdzeHFYdzBLNEhfSHZ3cWIxUjRKMWRpOS00aVp3bWtBRXQ1NUU5SGJFdHdLTEtQWlVzeUpVUjEtckpoaV9jU0I0eDNF?oc=5",
-      "description": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-07-12T08:54:00+00:00",
-      "raw_date": "Sun, 12 Jul 2026 08:54:00 GMT"
     },
     {
       "title": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears - The Cool Down",
@@ -174,9 +174,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
+      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -190,14 +190,6 @@
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Last American hantavirus cruise ship passenger released from quarantine - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzl2SFFxSzRjNzZxR2k5bVZkZS1ReFVMSGc3YTNEMnE4eDU2czBpLVNzUDRMd1JrR0tMSUthMlZPNEJ5cy1hZm81eHFFQmktSEtHQWVieV80a0lRR082bWZtNkFfakFjdUcxVkROUEhuaUJWS0ZESXVScXJINXdnVnBHMTdXZW10clZ30gGQAUFVX3lxTFA2cmxZTzZDMkMtcnBHcDZ4TnBGQUtMVWkxY0d5RGNmbjZieWl6WGJxa2VsdXQxYmF4cTdmbVctOUwtOTFMaVB1TTdBdlZ6MzRrZDl1M2wzZjcyd0hGNnlLNUc1TDhNZjYwcGxIU0lLLUtRSTdyR0FmclNiOTBEZ3R2aEZIWWFfVTZ1U3NWdlN0cQ?oc=5",
-      "description": "Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill",
-      "source": "Google News",
-      "date": "2026-06-23T07:00:00+00:00",
-      "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
       "description": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers &nbsp;&nbsp; Nebraska Public Media",
@@ -206,17 +198,25 @@
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
-      "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; The Santa Barbara Independent",
+      "title": "Last American hantavirus cruise ship passenger released from quarantine - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzl2SFFxSzRjNzZxR2k5bVZkZS1ReFVMSGc3YTNEMnE4eDU2czBpLVNzUDRMd1JrR0tMSUthMlZPNEJ5cy1hZm81eHFFQmktSEtHQWVieV80a0lRR082bWZtNkFfakFjdUcxVkROUEhuaUJWS0ZESXVScXJINXdnVnBHMTdXZW10clZ30gGQAUFVX3lxTFA2cmxZTzZDMkMtcnBHcDZ4TnBGQUtMVWkxY0d5RGNmbjZieWl6WGJxa2VsdXQxYmF4cTdmbVctOUwtOTFMaVB1TTdBdlZ6MzRrZDl1M2wzZjcyd0hGNnlLNUc1TDhNZjYwcGxIU0lLLUtRSTdyR0FmclNiOTBEZ3R2aEZIWWFfVTZ1U3NWdlN0cQ?oc=5",
+      "description": "Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill",
       "source": "Google News",
-      "date": "2026-06-22T07:00:00+00:00",
-      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+      "date": "2026-06-23T07:00:00+00:00",
+      "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNel9lZW9qUWstZ1p2NDlGTU9tazZRQ2diRTFvWWRHRVpqTDIxeUQtb1FMZUdnbE5UU2RwaDliZlVGeTVlSEZXNENJYlBFVjlGbnA3ZnBXY1N4TXkzblhvbFdlbTdvMmhoeEM0Ym1sSHlHVVhLeHVRdHlTdXFKWTBLT2MycUFrWDUycGp5b0ZHWFVaaUwtOFBoQnIxUnFzd1FuTGZkMUwxbXl2T092TEs1LXlqU0VzQmfSAbwBQVVfeXFMUGpEVU4zTlM3U0NDUWdlT2tXTktQNFNpSHl3MExWRDd4M01KT1lmWkxGVXcwd3dvSWlLNldjMFlrWi1pRk1jZG5SU0o3aXdLMVZpZkpfdU5QeU1xM2piN2g5UkhJby1tTEU5VF84Vmt5UTItWGNWRVdJMGFGTjFweS0wZE9pNHpEbTE4ZWNlMVA0OXdpZk1zemxKUUZXaVAyZTZYaEdnTWJPcHZnNXpmakhzZFM1Q1Nzek5ESEI?oc=5",
       "description": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak &nbsp;&nbsp; ABC7 Los Angeles",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
+      "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; The Santa Barbara Independent",
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
@@ -390,20 +390,20 @@
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus cases linked to cruise ship outbreak rise to 13 - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5MYzdnT09EdDZLWUdhTGVFZGxhcGpUM2QxVVpOM3ljaWxEWHRPaXFIZWkzd2FWTUFfVmxJNDN2TXBNLXdoVFIzcFRIc1JEbGdzQWhfN2c2bTluNW1qOEtWeU5oS0dRaEZVQjNUSEo4NHZRcjFsV1o1YzNKM2t4eGJCd3ZxY0dhbnk3WWs5cWlWbHdaYVE?oc=5",
-      "description": "Hantavirus cases linked to cruise ship outbreak rise to 13 &nbsp;&nbsp; politico.eu",
-      "source": "Google News",
-      "date": "2026-05-27T07:00:00+00:00",
-      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
       "description": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
+      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
+      "source": "Google News",
+      "date": "2026-05-26T21:23:02+00:00",
+      "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     }
   ]
 }
