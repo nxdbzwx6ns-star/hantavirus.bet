@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T20:50:26.786186+00:00",
+  "updated": "2026-07-12T21:51:56.453514+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -286,14 +286,6 @@
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Countries Differ On Discharge Criteria For Andes Hantavirus Patients - Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQW1UUjFVMjA1WmNBT0dBUlgtVGx1R00zNmlHOEhWNW1RTExtYmNYMlZMNWRoRW5SSDFWZ3NtX3haV0FmZUczVlVnUHR3MkNleHFXc0dHamhjMUpwblRUc2owU2N3WnQ3VE5BQXExOVJPdnEwdFhwU2tteFFyVGZwTDdsVkJWQVVRV0pXZkMwY3ZvZFlFaVhmYWdGc2R1SWx3ZDlR?oc=5",
-      "description": "Countries Differ On Discharge Criteria For Andes Hantavirus Patients &nbsp;&nbsp; Health Policy Watch",
-      "source": "Google News",
-      "date": "2026-06-16T07:00:00+00:00",
-      "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
       "description": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
+      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
+      "source": "Google News",
+      "date": "2026-05-26T21:23:02+00:00",
+      "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     }
   ]
 }
