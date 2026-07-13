@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T02:57:06.703980+00:00",
+  "updated": "2026-07-13T06:25:10.132321+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -20,14 +20,6 @@
       "source": "Google News",
       "date": "2026-07-12T12:00:00+00:00",
       "raw_date": "Sun, 12 Jul 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears - The Cool Down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONVJNODZSSnFaOEpvT0xEY2lvOGdXZlFWSEx5Z3lhRjN0eGM1NjhlVWpKMTFXRFppRzZyY2N0Q09FWGt1TTdJTk5zeDhmOXZoUGV3LXlOc0FyTm1GSFJ4dW1pa1VYRFBHcmtMckdSTE9YRTN3YTRFU2ZjeW96TGVhdklZOA?oc=5",
-      "description": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears &nbsp;&nbsp; The Cool Down",
-      "source": "Google News",
-      "date": "2026-07-12T08:54:00+00:00",
-      "raw_date": "Sun, 12 Jul 2026 08:54:00 GMT"
     },
     {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
@@ -366,6 +358,14 @@
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus cases linked to cruise ship outbreak rise to 13 - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5MYzdnT09EdDZLWUdhTGVFZGxhcGpUM2QxVVpOM3ljaWxEWHRPaXFIZWkzd2FWTUFfVmxJNDN2TXBNLXdoVFIzcFRIc1JEbGdzQWhfN2c2bTluNW1qOEtWeU5oS0dRaEZVQjNUSEo4NHZRcjFsV1o1YzNKM2t4eGJCd3ZxY0dhbnk3WWs5cWlWbHdaYVE?oc=5",
+      "description": "Hantavirus cases linked to cruise ship outbreak rise to 13 &nbsp;&nbsp; politico.eu",
+      "source": "Google News",
+      "date": "2026-05-27T07:00:00+00:00",
+      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
       "description": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
@@ -382,12 +382,12 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Why is hantavirus so deadly? It’s not what you may think - Science News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YcU5LRG9pTzJuYVptVm40dlR0UDJ2ZFBtcHlZQkpMclpORF9fdEczOHF6LXZSdUF5cEM5X0ZIdTNVYXR2UkJJcVFiRkFTMDRlQjlWeHZpc1lydERXd21kVFNUU0x2WXozMkt0NmwxN19nNFJyMWtrRkpWSnRVUQ?oc=5",
-      "description": "Why is hantavirus so deadly? It’s not what you may think &nbsp;&nbsp; Science News",
+      "title": "Hantavirus: What People Should Know About the Rare but Serious Virus - National Academy of Medicine",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOC1oSnp5cHJZbG10NVE1UUJuWXdfdXY0ZWIyblpmejA2RTZObF90U05IaWp4ZU00aWIyT3VpV2dwaTF3V1g0TEJNc1NsbUgxY1ViUWxnR1NhZzZnUHU0TmZWSFZMYlluVHlTSW9MX1RGbnlYX01NdVc3WEl6eFNuakh6V2dPWFAtak5uaUF5YWhiWnpnVlJ6a0NfMlpJR2ZLVXduZA?oc=5",
+      "description": "Hantavirus: What People Should Know About the Rare but Serious Virus &nbsp;&nbsp; National Academy of Medicine",
       "source": "Google News",
-      "date": "2026-05-26T07:00:00+00:00",
-      "raw_date": "Tue, 26 May 2026 07:00:00 GMT"
+      "date": "2026-05-22T07:00:00+00:00",
+      "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
       "title": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 - World Health Organization (WHO)",
