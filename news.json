@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T21:58:18.279508+00:00",
+  "updated": "2026-07-14T23:03:47.111379+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -10,8 +10,8 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXJ0Q2d4c1Q2cGpTZVlRam0yUnkxUWw3UmdwYUxHVVRQdFIwYmJ3LXpudmtJVjhJa2J5aEJYSDBCVmlhbENDcHpScGg3ZW9pRUkzQi1iM0VheWhnOVlGWmFiaDJUWWpYYkZZQkh3YzRuWVA4WG8tWU5obDBrdjZPRDlPS0Ewa0YtUThBM3Y1bw?oc=5",
       "description": "Neurological Symptoms Linked to Hantavirus Infection Revealed &nbsp;&nbsp; Bioengineer.org",
       "source": "Google News",
-      "date": "2026-07-14T16:29:09+00:00",
-      "raw_date": "Tue, 14 Jul 2026 16:29:09 GMT"
+      "date": "2026-07-14T17:09:17+00:00",
+      "raw_date": "Tue, 14 Jul 2026 17:09:17 GMT"
     },
     {
       "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
@@ -158,9 +158,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
+      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -241,6 +241,14 @@
       "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - CNN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyMEtZVFFtQVZYR2t2ZVpHS1NnMUQ5cTVrcnFPTFVNbzMxeG5LOExRQ3VsakNQcW93aUdWdDFyaWFoQWtlZVR3OEdDR3JMbzJaTEwyUks2dy1pM2V1LURCUHRaanJyQ3BNb09JVmZmcDRwWDNtYS1JZ3hR?oc=5",
       "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; CNN",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "UNMC team publishes review article on hantavirus - University of Nebraska Medical Center",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3dYYlV6QUhZWlpiWWl2WlU3ZFNqSEVHLXB4UWFka0xBcWoycU9sVmZFVWxxazlGRXJpVy1vVHdZWEctLW9QWmE1Njh5c3hkMkxOZ0dfUG9adlhCMGtocDF1akw0NEYycVVJeDdmT0lrZ3hEcm5kdGdqLTlXZklHMTg4S2NqTFJzYjg3cTA5TUF1RUxn?oc=5",
+      "description": "UNMC team publishes review article on hantavirus &nbsp;&nbsp; University of Nebraska Medical Center",
       "source": "Google News",
       "date": "2026-06-22T07:00:00+00:00",
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
@@ -393,14 +401,6 @@
       "title": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlB5M0NuMVRROTM2cmVCenV4TW54UXM5ajBlSWVRRVd3bV9YMm01TkhrcTZrOWlqS204dkpfWmE3Sk9XRkVlclFOelVsNDAzeTVjMXNHV0t6d0NvWFl5T2pQVDV5V28wdlJ6c1NLZ0Fxa3h3dHNzMUVtT3hpRUZZR3FzaFdjbDEweUoxanBFZE9NdWZnMGJRVUMtbWJfUzdUSGVNRTZCeUZCYkVFUDJJ0gG0AUFVX3lxTE1TcTA4Y0hNUjA3MmkwUlYtY00wRzdSOW1ZMW5EQ25iUnBCTlc2TllEWjRJRnMtM0p2UFlJcVhVOWltcWVCSVZuYktIREFzNFNXSEd0WmdjM2dvMm9MWXM3R1J2alRNQ0E2SndoSFJ6SVZvNktYeXI1cGo0ZVNiUGtMYlRJc3V4czk5VTRmdjU1R3BmYlVobGhBaDRzbDBqVURVc0ZmalJFczJtbTBUSnZQQmVtTA?oc=5",
       "description": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-06-01T07:00:00+00:00",
-      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
-      "description": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine &nbsp;&nbsp; CNN",
       "source": "Google News",
       "date": "2026-06-01T07:00:00+00:00",
       "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
