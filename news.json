@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-16T19:12:22.183365+00:00",
+  "updated": "2026-07-16T21:00:01.064039+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDFTbkFaV3VvX2Fmc1VuY2E0Y2JZUXZ0RVJFSk1CN0x1eVdkVFExejdmQzc4V2NYMHJsRTZnUEJYQ1pjeC16SmR1ZEpNM0cwSDM4cldrSHpZWGotenRiX2V4X0NwSVRiQkJkdnNEUF96TFh4cjgzZTJEQTJUako4bXJfYS10ZlF5aklNZDRQNzVpdUpWU0hUZ0dGejJaYnFxZ2xMMFgycUE0Sl9UY0w3OF9n?oc=5",
+      "description": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. &nbsp;&nbsp; The Washington Post",
+      "source": "Google News",
+      "date": "2026-07-16T20:32:15+00:00",
+      "raw_date": "Thu, 16 Jul 2026 20:32:15 GMT"
+    },
     {
       "title": "Manifold’s Hondius Hantavirus Market: Why Bettors Put Just 2% on a Non-Passenger Case - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDA1LXlldnljZXdjRVE0czhIUDRRSWJWSHVNcXJFRFhhcTVXM1B2M21GSDBKSDdCLXp2TFVnWTk3REo4YW9wZmpBSWpab0VZckgxX0ctWXJPdjMwcGIycU43WDZQZTFfdm9Ta3dXZ1Q4dHBoeW13N3M1cF9XYm4yUXlDLXdYZw?oc=5",
@@ -142,9 +150,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care® (AJMC®)",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -228,14 +236,6 @@
       "source": "Google News",
       "date": "2026-06-23T07:00:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - Dayton Daily News",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZk9fWS13U29rdEVKZ3llRW1TTGkwOVIyUG50YXNtcDBBUEgtMkp1YnhVb09vd1JFekZ5LXRBUnNOVl9Cc0oxNVdobWNmSVdNd243VWhIS2tCUEJQMkIyTUsxZGJDMUdBNW84cWtJYjk4TV9Bb2xoV09XRzFJdDN0TVN4ODVrcF8wcWJnUkpqX1JENC1JTjlkYnVlMFl1WHBleVNjUlRZbE8yYldRNU16OG1CX2xjc0U1czhlWDlWcGVrLUI3cVV3SVVmM2xrX1ZHVFl6dlhkejhRSHlEWHBuNEdzazkxMnpvZE5XaERvckxTTE5QVjI4bW1pQnNpQlhlc1pOd0JYcFdsRHN0?oc=5",
-      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; Dayton Daily News",
-      "source": "Google News",
-      "date": "2026-06-22T07:00:00+00:00",
-      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
