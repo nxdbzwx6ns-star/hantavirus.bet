@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-16T09:14:55.151853+00:00",
+  "updated": "2026-07-16T11:39:57.089407+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Viruses do not respect borders. An expert explains how the world should prepare for their outbreaks - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenN5Y0xLZXdIMkdwNThNLTNTVGUyOXg1X2pCNEhITDhhOHgtSUVfa0t6VlN0VGpjR21KcTd4VmZwNDQyRlFzcWE1Y2daeTZ1bDU5dzA2TlpKT0Y0cnZDMHIxTkFSRE4tRFF1MWRXRXJ1MU5fTXpaTURHMUpwY3N1TDl5YjFvTk0tUVhyYVliRGRPZXRMWmVDSmZzZGRQcWxwdVpGVGNNR01SaHlXM0REeUpkMU52Q1Nuc190Z01qb9IBxgFBVV95cUxNRlYwaWd6QWZETnpZUXdHTnJZQkZ6UWpzakQ2aEJnbXBGNlFja3B0clowTzl5N0JnQklhdmdZQ0Faa2tYT2hMdzgtSmRJWFpCcjU1c0NwY2REMF9qVjVpd2RqTU9udVZFT1QwQkJ2MVRQNk1hQ1k3WFRxby1iYTVJejJzM1Y4ekZaemtTRUNDWTZnRkg1dlpSVXM5bENaLWp5N2lJUDFFcUo0VVh4elRaWjE0UE81Z3V6SGt5dDdyb2MtTkthV0E?oc=5",
+      "description": "Viruses do not respect borders. An expert explains how the world should prepare for their outbreaks &nbsp;&nbsp; The Indian Express",
+      "source": "Google News",
+      "date": "2026-07-16T10:00:51+00:00",
+      "raw_date": "Thu, 16 Jul 2026 10:00:51 GMT"
+    },
+    {
+      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
+      "description": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
+      "source": "Google News",
+      "date": "2026-07-15T12:46:33+00:00",
+      "raw_date": "Wed, 15 Jul 2026 12:46:33 GMT"
+    },
     {
       "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
@@ -190,6 +206,14 @@
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - Dayton Daily News",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZk9fWS13U29rdEVKZ3llRW1TTGkwOVIyUG50YXNtcDBBUEgtMkp1YnhVb09vd1JFekZ5LXRBUnNOVl9Cc0oxNVdobWNmSVdNd243VWhIS2tCUEJQMkIyTUsxZGJDMUdBNW84cWtJYjk4TV9Bb2xoV09XRzFJdDN0TVN4ODVrcF8wcWJnUkpqX1JENC1JTjlkYnVlMFl1WHBleVNjUlRZbE8yYldRNU16OG1CX2xjc0U1czhlWDlWcGVrLUI3cVV3SVVmM2xrX1ZHVFl6dlhkejhRSHlEWHBuNEdzazkxMnpvZE5XaERvckxTTE5QVjI4bW1pQnNpQlhlc1pOd0JYcFdsRHN0?oc=5",
+      "description": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; Dayton Daily News",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
       "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; The Santa Barbara Independent",
@@ -238,14 +262,6 @@
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-      "description": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-      "source": "Google News",
-      "date": "2026-06-15T07:00:00+00:00",
-      "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
       "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
@@ -284,14 +300,6 @@
       "source": "Google News",
       "date": "2026-06-01T07:00:00+00:00",
       "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzgwS0N6LVN5VlhVb1hManFjZFdaU1dianMxY05nR0tjNTZBeUZad0J0N2o1cVN0T0hvdVhXREp6OHFOMnBiVG1FUktYODFEZVFubV9lWVZBUGRlaVdqeEtnZWRUZzBSeUJQQnZrSlVROC1LVm1OQllvLWdMd0VkUEVyMDliNlk?oc=5",
-      "description": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts &nbsp;&nbsp; CBS News",
-      "source": "Google News",
-      "date": "2026-05-29T07:00:00+00:00",
-      "raw_date": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
@@ -385,14 +393,6 @@
       "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
       "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Google News",
-      "date": "2026-05-21T07:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
-      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
