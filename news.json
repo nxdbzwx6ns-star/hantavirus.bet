@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T11:26:10.275496+00:00",
+  "updated": "2026-07-17T13:39:31.152192+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,6 +12,14 @@
       "source": "Google News",
       "date": "2026-07-17T03:30:00+00:00",
       "raw_date": "Fri, 17 Jul 2026 03:30:00 GMT"
+    },
+    {
+      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
+      "description": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
+      "source": "Google News",
+      "date": "2026-07-16T15:54:43+00:00",
+      "raw_date": "Thu, 16 Jul 2026 15:54:43 GMT"
     },
     {
       "title": "Manifold’s Hondius Hantavirus Market: Why Bettors Put Just 2% on a Non-Passenger Case - tech-insider.org",
@@ -30,14 +38,6 @@
       "raw_date": "Wed, 15 Jul 2026 12:46:33 GMT"
     },
     {
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-      "description": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "source": "Google News",
-      "date": "2026-07-15T12:05:53+00:00",
-      "raw_date": "Wed, 15 Jul 2026 12:05:53 GMT"
-    },
-    {
       "title": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn - Labmate Online",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZGh5NWFwcFpuQmNLclJTbV9EdDRDTEtycHRPemRnU2pUTVpQUENCX3ZxbndUZ0JnNXVvMmRHODN3Y05NSmI0TUtPUUlYb2Z2VWM1SXdjdHN5VzdjWGg3LVFsdGQ1dkxORElFSWhacEswUTFwYW9GNEc5T3k2c0oyWEVMN2hpMHZYNnk2NXhKVW1DVGJudy1SSk5kLXA5X0dQQUhqNXhsVnZJRHRwbktZX015M0lJSUdlQ0NjRlBSWXlKMUhhY01RSnJ2QV8ySmhKbUxaTVFTcmJWVkhiT205ZXJNQWVKdnNCMVpRb05GWFpDRDRRMHFtS3NRbUxkdng0dVlWQg?oc=5",
       "description": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn &nbsp;&nbsp; Labmate Online",
@@ -52,14 +52,6 @@
       "source": "Google News",
       "date": "2026-07-12T18:55:53+00:00",
       "raw_date": "Sun, 12 Jul 2026 18:55:53 GMT"
-    },
-    {
-      "title": "Hantavirus outbreak from cruise ship officially ends - The Star",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNC1UZ0tfaEphYXNYX29BZXcwRHVXMGFqMXRfWFBBeGxhMWR6dk1YaHR5M1M1NWJKamZYeWw3UVQ1WXJwX0ZrRFlHREZ4S0hUOVU2eTVFWV9TVXR4aVBYTEVsVDBDcVl5RTF1bXZXMDY2RDhLeVRybHFiT3R1dHJpbXVRZ1VmXzFSbWVlNHpoUWVpU3hBWFVHNFFLVDUzSmh5Z1E0Z1B0a0l2aHM?oc=5",
-      "description": "Hantavirus outbreak from cruise ship officially ends &nbsp;&nbsp; The Star",
-      "source": "Google News",
-      "date": "2026-07-12T12:00:00+00:00",
-      "raw_date": "Sun, 12 Jul 2026 12:00:00 GMT"
     },
     {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
@@ -129,6 +121,14 @@
       "title": "The hantavirus outbreak is over, WHO declares - Live Science",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
       "description": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
+      "source": "Google News",
+      "date": "2026-07-02T07:00:00+00:00",
+      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "WHO says Hantavirus outbreak linked to ship is over - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNHVHSzdETnIxcTlkMDNGbk9QTlNlcjBBQXI3ekZmX1Z0emJKaVhwLXZNVllUNjRvMHUtTjJwZTZ1dG1TQllzaGUySDZYN3llM3BtWmZldGxBTElu?oc=5",
+      "description": "WHO says Hantavirus outbreak linked to ship is over &nbsp;&nbsp; BBC",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -294,14 +294,6 @@
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus threat from cruise ship outbreak ends in US, official say - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUhnS1VCQVpIUmhPWWZTZ2U5ZzZseHYzT1JubU1ERUI5WmwyUlZWTFd4RTFYdDFzTDVXVFliaGhhSVFZbTZhd1BYVXQxb29CUUFvZVlmeGJJVGdEdjdBMFZXVU5HNlhoMW8xZmZwR2ZQVVEtMENuaWl6Q2doMTZGOGFJNk1UNkYwcHM2NkZmekYyalFVMTZ3UEpSY3pvcVpDdXp0TQ?oc=5",
-      "description": "Hantavirus threat from cruise ship outbreak ends in US, official say &nbsp;&nbsp; Scripps News",
-      "source": "Google News",
-      "date": "2026-06-23T07:00:00+00:00",
-      "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
       "description": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny &nbsp;&nbsp; The Santa Barbara Independent",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-06-12T07:00:00+00:00",
       "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
+      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
+      "source": "Google News",
+      "date": "2026-06-11T07:00:00+00:00",
+      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     }
   ]
 }
