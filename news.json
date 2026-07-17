@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:16:47.320255+00:00",
+  "updated": "2026-07-17T09:57:43.269457+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -46,20 +46,20 @@
       "raw_date": "Wed, 15 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakUzSlNQU2NNcEwxX3NnN1FDeVRxcklONm44TDdxc1BPTmp0QUhJTnM2Z09NSlhnVThRcTlyVkxRQ3FTM1Uxb0pXb3FpbG43WnJTU3hvQzJTbHExUVNZR1VOYjl6NVB1X1RBNTJMUl9wYlRwUkhMS2RYZTNXZHdEMTk0d0pnamd0Wll3RXVweHluSkVUbWc?oc=5",
-      "description": "Keystone Health Shares Hantavirus Prevention and Safety Guidance &nbsp;&nbsp; Franklin County Free Press",
-      "source": "Google News",
-      "date": "2026-07-12T18:55:53+00:00",
-      "raw_date": "Sun, 12 Jul 2026 18:55:53 GMT"
-    },
-    {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg0al82bmRNblpsR1k3bGhoaHFzOUluZGlxcG1idWVJS295RGszUVAteE5rMVQzMFdDVVdoNG5UQWtIQUItYXpyR3FsUTFlZ3RjUGhyeU9hdWVReHZsR19YdkhKb3VlU0hKM05FMFB6ZFE5Y2ZPNzRmNTlJQ3IzVXZWLXNqVFp0NDVZOQ?oc=5",
       "description": "Hantavirus outbreak offers lessons for the next pandemic &nbsp;&nbsp; Earth.com",
       "source": "Google News",
       "date": "2026-07-11T23:57:42+00:00",
       "raw_date": "Sat, 11 Jul 2026 23:57:42 GMT"
+    },
+    {
+      "title": "HHS Suspends Hantavirus Monitoring - respiratory-therapy.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3lOMnpXUFkyU0ZYc2dfT3pKNS1naVRpUWgxZ2xROTB0bEJjRXdUMGttTldyWWRDT3lrdkVHTDBCbXVMX0VyRW11Y1c2Z1Q1WjkwdTBIS3JsSEJLZXJsOWRSeGl6VVcxZ3FOM2xib1VzczVQMGRyeGQ0UWR4cVBrRk9uZmZnbEc3U1JvNW8tUXQtSVR2Sl8yMUF2SUtQbTJVWGFEelhyT09LUS16cU83YmJmQzdsazRDbDEtZ3ZSNXQ?oc=5",
+      "description": "HHS Suspends Hantavirus Monitoring &nbsp;&nbsp; respiratory-therapy.com",
+      "source": "Google News",
+      "date": "2026-07-06T20:38:18+00:00",
+      "raw_date": "Mon, 06 Jul 2026 20:38:18 GMT"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -126,6 +126,14 @@
       "raw_date": "Mon, 29 Jun 2026 14:40:26 GMT"
     },
     {
+      "title": "The irony of the hantavirus quarantine - Your Local Epidemiologist",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjlmUnM3QnNrNjhFVGxiVThSNFU4NXRYOUdrblZqcldxVC01WDR0Q1g0ejJMQnlBZUJKM1l0ei1zMEwwSjhoc2tfTGU3V09KSEQ5Q0pubGRvdDRxSmVaRW92eHE5MGJJU19paHdnX1VuOXNmTk9jTlVxdDR2UTl5bEFUTnYzTFpNUS1HSEFR?oc=5",
+      "description": "The irony of the hantavirus quarantine &nbsp;&nbsp; Your Local Epidemiologist",
+      "source": "Google News",
+      "date": "2026-06-26T07:00:00+00:00",
+      "raw_date": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaExJTDdLSTN4ZEh5QVIwVmU0TURDUHpGejc3Vkt2NkR3Ml83M3dNWF93bmhQdUJJWWtfZDdoM1hST29vdzA3ZHplYkYya1V4OHlQYmJ5UjZ1cEFfbzllUUFuVTBJNUdKbjlsUlMxbkp3SjgwZFdYamx3bUh3T2dIM2I3WlNnZFBZYURTbDVqWWs?oc=5",
       "description": "Hantavirus Shows How Little Has Changed: News Article &nbsp;&nbsp; Independent Institute",
@@ -142,9 +150,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care® (AJMC®)",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -214,17 +222,17 @@
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Last American hantavirus cruise ship passenger released from quarantine - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzl2SFFxSzRjNzZxR2k5bVZkZS1ReFVMSGc3YTNEMnE4eDU2czBpLVNzUDRMd1JrR0tMSUthMlZPNEJ5cy1hZm81eHFFQmktSEtHQWVieV80a0lRR082bWZtNkFfakFjdUcxVkROUEhuaUJWS0ZESXVScXJINXdnVnBHMTdXZW10clZ30gGQAUFVX3lxTFA2cmxZTzZDMkMtcnBHcDZ4TnBGQUtMVWkxY0d5RGNmbjZieWl6WGJxa2VsdXQxYmF4cTdmbVctOUwtOTFMaVB1TTdBdlZ6MzRrZDl1M2wzZjcyd0hGNnlLNUc1TDhNZjYwcGxIU0lLLUtRSTdyR0FmclNiOTBEZ3R2aEZIWWFfVTZ1U3NWdlN0cQ?oc=5",
-      "description": "Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill",
+      "title": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
+      "description": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers &nbsp;&nbsp; Nebraska Public Media",
       "source": "Google News",
       "date": "2026-06-23T07:00:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
-      "description": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers &nbsp;&nbsp; Nebraska Public Media",
+      "title": "Last American hantavirus cruise ship passenger released from quarantine - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzl2SFFxSzRjNzZxR2k5bVZkZS1ReFVMSGc3YTNEMnE4eDU2czBpLVNzUDRMd1JrR0tMSUthMlZPNEJ5cy1hZm81eHFFQmktSEtHQWVieV80a0lRR082bWZtNkFfakFjdUcxVkROUEhuaUJWS0ZESXVScXJINXdnVnBHMTdXZW10clZ30gGQAUFVX3lxTFA2cmxZTzZDMkMtcnBHcDZ4TnBGQUtMVWkxY0d5RGNmbjZieWl6WGJxa2VsdXQxYmF4cTdmbVctOUwtOTFMaVB1TTdBdlZ6MzRrZDl1M2wzZjcyd0hGNnlLNUc1TDhNZjYwcGxIU0lLLUtRSTdyR0FmclNiOTBEZ3R2aEZIWWFfVTZ1U3NWdlN0cQ?oc=5",
+      "description": "Last American hantavirus cruise ship passenger released from quarantine &nbsp;&nbsp; The Hill",
       "source": "Google News",
       "date": "2026-06-23T07:00:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
@@ -393,14 +401,6 @@
       "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
       "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Google News",
-      "date": "2026-05-21T07:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
