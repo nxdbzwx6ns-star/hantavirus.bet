@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:52:08.106083+00:00",
+  "updated": "2026-07-18T09:26:26.530986+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -121,6 +121,14 @@
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
       "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; Reuters",
+      "source": "Google News",
+      "date": "2026-07-02T07:00:00+00:00",
+      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
+      "description": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-26T21:23:02+00:00",
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
-    },
-    {
-      "title": "Why is hantavirus so deadly? It’s not what you may think - Science News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YcU5LRG9pTzJuYVptVm40dlR0UDJ2ZFBtcHlZQkpMclpORF9fdEczOHF6LXZSdUF5cEM5X0ZIdTNVYXR2UkJJcVFiRkFTMDRlQjlWeHZpc1lydERXd21kVFNUU0x2WXozMkt0NmwxN19nNFJyMWtrRkpWSnRVUQ?oc=5",
-      "description": "Why is hantavirus so deadly? It’s not what you may think &nbsp;&nbsp; Science News",
-      "source": "Google News",
-      "date": "2026-05-26T07:00:00+00:00",
-      "raw_date": "Tue, 26 May 2026 07:00:00 GMT"
     }
   ]
 }
