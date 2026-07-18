@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T09:26:26.530986+00:00",
+  "updated": "2026-07-18T11:04:43.304054+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,6 +12,14 @@
       "source": "Google News",
       "date": "2026-07-18T06:59:20+00:00",
       "raw_date": "Sat, 18 Jul 2026 06:59:20 GMT"
+    },
+    {
+      "title": "Elisabet Jané: \"We paid the consequences of a media and political circus\" - Diari ARA",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU52ZFZwcWdJNmhvak5WaTBhei0tbVRVVXlGc0t4Ym41eFdmTEswVEl3NlpiQkNhSE15MHVZVzZEWHdWWUV3VVRhVkN5M3o4OUJvRFF3SFJlQm1WMnF6YzVvOWZWbWRzc2t3cmhsNEFGZDB4VlZrUjc0dW9XZ0hzWVJ5NU10NlhtTzVhb05KeDN3WEp0ZlMyU0tTWmVaaEnSAaQBQVVfeXFMUDg0OHlRRTY3R3RFMVlabF9MLUFDanUxWWZCeHE5Q0F0LVVZNEtETmUyUnVNUFVRbGpPeGJNRHNuc3F6UUwySk4tMFJ6b2F0elZvVWd4RWFLQnB4ZlcwTU1WdFQteFF5NWY0Y05pWXRRZFF3OVlLOERnajBwLTc0Y1VNaU9qTVVVM2h6anJrNEVmVzR3TVZTeHVxMW1QOG1nZDVkNDE?oc=5",
+      "description": "Elisabet Jané: \"We paid the consequences of a media and political circus\" &nbsp;&nbsp; Diari ARA",
+      "source": "Google News",
+      "date": "2026-07-18T06:03:17+00:00",
+      "raw_date": "Sat, 18 Jul 2026 06:03:17 GMT"
     },
     {
       "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
@@ -222,9 +230,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
+      "description": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
-      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
-      "source": "Google News",
-      "date": "2026-05-26T21:23:02+00:00",
-      "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     }
   ]
 }
