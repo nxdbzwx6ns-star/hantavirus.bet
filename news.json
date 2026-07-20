@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T06:47:12.042998+00:00",
+  "updated": "2026-07-20T10:11:55.872283+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -70,6 +70,14 @@
       "raw_date": "Fri, 03 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq?oc=5",
+      "description": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-07-02T15:46:03+00:00",
+      "raw_date": "Thu, 02 Jul 2026 15:46:03 GMT"
+    },
+    {
       "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
       "description": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says &nbsp;&nbsp; The New York Times",
@@ -81,14 +89,6 @@
       "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
       "description": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
-      "source": "Google News",
-      "date": "2026-07-02T07:00:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
-      "description": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -220,14 +220,6 @@
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Vaccines and therapeutics for Andes hantavirus - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
-      "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; Nature",
-      "source": "Google News",
-      "date": "2026-06-09T07:00:00+00:00",
-      "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
@@ -401,6 +393,14 @@
       "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
+      "source": "Google News",
+      "date": "2026-05-18T07:00:00+00:00",
+      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
+      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
