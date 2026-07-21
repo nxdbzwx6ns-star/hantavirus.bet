@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-21T08:30:11.193825+00:00",
+  "updated": "2026-07-21T11:09:08.790911+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
+      "description": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-07-21T09:01:06+00:00",
+      "raw_date": "Tue, 21 Jul 2026 09:01:06 GMT"
+    },
     {
       "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5",
@@ -94,14 +102,6 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
-      "description": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says &nbsp;&nbsp; The New York Times",
-      "source": "Google News",
-      "date": "2026-07-02T07:00:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
       "description": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
@@ -121,6 +121,14 @@
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
       "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2026-07-02T07:00:00+00:00",
+      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
+      "description": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -270,14 +278,6 @@
       "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
-      "description": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
-      "source": "Google News",
-      "date": "2026-06-20T07:00:00+00:00",
-      "raw_date": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
       "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
@@ -350,6 +350,14 @@
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5",
+      "description": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; NBC News",
+      "source": "Google News",
+      "date": "2026-05-27T07:00:00+00:00",
+      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
       "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-22T07:00:00+00:00",
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
-      "source": "Google News",
-      "date": "2026-05-21T07:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     }
   ]
 }
