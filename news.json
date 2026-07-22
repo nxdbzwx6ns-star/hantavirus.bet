@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-22T09:26:44.794454+00:00",
+  "updated": "2026-07-22T11:47:41.062976+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Venezuela confirms three hantavirus deaths, rules out human-to-human transmission - Qazinform",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJTbE43d0lyVlNBTk45MU5tcU5oUlZPNERnWnlJVG05aElKbkxiSUR6anI3OFR4TGJXdE9zdU9rUE1WNkNZTm85bG9XR0tzYXp5YUZYZXJ3QXJOd0tFZTVmU05VUGNjbzRiRzJtbno3Y1ZhbEpPaE5VbDJ6b1VjSW90cDVGcFJDNHZVZ0plYktjTGZUN2NmeGpZVGo4dlZ6bVRPYy1wMFc5OGQyS1NHQUotUGzSAbQBQVVfeXFMT2pkSGV5SzRwbFZGU1I0TDVCdnFqazZKZmFWaXBIZTF6ZDZCSmc0dHZ2dkxjMUNrUVQyTFN3X0g4cEF1XzJGVUxpVUlyY0wwQUJCeWZ3cjBPa3I1OTBidGY5cnB0R2VvX2pBaDhuV0doU2MwRVYwYllISF9yY0ZVNFlzMzFSZTFZWFBqUWV6aGtPUmY0NWJaVVFUcVdFdjRVTVRVRDU0TlROWXFZUi0wSTAtNW5f?oc=5",
+      "description": "Venezuela confirms three hantavirus deaths, rules out human-to-human transmission &nbsp;&nbsp; Qazinform",
+      "source": "Google News",
+      "date": "2026-07-22T10:43:54+00:00",
+      "raw_date": "Wed, 22 Jul 2026 10:43:54 GMT"
+    },
+    {
+      "title": "Tallo a tattao, natay gapu ti hantavirus idiay Venezuela - Bombo Radyo Vigan",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUQ2NWdaM1p6RE12ZG93MnFCeWhjcmxhdFBpd1RuVEJXX3hEUmxTLVdWTWhLblJhNU5EQ3NTX1N1SEJzb00xTnFlbnNPSnBmT0F3MWliZHdLRjRUUGVDWUFvNEdaWHA2V1d6RXpSRGwwelhHMjhBQTZrdGlxREszOGhJN19XeDlmQi14YzJ3?oc=5",
+      "description": "Tallo a tattao, natay gapu ti hantavirus idiay Venezuela &nbsp;&nbsp; Bombo Radyo Vigan",
+      "source": "Google News",
+      "date": "2026-07-22T09:57:55+00:00",
+      "raw_date": "Wed, 22 Jul 2026 09:57:55 GMT"
+    },
     {
       "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkljMUpUODRZMTVJYlFtZVlEUzdBV25fNDRhc0ZYelZXZTI1R3hwSnRfRXNucHJfYTVSM2Z1dmMtam04YzlVVndwVUotcnBaQmRNV3BxUnU5cndTcGlqdU9PVjNydGpFQzRoaDhFT0Fid0xLMU9lMUI4Q2c4RGVJNFI3MUhVdw?oc=5",
@@ -28,6 +44,14 @@
       "source": "Google News",
       "date": "2026-07-22T08:25:00+00:00",
       "raw_date": "Wed, 22 Jul 2026 08:25:00 GMT"
+    },
+    {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more suspected - TimesLIVE",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmRRZ3NNQzl3TkZFZEw2NjBTUEstWFl2aDhpQkd1WWVsMFVnWUtyOWdud1VkaHdDYm1URXF6LUFmSnRsbU95RElDajFTZHpJRDQ5R09MUXY4RnFJbTJadnlxOXlpUGVDUUx3b3JTd1Q3TEtBc2M0TEs2V3RSV1Z6Y2NkU09mRTJZRURkcU9Ub1NHSktOUGtZaDJHLXpnMzZsbW1XRXZ0S1Fkc1p2SHk3eHFPYkZBT2pCUVZJS3RzVVJSVWJOMWJDVktB?oc=5",
+      "description": "Venezuela confirms 3 people have died of hantavirus infections, 2 more suspected &nbsp;&nbsp; TimesLIVE",
+      "source": "Google News",
+      "date": "2026-07-22T07:33:22+00:00",
+      "raw_date": "Wed, 22 Jul 2026 07:33:22 GMT"
     },
     {
       "title": "Hantavirus Claims 3 Lives In Venezuela: What The Rat-borne Virus Does To The Brain - Health and Me",
@@ -161,14 +185,6 @@
       "title": "Venezuela Hantavirus - Idaho State Journal",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS196RnZUTTdRdXY5Z1YtblRMbXBzZHhrOWJQTTZ1UXQ4YklqdVpWZ2FRNHpiNjNkTElsYnNRbFpocVprSjZuQTdiRHpaQThNZ0l1blR5MzlCdERXZm0yMXYzVWozRXRIUmFKRWk5d0xuc21sZlFGS0owOG1hZWQ5RlFEU05SS0c2NUc5WHFOMHVuYUtrQ2x1Zld0bXBjanhBQnRfZnpUVnB2M093SW5KVS13bw?oc=5",
       "description": "Venezuela Hantavirus &nbsp;&nbsp; Idaho State Journal",
-      "source": "Google News",
-      "date": "2026-07-21T23:33:25+00:00",
-      "raw_date": "Tue, 21 Jul 2026 23:33:25 GMT"
-    },
-    {
-      "title": "Venezuela Hantavirus - The Herald Journal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclp1eksxT0FESXY1RGNGV1czUkRGV0hCdC1JOTNaUUNhLVE0bmNrWnhrdUtJSEVFYk1DWWd3VFVxbGZ2bnRlclV1Z25mN19RQi1ITXVmRFFTS2NqREoxRS00Tm52OEJnSVc2Mko4V2o0V3YwMnNzUU03MFJkZzlyNzIxcVlZMTZfMGpWN0dmaEl0TUw5YjBxQzFoU0NEdw?oc=5",
-      "description": "Venezuela Hantavirus &nbsp;&nbsp; The Herald Journal",
       "source": "Google News",
       "date": "2026-07-21T23:33:25+00:00",
       "raw_date": "Tue, 21 Jul 2026 23:33:25 GMT"
@@ -388,22 +404,6 @@
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "The hantavirus outbreak is over, WHO declares - Live Science",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
-      "description": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
-      "source": "Google News",
-      "date": "2026-07-02T07:00:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1RfX0Q1T0c3OTdibFh2dGQyYkthd3ktN1BvOHdPeXZIOFZ4UFg2Ukx4ZXdDQWlhRGxQMFE3TW9MVV9JZTlXSW96dVZ6a3kxb0EzUDhjaHA2UzNYSVQzZ3RTeHk0eFUzSzhwaTJkYktIQ1ZwWGd5cEgwZnB4Q0duZy1tbjdEOGJCcmJyQU5NMVZ3aHdGR3JYU2NsQXNVdmM5bXBhcmwwMkgtR2oxcW9PVjFoZzdqVlFyZE01NlR4UHllMDZLeTBJeUM4SQ?oc=5",
-      "description": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "source": "Google News",
-      "date": "2026-06-29T14:40:26+00:00",
-      "raw_date": "Mon, 29 Jun 2026 14:40:26 GMT"
     }
   ]
 }
