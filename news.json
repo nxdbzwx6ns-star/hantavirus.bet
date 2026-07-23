@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:26:59.976052+00:00",
+  "updated": "2026-07-23T18:12:50.527788+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -76,14 +76,6 @@
       "source": "Google News",
       "date": "2026-07-22T06:44:14+00:00",
       "raw_date": "Wed, 22 Jul 2026 06:44:14 GMT"
-    },
-    {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hhVDBWUDE5Y1FLMFRZbTFTSnY3bGdrMVMzVUgwQ3VaN29LSWhTNUF2SVRTYVNxVHBtc1VQQW9ucEtCb184YllNMXNITDNtUjBCN0pDOU1na1pQRlc3LWRCSXRnZmpQVW5LdVI5ejZiRnpHZTF4QUdqZ050bGpSbFdLaENxSU1qNlczTlNfWVVUYjZYUTJZVkFiX3pUdVV6aUZpY1Nn0gGrAUFVX3lxTE43NEt0cUg2cVNaN1p3d09rclVJNUExbVltMFZqVXBJa3hra2ZoRnFUbUd6UkJITmNUQ3lNZ3ZtemtaRko5TlVNTEZMNTJBX0ZnUVZaczdQM3FwdzVqWFpPRTZvWVoxcGxOVzd4N2Y0YlhoLW1BR1UwMVJFelVLWnc4M2xXa0ZaenhheVUyMHJXREdDZy1fUmYxSU1qWnB4V3BHaDVKS3JaV0RqOA?oc=5",
-      "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-07-22T02:35:33+00:00",
-      "raw_date": "Wed, 22 Jul 2026 02:35:33 GMT"
     },
     {
       "title": "Hantavirus kills three in Venezuela - ABS-CBN",
@@ -380,6 +372,14 @@
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
+      "description": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine &nbsp;&nbsp; CNN",
+      "source": "Google News",
+      "date": "2026-06-01T07:00:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
