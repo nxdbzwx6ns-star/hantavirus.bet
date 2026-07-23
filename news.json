@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T05:55:06.521911+00:00",
+  "updated": "2026-07-23T08:31:35.053656+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -68,14 +68,6 @@
       "source": "Google News",
       "date": "2026-07-22T06:44:14+00:00",
       "raw_date": "Wed, 22 Jul 2026 06:44:14 GMT"
-    },
-    {
-      "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission - chinadailyasia.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dmYwaFlaZUw5YWRXb2RMTjFpQmhfZnEtbFlCMTNvVi1FMWVaeGFQVmFVYmxrczhnazlnM3pra3lQZmhISVdBT25IRHVoZWlKbGtMNVNFUG0?oc=5",
-      "description": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission &nbsp;&nbsp; chinadailyasia.com",
-      "source": "Google News",
-      "date": "2026-07-22T03:59:41+00:00",
-      "raw_date": "Wed, 22 Jul 2026 03:59:41 GMT"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-05-28T07:00:00+00:00",
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
+      "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-05-27T07:00:00+00:00",
+      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
     }
   ]
 }
