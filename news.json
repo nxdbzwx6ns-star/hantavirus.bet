@@ -1,18 +1,10 @@
 {
-  "updated": "2026-07-23T14:02:16.910250+00:00",
+  "updated": "2026-07-23T16:26:59.976052+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1l5NXdrZEhzM3JlN0kxRmQ3MjJ5R1BmY1lZaXdJSXBYWmhGZ19lT05VemRNUVpCQVYxX1V6ZkRXX0dvNmREX3RHXzlxYVdMbHBWTU5CaTVFdWdLSmw2Ykp2elUyb1BfRll5UnIwRmRmMkk4blVUdk5iMnNDUEVvUk01aDVGVWQzdVRBazlSM3MwVUNmaXFkcVpjclVDeVhzMjNUT0xvcw?oc=5",
-      "description": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia &nbsp;&nbsp; UA.NEWS",
-      "source": "Google News",
-      "date": "2026-07-23T11:36:02+00:00",
-      "raw_date": "Thu, 23 Jul 2026 11:36:02 GMT"
-    },
     {
       "title": "A man in Lviv region found to have hantavirus after vacation in Croatia and a trip to the mountains - Українські Національні Новини (УНН)",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlV1V1FrM3k2M2o1SDUwZDVuX0x5NDBFLTFlTlc1eDVkcDZHeFctZ3d2TkYtWmFqMVB6SGVONk81dzEyVVFGMUNGQy1rOE4tdi04UmpUSVVZMHAyQVUyb3Q5NjhoZzRSMUhWcExZME5lRzdZaTVWejNDUmtqYkJ1ZVk1Tzg5R29LbmhKZ20yeHRzcE1rM3Zja3VZMFFodGFQNDF4VHlLSFhZLVk4cFRRZ1B1dTLSAbMBQVVfeXFMUElVUGpYS0FxWkhpWGJkcU9tcmREYVNhX1ZOOVk4YkFBc2dhTUhCaHl6b0dGWWRkQlBiMy1uQmZ3NkpnR2hXdWRKdVpkZGNDc1RDTDZyWElpeDdHN2YtRU5pM2k4Qmp4WjN6czJtRC1ZMDVERnZVWHZOTjZKcHphdDItODc0TjVuT1AzLXRaSlFlc0JhSmRFbzBzUGVJdEs5X1lqcWtqWkVPb2YyNkFVdmJWLWc?oc=5",
@@ -310,14 +302,6 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1RfX0Q1T0c3OTdibFh2dGQyYkthd3ktN1BvOHdPeXZIOFZ4UFg2Ukx4ZXdDQWlhRGxQMFE3TW9MVV9JZTlXSW96dVZ6a3kxb0EzUDhjaHA2UzNYSVQzZ3RTeHk0eFUzSzhwaTJkYktIQ1ZwWGd5cEgwZnB4Q0duZy1tbjdEOGJCcmJyQU5NMVZ3aHdGR3JYU2NsQXNVdmM5bXBhcmwwMkgtR2oxcW9PVjFoZzdqVlFyZE01NlR4UHllMDZLeTBJeUM4SQ?oc=5",
-      "description": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "source": "Google News",
-      "date": "2026-06-29T14:40:26+00:00",
-      "raw_date": "Mon, 29 Jun 2026 14:40:26 GMT"
-    },
-    {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
       "description": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
@@ -404,6 +388,22 @@
       "source": "Google News",
       "date": "2026-05-28T07:00:00+00:00",
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
+      "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-05-27T07:00:00+00:00",
+      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
+      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
+      "source": "Google News",
+      "date": "2026-05-26T21:23:02+00:00",
+      "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     }
   ]
 }
