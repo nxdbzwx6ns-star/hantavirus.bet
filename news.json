@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-23T11:10:38.629368+00:00",
+  "updated": "2026-07-23T14:02:16.910250+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1l5NXdrZEhzM3JlN0kxRmQ3MjJ5R1BmY1lZaXdJSXBYWmhGZ19lT05VemRNUVpCQVYxX1V6ZkRXX0dvNmREX3RHXzlxYVdMbHBWTU5CaTVFdWdLSmw2Ykp2elUyb1BfRll5UnIwRmRmMkk4blVUdk5iMnNDUEVvUk01aDVGVWQzdVRBazlSM3MwVUNmaXFkcVpjclVDeVhzMjNUT0xvcw?oc=5",
+      "description": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia &nbsp;&nbsp; UA.NEWS",
+      "source": "Google News",
+      "date": "2026-07-23T11:36:02+00:00",
+      "raw_date": "Thu, 23 Jul 2026 11:36:02 GMT"
+    },
     {
       "title": "A man in Lviv region found to have hantavirus after vacation in Croatia and a trip to the mountains - Українські Національні Новини (УНН)",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlV1V1FrM3k2M2o1SDUwZDVuX0x5NDBFLTFlTlc1eDVkcDZHeFctZ3d2TkYtWmFqMVB6SGVONk81dzEyVVFGMUNGQy1rOE4tdi04UmpUSVVZMHAyQVUyb3Q5NjhoZzRSMUhWcExZME5lRzdZaTVWejNDUmtqYkJ1ZVk1Tzg5R29LbmhKZ20yeHRzcE1rM3Zja3VZMFFodGFQNDF4VHlLSFhZLVk4cFRRZ1B1dTLSAbMBQVVfeXFMUElVUGpYS0FxWkhpWGJkcU9tcmREYVNhX1ZOOVk4YkFBc2dhTUhCaHl6b0dGWWRkQlBiMy1uQmZ3NkpnR2hXdWRKdVpkZGNDc1RDTDZyWElpeDdHN2YtRU5pM2k4Qmp4WjN6czJtRC1ZMDVERnZVWHZOTjZKcHphdDItODc0TjVuT1AzLXRaSlFlc0JhSmRFbzBzUGVJdEs5X1lqcWtqWkVPb2YyNkFVdmJWLWc?oc=5",
@@ -86,6 +94,14 @@
       "raw_date": "Wed, 22 Jul 2026 02:35:33 GMT"
     },
     {
+      "title": "Hantavirus kills three in Venezuela - ABS-CBN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0J6TGxWamdYYjE0NkdDX200SHA5N2tqSERmdlFGN3UzS2pGOHVzSTloUEpSNzJIc1hYUWxUM2NZUEFpdm85YTd0YnpCOE1Ia3lRX1BXWjc4UFVCZ1JOeUF3dHB5ZzZyOUs2REh4dG0xQ3lWc1QzS3BXVzBDLW1LY3FfSkxxNWExbXR4cVlJeW1tXzlEUjZGaVZ3?oc=5",
+      "description": "Hantavirus kills three in Venezuela &nbsp;&nbsp; ABS-CBN",
+      "source": "Google News",
+      "date": "2026-07-22T01:51:55+00:00",
+      "raw_date": "Wed, 22 Jul 2026 01:51:55 GMT"
+    },
+    {
       "title": "3 killed by hantavirus in Venezuela - BNO News",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
       "description": "3 killed by hantavirus in Venezuela &nbsp;&nbsp; BNO News",
@@ -148,14 +164,6 @@
       "source": "Google News",
       "date": "2026-07-21T23:34:33+00:00",
       "raw_date": "Tue, 21 Jul 2026 23:34:33 GMT"
-    },
-    {
-      "title": "Venezuela Hantavirus - Idaho State Journal",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS196RnZUTTdRdXY5Z1YtblRMbXBzZHhrOWJQTTZ1UXQ4YklqdVpWZ2FRNHpiNjNkTElsYnNRbFpocVprSjZuQTdiRHpaQThNZ0l1blR5MzlCdERXZm0yMXYzVWozRXRIUmFKRWk5d0xuc21sZlFGS0owOG1hZWQ5RlFEU05SS0c2NUc5WHFOMHVuYUtrQ2x1Zld0bXBjanhBQnRfZnpUVnB2M093SW5KVS13bw?oc=5",
-      "description": "Venezuela Hantavirus &nbsp;&nbsp; Idaho State Journal",
-      "source": "Google News",
-      "date": "2026-07-21T23:33:25+00:00",
-      "raw_date": "Tue, 21 Jul 2026 23:33:25 GMT"
     },
     {
       "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
@@ -388,14 +396,6 @@
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
-      "description": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine &nbsp;&nbsp; CNN",
-      "source": "Google News",
-      "date": "2026-06-01T07:00:00+00:00",
-      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
