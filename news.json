@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:48:06.096546+00:00",
+  "updated": "2026-07-25T11:10:48.454988+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -158,6 +158,14 @@
       "raw_date": "Tue, 21 Jul 2026 09:01:06 GMT"
     },
     {
+      "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5",
+      "description": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "source": "Google News",
+      "date": "2026-07-20T20:00:00+00:00",
+      "raw_date": "Mon, 20 Jul 2026 20:00:00 GMT"
+    },
+    {
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
       "description": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
@@ -310,6 +318,14 @@
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
+      "description": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine &nbsp;&nbsp; CNN",
+      "source": "Google News",
+      "date": "2026-06-01T07:00:00+00:00",
+      "raw_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
       "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; KFF",
@@ -385,22 +401,6 @@
       "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
       "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
-      "source": "Google News",
-      "date": "2026-05-21T07:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
-      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Google News",
-      "date": "2026-05-21T07:00:00+00:00",
-      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
