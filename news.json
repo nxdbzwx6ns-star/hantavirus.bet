@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T15:03:05.728300+00:00",
+  "updated": "2026-07-25T16:58:41.376664+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -36,6 +36,14 @@
       "source": "Google News",
       "date": "2026-07-24T19:55:01+00:00",
       "raw_date": "Fri, 24 Jul 2026 19:55:01 GMT"
+    },
+    {
+      "title": "Why is gauging health risk so hard? - Your Local Epidemiologist",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaW5xSnpBaG15dFZnemhfWHdsRGxtek9XeXlOUTlwYmtNdzJjQmpmQTFXYlNPeV9xbDRHZ1lZTHJNeFZKbkpNRjJ3Uk9oYWVSbzFpZGFTazhXRUFHYkVpOWJMNzFFbktJaExmaE9ZbGV2amdZOU5tX0pqR1laQlVXaEdHVW5LYzlX?oc=5",
+      "description": "Why is gauging health risk so hard? &nbsp;&nbsp; Your Local Epidemiologist",
+      "source": "Google News",
+      "date": "2026-07-24T10:30:14+00:00",
+      "raw_date": "Fri, 24 Jul 2026 10:30:14 GMT"
     },
     {
       "title": "Cruise ship outbreak highlights need for clear communication on emerging disease threats - Medical Xpress",
@@ -190,9 +198,9 @@
       "raw_date": "Tue, 21 Jul 2026 19:53:40 GMT"
     },
     {
-      "title": "Hantavirus kills three in Venezuela - jamaicaobserver.com",
+      "title": "Hantavirus kills three in Venezuela - Jamaica Observer",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ05rajg5MVZhMER3aGtRSlRVZmxoSDZkVnpsYTROTmJGall6amltUGtWOGpYdkhqY21Fa294STBPWmhZcVVKYnJ6S1RiREZ1RXhKSmpDdDg4NTU4OEpDb1VZUjF1aDN0bkp6YXJtT1dWbXNtU091R2RTYWhTSG5wcHBn?oc=5",
-      "description": "Hantavirus kills three in Venezuela &nbsp;&nbsp; jamaicaobserver.com",
+      "description": "Hantavirus kills three in Venezuela &nbsp;&nbsp; Jamaica Observer",
       "source": "Google News",
       "date": "2026-07-21T18:24:46+00:00",
       "raw_date": "Tue, 21 Jul 2026 18:24:46 GMT"
@@ -220,14 +228,6 @@
       "source": "Google News",
       "date": "2026-07-21T15:52:16+00:00",
       "raw_date": "Tue, 21 Jul 2026 15:52:16 GMT"
-    },
-    {
-      "title": "Hantavirus Outbreak Sparks Concerns in Venezuela - Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUh6cFFuZ2pjVUdhVmJhbGVrNkw4SUN5OVdWNFVCR1ZCSEtYa0twZWY2RGxRSEgyOXJnVlVLSExxdTJMUmNoWDhtNURDY1RFRVhGSmFSYkJpczM2bkxFMXZaQ2s1ZWM4d0ZzYkh5OHFwdjRYaklObHFSNjU2b3dWdlVWdXB3ZUU5Z21uamVhcWMwb2ZmOXRfTUNJejRVcHpOMnfSAacBQVVfeXFMUG1Yd3d3OGd2SFJQSlcyUUJrWllpaFY5M0lTd3VaaDVUQTA4N1BwQ3lkYVAzXzhMTVZyeU9xSGphbVJhbUczdGZwTXdiOGdXWW0tcGRxaEpnWjI5MzlJazBzVDJQUVhZMXgyalN1Y0x6NnFkS0hXSFlhY0NJYTl2UU5VRlNHMmpJNF9reDlEeGpsdTY5enZMU1QtamFaQnQtaUpYSlh1Uzg?oc=5",
-      "description": "Hantavirus Outbreak Sparks Concerns in Venezuela &nbsp;&nbsp; Devdiscourse",
-      "source": "Google News",
-      "date": "2026-07-21T15:29:28+00:00",
-      "raw_date": "Tue, 21 Jul 2026 15:29:28 GMT"
     },
     {
       "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - The New York Times",
@@ -398,9 +398,9 @@
       "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
+      "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
+      "description": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine &nbsp;&nbsp; NBC News",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
