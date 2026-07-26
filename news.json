@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T04:26:33.879540+00:00",
+  "updated": "2026-07-26T07:35:28.371688+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -38,14 +38,6 @@
       "raw_date": "Fri, 24 Jul 2026 19:55:01 GMT"
     },
     {
-      "title": "Why is gauging health risk so hard? - Your Local Epidemiologist",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaW5xSnpBaG15dFZnemhfWHdsRGxtek9XeXlOUTlwYmtNdzJjQmpmQTFXYlNPeV9xbDRHZ1lZTHJNeFZKbkpNRjJ3Uk9oYWVSbzFpZGFTazhXRUFHYkVpOWJMNzFFbktJaExmaE9ZbGV2amdZOU5tX0pqR1laQlVXaEdHVW5LYzlX?oc=5",
-      "description": "Why is gauging health risk so hard? &nbsp;&nbsp; Your Local Epidemiologist",
-      "source": "Google News",
-      "date": "2026-07-24T10:30:14+00:00",
-      "raw_date": "Fri, 24 Jul 2026 10:30:14 GMT"
-    },
-    {
       "title": "Cruise ship outbreak highlights need for clear communication on emerging disease threats - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzFseDdFZ1VxaEdrTTVtVzQ0bVJwTU9zUXJzbHdEODE5SGplU3RlV083Rkk1d0tqSklkbWhNWWlnak9MLUlzYWpsQklLb29RbUVtTUliTVQ0aElDTVAxdkh1V1ZZaW5rMWFsdXBHcXJMcmQ2UVhhb192SWdjckZwWjl5dWhfaUY2dVZjeDB3TVgxZWM?oc=5",
       "description": "Cruise ship outbreak highlights need for clear communication on emerging disease threats &nbsp;&nbsp; Medical Xpress",
@@ -60,6 +52,14 @@
       "source": "Google News",
       "date": "2026-07-22T17:14:00+00:00",
       "raw_date": "Wed, 22 Jul 2026 17:14:00 GMT"
+    },
+    {
+      "title": "US Passengers Describe Their Days in Hantavirus Quarantine - Newser",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUlOOE9GdlNYTzlPN2pGR3VBUVRkcFhqaDV5ZU1xcGdmZE9PYkFZTmNiV3RQdDUtSXlJd25QYUY2cWVrT3JBc2xBNTA2d2tTTlVTR2ZpcHU4bTlOUk43WWJjdHJzbUZmWnJNS0pRWVlyejBVUjdPakhFYWFvcF9kNWhKUGJxZEZpcHhJV0xQbjdsSW1RRm5uRWVUbEZnZjJVQTdN?oc=5",
+      "description": "US Passengers Describe Their Days in Hantavirus Quarantine &nbsp;&nbsp; Newser",
+      "source": "Google News",
+      "date": "2026-07-22T14:59:00+00:00",
+      "raw_date": "Wed, 22 Jul 2026 14:59:00 GMT"
     },
     {
       "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - Yahoo News New Zealand",
@@ -97,14 +97,6 @@
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Oskaloosa Herald",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTXVBd2JyZ3FPMW9IWkVIbWpBU0I2enZHcElvYy1WSjFxR3pKLWd2aFZlTUVNZHktR2VsT0FBXzF4OTFYMEFLVmtBUmlHdzJFN0ZDT01MSFJ2aUlDSnRPWjdvVmZaNkFiMFVIcS1mRWc2WWwzeUFLY1NLQUhZRHJ3a3JPTjg3dGI3ZElUYU9fUTFYek5XVlBnSWR2eGdkZkJTajJqQ0VwbVVQbWM4VmxQU1hLaUdRaTAwdzNFOURQS2RGbnYweVgyME1ZQVhiTUlhQzBNblBPaUpTQlc1ZENxRVNzN1JjeGo2VUVnOEl2VUFJRlMxcGJHbDQ3ZzVsY0JQcERENE9ObWZhOVlOaC1KWi1PV2E?oc=5",
       "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Oskaloosa Herald",
-      "source": "Google News",
-      "date": "2026-07-21T23:36:08+00:00",
-      "raw_date": "Tue, 21 Jul 2026 23:36:08 GMT"
-    },
-    {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Clinton Herald",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYkFMVzFKbTJQQjBPSDAyQUg5RnQyYWJTWWhHaS0tTTdrMlFqOF9KVUlOZC1VN05JVWdiQzlRUHo3V0dpZk1YaDRoZVpPa3c1Wk54dFVHR3RzLUFUS0xUcXJPU2VxNlpZU1kwV01sNktsMVA1WW54WW01X0dDNE5PbU1TelpTOHRJVGg5TzRiLU5OTzNDVVAtZ3BvWGdjSW90ZElUUGY3dW9NNkZqMW0zM2xUaGh6V1dvc09BRFpWLVkyWkVEY2lzZ3gzMlVXNVVWRlN0Wk9fSkItV2lFcXZLb3BjSnhIUW1JcGFQNS1WYmtnMDZUWThCNlhkUjh4Q0dyZEJEWEI2T3A0Q091OTdWeDB6MklDYzRvN1ZQeTEyWG8tUQ?oc=5",
-      "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Clinton Herald",
       "source": "Google News",
       "date": "2026-07-21T23:36:08+00:00",
       "raw_date": "Tue, 21 Jul 2026 23:36:08 GMT"
@@ -321,6 +313,14 @@
       "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
       "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-05-27T07:00:00+00:00",
+      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus disease and the need for pathogenesis-guided therapy - Rockefeller University Press",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHZNQjRwcW16SE5vMUxnLXVOQVdUT0tGcTljb2FDUHZOcGF1X1JRYTVDTEZlbHZ5REJ5dDNhU0FyNXU4dFBFNUw4Z0M0aGVLa3JlSUIwVmVyaXBNUGtfdVFFTDRsQUd2YzFCTkpFNHJoX1JRT1NYdDVUUjZpRVNHdVB6RzJxdml0NjNhSjJWZDRvYlFlX2RuWmdMbnJQR2JHLWFBdmJn?oc=5",
+      "description": "Hantavirus disease and the need for pathogenesis-guided therapy &nbsp;&nbsp; Rockefeller University Press",
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
