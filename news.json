@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T22:58:57.880039+00:00",
+  "updated": "2026-07-26T00:07:05.829088+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -102,44 +102,12 @@
       "raw_date": "Wed, 22 Jul 2026 01:39:30 GMT"
     },
     {
-      "title": "Venezuela confirms three hantavirus deaths, says no sign of person-to-person spread - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uWHQxSmhMNVZYdVpWaDYzTEZJM0tvc25UdmRwLUhxbEljVzVWNWtYbUVGSWRvSndEZWpoMFhxLXBHaEVlLUxab1lXM2NYRkRSQVFQRjBXSEh0b1RSVE14VUFadGUzWTZzWVAtTnFxclBCc2hRbnc?oc=5",
-      "description": "Venezuela confirms three hantavirus deaths, says no sign of person-to-person spread &nbsp;&nbsp; AnewZ",
-      "source": "Google News",
-      "date": "2026-07-22T00:55:00+00:00",
-      "raw_date": "Wed, 22 Jul 2026 00:55:00 GMT"
-    },
-    {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
       "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
       "source": "Google News",
       "date": "2026-07-22T00:40:48+00:00",
       "raw_date": "Wed, 22 Jul 2026 00:40:48 GMT"
-    },
-    {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Oskaloosa Herald",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTXVBd2JyZ3FPMW9IWkVIbWpBU0I2enZHcElvYy1WSjFxR3pKLWd2aFZlTUVNZHktR2VsT0FBXzF4OTFYMEFLVmtBUmlHdzJFN0ZDT01MSFJ2aUlDSnRPWjdvVmZaNkFiMFVIcS1mRWc2WWwzeUFLY1NLQUhZRHJ3a3JPTjg3dGI3ZElUYU9fUTFYek5XVlBnSWR2eGdkZkJTajJqQ0VwbVVQbWM4VmxQU1hLaUdRaTAwdzNFOURQS2RGbnYweVgyME1ZQVhiTUlhQzBNblBPaUpTQlc1ZENxRVNzN1JjeGo2VUVnOEl2VUFJRlMxcGJHbDQ3ZzVsY0JQcERENE9ObWZhOVlOaC1KWi1PV2E?oc=5",
-      "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Oskaloosa Herald",
-      "source": "Google News",
-      "date": "2026-07-21T23:36:08+00:00",
-      "raw_date": "Tue, 21 Jul 2026 23:36:08 GMT"
-    },
-    {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - The Batesville Daily Guard",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbktLQ3NwMkZKemZqU2ZYZDBaV1FDUVltcXJRMVpsamdYTFdpZTkyX3RwYmE3bTRSWTNmckxDS1pUUFpHekx0dm1UZExEUFAyQUNxekd4Ym1qWklRTlJzYjRuV01QTEFHQjVKUjRiYjhQV21WRGRFTlRDaWNFcmNUNldaZnY3Tzk1U1FYZ0FhUlpqNVNqMTVmS2dxZGlzU2FUOFRhbl82bUNBLTdIVkxWZkpGZ1VKU1RrYjJoenhvRlVHU1hZTmxHc0lCVFlkRnQzaDUwb1JTbGJiakJ5QlZUcUNUZnQ2WnhCakxsS0N4M3RPX3BGSW9lS2ZnUFFGbFcydW5UNjdHMzVGdTg2?oc=5",
-      "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; The Batesville Daily Guard",
-      "source": "Google News",
-      "date": "2026-07-21T23:36:08+00:00",
-      "raw_date": "Tue, 21 Jul 2026 23:36:08 GMT"
-    },
-    {
-      "title": "Three people dead from Hantavirus in Venezuela spark outbreak concerns - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXhDYVdTSXk3WWlIcDFVcVIxM2lITDY2a0pWNjZ6LTlQRzhRNWk0MV9FZFN1Wk1zNGlOODFqVkZQM1diOWlIOXhIZTN0ZmNfaGM3NDlOYlRXVTh6cTZRYnhtT2hLSXZCVVVwMm5XYkxkU1JfTE5kUVNUODFDb1JROXdXdUJUenlNTy1FZHlPZjU3QVBUeXh3?oc=5",
-      "description": "Three people dead from Hantavirus in Venezuela spark outbreak concerns &nbsp;&nbsp; The Independent",
-      "source": "Google News",
-      "date": "2026-07-21T17:02:00+00:00",
-      "raw_date": "Tue, 21 Jul 2026 17:02:00 GMT"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission - chinadailyhk",
@@ -182,14 +150,6 @@
       "raw_date": "Wed, 15 Jul 2026 12:46:33 GMT"
     },
     {
-      "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg0al82bmRNblpsR1k3bGhoaHFzOUluZGlxcG1idWVJS295RGszUVAteE5rMVQzMFdDVVdoNG5UQWtIQUItYXpyR3FsUTFlZ3RjUGhyeU9hdWVReHZsR19YdkhKb3VlU0hKM05FMFB6ZFE5Y2ZPNzRmNTlJQ3IzVXZWLXNqVFp0NDVZOQ?oc=5",
-      "description": "Hantavirus outbreak offers lessons for the next pandemic &nbsp;&nbsp; Earth.com",
-      "source": "Google News",
-      "date": "2026-07-11T07:00:00+00:00",
-      "raw_date": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
       "description": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
@@ -230,6 +190,14 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
+      "description": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-07-02T07:00:00+00:00",
+      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
       "title": "The hantavirus outbreak is over, WHO declares - Live Science",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
       "description": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
@@ -241,14 +209,6 @@
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
       "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-      "source": "Google News",
-      "date": "2026-07-02T07:00:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
-      "description": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -276,6 +236,22 @@
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "What Arizona should understand about hantavirus - ASU News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEt6SlRoVHllNFFsTk41MzhzUXZfRmhHa25oSlprcFEwRlVTdGhmWmN2WUwwSzl1eWdldHVPZjVaWGY0R2FITDhwYjZ0ZEgyMnpUVk5Ob0hRclREVEFrMFdaaENpNFBzakJQNEtCa191Y0JMSWFrVTduMTNqV3NHREZieHFIbXI5VUViaVRlMFRGeVBGYVZqSG5FeUNlQQ?oc=5",
+      "description": "What Arizona should understand about hantavirus &nbsp;&nbsp; ASU News",
+      "source": "Google News",
+      "date": "2026-06-22T07:00:00+00:00",
+      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
+      "description": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2026-06-20T07:00:00+00:00",
+      "raw_date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
@@ -318,14 +294,6 @@
       "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5",
-      "description": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say &nbsp;&nbsp; CBC",
-      "source": "Google News",
-      "date": "2026-06-08T07:00:00+00:00",
-      "raw_date": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Andes hantavirus – A primer - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
       "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
@@ -353,6 +321,14 @@
       "title": "Hantavirus disease and the need for pathogenesis-guided therapy - Rockefeller University Press",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHZNQjRwcW16SE5vMUxnLXVOQVdUT0tGcTljb2FDUHZOcGF1X1JRYTVDTEZlbHZ5REJ5dDNhU0FyNXU4dFBFNUw4Z0M0aGVLa3JlSUIwVmVyaXBNUGtfdVFFTDRsQUd2YzFCTkpFNHJoX1JRT1NYdDVUUjZpRVNHdVB6RzJxdml0NjNhSjJWZDRvYlFlX2RuWmdMbnJQR2JHLWFBdmJn?oc=5",
       "description": "Hantavirus disease and the need for pathogenesis-guided therapy &nbsp;&nbsp; Rockefeller University Press",
+      "source": "Google News",
+      "date": "2026-05-27T07:00:00+00:00",
+      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+      "description": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
@@ -401,6 +377,30 @@
       "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
       "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+      "source": "Google News",
+      "date": "2026-05-21T07:00:00+00:00",
+      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
+      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "source": "Google News",
+      "date": "2026-05-21T07:00:00+00:00",
+      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
+      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
+      "source": "Google News",
+      "date": "2026-05-21T07:00:00+00:00",
+      "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
+      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
