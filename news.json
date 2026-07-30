@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-29T22:04:03.993536+00:00",
+  "updated": "2026-07-30T00:00:13.976957+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - BNO News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
+      "description": "Chile declares 1st hantavirus health alert after 18 deaths this year &nbsp;&nbsp; BNO News",
+      "source": "Google News",
+      "date": "2026-07-29T23:57:51+00:00",
+      "raw_date": "Wed, 29 Jul 2026 23:57:51 GMT"
+    },
     {
       "title": "Chile Declares Health Alert Over Hantavirus Fatality Rate - teleSUR English",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTFJMXFmeG1jQnNvR2doV01KWV9zS1BDdGtldVVpTmdVclpoOEg1QXB2cTA4c1pXOFNwUWpfNl9GdDRGUm1fbDN5NzZyWXl5TXZTSzFRdElRYXZiMEtZRlBabGxOQV9GdXlPRkhIaVFtbi1RdmF0UkIyeEVsdHY4eXp1V1YwMFVSUUtjb3BETURQN3c?oc=5",
@@ -14,9 +22,9 @@
       "raw_date": "Wed, 29 Jul 2026 17:03:29 GMT"
     },
     {
-      "title": "Chile declares health alert over hantavirus fatality rate - report.az",
+      "title": "Chile declares health alert over hantavirus fatality rate - Report.az",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUxEaHUyNUJiLW55cmxaaVo1U283YkRSVHlCRmkxeTIxNll2UzRfZlloa0taU21jWUpJNFB2cUY2dlpHdlRINzdzMmRSNms4OW9QT05xZFFVb2VLRndfQm43eFpTckM1MTRIT3JraFAyN1BRam1LZTZ0UmZJVko4dXlSTjIyZlpiOXdZNGh2YXh5MThWZXdjN0d30gGfAUFVX3lxTE0ySEYxM1RDNkJ5N2RtQTNocU1ydVJ1aVlOZzFXa2dHaWpoRlZnQk1BVDVtM1hXd1pYc040NVlkSnpDdTcySEhBWFBXTUJWOEkxbkdsaThnTTMtOWRHSUdzRHp4VHgtd3Y2X0d4eFM5R1ZuelllTWIzcFBjWXNvWEpTeUVTQzJ6SmVfbnAwTXVwY0Q1Y20zS0x1dXVlWV8xZw?oc=5",
-      "description": "Chile declares health alert over hantavirus fatality rate &nbsp;&nbsp; report.az",
+      "description": "Chile declares health alert over hantavirus fatality rate &nbsp;&nbsp; Report.az",
       "source": "Google News",
       "date": "2026-07-29T04:13:36+00:00",
       "raw_date": "Wed, 29 Jul 2026 04:13:36 GMT"
@@ -54,9 +62,9 @@
       "raw_date": "Wed, 22 Jul 2026 08:25:00 GMT"
     },
     {
-      "title": "3 killed by hantavirus in Venezuela - bnonews.com",
+      "title": "3 killed by hantavirus in Venezuela - BNO News",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
-      "description": "3 killed by hantavirus in Venezuela &nbsp;&nbsp; bnonews.com",
+      "description": "3 killed by hantavirus in Venezuela &nbsp;&nbsp; BNO News",
       "source": "Google News",
       "date": "2026-07-22T01:37:07+00:00",
       "raw_date": "Wed, 22 Jul 2026 01:37:07 GMT"
@@ -70,9 +78,9 @@
       "raw_date": "Wed, 22 Jul 2026 00:40:48 GMT"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - lufkindailynews.com",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - The Lufkin Daily News",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMTdMSDQxa3lPODNqeFpjOWJIMHI0X1pRZGlQWGNjUGk0OGV4N3M2MWt3dGc0dzAzckdDSGlpX3ZvZ1laXzVlNHJ3M2VUVkNaeEN5VlAtV19iTzFZYzJCTFlmRkwxR1l3Z1Y3b0lsTkFlZW1OUGwxVzNhWGFMdDRUdnpiLWlRNWRQZ291VWgxUEZKUDloLTF3dDlPUFY0bzZ0Sk1yeVZfMnNzVC0xbWxJOFpIcG5hbmlqTVpMeDJSNmFtRVRTOVlYVC1QeEFVMThzdTdhcElILV80S0Z0d3RLbVlvbk5yai1OVF8yc1pWdzhSQmdBTWM5aEl3bVF6clFsY2NtYzNfLTlmYWhLSTYzU0d1XzU1UkE?oc=5",
-      "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; lufkindailynews.com",
+      "description": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; The Lufkin Daily News",
       "source": "Google News",
       "date": "2026-07-21T23:36:08+00:00",
       "raw_date": "Tue, 21 Jul 2026 23:36:08 GMT"
@@ -108,6 +116,14 @@
       "source": "Google News",
       "date": "2026-07-15T12:46:33+00:00",
       "raw_date": "Wed, 15 Jul 2026 12:46:33 GMT"
+    },
+    {
+      "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg0al82bmRNblpsR1k3bGhoaHFzOUluZGlxcG1idWVJS295RGszUVAteE5rMVQzMFdDVVdoNG5UQWtIQUItYXpyR3FsUTFlZ3RjUGhyeU9hdWVReHZsR19YdkhKb3VlU0hKM05FMFB6ZFE5Y2ZPNzRmNTlJQ3IzVXZWLXNqVFp0NDVZOQ?oc=5",
+      "description": "Hantavirus outbreak offers lessons for the next pandemic &nbsp;&nbsp; Earth.com",
+      "source": "Google News",
+      "date": "2026-07-11T07:00:00+00:00",
+      "raw_date": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
@@ -310,14 +326,6 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Why is hantavirus so deadly? It’s not what you may think - Science News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YcU5LRG9pTzJuYVptVm40dlR0UDJ2ZFBtcHlZQkpMclpORF9fdEczOHF6LXZSdUF5cEM5X0ZIdTNVYXR2UkJJcVFiRkFTMDRlQjlWeHZpc1lydERXd21kVFNUU0x2WXozMkt0NmwxN19nNFJyMWtrRkpWSnRVUQ?oc=5",
-      "description": "Why is hantavirus so deadly? It’s not what you may think &nbsp;&nbsp; Science News",
-      "source": "Google News",
-      "date": "2026-05-26T07:00:00+00:00",
-      "raw_date": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
       "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
@@ -342,9 +350,9 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - news.wsu.edu",
+      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; news.wsu.edu",
+      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus: What you need to know - Virginia Department of Health (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJKQmFMcm1KYVpHZlh6aEd5MnVzLXFvQzJSc1R5UzFTRllDdUZibU8wOW1yYll1b0xncERIX2FHQUk0WWFxaEZrbGZscHVTRHZuWmZtc3ByR2hKRTlNbmZoeEhqVDRkV1JnM0FXVFVNZUxWWE95RDJHai1Qb2RaYlFTY0FhYTdI?oc=5",
-      "description": "Hantavirus: What you need to know &nbsp;&nbsp; Virginia Department of Health (.gov)",
-      "source": "Google News",
-      "date": "2026-05-19T07:00:00+00:00",
-      "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     }
   ]
 }
