@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T04:22:27.558082+00:00",
+  "updated": "2026-07-31T07:50:31.785433+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,12 +22,20 @@
       "raw_date": "Fri, 31 Jul 2026 03:22:00 GMT"
     },
     {
-      "title": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak - ca.news.yahoo.com",
+      "title": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak - Yahoo News Canada",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWdE4xcW91R1dGUkFacU5sSHgxTVItakdqbmo0WHZUb2duNmswMC1xWHpJc2REY1UwSlNzX2tFZ1JPTExtS1d1dnJoNUJMMVdEdzVrRFRxSzFfeVFUcmxlSDc4YlFYRjlXT3JZTUl2cDdrY3NWTWpmVEs1QWdyUQ?oc=5",
-      "description": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak &nbsp;&nbsp; ca.news.yahoo.com",
+      "description": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak &nbsp;&nbsp; Yahoo News Canada",
       "source": "Google News",
       "date": "2026-07-31T03:20:00+00:00",
       "raw_date": "Fri, 31 Jul 2026 03:20:00 GMT"
+    },
+    {
+      "title": "'Right place at the right time:' Dr. Steve Kornfeld shares his experience on Hantavirus cruise - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVGRwRVlEUWhXX2xYUkxScHpZSTNFSEVwNERtN2NtUFREUko5MnliX0xTbzZWaHMxZHdoNXhZWkpYVG9kNi1abU1mM3dKWjgwbFVLZE1xaXg1ekYyWk51Q3c4dm5MbVhmcy1mTUp4S1lmU1g3VDB3RVFMQmM1SmlpNmgwNGo2bXYyVkZFa0RLZ29FeU90U3Z3eWloOUs2dHVLUzJjZHI3djh3Q08yUG5Sc0RXczZGMks4Y0h0Uy1qOTNlMTBOTXdNdUJYckIxaWNTT1JHT19FbjJoc3Z0Q1o1SzFvZERFVGk4VGFrcUFJYUtyM2J0T3RzSVF1LVJCNVJ4S0J2ektRdjRqdUg2RkVhdmp4YUI?oc=5",
+      "description": "'Right place at the right time:' Dr. Steve Kornfeld shares his experience on Hantavirus cruise &nbsp;&nbsp; Central Oregon Daily",
+      "source": "Google News",
+      "date": "2026-07-31T01:18:00+00:00",
+      "raw_date": "Fri, 31 Jul 2026 01:18:00 GMT"
     },
     {
       "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
@@ -76,14 +84,6 @@
       "source": "Google News",
       "date": "2026-07-29T01:00:05+00:00",
       "raw_date": "Wed, 29 Jul 2026 01:00:05 GMT"
-    },
-    {
-      "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlRKZms1eTNGLUxMQ1hjUXFuZE9MRHJyR1gtYmQweHJRdEJWZHFkMl8yVkVnVDZ3bktaUTVaRXNURkprRHZ4Z21OSXBVRHIySE4yb08tTC1jcUc0ZHg5R2pkLWpjaDZSMGFNX2ExNjhCblJndmxWZll2VkRfdFBPTl91eGpfVkxFY3poX1hDMXR6OVNlOFBob1N6N2s2aWdfZG5RT0V6SHlRbjg?oc=5",
-      "description": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; The Independent",
-      "source": "Google News",
-      "date": "2026-07-22T08:25:00+00:00",
-      "raw_date": "Wed, 22 Jul 2026 08:25:00 GMT"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -158,9 +158,9 @@
       "raw_date": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
-      "description": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
+      "description": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -234,8 +234,8 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
       "description": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
       "source": "Google News",
-      "date": "2026-06-21T07:00:00+00:00",
-      "raw_date": "Sun, 21 Jun 2026 07:00:00 GMT"
+      "date": "2026-06-20T07:00:00+00:00",
+      "raw_date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
@@ -334,9 +334,9 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
+      "title": "Cruise ship hantavirus outbreak in remote island communities - thelancet.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
-      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
+      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; thelancet.com",
       "source": "Google News",
       "date": "2026-05-25T07:00:00+00:00",
       "raw_date": "Mon, 25 May 2026 07:00:00 GMT"
