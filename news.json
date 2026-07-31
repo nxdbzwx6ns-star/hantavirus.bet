@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-31T10:39:51.675720+00:00",
+  "updated": "2026-07-31T12:56:31.807426+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "'Right place at the right time:' Dr. Steve Kornfeld shares his experience on Hantavirus cruise - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVGRwRVlEUWhXX2xYUkxScHpZSTNFSEVwNERtN2NtUFREUko5MnliX0xTbzZWaHMxZHdoNXhZWkpYVG9kNi1abU1mM3dKWjgwbFVLZE1xaXg1ekYyWk51Q3c4dm5MbVhmcy1mTUp4S1lmU1g3VDB3RVFMQmM1SmlpNmgwNGo2bXYyVkZFa0RLZ29FeU90U3Z3eWloOUs2dHVLUzJjZHI3djh3Q08yUG5Sc0RXczZGMks4Y0h0Uy1qOTNlMTBOTXdNdUJYckIxaWNTT1JHT19FbjJoc3Z0Q1o1SzFvZERFVGk4VGFrcUFJYUtyM2J0T3RzSVF1LVJCNVJ4S0J2ektRdjRqdUg2RkVhdmp4YUI?oc=5",
+      "description": "'Right place at the right time:' Dr. Steve Kornfeld shares his experience on Hantavirus cruise &nbsp;&nbsp; Central Oregon Daily",
+      "source": "Google News",
+      "date": "2026-07-31T06:05:00+00:00",
+      "raw_date": "Fri, 31 Jul 2026 06:05:00 GMT"
+    },
     {
       "title": "After hantavirus outbreak at sea, content creator finds hope during Omaha quarantine - KETV",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHI3WDhaSTFsajNWN3JyM1UxSzJWOTRyRVItTFIxQVVMaG5lTHRmbEd5YnlJTnFnclRUMnNMVGtOT0o0bE9QRU5zMGt1Rk5qSGc4RGZqNERwUXJmbEZJbDhEbnYtR3JadTdTU3pURWdjMFRlNzhRTEVzQ1Y5cEpJLQ?oc=5",
@@ -14,9 +22,9 @@
       "raw_date": "Fri, 31 Jul 2026 03:27:00 GMT"
     },
     {
-      "title": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak - WCVB",
+      "title": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak - wcvb.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdE9UZFlGUHA2ZDd3UE1tYkVoa1RVNC15Q3Y4SnFOcE5vT0NpZ3g0bDk1R1JybjRwZVJuWWh4WmN0VUVHZXk4b2l5cnl0LUdqa09oeGlQQnRKTnVSSGtWQVRWVlhhT2d5YlNzcU8yUFVuUU80dWRnWVF0TUxQNkhieHNrMTJxMXJSZTlMV05XakpOVjRTMzRORV9EbHFocnZ5V0o5Z2pUSnlKc0J2Wnp6U3FjRGhQUDRPd2c?oc=5",
-      "description": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak &nbsp;&nbsp; WCVB",
+      "description": "Content creator back home in Boston after getting stuck on board ship with hantavirus outbreak &nbsp;&nbsp; wcvb.com",
       "source": "Google News",
       "date": "2026-07-31T03:22:00+00:00",
       "raw_date": "Fri, 31 Jul 2026 03:22:00 GMT"
@@ -30,14 +38,6 @@
       "raw_date": "Fri, 31 Jul 2026 03:20:00 GMT"
     },
     {
-      "title": "'Right place at the right time:' Dr. Steve Kornfeld shares his experience on Hantavirus cruise - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVGRwRVlEUWhXX2xYUkxScHpZSTNFSEVwNERtN2NtUFREUko5MnliX0xTbzZWaHMxZHdoNXhZWkpYVG9kNi1abU1mM3dKWjgwbFVLZE1xaXg1ekYyWk51Q3c4dm5MbVhmcy1mTUp4S1lmU1g3VDB3RVFMQmM1SmlpNmgwNGo2bXYyVkZFa0RLZ29FeU90U3Z3eWloOUs2dHVLUzJjZHI3djh3Q08yUG5Sc0RXczZGMks4Y0h0Uy1qOTNlMTBOTXdNdUJYckIxaWNTT1JHT19FbjJoc3Z0Q1o1SzFvZERFVGk4VGFrcUFJYUtyM2J0T3RzSVF1LVJCNVJ4S0J2ektRdjRqdUg2RkVhdmp4YUI?oc=5",
-      "description": "'Right place at the right time:' Dr. Steve Kornfeld shares his experience on Hantavirus cruise &nbsp;&nbsp; Central Oregon Daily",
-      "source": "Google News",
-      "date": "2026-07-31T01:18:00+00:00",
-      "raw_date": "Fri, 31 Jul 2026 01:18:00 GMT"
-    },
-    {
       "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
       "description": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; upi.com",
@@ -46,9 +46,9 @@
       "raw_date": "Thu, 30 Jul 2026 13:43:44 GMT"
     },
     {
-      "title": "Study Maps Andes Virus Genetic Diversity Across Chile - emjreviews.com",
+      "title": "Study Maps Andes Virus Genetic Diversity Across Chile - EMJ",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmtFcEhOaTdpLXc2SWJ6Z3RCX2lSaFhyUU9xbmhJZGNUZE5ZNkh5bF9IUVp0ZnVoNllZRldqckhwc2VPVC1kdDNjcjUtREF0bEV1UlFPQ29GdkpGbk5hTm1UaXJkdXhTVHRIMUpQRG9VcENEVmV5alRNamktZi11Y1JIek9zN3FNTnNBcTVaWnljWmFiMjl6VEUxeTBpUmp0Vl9mMDAyU3dnMWVId254RU5aajctZHE3Z0dJ?oc=5",
-      "description": "Study Maps Andes Virus Genetic Diversity Across Chile &nbsp;&nbsp; emjreviews.com",
+      "description": "Study Maps Andes Virus Genetic Diversity Across Chile &nbsp;&nbsp; EMJ",
       "source": "Google News",
       "date": "2026-07-30T08:14:59+00:00",
       "raw_date": "Thu, 30 Jul 2026 08:14:59 GMT"
@@ -124,6 +124,14 @@
       "source": "Google News",
       "date": "2026-07-20T07:00:00+00:00",
       "raw_date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Is It Too Risky to Travel Internationally? - Right as Rain by UW Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkxBVWNCWEhiOE9adFE1WENuRWpkWUNOMi1CVnFXeHd2d1FBTktBVlJhRFNGYjRJU1NCOHlBRmQ2YmxGLUE4dFlwS0p2aXA5N0hRTUxsVS1PRl9jNDdHNi1JZEVaN2ZDbUtOZXppbElZbTZZSndlWURIWE90cjZtT0VzdWFrelJnRVEyNUVOQnJYS1N0eVljbmJtVWxORzNKaGt6Z1U0SDA?oc=5",
+      "description": "Is It Too Risky to Travel Internationally? &nbsp;&nbsp; Right as Rain by UW Medicine",
+      "source": "Google News",
+      "date": "2026-07-16T15:52:34+00:00",
+      "raw_date": "Thu, 16 Jul 2026 15:52:34 GMT"
     },
     {
       "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
@@ -278,9 +286,9 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; science.org",
+      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
@@ -342,9 +350,9 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - PAHO/WHO - paho.org",
+      "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - PAHO/WHO - Pan American Health Organization (PAHO)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJGb2J2SV9udUhMZDBTQ2cwYkttSXBOWm42WjIxY1hxZC1vYl9UVzY3X0wyVWlwUjM1ZFcwNFlpM2NPc2VCNnYtTTRrSTRsSXcxWUpkaXNJc3J1ZDF2dmxOcV8tWHhLZ1czd1VkdVhLU0I2VzI1REpqa0pRbjFVN3ZtWXlENnJja3BteHZwTFlhT09SQ2hPVlZHMDhYdzhOYVJPcHNLU25Db1NVUnRVb3Z1MU91Njg2YTlfdGt3?oc=5",
-      "description": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - PAHO/WHO &nbsp;&nbsp; paho.org",
+      "description": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - PAHO/WHO &nbsp;&nbsp; Pan American Health Organization (PAHO)",
       "source": "Google News",
       "date": "2026-05-22T07:00:00+00:00",
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
@@ -385,14 +393,6 @@
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
       "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "Google News",
-      "date": "2026-05-20T07:00:00+00:00",
-      "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-      "description": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
