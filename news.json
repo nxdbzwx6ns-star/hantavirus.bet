@@ -1,18 +1,10 @@
 {
-  "updated": "2026-08-04T22:12:43.916425+00:00",
+  "updated": "2026-08-05T00:03:29.850230+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
-      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-08-03T14:59:08+00:00",
-      "raw_date": "Mon, 03 Aug 2026 14:59:08 GMT"
-    },
     {
       "title": "Chile declares health alert for hantavirus - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5",
@@ -38,9 +30,9 @@
       "raw_date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - The New York Times",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
-      "description": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; The New York Times",
+      "description": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; nytimes.com",
       "source": "Google News",
       "date": "2026-07-21T07:00:00+00:00",
       "raw_date": "Tue, 21 Jul 2026 07:00:00 GMT"
@@ -60,14 +52,6 @@
       "source": "Google News",
       "date": "2026-07-16T07:00:00+00:00",
       "raw_date": "Thu, 16 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-      "description": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "source": "Google News",
-      "date": "2026-07-10T17:38:00+00:00",
-      "raw_date": "Fri, 10 Jul 2026 17:38:00 GMT"
     },
     {
       "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
@@ -190,6 +174,14 @@
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDJQNm9fb0lEaEdjV1FpVWdrQ1U4Y0JiaTNpQmFfWThSZVNQRVMtMzhXVlc0N0pwbkZ1SUoyM1VUSzBTM2w0eWRiY0hyMllLTjJFNnFhVG1JX2V6VTlndnFvXzF3cFRKUzBSRGs0Y1Btd1JfX2FyR3hobFMxb3IzYzB6RDlGdVhCbHRicEZfQ29hSWstYTJCeV9iTVV6dVM5ODF4STM5NU1BRTVvanlkbVRKLUlWeTA?oc=5",
+      "description": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; AP News",
+      "source": "Google News",
+      "date": "2026-06-03T07:00:00+00:00",
+      "raw_date": "Wed, 03 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
       "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; KFF",
@@ -198,9 +190,9 @@
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
+      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
-      "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
+      "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; nytimes.com",
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
@@ -294,9 +286,9 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - nejm.org",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; nejm.org",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -326,6 +318,14 @@
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVk5UHRsUUJIY3ltNHFyWkpTV0NiMi1ma2pVSXFYV2M1Z2ZCbDBHeGFDTC1kc0pua3lXOExkUUU0Y0JxNWdEc1FSZHBJMUQ5Sko4RFljS0pDLTVVdHdST0o4OTJiWEV1ZEt6VUtwVkh2cUZhQnFIVXE2VEpqU2FtNXVvV1h3Qm5VNEd4d00xcmZoSGFJWm04QTRybkptOXhoSndtWS1DM2F0X0J4bHJPY0ttaGFVM2VXdUMzYVlR?oc=5",
+      "description": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city &nbsp;&nbsp; NBC News",
+      "source": "Google News",
+      "date": "2026-05-19T07:00:00+00:00",
+      "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
@@ -334,9 +334,9 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
+      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "description": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
+      "description": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; nytimes.com",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -382,9 +382,9 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Updates - slocounty.ca.gov",
+      "title": "Hantavirus Updates - County of San Luis Obispo (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVEFBbXZyVHBYM1hDR1VRTFdoQXVqMkxMbkZMUkVkdmNQZFVYM1VlcFlEcGlXU2FXTE8xV0pyOWF2aEJLdWFQcDRMUXZRX3JwWi04MWh5ZFYya3pFT3lYaElYUEtrWjRXSUxtU05fMHl5aFhGY2Rsb1lCT19DU2lyNmZmOC1VQ21iN1Fvby1vSy1MakxmSFR4V0UtS3J5UmpfbnVCMmNoMUYzR0FoRk5Uc1Z1MEJWeEo0SlloTUxwZVBIay1WMEpnREkxXzk4cngzX2ljNmxvWTVjaEx5QzZFMGM2SkJ2Z0doSjdpNjBCZFgwYUtKRjRYVzk3NWZRd1BDNTNTaml3T0V2VFZYUl8w?oc=5",
-      "description": "Hantavirus Updates &nbsp;&nbsp; slocounty.ca.gov",
+      "description": "Hantavirus Updates &nbsp;&nbsp; County of San Luis Obispo (.gov)",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
