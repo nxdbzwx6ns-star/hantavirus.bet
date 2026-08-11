@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T03:44:59.217429+00:00",
+  "updated": "2026-08-11T05:09:20.110890+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,17 +22,17 @@
       "raw_date": "Fri, 07 Aug 2026 14:22:45 GMT"
     },
     {
-      "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - aa.com.tr",
+      "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVhHSWhBM0FIeVVILUZqNFM0N2s4MUhweWhQREJab2hLRGlyemwwT2NSZG9jb1JHd093c0w2UXRCZ0VpWm83Tkc5SmZSbjZBS1VPTEMwODNXcnJOamNVZll4bTBHNUU5WERwZHdpME5yQWYxaG1CaGdwLXNpbmp0djhfcmp6Sm1OUS1mZ09mTmNwVHZEclJEdV9Vb0hKa044R1lEVEE2ODVaSnN0NG5rSlBVd01UTjdxeTdtT25tQnJmaVhWcFBzYQ?oc=5",
-      "description": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days &nbsp;&nbsp; aa.com.tr",
+      "description": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days &nbsp;&nbsp; Anadolu Ajansı",
       "source": "Google News",
       "date": "2026-08-07T13:36:30+00:00",
       "raw_date": "Fri, 07 Aug 2026 13:36:30 GMT"
     },
     {
-      "title": "Rare hantavirus case confirmed after visit to France - connexionfrance.com",
+      "title": "Rare hantavirus case confirmed after visit to France - The Connexion",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDZfUmlPOERCbmI1MGVROFYzVFlCWFd1azRQWXBCUGxwQ29tVUxCaEpkOTlIdDFXVjJOTUl2VEItZWtSZkZfUDMtM1VXbk9iQ19ySjdsczM4WVJYLVZHWHQyVmNpUVA0RzZiYjhZbmduR1hTNzdZaGVzV0xHYm5VWGxhcHVHVGpQRnNhSXVYVXNLYTUzZk5pRFcyNHA?oc=5",
-      "description": "Rare hantavirus case confirmed after visit to France &nbsp;&nbsp; connexionfrance.com",
+      "description": "Rare hantavirus case confirmed after visit to France &nbsp;&nbsp; The Connexion",
       "source": "Google News",
       "date": "2026-08-07T12:46:43+00:00",
       "raw_date": "Fri, 07 Aug 2026 12:46:43 GMT"
@@ -190,17 +190,25 @@
       "raw_date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - who.int",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
-      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; who.int",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-06-16T07:00:00+00:00",
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - who.int",
+      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
+      "description": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
+      "source": "Google News",
+      "date": "2026-06-15T07:00:00+00:00",
+      "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
-      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; who.int",
+      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-06-12T07:00:00+00:00",
       "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
@@ -222,9 +230,9 @@
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - who.int",
+      "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXZ3VVFnU0t4S1pVaVJULXhfLU1rWnpGRzFpWlZGYk9aWHNnOXRFeVN4eGZ0c1owNFNjQXFBSmVQN0JDZ2ZjOUpmRFdoWDcxVFpISS00cXRFSU1GMDBtY3VsbXp0LVl1UlY3X3RpTVp1MFNXNnBnOTdUdlhDbk5DTg?oc=5",
-      "description": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness &nbsp;&nbsp; who.int",
+      "description": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-06-02T07:00:00+00:00",
       "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
@@ -278,9 +286,9 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Cruise ship hantavirus outbreak in remote island communities - thelancet.com",
+      "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
-      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; thelancet.com",
+      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
       "source": "Google News",
       "date": "2026-05-25T07:00:00+00:00",
       "raw_date": "Mon, 25 May 2026 07:00:00 GMT"
@@ -334,9 +342,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - who.int",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; who.int",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -350,9 +358,9 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - nejm.org",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; nejm.org",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -393,14 +401,6 @@
       "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
       "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd083aDktNUozQm5CZkJIS0FqSk1VUVd0Q1N1OUhtZEZsckNBeHdzcVUyejNodE1ObGtBV1I0c2VTc0lnQ3hpZm95ZnhrOFZIQnZyOE15QlRBZHpTX0cwUVRHTUpsNHpEQjY4aFhIb0ZWYlcyZnp1Q1lTNVRxMUEzdXJwS3EzUWV6VUEyTE9mTk9HbnVIbDZEekNQYU1MWnFnS3puVnU4NHJFVWx2UlE?oc=5",
-      "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; PBS",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
