@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T19:28:22.197962+00:00",
+  "updated": "2026-08-17T20:27:26.328411+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,9 +22,9 @@
       "raw_date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 News - medschool.umaryland.edu",
+      "title": "2026 News - The University of Maryland, Baltimore",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "description": "2026 News &nbsp;&nbsp; medschool.umaryland.edu",
+      "description": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
       "source": "Google News",
       "date": "2026-07-22T07:00:00+00:00",
       "raw_date": "Wed, 22 Jul 2026 07:00:00 GMT"
@@ -230,6 +230,14 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
+      "title": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaXJKaGd6TDNaM20td0dLaG1nOV94ODFzd0w5ODk1QjJRTjRBOXdHWXE5MWpQQ3dIYm1PaExLWVBrRzl4TEFjRnpEVGVvd3ROeUZuUW1jS0NPSHpwR3Y1emVOQnBYMUxYZ0dWRWNoZHBFNXhUQ1J6dDJ4QzlQVVAwQVJtdDJrTVRMTzlWZ1V0UWZYaVZhRGdEeGF4NjNuRnlUeGhhWXJXUG5MTmZJSXljc3NfemdTamxfeE8yOEd4aG5MN2dseTFCZ0RUWmxyRkJxdFg5d2NpSTBPTVFoYXl4NDZ5Y2V2X3lU?oc=5",
+      "description": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-05-22T07:00:00+00:00",
+      "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
       "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
@@ -302,17 +310,9 @@
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "title": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3VFdWVMS1RrQ1l3RDJQUTUxQnA1LUZzREQ3TkNKcjU1S0lSWV9md1Qyc3h4enJ0ZktQOWdJWDhZVkQxQTFibWdBd0F2Z29HR1R0YVhYeUw0eTZqUUJOb0VmTWl4OExUaFQ0Um5NVGpQT19UV1VZYm5jaUM0bGFsV3VSSGlaRzNZWDVHZ0dsVlMwSG1pWkN3?oc=5",
-      "description": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way &nbsp;&nbsp; CNN",
-      "source": "Google News",
-      "date": "2026-05-19T07:00:00+00:00",
-      "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
+      "title": "WHO to give update on hantavirus and Ebola after outbreaks - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
-      "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
+      "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; bbc.com",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -348,14 +348,6 @@
       "source": "Google News",
       "date": "2026-05-17T07:00:00+00:00",
       "raw_date": "Sun, 17 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Statement on confirmed hantavirus death in Douglas County - Douglas County (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm9IQkhwSUpPSnk1TjRadDZHSXFScW4tTmI2SG1BZG5yRFNPSm9WQlM3QTJ4MnkzTFcxNUFKLUZfaE5ELVpWTXF5aWwyTTBRcHFGRnBoNUxFYUxRV2VhV3NOVVoxUWtrUUFnUGZ0UXk3MGVnOEF5bkRSWVpDQXZTM3BRS1VBWU1LNG9vbg?oc=5",
-      "description": "Statement on confirmed hantavirus death in Douglas County &nbsp;&nbsp; Douglas County (.gov)",
-      "source": "Google News",
-      "date": "2026-05-16T07:00:00+00:00",
-      "raw_date": "Sat, 16 May 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
@@ -398,9 +390,17 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+      "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE, KS (.gov)",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
+      "description": "CDC: Risk to general public from hantavirus is low &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
