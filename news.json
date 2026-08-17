@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:39:31.756651+00:00",
+  "updated": "2026-08-17T19:28:22.197962+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,9 +22,9 @@
       "raw_date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 News - The University of Maryland, Baltimore",
+      "title": "2026 News - medschool.umaryland.edu",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "description": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
+      "description": "2026 News &nbsp;&nbsp; medschool.umaryland.edu",
       "source": "Google News",
       "date": "2026-07-22T07:00:00+00:00",
       "raw_date": "Wed, 22 Jul 2026 07:00:00 GMT"
@@ -102,14 +102,6 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
-      "description": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
-      "source": "Google News",
-      "date": "2026-06-24T07:00:00+00:00",
-      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
       "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
@@ -137,6 +129,14 @@
       "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
       "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
+      "source": "Google News",
+      "date": "2026-06-11T07:00:00+00:00",
+      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
+      "description": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
@@ -193,14 +193,6 @@
       "title": "Hantavirus disease and the need for pathogenesis-guided therapy - Rockefeller University Press",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHZNQjRwcW16SE5vMUxnLXVOQVdUT0tGcTljb2FDUHZOcGF1X1JRYTVDTEZlbHZ5REJ5dDNhU0FyNXU4dFBFNUw4Z0M0aGVLa3JlSUIwVmVyaXBNUGtfdVFFTDRsQUd2YzFCTkpFNHJoX1JRT1NYdDVUUjZpRVNHdVB6RzJxdml0NjNhSjJWZDRvYlFlX2RuWmdMbnJQR2JHLWFBdmJn?oc=5",
       "description": "Hantavirus disease and the need for pathogenesis-guided therapy &nbsp;&nbsp; Rockefeller University Press",
-      "source": "Google News",
-      "date": "2026-05-27T07:00:00+00:00",
-      "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
-      "description": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
@@ -334,9 +326,9 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - cdc.gov",
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; cdc.gov",
+      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -356,6 +348,14 @@
       "source": "Google News",
       "date": "2026-05-17T07:00:00+00:00",
       "raw_date": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Statement on confirmed hantavirus death in Douglas County - Douglas County (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm9IQkhwSUpPSnk1TjRadDZHSXFScW4tTmI2SG1BZG5yRFNPSm9WQlM3QTJ4MnkzTFcxNUFKLUZfaE5ELVpWTXF5aWwyTTBRcHFGRnBoNUxFYUxRV2VhV3NOVVoxUWtrUUFnUGZ0UXk3MGVnOEF5bkRSWVpDQXZTM3BRS1VBWU1LNG9vbg?oc=5",
+      "description": "Statement on confirmed hantavirus death in Douglas County &nbsp;&nbsp; Douglas County (.gov)",
+      "source": "Google News",
+      "date": "2026-05-16T07:00:00+00:00",
+      "raw_date": "Sat, 16 May 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
@@ -398,9 +398,9 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE, KS (.gov)",
+      "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
