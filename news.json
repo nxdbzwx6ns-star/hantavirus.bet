@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:27:23.681452+00:00",
+  "updated": "2026-08-18T20:24:25.205221+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -20,14 +20,6 @@
       "source": "Google News",
       "date": "2026-08-18T12:18:40+00:00",
       "raw_date": "Tue, 18 Aug 2026 12:18:40 GMT"
-    },
-    {
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-      "description": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "source": "Google News",
-      "date": "2026-08-02T19:44:33+00:00",
-      "raw_date": "Sun, 02 Aug 2026 19:44:33 GMT"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -78,9 +70,9 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care® (AJMC®)",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -126,17 +118,17 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes hantavirus – A primer - Nature",
+      "title": "Andes hantavirus – A primer - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-      "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
+      "description": "Andes hantavirus – A primer &nbsp;&nbsp; nature.com",
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - kff.org",
+      "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
-      "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; kff.org",
+      "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; KFF",
       "source": "Google News",
       "date": "2026-05-28T07:00:00+00:00",
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
@@ -182,9 +174,9 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - paho.org",
+      "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - Pan American Health Organization (PAHO)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJGb2J2SV9udUhMZDBTQ2cwYkttSXBOWm42WjIxY1hxZC1vYl9UVzY3X0wyVWlwUjM1ZFcwNFlpM2NPc2VCNnYtTTRrSTRsSXcxWUpkaXNJc3J1ZDF2dmxOcV8tWHhLZ1czd1VkdVhLU0I2VzI1REpqa0pRbjFVN3ZtWXlENnJja3BteHZwTFlhT09SQ2hPVlZHMDhYdzhOYVJPcHNLU25Db1NVUnRVb3Z1MU91Njg2YTlfdGt3?oc=5",
-      "description": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases &nbsp;&nbsp; paho.org",
+      "description": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases &nbsp;&nbsp; Pan American Health Organization (PAHO)",
       "source": "Google News",
       "date": "2026-05-22T07:00:00+00:00",
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
@@ -206,17 +198,17 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Current Hantavirus Situation - sandiegocounty.gov",
+      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; sandiegocounty.gov",
+      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
+      "title": "Hantavirus: What to Know and Next Steps for Health Systems - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
-      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
+      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -270,9 +262,9 @@
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
+      "title": "WHO to give update on hantavirus and Ebola after outbreaks - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
-      "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
+      "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; bbc.com",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -310,9 +302,9 @@
       "raw_date": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-      "description": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
+      "description": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
@@ -321,6 +313,22 @@
       "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
       "description": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries &nbsp;&nbsp; CIDRAP",
+      "source": "Google News",
+      "date": "2026-05-15T07:00:00+00:00",
+      "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways - Association of State and Territorial Health Officials | ASTHO",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3dIZTZQNS1WYU1mdWFBM3JVcHVtZjkydThtdmR6NF9SckMxeVl5UHVNWFdtOUZOdVdIQWlfUWx1OE1GYlRLa29mQU1RRk8zR0duTklSMHVBZkNQSVZtQll2MU42Z3hEZmhKdmx2OU43TGVNM3RWZG1CRFU3MDliZUJCQ0JjRm1QSGJESjZUbmFYSmlxSUJLVnI0Y3B2VDQ?oc=5",
+      "description": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways &nbsp;&nbsp; Association of State and Territorial Health Officials | ASTHO",
+      "source": "Google News",
+      "date": "2026-05-15T07:00:00+00:00",
+      "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "CDC says 41 across U.S. being monitored for hantavirus | AHA News - aha.org",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pHT3VoTDFiV1hwZ05XU0R2aHNGVlBQRFJqeTk0b0xQUmtkWjczZUtVVmE3ZkYtSEJoVlZoRjBmbEc1Rk8wUUFmaEl6VVBvem4weHJTMG9xV1RCYlhIT0hMMF9rb090RHNIaXFSZTRIZ2k2WjYwV2huYWpQajR5b0pLNEdDbnZTTHJtWUw1RHRrRFNRZE0xZg?oc=5",
+      "description": "CDC says 41 across U.S. being monitored for hantavirus | AHA News &nbsp;&nbsp; aha.org",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
@@ -342,9 +350,9 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
@@ -390,17 +398,9 @@
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
-      "source": "Google News",
-      "date": "2026-05-12T07:00:00+00:00",
-      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE, KS (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
-      "description": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE, KS (.gov)",
+      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
       "source": "Google News",
       "date": "2026-05-12T07:00:00+00:00",
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
