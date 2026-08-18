@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:31:55.465819+00:00",
+  "updated": "2026-08-18T17:27:14.698156+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,6 +12,14 @@
       "source": "Google News",
       "date": "2026-08-18T12:18:40+00:00",
       "raw_date": "Tue, 18 Aug 2026 12:18:40 GMT"
+    },
+    {
+      "title": "4 disease outbreaks making people sick this summer - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUFidW4xSjJYX24zLVVYdGY5RkdsR3gwR2plLTlqdFpMZHNhRVB5aE54akFYVHI0X1B4X2RiMkR1M282RTFrREZKNUh2Wm1Rdm5kZUlTZXFPb3VRWllPQmZhLVg0NXlRUE15eVVEVGJYTjhHaVJ6U1RUQUk5VE9mTmM1V0VDTmZicWhsTk1CVHBHbktWUDdTYVhhUXhsNF9NRWczVDJhWjVhSldRUzh4dkpFS2Z0LW15RXJWN3NFRlpkSWpsTGc?oc=5",
+      "description": "4 disease outbreaks making people sick this summer &nbsp;&nbsp; Deseret News",
+      "source": "Google News",
+      "date": "2026-07-24T07:00:00+00:00",
+      "raw_date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -118,14 +126,6 @@
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXZ3VVFnU0t4S1pVaVJULXhfLU1rWnpGRzFpWlZGYk9aWHNnOXRFeVN4eGZ0c1owNFNjQXFBSmVQN0JDZ2ZjOUpmRFdoWDcxVFpISS00cXRFSU1GMDBtY3VsbXp0LVl1UlY3X3RpTVp1MFNXNnBnOTdUdlhDbk5DTg?oc=5",
-      "description": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "Google News",
-      "date": "2026-06-02T07:00:00+00:00",
-      "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
       "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; KFF",
@@ -158,9 +158,9 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
+      "title": "Cruise ship hantavirus outbreak in remote island communities - thelancet.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
-      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
+      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; thelancet.com",
       "source": "Google News",
       "date": "2026-05-25T07:00:00+00:00",
       "raw_date": "Mon, 25 May 2026 07:00:00 GMT"
@@ -214,9 +214,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "title": "Questions about hantavirus? We’ve got answers. - tpchd.org",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
-      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; tpchd.org",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -238,9 +238,9 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - nejm.org",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; nejm.org",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -318,17 +318,17 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Updates - County of San Luis Obispo (.gov)",
+      "title": "Hantavirus Updates - slocounty.ca.gov",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVEFBbXZyVHBYM1hDR1VRTFdoQXVqMkxMbkZMUkVkdmNQZFVYM1VlcFlEcGlXU2FXTE8xV0pyOWF2aEJLdWFQcDRMUXZRX3JwWi04MWh5ZFYya3pFT3lYaElYUEtrWjRXSUxtU05fMHl5aFhGY2Rsb1lCT19DU2lyNmZmOC1VQ21iN1Fvby1vSy1MakxmSFR4V0UtS3J5UmpfbnVCMmNoMUYzR0FoRk5Uc1Z1MEJWeEo0SlloTUxwZVBIay1WMEpnREkxXzk4cngzX2ljNmxvWTVjaEx5QzZFMGM2SkJ2Z0doSjdpNjBCZFgwYUtKRjRYVzk3NWZRd1BDNTNTaml3T0V2VFZYUl8w?oc=5",
-      "description": "Hantavirus Updates &nbsp;&nbsp; County of San Luis Obispo (.gov)",
+      "description": "Hantavirus Updates &nbsp;&nbsp; slocounty.ca.gov",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - nyp.org",
+      "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - NewYork-Presbyterian",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
-      "description": "Hantavirus: Symptoms, Risks and How to Stay Safe &nbsp;&nbsp; nyp.org",
+      "description": "Hantavirus: Symptoms, Risks and How to Stay Safe &nbsp;&nbsp; NewYork-Presbyterian",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
