@@ -1,18 +1,10 @@
 {
-  "updated": "2026-08-18T07:38:21.406385+00:00",
+  "updated": "2026-08-18T08:37:12.645340+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYU9FZklrQnJYSlVrYi1vS1NKTl8tcU42TGhQdkpmTzdhR0hIWjFPd09HaDJyUGFyNTVOWHdpY25GWnk3bmtZcVJkM05qY21Bdk81cGs3Vm1kazFqaVByMzZhNUlUZE00QlBHVFBOUWg1TmlnZmQzQlRoN0RkSWR6TU9NNmNzQUluaG84N2xzUzNyWTVKUlZ1aG1FMUhaTGxPYWpkYjh6bkk5NU50RUJnR0Juc1o3RXYwUlBuUkdSUHg2RWtlTzJ6eHp6c2s4NkFMUDZaNnR6NA?oc=5",
-      "description": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness &nbsp;&nbsp; News-Medical",
-      "source": "Google News",
-      "date": "2026-08-10T16:24:00+00:00",
-      "raw_date": "Mon, 10 Aug 2026 16:24:00 GMT"
-    },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
@@ -44,6 +36,14 @@
       "source": "Google News",
       "date": "2026-07-20T07:00:00+00:00",
       "raw_date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDFTbkFaV3VvX2Fmc1VuY2E0Y2JZUXZ0RVJFSk1CN0x1eVdkVFExejdmQzc4V2NYMHJsRTZnUEJYQ1pjeC16SmR1ZEpNM0cwSDM4cldrSHpZWGotenRiX2V4X0NwSVRiQkJkdnNEUF96TFh4cjgzZTJEQTJUako4bXJfYS10ZlF5aklNZDRQNzVpdUpWU0hUZ0dGejJaYnFxZ2xMMFgycUE0Sl9UY0w3OF9n?oc=5",
+      "description": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. &nbsp;&nbsp; The Washington Post",
+      "source": "Google News",
+      "date": "2026-07-16T07:00:00+00:00",
+      "raw_date": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -86,9 +86,9 @@
       "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; science.org",
+      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
@@ -102,9 +102,9 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes hantavirus – A primer - Nature",
+      "title": "Andes hantavirus – A primer - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-      "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
+      "description": "Andes hantavirus – A primer &nbsp;&nbsp; nature.com",
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
@@ -182,9 +182,9 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - news.wsu.edu",
+      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; news.wsu.edu",
+      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -198,9 +198,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
+      "title": "Hantavirus: What to Know and Next Steps for Health Systems - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
-      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
+      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -326,9 +326,9 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
@@ -366,6 +366,14 @@
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3hLRmc1TnpMY3VocHBUNEViSEt2WFZabWtpX0xpbTU1ZkhhOGNIU1hwOXljeV81c2J3QTFYZHFFQThrNXR4Q0R6blMwRllqaDB6c1BzYldkWE1KUWlRRjlkV0c4N2I0Z2hBbUNUN0J1ekY5NG1PVUJfcllwb0cwTGVXb25JYUMxX0hpd0VwWUdaNC05UVpwYlVaRkV0X0ZBS2FON0gyRXlTMlVDTlB0aGctRzRhQlBEc1U2aTI1NnB4X00?oc=5",
+      "description": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear &nbsp;&nbsp; Scientific American",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNk0tQ2pGVF9vclU1YjlQR2pncmdQc3Y5c3BFNGF5c2pnUTdPRXp0emZoRWR1c3JCSWNMUUNaUEtJdmlxM1UtcVBDWWRNa01XOHFSaG0zUVZINXFuX284VUJNN04wb0ZJbF9IeHFtUWI1T0J2RzQyVk1tRDZ5aEh4OFRJUjRMUUlVdWg2QXZzbmhkclZ4QmlwSHpVTHVwcU9PLVNlSGlJWE4wRzM0NDFteDlseVJzNlV4My1rNlBtUktYemM?oc=5",
       "description": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; PBS",
@@ -393,14 +401,6 @@
       "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
       "description": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
-      "source": "Google News",
-      "date": "2026-05-12T07:00:00+00:00",
-      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "description": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-12T07:00:00+00:00",
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
