@@ -1,10 +1,18 @@
 {
-  "updated": "2026-08-18T17:27:14.698156+00:00",
+  "updated": "2026-08-18T18:38:42.731378+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Don’t Sweep It! Saturate it! - Pest Control Technology",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWUFiazlBZ2t5cFhRUXJnOEMtRXNfck5iU01SYVN4Nk05SjNhRUp3T0kySWtOTC1LRzNpVzZOTkRUdHVCM0VPRE9pN3dfTHJGMkxydl8zci0wYk5VNDZ0Q0Jyd0d6ejhMNTRJXw?oc=5",
+      "description": "Don’t Sweep It! Saturate it! &nbsp;&nbsp; Pest Control Technology",
+      "source": "Google News",
+      "date": "2026-08-18T14:01:30+00:00",
+      "raw_date": "Tue, 18 Aug 2026 14:01:30 GMT"
+    },
     {
       "title": "Kalshi Hantavirus Market: WHO Emergency Declaration Trades At 3 Cents - OddsShopper",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUF5bXNaY055ak5EZ0RUT0lHTG45SzN3RFZmcDBrUzFSTzVqdVFxNjh3c2JiU1paX0ZDOEFJRUdubElHa2JtajJ3VC1uVGlMQnh5QkZZaUdSTnBzSXB3a29fZVlveGdrRTUzN2p2bk8yUXRRUDkxTlE4OExJclNsUVJHZndTa1E?oc=5",
@@ -12,14 +20,6 @@
       "source": "Google News",
       "date": "2026-08-18T12:18:40+00:00",
       "raw_date": "Tue, 18 Aug 2026 12:18:40 GMT"
-    },
-    {
-      "title": "4 disease outbreaks making people sick this summer - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUFidW4xSjJYX24zLVVYdGY5RkdsR3gwR2plLTlqdFpMZHNhRVB5aE54akFYVHI0X1B4X2RiMkR1M282RTFrREZKNUh2Wm1Rdm5kZUlTZXFPb3VRWllPQmZhLVg0NXlRUE15eVVEVGJYTjhHaVJ6U1RUQUk5VE9mTmM1V0VDTmZicWhsTk1CVHBHbktWUDdTYVhhUXhsNF9NRWczVDJhWjVhSldRUzh4dkpFS2Z0LW15RXJWN3NFRlpkSWpsTGc?oc=5",
-      "description": "4 disease outbreaks making people sick this summer &nbsp;&nbsp; Deseret News",
-      "source": "Google News",
-      "date": "2026-07-24T07:00:00+00:00",
-      "raw_date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -70,9 +70,9 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -126,9 +126,9 @@
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
+      "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - kff.org",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
-      "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; KFF",
+      "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; kff.org",
       "source": "Google News",
       "date": "2026-05-28T07:00:00+00:00",
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
@@ -158,9 +158,9 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Cruise ship hantavirus outbreak in remote island communities - thelancet.com",
+      "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
-      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; thelancet.com",
+      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
       "source": "Google News",
       "date": "2026-05-25T07:00:00+00:00",
       "raw_date": "Mon, 25 May 2026 07:00:00 GMT"
@@ -198,9 +198,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
+      "title": "2026 Current Hantavirus Situation - sandiegocounty.gov",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
+      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; sandiegocounty.gov",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -214,9 +214,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Questions about hantavirus? We’ve got answers. - tpchd.org",
+      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
-      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; tpchd.org",
+      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -238,9 +238,9 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - nejm.org",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; nejm.org",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -318,9 +318,9 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Updates - slocounty.ca.gov",
+      "title": "Hantavirus Updates - County of San Luis Obispo (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVEFBbXZyVHBYM1hDR1VRTFdoQXVqMkxMbkZMUkVkdmNQZFVYM1VlcFlEcGlXU2FXTE8xV0pyOWF2aEJLdWFQcDRMUXZRX3JwWi04MWh5ZFYya3pFT3lYaElYUEtrWjRXSUxtU05fMHl5aFhGY2Rsb1lCT19DU2lyNmZmOC1VQ21iN1Fvby1vSy1MakxmSFR4V0UtS3J5UmpfbnVCMmNoMUYzR0FoRk5Uc1Z1MEJWeEo0SlloTUxwZVBIay1WMEpnREkxXzk4cngzX2ljNmxvWTVjaEx5QzZFMGM2SkJ2Z0doSjdpNjBCZFgwYUtKRjRYVzk3NWZRd1BDNTNTaml3T0V2VFZYUl8w?oc=5",
-      "description": "Hantavirus Updates &nbsp;&nbsp; slocounty.ca.gov",
+      "description": "Hantavirus Updates &nbsp;&nbsp; County of San Luis Obispo (.gov)",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
@@ -382,9 +382,9 @@
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
       "source": "Google News",
       "date": "2026-05-12T07:00:00+00:00",
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
@@ -398,9 +398,9 @@
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
-      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - kff.org",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
-      "description": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
+      "description": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; kff.org",
       "source": "Google News",
       "date": "2026-05-12T07:00:00+00:00",
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
