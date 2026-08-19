@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T02:57:27.153217+00:00",
+  "updated": "2026-08-19T03:51:11.604166+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,9 +22,9 @@
       "raw_date": "Tue, 18 Aug 2026 12:18:40 GMT"
     },
     {
-      "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+      "title": "Hantavirus: Tourist who transited France in July tests positive - lemonde.fr",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
-      "description": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
+      "description": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; lemonde.fr",
       "source": "Google News",
       "date": "2026-08-06T07:00:00+00:00",
       "raw_date": "Thu, 06 Aug 2026 07:00:00 GMT"
@@ -110,6 +110,14 @@
       "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
+      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-06-12T07:00:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
       "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
@@ -118,17 +126,9 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
-      "description": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Andes hantavirus – A primer - nature.com",
+      "title": "Andes hantavirus – A primer - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-      "description": "Andes hantavirus – A primer &nbsp;&nbsp; nature.com",
+      "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
@@ -166,9 +166,9 @@
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
     },
     {
-      "title": "Cruise ship hantavirus outbreak in remote island communities - thelancet.com",
+      "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
-      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; thelancet.com",
+      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
       "source": "Google News",
       "date": "2026-05-25T07:00:00+00:00",
       "raw_date": "Mon, 25 May 2026 07:00:00 GMT"
@@ -198,17 +198,17 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - news.wsu.edu",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; news.wsu.edu",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
+      "title": "2026 Current Hantavirus Situation - sandiegocounty.gov",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
+      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; sandiegocounty.gov",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
