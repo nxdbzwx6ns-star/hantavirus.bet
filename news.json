@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:32:47.435232+00:00",
+  "updated": "2026-08-22T05:27:36.034835+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,14 +12,6 @@
       "source": "Google News",
       "date": "2026-08-21T20:30:00+00:00",
       "raw_date": "Fri, 21 Aug 2026 20:30:00 GMT"
-    },
-    {
-      "title": "Rare South American Diseases Offer Clues on the Next Pandemic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW9wSEttNDk2cGgyMTg1cVBrdnBwR3E1NmxyUk9ibnF3VFJPZ1Z5UnpIeEx5OTAtRjhWaTdUdlg0SlJoLU9KdV95QVl2TVpzQzByYXR4NVVISFRaSUk5aFFVWTBjTzFYOHdPNmtHRXFaZHB0bkhLcGtYM1N2ajRxUnZNaGFnTkdCMjNlY2EyVFpuZjFycmZJajV3QkpIUHZFamJnTkFLWXVFS0NK?oc=5",
-      "description": "Rare South American Diseases Offer Clues on the Next Pandemic &nbsp;&nbsp; The New York Times",
-      "source": "Google News",
-      "date": "2026-08-21T16:06:45+00:00",
-      "raw_date": "Fri, 21 Aug 2026 16:06:45 GMT"
     },
     {
       "title": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response - KETV",
@@ -401,6 +393,14 @@
       "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
       "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2026-05-18T07:00:00+00:00",
+      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - PBS",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd083aDktNUozQm5CZkJIS0FqSk1VUVd0Q1N1OUhtZEZsckNBeHdzcVUyejNodE1ObGtBV1I0c2VTc0lnQ3hpZm95ZnhrOFZIQnZyOE15QlRBZHpTX0cwUVRHTUpsNHpEQjY4aFhIb0ZWYlcyZnp1Q1lTNVRxMUEzdXJwS3EzUWV6VUEyTE9mTk9HbnVIbDZEekNQYU1MWnFnS3puVnU4NHJFVWx2UlE?oc=5",
+      "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; PBS",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
