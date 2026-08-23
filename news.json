@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:26:17.078762+00:00",
+  "updated": "2026-08-23T17:20:34.083905+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -20,6 +20,14 @@
       "source": "Google News",
       "date": "2026-08-21T20:30:00+00:00",
       "raw_date": "Fri, 21 Aug 2026 20:30:00 GMT"
+    },
+    {
+      "title": "Rare South American Diseases Offer Clues on the Next Pandemic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW9wSEttNDk2cGgyMTg1cVBrdnBwR3E1NmxyUk9ibnF3VFJPZ1Z5UnpIeEx5OTAtRjhWaTdUdlg0SlJoLU9KdV95QVl2TVpzQzByYXR4NVVISFRaSUk5aFFVWTBjTzFYOHdPNmtHRXFaZHB0bkhLcGtYM1N2ajRxUnZNaGFnTkdCMjNlY2EyVFpuZjFycmZJajV3QkpIUHZFamJnTkFLWXVFS0NK?oc=5",
+      "description": "Rare South American Diseases Offer Clues on the Next Pandemic &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-08-21T09:00:29+00:00",
+      "raw_date": "Fri, 21 Aug 2026 09:00:29 GMT"
     },
     {
       "title": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response - KETV",
@@ -393,14 +401,6 @@
       "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "description": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "description": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
