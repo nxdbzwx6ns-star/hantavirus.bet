@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:21:33.689637+00:00",
+  "updated": "2026-08-23T20:23:24.497034+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -334,14 +334,6 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd083aDktNUozQm5CZkJIS0FqSk1VUVd0Q1N1OUhtZEZsckNBeHdzcVUyejNodE1ObGtBV1I0c2VTc0lnQ3hpZm95ZnhrOFZIQnZyOE15QlRBZHpTX0cwUVRHTUpsNHpEQjY4aFhIb0ZWYlcyZnp1Q1lTNVRxMUEzdXJwS3EzUWV6VUEyTE9mTk9HbnVIbDZEekNQYU1MWnFnS3puVnU4NHJFVWx2UlE?oc=5",
-      "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; PBS",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
       "description": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
+      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "source": "Google News",
+      "date": "2026-05-12T07:00:00+00:00",
+      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
     }
   ]
 }
