@@ -1,10 +1,18 @@
 {
-  "updated": "2026-08-24T17:31:10.088336+00:00",
+  "updated": "2026-08-24T18:40:07.259349+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "South Dakota Hantavirus – KCSR / KBPY - chadronradio.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mMFVPU2ZWUVRvN25xRzJqS0NtWF9DY2FuYzFtSDV2c1Y4UkM2WTB1b0RPa2JXYmcwU2VDMFhJTVJNUk91eUdnajZScHBjcGpfVEpUbGV6YXBmdV9SaGc?oc=5",
+      "description": "South Dakota Hantavirus – KCSR / KBPY &nbsp;&nbsp; chadronradio.com",
+      "source": "Google News",
+      "date": "2026-08-24T18:00:08+00:00",
+      "raw_date": "Mon, 24 Aug 2026 18:00:08 GMT"
+    },
     {
       "title": "National Quarantine Unit (NQU) & Hantavirus Response - National Emerging Special Pathogens Training & Education Center",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlh5MmRkSzdSeV9BT0NFR1A5MnJkejV2cmJVeW1ySGZPNFFFc2ZBaUpJNkJ3amJMR2M4OGVaZ0ZiYjlkT2ZzTm8wZGpBLTB6SFNlaDdhQzdzQmFfaTFNa24xM2lzSjZyQnJ0QUQwYlZhOWxZRk9TRzkwT3IxQjNBUHFFSno?oc=5",
@@ -12,14 +20,6 @@
       "source": "Google News",
       "date": "2026-08-24T14:39:53+00:00",
       "raw_date": "Mon, 24 Aug 2026 14:39:53 GMT"
-    },
-    {
-      "title": "!!MARCIA BRADY(THE BRADY BUNCH) DATED MICHAEL JACKSON!! Hantavirus Map (IX2lVdZ8nm) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SYllSSk5BVDdyVTE2bGZjSHRqVzNTV2xrYzBQdTBFcXJYQWZLNXBJdi05Y0hoZUU1X1FESlBubHJDNVp0aXBMU1RidDc2N0NfMTMxRlFPeVRwVjQ?oc=5",
-      "description": "!!MARCIA BRADY(THE BRADY BUNCH) DATED MICHAEL JACKSON!! Hantavirus Map (IX2lVdZ8nm) &nbsp;&nbsp; Mshale",
-      "source": "Google News",
-      "date": "2026-08-24T06:36:57+00:00",
-      "raw_date": "Mon, 24 Aug 2026 06:36:57 GMT"
     },
     {
       "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
@@ -222,6 +222,14 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
+      "description": "US public health agency concludes hantavirus response as outbreak eases &nbsp;&nbsp; Al Jazeera",
+      "source": "Google News",
+      "date": "2026-06-24T07:00:00+00:00",
+      "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
       "description": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; The Guardian",
@@ -393,14 +401,6 @@
       "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
       "description": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
-      "source": "Google News",
-      "date": "2026-05-20T07:00:00+00:00",
-      "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "American cruise ship passengers push for home quarantine after hantavirus exposure - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclQtMWg3Mkd2QzIySlpkc3NZWjZodFdHTm1FTXhnbVRnTGFiOTFvMm5PVW1sc19BWXdmdnJ3NXduY0NzOS1pTzZsa3NTVWhYZEN2OFV3S1BrOVpvV2FhdjBtNkZaNUtCVEZwV3JvSkJTOWxnU2dpZG5SLXd1ZVdkX1hSODJFTGd0ZHVZb3BiX19fZjVnR2VvcjN3eTk0SXN4V05hSGpNYlZJVG8yZkZxa196OUNuRGs?oc=5",
-      "description": "American cruise ship passengers push for home quarantine after hantavirus exposure &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
