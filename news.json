@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:50:56.364195+00:00",
+  "updated": "2026-08-24T13:51:52.291927+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -76,6 +76,14 @@
       "source": "Google News",
       "date": "2026-08-01T07:00:00+00:00",
       "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
+      "description": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; upi.com",
+      "source": "Google News",
+      "date": "2026-07-30T07:00:00+00:00",
+      "raw_date": "Thu, 30 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "4 disease outbreaks making people sick this summer - Deseret News",
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-19T07:00:00+00:00",
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "description": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     }
   ]
 }
