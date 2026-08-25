@@ -1,18 +1,10 @@
 {
-  "updated": "2026-08-25T10:33:26.742591+00:00",
+  "updated": "2026-08-25T11:27:38.082744+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXQwTWlkZncyMkt2VmpOQXRZUGRnVk0xQkcyOERuV08tNGJaVFhtb2ZDNkRNRktGMG1jLVZqTGpyYWF0WGxlYUdPdUtQcW9Ob0wwQUt1RE5Pb09KaFIxb0dOaUk4SEdwR0NqX2FmdlM0RnlOOXQ0Y0M0WGNETk1SNzdEc1pwQlVKMThuanAyWXo3WWpOTXlRTHJuWWtaSzlOOG1sQ3pOUVhsZnVoM3VJ?oc=5",
-      "description": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
-      "source": "Google News",
-      "date": "2026-08-25T01:49:20+00:00",
-      "raw_date": "Tue, 25 Aug 2026 01:49:20 GMT"
-    },
     {
       "title": "Hantavirus Found on Pine Ridge Indian Reservation – KCSR / KBPY - chadronradio.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mMFVPU2ZWUVRvN25xRzJqS0NtWF9DY2FuYzFtSDV2c1Y4UkM2WTB1b0RPa2JXYmcwU2VDMFhJTVJNUk91eUdnajZScHBjcGpfVEpUbGV6YXBmdV9SaGc?oc=5",
@@ -30,17 +22,17 @@
       "raw_date": "Mon, 24 Aug 2026 17:09:18 GMT"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
+      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - Mongabay",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
+      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; Mongabay",
       "source": "Google News",
       "date": "2026-08-23T16:12:03+00:00",
       "raw_date": "Sun, 23 Aug 2026 16:12:03 GMT"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KTIV",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzNRMEQxbjh6VDZKVUstZVNCOGVXNnNGeWY5Q3FHY0NYTWhSeG03S0stQ2t2bEpKMG56Qk01T2ZTRnd6dEdrQ1BfMDNmdEVCVjFDRHdPbWREODUwWVJ1M0FERHJHcWEzX1owR09VZ1NNRUUxdjFEaU4zWmFsTjdqS3d3R3FPdUxUZDhIVzNlTmNnb1B2T3lMMmozeTA0ZXA5dlpzOdIBuAFBVV95cUxNOXZYYTd4dzRWcERWWnhyYnhORy02c0ZtMTdScXJVd2RYczFrbzR6bWpNMk5nMGRULVVjb04tV3lNSnd1MWVQR3RnZnZxNk9aV1JGUC1UV3otWW1ISXpReTVwTEhjZG83R01sS0FGdGVXUDVRNjVfYWdqcnBVdFd6YjFfUWpRd3RTZ2dPNDRFS2R3Qi1ha2NWRWNiaXZPTGViRWliNXUwRUx3a0RrZE82Vms4YUxLWmFE?oc=5",
-      "description": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KTIV",
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
+      "description": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
       "source": "Google News",
       "date": "2026-08-21T20:30:00+00:00",
       "raw_date": "Fri, 21 Aug 2026 20:30:00 GMT"
@@ -401,6 +393,14 @@
       "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
       "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNk0tQ2pGVF9vclU1YjlQR2pncmdQc3Y5c3BFNGF5c2pnUTdPRXp0emZoRWR1c3JCSWNMUUNaUEtJdmlxM1UtcVBDWWRNa01XOHFSaG0zUVZINXFuX284VUJNN04wb0ZJbF9IeHFtUWI1T0J2RzQyVk1tRDZ5aEh4OFRJUjRMUUlVdWg2QXZzbmhkclZ4QmlwSHpVTHVwcU9PLVNlSGlJWE4wRzM0NDFteDlseVJzNlV4My1rNlBtUktYemM?oc=5",
+      "description": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; PBS",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
