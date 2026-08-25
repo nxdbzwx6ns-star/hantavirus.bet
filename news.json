@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:32:02.301564+00:00",
+  "updated": "2026-08-25T20:29:11.187322+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -68,6 +68,14 @@
       "source": "Google News",
       "date": "2026-08-01T07:00:00+00:00",
       "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4 disease outbreaks making people sick this summer - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUFidW4xSjJYX24zLVVYdGY5RkdsR3gwR2plLTlqdFpMZHNhRVB5aE54akFYVHI0X1B4X2RiMkR1M282RTFrREZKNUh2Wm1Rdm5kZUlTZXFPb3VRWllPQmZhLVg0NXlRUE15eVVEVGJYTjhHaVJ6U1RUQUk5VE9mTmM1V0VDTmZicWhsTk1CVHBHbktWUDdTYVhhUXhsNF9NRWczVDJhWjVhSldRUzh4dkpFS2Z0LW15RXJWN3NFRlpkSWpsTGc?oc=5",
+      "description": "4 disease outbreaks making people sick this summer &nbsp;&nbsp; Deseret News",
+      "source": "Google News",
+      "date": "2026-07-24T07:00:00+00:00",
+      "raw_date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "2026 News - Maryland School of Medicine",
@@ -148,14 +156,6 @@
       "source": "Google News",
       "date": "2026-06-15T07:00:00+00:00",
       "raw_date": "Mon, 15 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
-      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "Google News",
-      "date": "2026-06-12T07:00:00+00:00",
-      "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
@@ -326,14 +326,6 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd083aDktNUozQm5CZkJIS0FqSk1VUVd0Q1N1OUhtZEZsckNBeHdzcVUyejNodE1ObGtBV1I0c2VTc0lnQ3hpZm95ZnhrOFZIQnZyOE15QlRBZHpTX0cwUVRHTUpsNHpEQjY4aFhIb0ZWYlcyZnp1Q1lTNVRxMUEzdXJwS3EzUWV6VUEyTE9mTk9HbnVIbDZEekNQYU1MWnFnS3puVnU4NHJFVWx2UlE?oc=5",
-      "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; PBS",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
       "description": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
@@ -401,6 +393,14 @@
       "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
       "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNk0tQ2pGVF9vclU1YjlQR2pncmdQc3Y5c3BFNGF5c2pnUTdPRXp0emZoRWR1c3JCSWNMUUNaUEtJdmlxM1UtcVBDWWRNa01XOHFSaG0zUVZINXFuX284VUJNN04wb0ZJbF9IeHFtUWI1T0J2RzQyVk1tRDZ5aEh4OFRJUjRMUUlVdWg2QXZzbmhkclZ4QmlwSHpVTHVwcU9PLVNlSGlJWE4wRzM0NDFteDlseVJzNlV4My1rNlBtUktYemM?oc=5",
+      "description": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; PBS",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
