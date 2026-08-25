@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:27:38.082744+00:00",
+  "updated": "2026-08-25T12:48:06.656691+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -22,9 +22,9 @@
       "raw_date": "Mon, 24 Aug 2026 17:09:18 GMT"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - Mongabay",
+      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; Mongabay",
+      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
       "source": "Google News",
       "date": "2026-08-23T16:12:03+00:00",
       "raw_date": "Sun, 23 Aug 2026 16:12:03 GMT"
@@ -166,17 +166,17 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Vaccines and therapeutics for Andes hantavirus - Nature",
+      "title": "Vaccines and therapeutics for Andes hantavirus - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
-      "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; Nature",
+      "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; nature.com",
       "source": "Google News",
       "date": "2026-06-09T07:00:00+00:00",
       "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes hantavirus – A primer - Nature",
+      "title": "Andes hantavirus – A primer - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-      "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
+      "description": "Andes hantavirus – A primer &nbsp;&nbsp; nature.com",
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
@@ -334,6 +334,14 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
+      "description": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "Google News",
+      "date": "2026-05-17T07:00:00+00:00",
+      "raw_date": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
       "description": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
@@ -393,14 +401,6 @@
       "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
       "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; The New York Times",
-      "source": "Google News",
-      "date": "2026-05-13T07:00:00+00:00",
-      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNk0tQ2pGVF9vclU1YjlQR2pncmdQc3Y5c3BFNGF5c2pnUTdPRXp0emZoRWR1c3JCSWNMUUNaUEtJdmlxM1UtcVBDWWRNa01XOHFSaG0zUVZINXFuX284VUJNN04wb0ZJbF9IeHFtUWI1T0J2RzQyVk1tRDZ5aEh4OFRJUjRMUUlVdWg2QXZzbmhkclZ4QmlwSHpVTHVwcU9PLVNlSGlJWE4wRzM0NDFteDlseVJzNlV4My1rNlBtUktYemM?oc=5",
-      "description": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; PBS",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
