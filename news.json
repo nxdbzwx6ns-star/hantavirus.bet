@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T07:43:34.077166+00:00",
+  "updated": "2026-08-25T08:42:12.176173+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -116,6 +116,14 @@
       "source": "Google News",
       "date": "2026-07-16T07:00:00+00:00",
       "raw_date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "UNMC researcher publishes hantavirus review article - University of Nebraska Medical Center",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVi16SW52MGNwTi1MMUpyaV9vTUFIVGxYZ0l5SlJMalRqaGxiM1l2dTRJanp3OWF2Vzd0aWhaMWNJa1hDVi1hWlA1a1VhV1hnZnk4bmc4cExnVHIySVduenk0cWpiTk9DczNKU3I0MEFleGtyVTVIbEgzUktVNkx1Z1NTMVl2a0d2UDhCR2VudEFBeV8zUi1lZg?oc=5",
+      "description": "UNMC researcher publishes hantavirus review article &nbsp;&nbsp; University of Nebraska Medical Center",
+      "source": "Google News",
+      "date": "2026-07-08T07:00:00+00:00",
+      "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -332,14 +340,6 @@
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "description": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "Google News",
-      "date": "2026-05-17T07:00:00+00:00",
-      "raw_date": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
