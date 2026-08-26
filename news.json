@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:34:44.317846+00:00",
+  "updated": "2026-08-26T06:50:23.676284+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -62,14 +62,6 @@
       "raw_date": "Thu, 06 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-      "description": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
-      "source": "Google News",
-      "date": "2026-08-06T07:00:00+00:00",
-      "raw_date": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "Chile declares health alert for hantavirus - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5",
       "description": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
@@ -126,6 +118,14 @@
       "raw_date": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "UNMC researcher publishes hantavirus review article - University of Nebraska Medical Center",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVi16SW52MGNwTi1MMUpyaV9vTUFIVGxYZ0l5SlJMalRqaGxiM1l2dTRJanp3OWF2Vzd0aWhaMWNJa1hDVi1hWlA1a1VhV1hnZnk4bmc4cExnVHIySVduenk0cWpiTk9DczNKU3I0MEFleGtyVTVIbEgzUktVNkx1Z1NTMVl2a0d2UDhCR2VudEFBeV8zUi1lZg?oc=5",
+      "description": "UNMC researcher publishes hantavirus review article &nbsp;&nbsp; University of Nebraska Medical Center",
+      "source": "Google News",
+      "date": "2026-07-08T07:00:00+00:00",
+      "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
       "description": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
@@ -150,9 +150,17 @@
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
+      "description": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-06-12T07:00:00+00:00",
+      "raw_date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; science.org",
+      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
-      "source": "Google News",
-      "date": "2026-05-12T07:00:00+00:00",
-      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
     }
   ]
 }
