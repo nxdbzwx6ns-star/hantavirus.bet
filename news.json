@@ -1,10 +1,26 @@
 {
-  "updated": "2026-09-09T22:59:30.993314+00:00",
+  "updated": "2026-09-10T00:59:14.951346+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
+      "description": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-09-09T15:40:59+00:00",
+      "raw_date": "Wed, 09 Sep 2026 15:40:59 GMT"
+    },
+    {
+      "title": "3 people waiting to be medically evacuated from cruise ship at center of suspected hantavirus outbreak - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVG51a2d2Rmo0RUNLVF9oVWxRRFpxdmJ1UGlwNmJ5OVcwNV8wOTRFbl9QNHc0UkNKaDI4N0J4QjNkVEMtcVVNbWxqUzJ2QUlYVlVQMjBCbkJlWWVzNElERTR4N0FHNFhBUEdxbzJHbW9uY1Y1c1BEbnp3U0g0LTN4NzNpcURlNC13TkJGQXFlQXQyVUpkMmtvOGRjSXdLYTFpaGZzaDFsX2ZDd9IBrwFBVV95cUxOZWtUd2dHSktfZUtxY21DQ1ZXT0liSlRYRE42VUlZUnRRelhaY1l1NGJCUDladWppZ19hT3lCNUN2d1BXSUxURm5VaFdYamtIRnhFZGx0UnNBN19uOGFySnRiR1hKRUhrZXdDdTdEc1VaX1paZXlPZVd2cDJrUFA5Y3I1blhiWGh2X1pWQk9kcV8wcUdDN0tlaVMwSGhlSEcwQ2ZrdzBlZGt3VzhtV1FZ?oc=5",
+      "description": "3 people waiting to be medically evacuated from cruise ship at center of suspected hantavirus outbreak &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-09-09T15:40:13+00:00",
+      "raw_date": "Wed, 09 Sep 2026 15:40:13 GMT"
+    },
     {
       "title": "Midwest homeowner vacuumed mouse droppings for years, then learned hantavirus can be 40% fatal - Yahoo Health",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVwS3JFMHdlMlpXZFFrTnYyWWNqdWtDUGJZZkxBRXYtdnFScFhYOFRpNnp0eTdjUmNvVWFIU09iWndtUE5lbV8wNmpPMFZDcmtMYkNvZm1CQ3BVeHo0Sndld2ZZS3NVS2FmeGFXSjZwUFcwcEZEVXRZbjhzZ2pyWm51LVN0ZjNvZGpmRHJEUHZrb0xLQnc?oc=5",
@@ -36,14 +52,6 @@
       "source": "Google News",
       "date": "2026-09-08T09:50:08+00:00",
       "raw_date": "Tue, 08 Sep 2026 09:50:08 GMT"
-    },
-    {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-      "description": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-09-07T21:56:40+00:00",
-      "raw_date": "Mon, 07 Sep 2026 21:56:40 GMT"
     },
     {
       "title": "UNM researchers track hantavirus-carrying rodents in Taos County - Albuquerque Journal",
@@ -84,14 +92,6 @@
       "source": "Google News",
       "date": "2026-08-06T07:00:00+00:00",
       "raw_date": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Chile declares health alert for hantavirus - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5",
-      "description": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
-      "source": "Google News",
-      "date": "2026-08-01T07:00:00+00:00",
-      "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "2026 News - University of Maryland School of Medicine",
@@ -142,17 +142,17 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - World Health Organization (WHO)",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine - who.int",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
-      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; who.int",
       "source": "Google News",
       "date": "2026-06-16T07:00:00+00:00",
       "raw_date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; science.org",
+      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
@@ -174,12 +174,12 @@
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXZ3VVFnU0t4S1pVaVJULXhfLU1rWnpGRzFpWlZGYk9aWHNnOXRFeVN4eGZ0c1owNFNjQXFBSmVQN0JDZ2ZjOUpmRFdoWDcxVFpISS00cXRFSU1GMDBtY3VsbXp0LVl1UlY3X3RpTVp1MFNXNnBnOTdUdlhDbk5DTg?oc=5",
-      "description": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness &nbsp;&nbsp; World Health Organization (WHO)",
+      "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - kff.org",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
+      "description": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor &nbsp;&nbsp; kff.org",
       "source": "Google News",
-      "date": "2026-06-02T07:00:00+00:00",
-      "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
+      "date": "2026-05-28T07:00:00+00:00",
+      "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus disease and the need for pathogenesis-guided therapy - Rockefeller University Press",
@@ -198,9 +198,9 @@
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
-      "title": "How our immune cells combat Andes hantavirus - lji.org",
+      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
-      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; lji.org",
+      "description": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
       "source": "Google News",
       "date": "2026-05-26T21:23:02+00:00",
       "raw_date": "Tue, 26 May 2026 21:23:02 GMT"
@@ -230,9 +230,9 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 - World Health Organization (WHO)",
+      "title": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 - who.int",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaXJKaGd6TDNaM20td0dLaG1nOV94ODFzd0w5ODk1QjJRTjRBOXdHWXE5MWpQQ3dIYm1PaExLWVBrRzl4TEFjRnpEVGVvd3ROeUZuUW1jS0NPSHpwR3Y1emVOQnBYMUxYZ0dWRWNoZHBFNXhUQ1J6dDJ4QzlQVVAwQVJtdDJrTVRMTzlWZ1V0UWZYaVZhRGdEeGF4NjNuRnlUeGhhWXJXUG5MTmZJSXljc3NfemdTamxfeE8yOEd4aG5MN2dseTFCZ0RUWmxyRkJxdFg5d2NpSTBPTVFoYXl4NDZ5Y2V2X3lU?oc=5",
-      "description": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 &nbsp;&nbsp; World Health Organization (WHO)",
+      "description": "WHO Director-General's opening remarks at the media briefing on outbreaks of Ebola and hantavirus – 22 May 2026 &nbsp;&nbsp; who.int",
       "source": "Google News",
       "date": "2026-05-22T07:00:00+00:00",
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
@@ -246,9 +246,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
+      "title": "Hantavirus: What to Know and Next Steps for Health Systems - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
-      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; Johns Hopkins Medicine",
+      "description": "Hantavirus: What to Know and Next Steps for Health Systems &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -262,9 +262,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - who.int",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; who.int",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -334,25 +334,17 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Symptoms, Risks and How to Stay Safe | Health Matters | NYP - NewYork-Presbyterian",
+      "title": "Hantavirus: Symptoms, Risks and How to Stay Safe | Health Matters | NYP - nyp.org",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
-      "description": "Hantavirus: Symptoms, Risks and How to Stay Safe | Health Matters | NYP &nbsp;&nbsp; NewYork-Presbyterian",
+      "description": "Hantavirus: Symptoms, Risks and How to Stay Safe | Health Matters | NYP &nbsp;&nbsp; nyp.org",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Google News",
-      "date": "2026-05-14T07:00:00+00:00",
-      "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG1LSk1zMWlrSDdOWFJWRXY0d3ZKd3N5X3hjREp0OTQ5bm5KLUxXZk1FUUcwbEhBaGZ1MVJDY1dReXhrWWhEa21GMmlDMTR3dUFnMmhzd0dMQWF0SW1rVDRLT0RSRDRXSV92aG9VWTYtZkNxcExtTzhmMWlNN2VxMUFLbGdpdjFJUnlZWk03WXhKNkwybTU4?oc=5",
-      "description": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ &nbsp;&nbsp; CIDRAP",
+      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
@@ -401,6 +393,14 @@
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
       "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "source": "Google News",
+      "date": "2026-05-12T07:00:00+00:00",
+      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE.ks.gov",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
+      "description": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE.ks.gov",
       "source": "Google News",
       "date": "2026-05-12T07:00:00+00:00",
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
