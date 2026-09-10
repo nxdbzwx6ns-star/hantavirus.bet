@@ -1,10 +1,18 @@
 {
-  "updated": "2026-09-10T10:48:33.331654+00:00",
+  "updated": "2026-09-10T14:53:49.187378+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-09-10T07:42:22+00:00",
+      "raw_date": "Thu, 10 Sep 2026 07:42:22 GMT"
+    },
     {
       "title": "3 people waiting to be medically evacuated from cruise ship at center of suspected hantavirus outbreak - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVG51a2d2Rmo0RUNLVF9oVWxRRFpxdmJ1UGlwNmJ5OVcwNV8wOTRFbl9QNHc0UkNKaDI4N0J4QjNkVEMtcVVNbWxqUzJ2QUlYVlVQMjBCbkJlWWVzNElERTR4N0FHNFhBUEdxbzJHbW9uY1Y1c1BEbnp3U0g0LTN4NzNpcURlNC13TkJGQXFlQXQyVUpkMmtvOGRjSXdLYTFpaGZzaDFsX2ZDd9IBrwFBVV95cUxOZWtUd2dHSktfZUtxY21DQ1ZXT0liSlRYRE42VUlZUnRRelhaY1l1NGJCUDladWppZ19hT3lCNUN2d1BXSUxURm5VaFdYamtIRnhFZGx0UnNBN19uOGFySnRiR1hKRUhrZXdDdTdEc1VaX1paZXlPZVd2cDJrUFA5Y3I1blhiWGh2X1pWQk9kcV8wcUdDN0tlaVMwSGhlSEcwQ2ZrdzBlZGt3VzhtV1FZ?oc=5",
@@ -22,22 +30,6 @@
       "raw_date": "Wed, 09 Sep 2026 01:30:00 GMT"
     },
     {
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
-      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-09-08T16:42:55+00:00",
-      "raw_date": "Tue, 08 Sep 2026 16:42:55 GMT"
-    },
-    {
-      "title": "UNM researchers track hantavirus-carrying rodents in Taos County - Albuquerque Journal",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1piVzRFQ3JLbThTejlyN3ZKa3FfNWU4SnZwTnJublF2QnNpZk1iWVVFelJwSWhzVk82YUdoRVJQcTN0UWJHQU1kQkhGXy1VSmlOUDlzbVpGellVMEZrY0xkTFNZcnhncl9EMXVKcnF1NU5tcVlES2VCTkJ1bmlrcWhkZ1M1MUF5bnZIcHlpQ0xqZEE2dkE?oc=5",
-      "description": "UNM researchers track hantavirus-carrying rodents in Taos County &nbsp;&nbsp; Albuquerque Journal",
-      "source": "Google News",
-      "date": "2026-09-06T21:54:14+00:00",
-      "raw_date": "Sun, 06 Sep 2026 21:54:14 GMT"
-    },
-    {
       "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
       "description": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
@@ -46,9 +38,9 @@
       "raw_date": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news.mongabay.com",
+      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news.mongabay.com",
+      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
       "source": "Google News",
       "date": "2026-08-23T07:00:00+00:00",
       "raw_date": "Sun, 23 Aug 2026 07:00:00 GMT"
@@ -70,9 +62,9 @@
       "raw_date": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+      "title": "Hantavirus: Tourist who transited France in July tests positive - lemonde.fr",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
-      "description": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
+      "description": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; lemonde.fr",
       "source": "Google News",
       "date": "2026-08-06T07:00:00+00:00",
       "raw_date": "Thu, 06 Aug 2026 07:00:00 GMT"
@@ -206,9 +198,9 @@
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - paho.org",
+      "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - Pan American Health Organization (PAHO)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJGb2J2SV9udUhMZDBTQ2cwYkttSXBOWm42WjIxY1hxZC1vYl9UVzY3X0wyVWlwUjM1ZFcwNFlpM2NPc2VCNnYtTTRrSTRsSXcxWUpkaXNJc3J1ZDF2dmxOcV8tWHhLZ1czd1VkdVhLU0I2VzI1REpqa0pRbjFVN3ZtWXlENnJja3BteHZwTFlhT09SQ2hPVlZHMDhYdzhOYVJPcHNLU25Db1NVUnRVb3Z1MU91Njg2YTlfdGt3?oc=5",
-      "description": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases &nbsp;&nbsp; paho.org",
+      "description": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases &nbsp;&nbsp; Pan American Health Organization (PAHO)",
       "source": "Google News",
       "date": "2026-05-22T07:00:00+00:00",
       "raw_date": "Fri, 22 May 2026 07:00:00 GMT"
@@ -286,9 +278,9 @@
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - cdc.gov",
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; cdc.gov",
+      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -374,20 +366,20 @@
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear - Scientific American",
+      "title": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear - scientificamerican.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3hLRmc1TnpMY3VocHBUNEViSEt2WFZabWtpX0xpbTU1ZkhhOGNIU1hwOXljeV81c2J3QTFYZHFFQThrNXR4Q0R6blMwRllqaDB6c1BzYldkWE1KUWlRRjlkV0c4N2I0Z2hBbUNUN0J1ekY5NG1PVUJfcllwb0cwTGVXb25JYUMxX0hpd0VwWUdaNC05UVpwYlVaRkV0X0ZBS2FON0gyRXlTMlVDTlB0aGctRzRhQlBEc1U2aTI1NnB4X00?oc=5",
-      "description": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear &nbsp;&nbsp; Scientific American",
+      "description": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear &nbsp;&nbsp; scientificamerican.com",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "description": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "title": "Hantavirus: How are countries responding to the cruise virus? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZVFHUG5DcXRqSUNEa3hxaW15N0RfVmhSM0ZUMGJjRWRnZkRodXhrOURNb2gtUHhUbWotOUVhR09OcTJ4ZjZQLUlZSndCM2t5ZTY0M0VHal94dw?oc=5",
+      "description": "Hantavirus: How are countries responding to the cruise virus? &nbsp;&nbsp; BBC",
       "source": "Google News",
-      "date": "2026-05-12T07:00:00+00:00",
-      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
       "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE.ks.gov",
@@ -401,6 +393,14 @@
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
       "description": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "Google News",
+      "date": "2026-05-12T07:00:00+00:00",
+      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How worried should we be about hantavirus? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fOXdPSXg0Tm9HQ2RWRHJzUGgwc25lR29aZngxeHpSZE1kY0I3MnZNWXg4Y05SakJxZGJSNXB6Q2dfcV9tWEN3dXBIaUxZeHkxQkpFV3dwc29WQQ?oc=5",
+      "description": "How worried should we be about hantavirus? &nbsp;&nbsp; BBC",
       "source": "Google News",
       "date": "2026-05-12T07:00:00+00:00",
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
