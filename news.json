@@ -1,18 +1,10 @@
 {
-  "updated": "2026-09-18T08:50:50.611640+00:00",
+  "updated": "2026-09-18T13:27:44.668601+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Wild rodents carrying hantavirus detected in Catamarca and environmental surveillance reinforced - Noticias Ambientales",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlpWU19uU3pMUTNmaVltcXFVU1R1bmlSUUk5SnRYcC1pSUhRX1VlWVdRMVp0STk5U3lvMThsWGxqYTJnekI5azBpUEFROHhxTFBxbVloZWxUUFhJOERnVGFIS3N3RXBVdExvR0tSU2EySmtMQmk0d0xxalJWb1gzcFljNkdRendMTnFhZzk5NjI4ZldpMWh6MVpCbmhTY0dXRExsR244Y1FwVDhzdWpZLUdsZmdNM3Vyem4xX1hWenNkMEFBckY5SXZkQ3F1eHJablFR?oc=5",
-      "description": "Wild rodents carrying hantavirus detected in Catamarca and environmental surveillance reinforced &nbsp;&nbsp; Noticias Ambientales",
-      "source": "Google News",
-      "date": "2026-09-17T15:07:13+00:00",
-      "raw_date": "Thu, 17 Sep 2026 15:07:13 GMT"
-    },
     {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
@@ -20,6 +12,14 @@
       "source": "Google News",
       "date": "2026-09-17T08:23:39+00:00",
       "raw_date": "Thu, 17 Sep 2026 08:23:39 GMT"
+    },
+    {
+      "title": "What to know about hantavirus: from transmission and symptoms to treatment - BioTechniques",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHE0LUZEM1drc1JodzRUczU4Rjg4dVo1aUhUbk81bTV6RVBHMDNhN2c0Mmx0RHBsNGJad3hjd1RGOUd3WTFMbjRDSXpOYXJiS0R3dXRzRl9VXzNET2xQc3VvTXg5ZGU3V05RYnpIckJjUUl5N1Q3aEU3ZE9kSTg1eXhTNVpwSGp4bkh3STFhaUVNWGtPUVBlR1FZZURFcDM0V0Vjb2dmeDZYNXdyVi00ZHBpT1U1eGhI?oc=5",
+      "description": "What to know about hantavirus: from transmission and symptoms to treatment &nbsp;&nbsp; BioTechniques",
+      "source": "Google News",
+      "date": "2026-09-16T07:00:00+00:00",
+      "raw_date": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
@@ -102,14 +102,6 @@
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-      "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-      "source": "Google News",
-      "date": "2026-07-02T07:00:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
       "description": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
@@ -134,9 +126,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
+      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
-      "description": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; The Guardian",
+      "description": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; theguardian.com",
       "source": "Google News",
       "date": "2026-06-23T07:00:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
@@ -166,28 +158,20 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Vaccines and therapeutics for Andes hantavirus - nature.com",
+      "title": "Vaccines and therapeutics for Andes hantavirus - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
-      "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; nature.com",
+      "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; Nature",
       "source": "Google News",
       "date": "2026-06-09T07:00:00+00:00",
       "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes hantavirus – A primer - nature.com",
+      "title": "Andes hantavirus – A primer - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-      "description": "Andes hantavirus – A primer &nbsp;&nbsp; nature.com",
+      "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
       "source": "Google News",
       "date": "2026-06-05T07:00:00+00:00",
       "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDJQNm9fb0lEaEdjV1FpVWdrQ1U4Y0JiaTNpQmFfWThSZVNQRVMtMzhXVlc0N0pwbkZ1SUoyM1VUSzBTM2w0eWRiY0hyMllLTjJFNnFhVG1JX2V6VTlndnFvXzF3cFRKUzBSRGs0Y1Btd1JfX2FyR3hobFMxb3IzYzB6RDlGdVhCbHRicEZfQ29hSWstYTJCeV9iTVV6dVM5ODF4STM5NU1BRTVvanlkbVRKLUlWeTA?oc=5",
-      "description": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; AP News",
-      "source": "Google News",
-      "date": "2026-06-03T07:00:00+00:00",
-      "raw_date": "Wed, 03 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
@@ -206,9 +190,9 @@
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus disease and the need for pathogenesis-guided therapy - Rockefeller University Press",
+      "title": "Hantavirus disease and the need for pathogenesis-guided therapy - rupress.org",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHZNQjRwcW16SE5vMUxnLXVOQVdUT0tGcTljb2FDUHZOcGF1X1JRYTVDTEZlbHZ5REJ5dDNhU0FyNXU4dFBFNUw4Z0M0aGVLa3JlSUIwVmVyaXBNUGtfdVFFTDRsQUd2YzFCTkpFNHJoX1JRT1NYdDVUUjZpRVNHdVB6RzJxdml0NjNhSjJWZDRvYlFlX2RuWmdMbnJQR2JHLWFBdmJn?oc=5",
-      "description": "Hantavirus disease and the need for pathogenesis-guided therapy &nbsp;&nbsp; Rockefeller University Press",
+      "description": "Hantavirus disease and the need for pathogenesis-guided therapy &nbsp;&nbsp; rupress.org",
       "source": "Google News",
       "date": "2026-05-27T07:00:00+00:00",
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
@@ -222,9 +206,9 @@
       "raw_date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Cruise ship hantavirus outbreak in remote island communities - thelancet.com",
+      "title": "Cruise ship hantavirus outbreak in remote island communities - The Lancet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnczTXJDSW4zQnI4dEZrbmktRkZISXZodU9JRTdtMFhnRDlaeHZxb25nbUN0b29kZVduel9lenh4S1VJSHYxdVFTSzdabDlxTUk2VjdkU01wX01sSi1feXJEclFNWFJaQkdRMEQ1NUM0MXpJRGhac0pNUnlwUXRwNTZKd09KWmk1ZkktbE9vdEJJQnFKTkE?oc=5",
-      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; thelancet.com",
+      "description": "Cruise ship hantavirus outbreak in remote island communities &nbsp;&nbsp; The Lancet",
       "source": "Google News",
       "date": "2026-05-25T07:00:00+00:00",
       "raw_date": "Mon, 25 May 2026 07:00:00 GMT"
@@ -262,9 +246,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "title": "Questions about hantavirus? We’ve got answers. - tpchd.org",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
-      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "description": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; tpchd.org",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -326,9 +310,9 @@
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - cdc.gov",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; cdc.gov",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -390,9 +374,9 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
@@ -401,6 +385,22 @@
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
       "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
+      "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; nytimes.com",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
+      "description": "CDC: Risk to general public from hantavirus is low &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
