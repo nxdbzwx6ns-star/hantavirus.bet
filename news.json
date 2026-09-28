@@ -1,26 +1,10 @@
 {
-  "updated": "2026-09-28T06:22:08.604993+00:00",
+  "updated": "2026-09-28T15:00:43.961150+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
-      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; abcnews.com",
-      "source": "Google News",
-      "date": "2026-09-26T19:57:44+00:00",
-      "raw_date": "Sat, 26 Sep 2026 19:57:44 GMT"
-    },
-    {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUg?oc=5",
-      "description": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; abcnews.com",
-      "source": "Google News",
-      "date": "2026-09-25T19:10:15+00:00",
-      "raw_date": "Fri, 25 Sep 2026 19:10:15 GMT"
-    },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
@@ -28,6 +12,14 @@
       "source": "Google News",
       "date": "2026-09-24T20:50:19+00:00",
       "raw_date": "Thu, 24 Sep 2026 20:50:19 GMT"
+    },
+    {
+      "title": "What happens when disease jokes go viral? | Opinion - The Tennessean",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObTd5TENMdXYtbTlMQW8tMHFhWnhnWUZFSjJnbXczVlk3ZFZyRDBVTFkxckVRUVc3N2NKdDJSLWVfQnhjakRLTmNJQnBHRm1mYTNhSXVicXF3Nm5FU05tcXIyVHVIMEJLaVA0LWFHZmM0c2E1dUE3ZHZxaDZqRkJoNjdQNlNGZWJseVM3UFVaUjh0c2M0STdFQk0tN1RlcTNkVDJNTXhqYlhzRmdNbENyZzRmakVRZTh6SktyRUdoYnJaQ3preTVybHVYbmhQamt2dTFhMDlkNlVmUE1lS2c?oc=5",
+      "description": "What happens when disease jokes go viral? | Opinion &nbsp;&nbsp; The Tennessean",
+      "source": "Google News",
+      "date": "2026-09-24T10:10:00+00:00",
+      "raw_date": "Thu, 24 Sep 2026 10:10:00 GMT"
     },
     {
       "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
@@ -38,9 +30,9 @@
       "raw_date": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news.mongabay.com",
+      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news.mongabay.com",
+      "description": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
       "source": "Google News",
       "date": "2026-08-23T07:00:00+00:00",
       "raw_date": "Sun, 23 Aug 2026 07:00:00 GMT"
@@ -54,6 +46,14 @@
       "raw_date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
+      "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
+      "description": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
+      "source": "Google News",
+      "date": "2026-08-06T07:00:00+00:00",
+      "raw_date": "Thu, 06 Aug 2026 07:00:00 GMT"
+    },
+    {
       "title": "Conserve O Gram 2/8: Hantavirus Disease Health and Safety Update - National Park Service (.gov)",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDJFN2oxWWZJbHNXdi1QaTNrX3VtSmx0T0VaSjFCQ1E4ZHFBQmVoWEJwX0s0TXJQMWtHVGRhZGJZVkZsVHhkYzk3blVnbmFrMS16dVBGVkhoWmQ1R0ZNRURNc2VicE1laG1DRlFFaklHM3BHZkppU3Fuc3VIQnFCMXVLOVk5MjE1LS1BT2NGZXJIcDRxNlFYWF93NFg4cHNqQ1pIT0xXSQ?oc=5",
       "description": "Conserve O Gram 2/8: Hantavirus Disease Health and Safety Update &nbsp;&nbsp; National Park Service (.gov)",
@@ -62,9 +62,9 @@
       "raw_date": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Chile declares health alert for hantavirus - Outbreak News Today",
+      "title": "Chile declares health alert for hantavirus - outbreaknewstoday.substack.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5",
-      "description": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
+      "description": "Chile declares health alert for hantavirus &nbsp;&nbsp; outbreaknewstoday.substack.com",
       "source": "Google News",
       "date": "2026-08-01T07:00:00+00:00",
       "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
@@ -118,9 +118,9 @@
       "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - theguardian.com",
+      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-      "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; theguardian.com",
+      "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
       "source": "Google News",
       "date": "2026-07-02T07:00:00+00:00",
       "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
@@ -166,9 +166,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; American Journal of Managed Care",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -198,9 +198,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - theguardian.com",
+      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
-      "description": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; theguardian.com",
+      "description": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska &nbsp;&nbsp; The Guardian",
       "source": "Google News",
       "date": "2026-06-23T07:00:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
@@ -246,14 +246,6 @@
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Why Andes hantavirus is not the next COVID-19 - news-medical.net",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZHYjdmZk51dXZfOW1NZUQ4UnpRTm9YejVqcGxnRGhwbzNsVmFrYXBYZkRZUHVscEhKNjVEY09US3dFS0s4TUZqYVBmby14cHNxY1VFRlE5MjBRaEFhNmZIaEctQ2VrVlc3WVZGVGRKZlNGNlM5VEIxNk9mQk5mTEJIRzBBMVVwVU5iX0x4U3MwYWI2VXpRYg?oc=5",
-      "description": "Why Andes hantavirus is not the next COVID-19 &nbsp;&nbsp; news-medical.net",
-      "source": "Google News",
-      "date": "2026-06-10T07:00:00+00:00",
-      "raw_date": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Vaccines and therapeutics for Andes hantavirus - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
       "description": "Vaccines and therapeutics for Andes hantavirus &nbsp;&nbsp; Nature",
@@ -284,14 +276,6 @@
       "source": "Google News",
       "date": "2026-06-04T07:00:00+00:00",
       "raw_date": "Thu, 04 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDJQNm9fb0lEaEdjV1FpVWdrQ1U4Y0JiaTNpQmFfWThSZVNQRVMtMzhXVlc0N0pwbkZ1SUoyM1VUSzBTM2w0eWRiY0hyMllLTjJFNnFhVG1JX2V6VTlndnFvXzF3cFRKUzBSRGs0Y1Btd1JfX2FyR3hobFMxb3IzYzB6RDlGdVhCbHRicEZfQ29hSWstYTJCeV9iTVV6dVM5ODF4STM5NU1BRTVvanlkbVRKLUlWeTA?oc=5",
-      "description": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; AP News",
-      "source": "Google News",
-      "date": "2026-06-03T07:00:00+00:00",
-      "raw_date": "Wed, 03 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
@@ -390,6 +374,14 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
+      "description": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
+      "source": "Google News",
+      "date": "2026-05-20T07:00:00+00:00",
+      "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
       "description": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
@@ -398,9 +390,17 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-      "description": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
+      "source": "Google News",
+      "date": "2026-05-20T07:00:00+00:00",
+      "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "American cruise ship passengers push for home quarantine after hantavirus exposure - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclQtMWg3Mkd2QzIySlpkc3NZWjZodFdHTm1FTXhnbVRnTGFiOTFvMm5PVW1sc19BWXdmdnJ3NXduY0NzOS1pTzZsa3NTVWhYZEN2OFV3S1BrOVpvV2FhdjBtNkZaNUtCVEZwV3JvSkJTOWxnU2dpZG5SLXd1ZVdkX1hSODJFTGd0ZHVZb3BiX19fZjVnR2VvcjN3eTk0SXN4V05hSGpNYlZJVG8yZkZxa196OUNuRGs?oc=5",
+      "description": "American cruise ship passengers push for home quarantine after hantavirus exposure &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
