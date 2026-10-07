@@ -1,18 +1,10 @@
 {
-  "updated": "2026-10-07T11:34:30.741067+00:00",
+  "updated": "2026-10-07T18:33:34.322047+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Three Decades of Trapping Mice: How Montana Tech Is Tracking the Next Zoonotic Threat - Vet Candy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FKbHNGRHp0RWpXejN0STA0TE9hZF9CSHp1U1hnOXBXVnZTOU5RUHJPM3JPazhsb3hDMEY0UU9YU2xsVjhwdXllX3MyaHc1ckk4UTZubmVHNG1vWWtuTDZNV1BrZnN3RjlaV01pUHBwSVB5eGxBeHhXaDhJcG1teVp4VmxlYkZuZzEwRnNiQ194R1h2RXhoNnI5WkkwcDVXT2lPcDZzVkp1S21LWEJZTnlBRUt4NHBEZkg3ZFdsVlNxZnlR?oc=5",
-      "description": "Three Decades of Trapping Mice: How Montana Tech Is Tracking the Next Zoonotic Threat &nbsp;&nbsp; Vet Candy",
-      "source": "Google News",
-      "date": "2026-10-06T16:21:19+00:00",
-      "raw_date": "Tue, 06 Oct 2026 16:21:19 GMT"
-    },
     {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
@@ -78,9 +70,9 @@
       "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 News - Maryland School of Medicine",
+      "title": "2026 News - The University of Maryland, Baltimore",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "description": "2026 News &nbsp;&nbsp; Maryland School of Medicine",
+      "description": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
       "source": "Google News",
       "date": "2026-07-22T20:26:42+00:00",
       "raw_date": "Wed, 22 Jul 2026 20:26:42 GMT"
@@ -329,6 +321,14 @@
       "title": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways - Association of State and Territorial Health Officials | ASTHO",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3dIZTZQNS1WYU1mdWFBM3JVcHVtZjkydThtdmR6NF9SckMxeVl5UHVNWFdtOUZOdVdIQWlfUWx1OE1GYlRLa29mQU1RRk8zR0duTklSMHVBZkNQSVZtQll2MU42Z3hEZmhKdmx2OU43TGVNM3RWZG1CRFU3MDliZUJCQ0JjRm1QSGJESjZUbmFYSmlxSUJLVnI0Y3B2VDQ?oc=5",
       "description": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways &nbsp;&nbsp; Association of State and Territorial Health Officials | ASTHO",
+      "source": "Google News",
+      "date": "2026-05-15T07:00:00+00:00",
+      "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "CDC says 41 across U.S. being monitored for hantavirus | AHA News - American Hospital Association",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pHT3VoTDFiV1hwZ05XU0R2aHNGVlBQRFJqeTk0b0xQUmtkWjczZUtVVmE3ZkYtSEJoVlZoRjBmbEc1Rk8wUUFmaEl6VVBvem4weHJTMG9xV1RCYlhIT0hMMF9rb090RHNIaXFSZTRIZ2k2WjYwV2huYWpQajR5b0pLNEdDbnZTTHJtWUw1RHRrRFNRZE0xZg?oc=5",
+      "description": "CDC says 41 across U.S. being monitored for hantavirus | AHA News &nbsp;&nbsp; American Hospital Association",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
