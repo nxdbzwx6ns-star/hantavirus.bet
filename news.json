@@ -1,10 +1,18 @@
 {
-  "updated": "2026-10-07T18:33:34.322047+00:00",
+  "updated": "2026-10-07T23:28:38.082252+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Demystifying Hantavirus: Free Talk In Planetarium At Los Alamos Nature Center Oct. 15 - Los Alamos Daily Post",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWXlLcUFzaGdEVVJhZ2h3OVJueFJtaEpGdHVyN0x2OFdqLU5nSi16M3Q3dlliNE5vRzZCblBBbHliMGp6UzI1NjNSa1VEVXhna2NaeGUxVktKQzRsaElIY2VGVFpXOXdPNUpRX0hkdkppeU9uWFJGZkdDY2dmVk9zOHdsdVJReWo1SWZ4bjExU2dSelZNd3BaQmhvNXlubXRjZFJtdlY0bmZJNkYteTRNdFViVVNieTJjTHlNOFVWZEwyd0xBN002VzhIX2VURVJmTUtZZU0zQVpEXzVPN2dibS1wR1BHZkVXbHJGMGtPcXY3X05xYkh1bWxxN2UzZnEycmlhcVktNA?oc=5",
+      "description": "Demystifying Hantavirus: Free Talk In Planetarium At Los Alamos Nature Center Oct. 15 &nbsp;&nbsp; Los Alamos Daily Post",
+      "source": "Google News",
+      "date": "2026-10-07T20:23:00+00:00",
+      "raw_date": "Wed, 07 Oct 2026 20:23:00 GMT"
+    },
     {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
@@ -92,14 +100,6 @@
       "source": "Google News",
       "date": "2026-07-20T07:00:00+00:00",
       "raw_date": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "UNMC researcher publishes hantavirus review article - University of Nebraska Medical Center",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVi16SW52MGNwTi1MMUpyaV9vTUFIVGxYZ0l5SlJMalRqaGxiM1l2dTRJanp3OWF2Vzd0aWhaMWNJa1hDVi1hWlA1a1VhV1hnZnk4bmc4cExnVHIySVduenk0cWpiTk9DczNKU3I0MEFleGtyVTVIbEgzUktVNkx1Z1NTMVl2a0d2UDhCR2VudEFBeV8zUi1lZg?oc=5",
-      "description": "UNMC researcher publishes hantavirus review article &nbsp;&nbsp; University of Nebraska Medical Center",
-      "source": "Google News",
-      "date": "2026-07-08T07:00:00+00:00",
-      "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
@@ -326,14 +326,6 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC says 41 across U.S. being monitored for hantavirus | AHA News - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pHT3VoTDFiV1hwZ05XU0R2aHNGVlBQRFJqeTk0b0xQUmtkWjczZUtVVmE3ZkYtSEJoVlZoRjBmbEc1Rk8wUUFmaEl6VVBvem4weHJTMG9xV1RCYlhIT0hMMF9rb090RHNIaXFSZTRIZ2k2WjYwV2huYWpQajR5b0pLNEdDbnZTTHJtWUw1RHRrRFNRZE0xZg?oc=5",
-      "description": "CDC says 41 across U.S. being monitored for hantavirus | AHA News &nbsp;&nbsp; American Hospital Association",
-      "source": "Google News",
-      "date": "2026-05-15T07:00:00+00:00",
-      "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
       "description": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries &nbsp;&nbsp; CIDRAP",
@@ -350,9 +342,9 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus can persist in semen for years, but that doesn’t mean it stays contagious - Scientific American",
+      "title": "Hantavirus can persist in semen for years, but that doesn’t mean it remains contagious - Scientific American",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjlJZkloeTdwTmtSTzBLOGp3QklHdnkySlYySVhjMmlJcHpIbHpnMDZpR09adFdMZk1yd2hybWM4V2JUTXhGQnJlRnNZdUtRbks4cWQ4clZwM1hmcGZzZGdwUHRiemYwQnpYdlJEWkRTZWt4WGtZa3BGeVBrSGNReXB5OHBJeTBKTVNkZHF0MjhkVFJUa2N5dFBfendSUU1CS0c1SU93THo3NkVmWTZOb0E4RDdoTkJPdGM3eTk1VFR3U01IdlZ3?oc=5",
-      "description": "Hantavirus can persist in semen for years, but that doesn’t mean it stays contagious &nbsp;&nbsp; Scientific American",
+      "description": "Hantavirus can persist in semen for years, but that doesn’t mean it remains contagious &nbsp;&nbsp; Scientific American",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
@@ -401,6 +393,14 @@
       "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
       "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; The New York Times",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNk0tQ2pGVF9vclU1YjlQR2pncmdQc3Y5c3BFNGF5c2pnUTdPRXp0emZoRWR1c3JCSWNMUUNaUEtJdmlxM1UtcVBDWWRNa01XOHFSaG0zUVZINXFuX284VUJNN04wb0ZJbF9IeHFtUWI1T0J2RzQyVk1tRDZ5aEh4OFRJUjRMUUlVdWg2QXZzbmhkclZ4QmlwSHpVTHVwcU9PLVNlSGlJWE4wRzM0NDFteDlseVJzNlV4My1rNlBtUktYemM?oc=5",
+      "description": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; PBS",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
