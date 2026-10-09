@@ -1,10 +1,18 @@
 {
-  "updated": "2026-10-09T04:59:27.656381+00:00",
+  "updated": "2026-10-09T11:47:57.622356+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-10-08T02:33:00+00:00",
+      "raw_date": "Thu, 08 Oct 2026 02:33:00 GMT"
+    },
     {
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZpWjFYVHdhSERqNHVzd3l0MXJlNVdycWhBd1F2eTNIQkh3MmwwaEhuVzNyUGUxTzFadmxQVmhwcHJFU21tWHk4MHd5R3ZKSklKU1FGOGw2Tm5LRmk0MU11Y1hKb3dpaExUaEZUOUZESEk1ekFfSHdrbk41bHZGZmhSalByX2JSSk9xVWhJazllVVBDRXprTGhtVW5BV3dBTi1HdXhhSk5JUmktdjk0?oc=5",
@@ -30,6 +38,14 @@
       "raw_date": "Fri, 02 Oct 2026 22:50:13 GMT"
     },
     {
+      "title": "Suspected hantavirus outbreak may have 'human-to-human transmission': WHO official - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMipApBVV95cUxQbEdLMkdhU3Mya3JMbFJWQ29UQ3BVNTFkT3p2aFpjbkIwMWcwQ2Q5QWFsazVpc1B4UzM2TnZYd0RzaVVpdENRc3dYRkk1d3NIeTY5VEhfdS0tbXNRV3Z5ZEhyT25ydWNrRENOMHI5SkRCRFhna0REeDctUHBva1FOVE9kS2VkLVZNem9tUlFnYUNCak1vcnk0VnF2VWZRUWhSVVFtaFp0WkdubGtpNlFpMFFGTlU4ekI5VnkwcndVSGZiTS1aODRKamlfc3N5bmN0aEh6bUtGM2dqSS00RXE3ZkpUZW9QYkNhNVFyRnNJcFBOQW1DaDJQczc0R0NRclVicnZxRkpyZkJGZjBKNmxYY2swcUM2cVNCN1g4dldFc0NCRVZROGJDbmxCWTVpdklhdkdVcDlzd3AtUk5XYnZCekpnMTRkbEhBcy1GT0ZoS2RlS3hzYVd4Umg5VjI5dnBDT3NhX3F3TzQ4a3JhSlBSLWNHUkpRT20xYURZQmJiQlJrMmFTRXFoRXlQeFJlbk1ub2c2djZKMWtGeGZMdG1zNjZZaUVqTWUxcmRrRU9YcEU5RWhDeE45amI0NlduMU82Ujc1bTZVVTd4UEZGZENRZkVzNkEtQlZldjFjdEVyNTIyLXNkalQtdEhSWi1uX29hZFk4WTRaT1pLWDBZMDlCQUJaUm10anZqNlRKcGdCSjVrWkNTX1pVUmdRSzVwbTlDRXlQbEhKLVFvbElsa0c5bkttZDVKNzlVRHR0bnluSVZLOVJpWW9JTUZ5ZXBqOHl6MjJvYmVRLVcwbURDTDZfTHY4RVA2SGZhZVVidUJtcFozWS0tYWVoNDJkZFlSNmxiMFBKUXFGc19od1dRNHk0UnhMYU80TzVFcHdvZXNVWWROZ01wYzloVE05eFFoMHdZQnhXdGZmQy1qcW1Pb3cwb0xwYlBlWE1CcXJteExCYzBOVFBoTkVVR1ZJZXREOENKSkdXamlpVjhteHRUREsxY3YxZGNRTWNIbU10UGlHYkFqMEQ5VEZMeGdncmNkaHcwdmhla2ZSMFlaWEhLUTdmTWlCbmk1NlJsZ1NZM0ZkYmxmbkxBaGZzWFdTZUVPZUIxOFVLcG10ZVFrN1g5NG9seFdpakpJaVl4MnROUUt3RTlQYUlCQ3c2elAyQnMtOFBsdXN1M2lONkdGbWxnWE5iZTRjc25mVG5Pbmg1aERXbDNOV3ljd0s4Z0EyUFRlcnFLV211WHptQl9xNzVSbHRtWHY5dkRaQzFkVVFDOG9CMEtwSEllaUJYQWhBalpLYWxzRktTdDBOU3ZaalNhOVJhRF9ZY2FHRTlKYlVPcHF6aTJvQlVJYmpQYWU2LThjUjJPX3plS0N4YWVpYTBZVy0tcHMycGF0RC11cHJIUkgwdWhvSUsyMnhiWnk5eXBBcWJxdWIxUU1RaFJvOF9aZm9QN1QwcGlzVjBpRm4yV1FsZHJYdmNIbmxGNlR4NWZ4S2tnc0RBUmlYeFB0UXMxeEg0NVJpZFltLUhiLTNwN0dUazlzckozUk9lTmZidmhmSF9VY1BTMDFaOEZYLXY3RlFIVWpZZl9CVm5DRUt6U1VCMjZUVVJZZHVMZW1tSHdoZ3cwMTMxNjYyQU5YYS1rMVIycmYySXA4QkJqTXYxLTRtMGhDNnNhUzE0SU5KZW50cks5ZmdQbDJucm10LXFKMjIzTzZad3VJRFowWWtpOUVib3F0UWRBYXlwaG40aXdodkpFU2FiZg?oc=5",
+      "description": "Suspected hantavirus outbreak may have 'human-to-human transmission': WHO official &nbsp;&nbsp; ABC7 Los Angeles",
+      "source": "Google News",
+      "date": "2026-10-02T09:26:39+00:00",
+      "raw_date": "Fri, 02 Oct 2026 09:26:39 GMT"
+    },
+    {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "description": "Of mice and men: Examining how hantavirus leaps from rodent to human &nbsp;&nbsp; Virginia Tech News",
@@ -52,6 +68,14 @@
       "source": "Google News",
       "date": "2026-08-24T07:00:00+00:00",
       "raw_date": "Mon, 24 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9MOXJIT201MWpSc0NWWW9tV3VSYWd3dmFqaWhZeGdMWVZ2aVdMNVpud04xNmFYYjJOeHFJaVB4Q191U0N1YW1sd245UEx2RFRUZzNFbVc5TDJRUWR6b0o1WUk5d2Z5ZDE5YUhMVTA3dlZCMmZZTUNhUVVtMWxMV1FaaWVLSUZqRHpLbDhwZnZDaHdv?oc=5",
+      "description": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern &nbsp;&nbsp; Frontiers",
+      "source": "Google News",
+      "date": "2026-08-19T23:24:36+00:00",
+      "raw_date": "Wed, 19 Aug 2026 23:24:36 GMT"
     },
     {
       "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
@@ -318,14 +342,6 @@
       "raw_date": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
-      "title": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways - Association of State and Territorial Health Officials | ASTHO",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3dIZTZQNS1WYU1mdWFBM3JVcHVtZjkydThtdmR6NF9SckMxeVl5UHVNWFdtOUZOdVdIQWlfUWx1OE1GYlRLa29mQU1RRk8zR0duTklSMHVBZkNQSVZtQll2MU42Z3hEZmhKdmx2OU43TGVNM3RWZG1CRFU3MDliZUJCQ0JjRm1QSGJESjZUbmFYSmlxSUJLVnI0Y3B2VDQ?oc=5",
-      "description": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways &nbsp;&nbsp; Association of State and Territorial Health Officials | ASTHO",
-      "source": "Google News",
-      "date": "2026-05-15T07:00:00+00:00",
-      "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "CDC says 41 across U.S. being monitored for hantavirus | AHA News - American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pHT3VoTDFiV1hwZ05XU0R2aHNGVlBQRFJqeTk0b0xQUmtkWjczZUtVVmE3ZkYtSEJoVlZoRjBmbEc1Rk8wUUFmaEl6VVBvem4weHJTMG9xV1RCYlhIT0hMMF9rb090RHNIaXFSZTRIZ2k2WjYwV2huYWpQajR5b0pLNEdDbnZTTHJtWUw1RHRrRFNRZE0xZg?oc=5",
       "description": "CDC says 41 across U.S. being monitored for hantavirus | AHA News &nbsp;&nbsp; American Hospital Association",
@@ -385,22 +401,6 @@
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
       "description": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-      "source": "Google News",
-      "date": "2026-05-13T07:00:00+00:00",
-      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
-      "description": "CDC: Risk to general public from hantavirus is low &nbsp;&nbsp; CIDRAP",
-      "source": "Google News",
-      "date": "2026-05-13T07:00:00+00:00",
-      "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
-      "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
