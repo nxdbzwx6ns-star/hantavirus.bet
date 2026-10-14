@@ -1,18 +1,10 @@
 {
-  "updated": "2026-10-14T01:38:39.148120+00:00",
+  "updated": "2026-10-14T07:11:44.031588+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-      "description": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-10-11T05:15:10+00:00",
-      "raw_date": "Sun, 11 Oct 2026 05:15:10 GMT"
-    },
     {
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZpWjFYVHdhSERqNHVzd3l0MXJlNVdycWhBd1F2eTNIQkh3MmwwaEhuVzNyUGUxTzFadmxQVmhwcHJFU21tWHk4MHd5R3ZKSklKU1FGOGw2Tm5LRmk0MU11Y1hKb3dpaExUaEZUOUZESEk1ekFfSHdrbk41bHZGZmhSalByX2JSSk9xVWhJazllVVBDRXprTGhtVW5BV3dBTi1HdXhhSk5JUmktdjk0?oc=5",
@@ -20,6 +12,14 @@
       "source": "Google News",
       "date": "2026-10-08T01:26:13+00:00",
       "raw_date": "Thu, 08 Oct 2026 01:26:13 GMT"
+    },
+    {
+      "title": "Suspected hantavirus outbreak may have 'human-to-human transmission': WHO official - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMipApBVV95cUxQbEdLMkdhU3Mya3JMbFJWQ29UQ3BVNTFkT3p2aFpjbkIwMWcwQ2Q5QWFsazVpc1B4UzM2TnZYd0RzaVVpdENRc3dYRkk1d3NIeTY5VEhfdS0tbXNRV3Z5ZEhyT25ydWNrRENOMHI5SkRCRFhna0REeDctUHBva1FOVE9kS2VkLVZNem9tUlFnYUNCak1vcnk0VnF2VWZRUWhSVVFtaFp0WkdubGtpNlFpMFFGTlU4ekI5VnkwcndVSGZiTS1aODRKamlfc3N5bmN0aEh6bUtGM2dqSS00RXE3ZkpUZW9QYkNhNVFyRnNJcFBOQW1DaDJQczc0R0NRclVicnZxRkpyZkJGZjBKNmxYY2swcUM2cVNCN1g4dldFc0NCRVZROGJDbmxCWTVpdklhdkdVcDlzd3AtUk5XYnZCekpnMTRkbEhBcy1GT0ZoS2RlS3hzYVd4Umg5VjI5dnBDT3NhX3F3TzQ4a3JhSlBSLWNHUkpRT20xYURZQmJiQlJrMmFTRXFoRXlQeFJlbk1ub2c2djZKMWtGeGZMdG1zNjZZaUVqTWUxcmRrRU9YcEU5RWhDeE45amI0NlduMU82Ujc1bTZVVTd4UEZGZENRZkVzNkEtQlZldjFjdEVyNTIyLXNkalQtdEhSWi1uX29hZFk4WTRaT1pLWDBZMDlCQUJaUm10anZqNlRKcGdCSjVrWkNTX1pVUmdRSzVwbTlDRXlQbEhKLVFvbElsa0c5bkttZDVKNzlVRHR0bnluSVZLOVJpWW9JTUZ5ZXBqOHl6MjJvYmVRLVcwbURDTDZfTHY4RVA2SGZhZVVidUJtcFozWS0tYWVoNDJkZFlSNmxiMFBKUXFGc19od1dRNHk0UnhMYU80TzVFcHdvZXNVWWROZ01wYzloVE05eFFoMHdZQnhXdGZmQy1qcW1Pb3cwb0xwYlBlWE1CcXJteExCYzBOVFBoTkVVR1ZJZXREOENKSkdXamlpVjhteHRUREsxY3YxZGNRTWNIbU10UGlHYkFqMEQ5VEZMeGdncmNkaHcwdmhla2ZSMFlaWEhLUTdmTWlCbmk1NlJsZ1NZM0ZkYmxmbkxBaGZzWFdTZUVPZUIxOFVLcG10ZVFrN1g5NG9seFdpakpJaVl4MnROUUt3RTlQYUlCQ3c2elAyQnMtOFBsdXN1M2lONkdGbWxnWE5iZTRjc25mVG5Pbmg1aERXbDNOV3ljd0s4Z0EyUFRlcnFLV211WHptQl9xNzVSbHRtWHY5dkRaQzFkVVFDOG9CMEtwSEllaUJYQWhBalpLYWxzRktTdDBOU3ZaalNhOVJhRF9ZY2FHRTlKYlVPcHF6aTJvQlVJYmpQYWU2LThjUjJPX3plS0N4YWVpYTBZVy0tcHMycGF0RC11cHJIUkgwdWhvSUsyMnhiWnk5eXBBcWJxdWIxUU1RaFJvOF9aZm9QN1QwcGlzVjBpRm4yV1FsZHJYdmNIbmxGNlR4NWZ4S2tnc0RBUmlYeFB0UXMxeEg0NVJpZFltLUhiLTNwN0dUazlzckozUk9lTmZidmhmSF9VY1BTMDFaOEZYLXY3RlFIVWpZZl9CVm5DRUt6U1VCMjZUVVJZZHVMZW1tSHdoZ3cwMTMxNjYyQU5YYS1rMVIycmYySXA4QkJqTXYxLTRtMGhDNnNhUzE0SU5KZW50cks5ZmdQbDJucm10LXFKMjIzTzZad3VJRFowWWtpOUVib3F0UWRBYXlwaG40aXdodkpFU2FiZg?oc=5",
+      "description": "Suspected hantavirus outbreak may have 'human-to-human transmission': WHO official &nbsp;&nbsp; ABC7 Los Angeles",
+      "source": "Google News",
+      "date": "2026-10-02T09:26:39+00:00",
+      "raw_date": "Fri, 02 Oct 2026 09:26:39 GMT"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -86,6 +86,14 @@
       "raw_date": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
+      "title": "Chile declares health alert for hantavirus - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5",
+      "description": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
+      "source": "Google News",
+      "date": "2026-08-01T07:00:00+00:00",
+      "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
       "title": "2026 News - The University of Maryland, Baltimore",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
       "description": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
@@ -100,14 +108,6 @@
       "source": "Google News",
       "date": "2026-07-20T07:00:00+00:00",
       "raw_date": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "UNMC researcher publishes hantavirus review article - University of Nebraska Medical Center",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVi16SW52MGNwTi1MMUpyaV9vTUFIVGxYZ0l5SlJMalRqaGxiM1l2dTRJanp3OWF2Vzd0aWhaMWNJa1hDVi1hWlA1a1VhV1hnZnk4bmc4cExnVHIySVduenk0cWpiTk9DczNKU3I0MEFleGtyVTVIbEgzUktVNkx1Z1NTMVl2a0d2UDhCR2VudEFBeV8zUi1lZg?oc=5",
-      "description": "UNMC researcher publishes hantavirus review article &nbsp;&nbsp; University of Nebraska Medical Center",
-      "source": "Google News",
-      "date": "2026-07-08T07:00:00+00:00",
-      "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
@@ -238,17 +238,17 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
+      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
+      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "description": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+      "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
+      "description": "2026 Current Hantavirus Situation &nbsp;&nbsp; County of San Diego (.gov)",
       "source": "Google News",
       "date": "2026-05-21T07:00:00+00:00",
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
@@ -294,6 +294,14 @@
       "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVk5UHRsUUJIY3ltNHFyWkpTV0NiMi1ma2pVSXFYV2M1Z2ZCbDBHeGFDTC1kc0pua3lXOExkUUU0Y0JxNWdEc1FSZHBJMUQ5Sko4RFljS0pDLTVVdHdST0o4OTJiWEV1ZEt6VUtwVkh2cUZhQnFIVXE2VEpqU2FtNXVvV1h3Qm5VNEd4d00xcmZoSGFJWm04QTRybkptOXhoSndtWS1DM2F0X0J4bHJPY0ttaGFVM2VXdUMzYVlR?oc=5",
+      "description": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city &nbsp;&nbsp; NBC News",
+      "source": "Google News",
+      "date": "2026-05-19T07:00:00+00:00",
+      "raw_date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
       "description": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
@@ -305,14 +313,6 @@
       "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - PBS",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd083aDktNUozQm5CZkJIS0FqSk1VUVd0Q1N1OUhtZEZsckNBeHdzcVUyejNodE1ObGtBV1I0c2VTc0lnQ3hpZm95ZnhrOFZIQnZyOE15QlRBZHpTX0cwUVRHTUpsNHpEQjY4aFhIb0ZWYlcyZnp1Q1lTNVRxMUEzdXJwS3EzUWV6VUEyTE9mTk9HbnVIbDZEekNQYU1MWnFnS3puVnU4NHJFVWx2UlE?oc=5",
       "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; PBS",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Colorado records first hantavirus death since 2024. It’s not from the cruise ship. - The Colorado Sun",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
-      "description": "Colorado records first hantavirus death since 2024. It’s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -342,17 +342,17 @@
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus Updates - County of San Luis Obispo (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVEFBbXZyVHBYM1hDR1VRTFdoQXVqMkxMbkZMUkVkdmNQZFVYM1VlcFlEcGlXU2FXTE8xV0pyOWF2aEJLdWFQcDRMUXZRX3JwWi04MWh5ZFYya3pFT3lYaElYUEtrWjRXSUxtU05fMHl5aFhGY2Rsb1lCT19DU2lyNmZmOC1VQ21iN1Fvby1vSy1MakxmSFR4V0UtS3J5UmpfbnVCMmNoMUYzR0FoRk5Uc1Z1MEJWeEo0SlloTUxwZVBIay1WMEpnREkxXzk4cngzX2ljNmxvWTVjaEx5QzZFMGM2SkJ2Z0doSjdpNjBCZFgwYUtKRjRYVzk3NWZRd1BDNTNTaml3T0V2VFZYUl8w?oc=5",
-      "description": "Hantavirus Updates &nbsp;&nbsp; County of San Luis Obispo (.gov)",
+      "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
+      "description": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
-      "description": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries &nbsp;&nbsp; CIDRAP",
+      "title": "Hantavirus Updates - County of San Luis Obispo (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVEFBbXZyVHBYM1hDR1VRTFdoQXVqMkxMbkZMUkVkdmNQZFVYM1VlcFlEcGlXU2FXTE8xV0pyOWF2aEJLdWFQcDRMUXZRX3JwWi04MWh5ZFYya3pFT3lYaElYUEtrWjRXSUxtU05fMHl5aFhGY2Rsb1lCT19DU2lyNmZmOC1VQ21iN1Fvby1vSy1MakxmSFR4V0UtS3J5UmpfbnVCMmNoMUYzR0FoRk5Uc1Z1MEJWeEo0SlloTUxwZVBIay1WMEpnREkxXzk4cngzX2ljNmxvWTVjaEx5QzZFMGM2SkJ2Z0doSjdpNjBCZFgwYUtKRjRYVzk3NWZRd1BDNTNTaml3T0V2VFZYUl8w?oc=5",
+      "description": "Hantavirus Updates &nbsp;&nbsp; County of San Luis Obispo (.gov)",
       "source": "Google News",
       "date": "2026-05-15T07:00:00+00:00",
       "raw_date": "Fri, 15 May 2026 07:00:00 GMT"
@@ -398,9 +398,9 @@
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
-      "description": "CDC: Risk to general public from hantavirus is low &nbsp;&nbsp; CIDRAP",
+      "title": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
+      "description": "Opinion | Hantavirus Isn’t Just a Threat. It’s a Test. &nbsp;&nbsp; The New York Times",
       "source": "Google News",
       "date": "2026-05-13T07:00:00+00:00",
       "raw_date": "Wed, 13 May 2026 07:00:00 GMT"
