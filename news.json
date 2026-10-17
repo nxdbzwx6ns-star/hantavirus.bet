@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:39:43.923595+00:00",
+  "updated": "2026-10-17T11:26:14.520987+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -350,14 +350,6 @@
       "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnJpa0FYTThENVlTUFV3VHVVOFVtdkZMQ0QtQjdRNGp1UFFOX0ZYSkhqeGYyZEhEWnljSVg0TVRMQkR3MF83MGxVU2ZfbWNzQ1MzVXIzVHdzQk9fRVFNcDJZUmk3aW1ubEdIN3llT09CWnZVVUdJRXB2UVlwdUdUQ2wzQUFtYkNJQ0U0dnk0cC1SbElPRU53eXVMekZPelIzeHRXN1JfbXdVbXcxU1pGOXU4U1VYTkRJYkJYeEpjZFlhN0piZDUzTdIBzgFBVV95cUxPT3RzTFpVTUJWNDBzREV5c0RveUd3SHgxTDdtVTNReldKQ0htTkJ2Vmx6MG5RMHBHeHRSempXeExWeHFhemIxQ2NfX05MY2Ixa21oN2pDZVltVDZBbFlrMjJGRUFxNmFyVS10UGdUN3FwQ0YzZml4eXBjSWk0VkJ2d0IxTmZvNGhrQnpZUVl1VVJkdWNJaklKeDVrRlN6VHJVT3BJZXdzUlI4MnBqajFXSDRIQ2xkWk9zcW9GYURrWldFUW9JT1YxbjhRM1dzQQ?oc=5",
-      "description": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping &nbsp;&nbsp; ABC7 Los Angeles",
-      "source": "Google News",
-      "date": "2026-06-09T07:00:00+00:00",
-      "raw_date": "Tue, 09 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus Outbreak Highlights the Importance of One Health - Medscape",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnpFX3k2SG00SGktek1Gbnk5QUpOZE9WNFhranhkYS1xUGpfRkE5Y0JXRlpLaWl2dHZtOGt1TjhMZWpnYnJGRTlIYjlTdzlhRHphVjJDRHUxOVVEYXNYdl9mcTUwVFlMeGhaWnJqd0l6NzRXWS14OWRJUkZvcHBMOTNNakpoM0J3bFVCZUpFS1U3S1M0NHM2aUUzS1FXbWoxTlg2Rw?oc=5",
       "description": "Hantavirus Outbreak Highlights the Importance of One Health &nbsp;&nbsp; Medscape",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2026-06-03T07:00:00+00:00",
       "raw_date": "Wed, 03 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXZ3VVFnU0t4S1pVaVJULXhfLU1rWnpGRzFpWlZGYk9aWHNnOXRFeVN4eGZ0c1owNFNjQXFBSmVQN0JDZ2ZjOUpmRFdoWDcxVFpISS00cXRFSU1GMDBtY3VsbXp0LVl1UlY3X3RpTVp1MFNXNnBnOTdUdlhDbk5DTg?oc=5",
+      "description": "Amid Ebola and Hantavirus, science-based information critical for communities as countries strengthen preparedness &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-06-02T07:00:00+00:00",
+      "raw_date": "Tue, 02 Jun 2026 07:00:00 GMT"
     }
   ]
 }
