@@ -1,10 +1,18 @@
 {
-  "updated": "2026-10-22T22:08:57.863550+00:00",
+  "updated": "2026-10-23T01:16:45.781025+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells - Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXRGMjJnX0ZhOXdrV3lDaVl2cTlwaHBTSndLM2J3R3BuMWRyVTloa2N3UzB2bFJmRHprUzJaSUNDVE9xcnhFU2FpN0lSemZtM3BaeHVXZklnaEFrRmVPWWI5WklWV1hqUl9vMmswZXlheGFQZEoxZDJ5VzB6TWhGVHZLRTlRSTh3b1k2TzRDeE45SEtnU3liblFPc1RVWVRPZVRKVkEycEIwRHRSazZMc2w4YnpZbG1KSWN4MFBXTUZmNHFvVlE?oc=5",
+      "description": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "source": "Google News",
+      "date": "2026-10-22T23:50:03+00:00",
+      "raw_date": "Thu, 22 Oct 2026 23:50:03 GMT"
+    },
     {
       "title": "Hantavirus spike structure reveals recessed protocadherin-1 binding pocket - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONE9jVDZweDJEZ2o2Z0J2WG9kT2xPMm0xWVEzWkVmMDdtSEZNRnVnUktrTzViTW9oLTFuRmtPOFFkUTZUaVVzQXV4aGs2YVJjaUlDTVdaVm50Q2pJelNyTkxYWTdnRkhyUFVhaUpjR2ZKVTZtWUN6eUY0eDZ4dzI1LVFnYi1vdW1VblEtc3owYklwTU83NC1iWm5IY3BDYWZ4?oc=5",
@@ -393,14 +401,6 @@
       "title": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG1LSk1zMWlrSDdOWFJWRXY0d3ZKd3N5X3hjREp0OTQ5bm5KLUxXZk1FUUcwbEhBaGZ1MVJDY1dReXhrWWhEa21GMmlDMTR3dUFnMmhzd0dMQWF0SW1rVDRLT0RSRDRXSV92aG9VWTYtZkNxcExtTzhmMWlNN2VxMUFLbGdpdjFJUnlZWk03WXhKNkwybTU4?oc=5",
       "description": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ &nbsp;&nbsp; CIDRAP",
-      "source": "Google News",
-      "date": "2026-05-14T07:00:00+00:00",
-      "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - NewYork-Presbyterian",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
-      "description": "Hantavirus: Symptoms, Risks and How to Stay Safe &nbsp;&nbsp; NewYork-Presbyterian",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
