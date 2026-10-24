@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:17:34.009491+00:00",
+  "updated": "2026-10-24T17:53:59.936158+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -12,6 +12,14 @@
       "source": "Google News",
       "date": "2026-10-23T19:10:24+00:00",
       "raw_date": "Fri, 23 Oct 2026 19:10:24 GMT"
+    },
+    {
+      "title": "Andes hantavirus has a secret pocket - C&EN",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
+      "description": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&EN",
+      "source": "Google News",
+      "date": "2026-10-23T18:34:45+00:00",
+      "raw_date": "Fri, 23 Oct 2026 18:34:45 GMT"
     },
     {
       "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells - Genetic Engineering and Biotechnology News",
@@ -70,14 +78,6 @@
       "raw_date": "Wed, 21 Oct 2026 15:00:15 GMT"
     },
     {
-      "title": "Andes hantavirus has a secret pocket - C&EN",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
-      "description": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&EN",
-      "source": "Google News",
-      "date": "2026-10-20T07:00:00+00:00",
-      "raw_date": "Tue, 20 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZpWjFYVHdhSERqNHVzd3l0MXJlNVdycWhBd1F2eTNIQkh3MmwwaEhuVzNyUGUxTzFadmxQVmhwcHJFU21tWHk4MHd5R3ZKSklKU1FGOGw2Tm5LRmk0MU11Y1hKb3dpaExUaEZUOUZESEk1ekFfSHdrbk41bHZGZmhSalByX2JSSk9xVWhJazllVVBDRXprTGhtVW5BV3dBTi1HdXhhSk5JUmktdjk0?oc=5",
       "description": "What is hantavirus? Symptoms, spread and prevention explained by an expert &nbsp;&nbsp; The University of Utah",
@@ -86,20 +86,20 @@
       "raw_date": "Thu, 08 Oct 2026 01:26:13 GMT"
     },
     {
-      "title": "Suspected hantavirus outbreak may have 'human-to-human transmission': WHO official - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMipApBVV95cUxQbEdLMkdhU3Mya3JMbFJWQ29UQ3BVNTFkT3p2aFpjbkIwMWcwQ2Q5QWFsazVpc1B4UzM2TnZYd0RzaVVpdENRc3dYRkk1d3NIeTY5VEhfdS0tbXNRV3Z5ZEhyT25ydWNrRENOMHI5SkRCRFhna0REeDctUHBva1FOVE9kS2VkLVZNem9tUlFnYUNCak1vcnk0VnF2VWZRUWhSVVFtaFp0WkdubGtpNlFpMFFGTlU4ekI5VnkwcndVSGZiTS1aODRKamlfc3N5bmN0aEh6bUtGM2dqSS00RXE3ZkpUZW9QYkNhNVFyRnNJcFBOQW1DaDJQczc0R0NRclVicnZxRkpyZkJGZjBKNmxYY2swcUM2cVNCN1g4dldFc0NCRVZROGJDbmxCWTVpdklhdkdVcDlzd3AtUk5XYnZCekpnMTRkbEhBcy1GT0ZoS2RlS3hzYVd4Umg5VjI5dnBDT3NhX3F3TzQ4a3JhSlBSLWNHUkpRT20xYURZQmJiQlJrMmFTRXFoRXlQeFJlbk1ub2c2djZKMWtGeGZMdG1zNjZZaUVqTWUxcmRrRU9YcEU5RWhDeE45amI0NlduMU82Ujc1bTZVVTd4UEZGZENRZkVzNkEtQlZldjFjdEVyNTIyLXNkalQtdEhSWi1uX29hZFk4WTRaT1pLWDBZMDlCQUJaUm10anZqNlRKcGdCSjVrWkNTX1pVUmdRSzVwbTlDRXlQbEhKLVFvbElsa0c5bkttZDVKNzlVRHR0bnluSVZLOVJpWW9JTUZ5ZXBqOHl6MjJvYmVRLVcwbURDTDZfTHY4RVA2SGZhZVVidUJtcFozWS0tYWVoNDJkZFlSNmxiMFBKUXFGc19od1dRNHk0UnhMYU80TzVFcHdvZXNVWWROZ01wYzloVE05eFFoMHdZQnhXdGZmQy1qcW1Pb3cwb0xwYlBlWE1CcXJteExCYzBOVFBoTkVVR1ZJZXREOENKSkdXamlpVjhteHRUREsxY3YxZGNRTWNIbU10UGlHYkFqMEQ5VEZMeGdncmNkaHcwdmhla2ZSMFlaWEhLUTdmTWlCbmk1NlJsZ1NZM0ZkYmxmbkxBaGZzWFdTZUVPZUIxOFVLcG10ZVFrN1g5NG9seFdpakpJaVl4MnROUUt3RTlQYUlCQ3c2elAyQnMtOFBsdXN1M2lONkdGbWxnWE5iZTRjc25mVG5Pbmg1aERXbDNOV3ljd0s4Z0EyUFRlcnFLV211WHptQl9xNzVSbHRtWHY5dkRaQzFkVVFDOG9CMEtwSEllaUJYQWhBalpLYWxzRktTdDBOU3ZaalNhOVJhRF9ZY2FHRTlKYlVPcHF6aTJvQlVJYmpQYWU2LThjUjJPX3plS0N4YWVpYTBZVy0tcHMycGF0RC11cHJIUkgwdWhvSUsyMnhiWnk5eXBBcWJxdWIxUU1RaFJvOF9aZm9QN1QwcGlzVjBpRm4yV1FsZHJYdmNIbmxGNlR4NWZ4S2tnc0RBUmlYeFB0UXMxeEg0NVJpZFltLUhiLTNwN0dUazlzckozUk9lTmZidmhmSF9VY1BTMDFaOEZYLXY3RlFIVWpZZl9CVm5DRUt6U1VCMjZUVVJZZHVMZW1tSHdoZ3cwMTMxNjYyQU5YYS1rMVIycmYySXA4QkJqTXYxLTRtMGhDNnNhUzE0SU5KZW50cks5ZmdQbDJucm10LXFKMjIzTzZad3VJRFowWWtpOUVib3F0UWRBYXlwaG40aXdodkpFU2FiZg?oc=5",
-      "description": "Suspected hantavirus outbreak may have 'human-to-human transmission': WHO official &nbsp;&nbsp; ABC7 Los Angeles",
-      "source": "Google News",
-      "date": "2026-10-02T09:26:39+00:00",
-      "raw_date": "Fri, 02 Oct 2026 09:26:39 GMT"
-    },
-    {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "description": "Of mice and men: Examining how hantavirus leaps from rodent to human &nbsp;&nbsp; Virginia Tech News",
       "source": "Google News",
       "date": "2026-09-24T07:00:00+00:00",
       "raw_date": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus explained: from hamsters to human trials - Understanding Animal Research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
+      "description": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; Understanding Animal Research",
+      "source": "Google News",
+      "date": "2026-09-21T07:00:00+00:00",
+      "raw_date": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "National Quarantine Unit (NQU) & Hantavirus Response - National Emerging Special Pathogens Training & Education Center",
@@ -124,14 +124,6 @@
       "source": "Google News",
       "date": "2026-08-04T07:00:00+00:00",
       "raw_date": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Chile declares health alert for hantavirus - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5",
-      "description": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
-      "source": "Google News",
-      "date": "2026-08-01T07:00:00+00:00",
-      "raw_date": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "2026 News - Maryland School of Medicine",
@@ -164,14 +156,6 @@
       "source": "Google News",
       "date": "2026-07-08T07:00:00+00:00",
       "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-      "description": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-      "source": "Google News",
-      "date": "2026-07-02T07:00:00+00:00",
-      "raw_date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
@@ -366,6 +350,14 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Colorado records first hantavirus death since 2024. It’s not from the cruise ship. - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
+      "description": "Colorado records first hantavirus death since 2024. It’s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
+      "source": "Google News",
+      "date": "2026-05-18T07:00:00+00:00",
+      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus: What You Need to Know About the Virus - Unric",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "description": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; Unric",
@@ -393,6 +385,14 @@
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
       "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "source": "Google News",
+      "date": "2026-05-14T07:00:00+00:00",
+      "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - NewYork-Presbyterian",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
+      "description": "Hantavirus: Symptoms, Risks and How to Stay Safe &nbsp;&nbsp; NewYork-Presbyterian",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
