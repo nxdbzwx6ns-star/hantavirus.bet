@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:19:11.752988+00:00",
+  "updated": "2026-10-24T05:27:14.082450+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -18,8 +18,8 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
       "description": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&EN",
       "source": "Google News",
-      "date": "2026-10-23T18:06:16+00:00",
-      "raw_date": "Fri, 23 Oct 2026 18:06:16 GMT"
+      "date": "2026-10-23T18:34:45+00:00",
+      "raw_date": "Fri, 23 Oct 2026 18:34:45 GMT"
     },
     {
       "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells - Genetic Engineering and Biotechnology News",
@@ -36,6 +36,14 @@
       "source": "Google News",
       "date": "2026-10-22T04:13:28+00:00",
       "raw_date": "Thu, 22 Oct 2026 04:13:28 GMT"
+    },
+    {
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-10-22T00:17:32+00:00",
+      "raw_date": "Thu, 22 Oct 2026 00:17:32 GMT"
     },
     {
       "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses - Nature",
@@ -108,14 +116,6 @@
       "source": "Google News",
       "date": "2026-06-11T07:00:00+00:00",
       "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Andes hantavirus – A primer - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-      "description": "Andes hantavirus – A primer &nbsp;&nbsp; Nature",
-      "source": "Google News",
-      "date": "2026-06-05T07:00:00+00:00",
-      "raw_date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "What Is Hantavirus & Should I Worry About It? - Cleveland Clinic",
@@ -374,14 +374,6 @@
       "raw_date": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
-      "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "date": "2026-05-04T07:00:00+00:00",
-      "raw_date": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "How Much do You Need to Worry About Hantavirus? - San Diego County News Center",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTU0zZVdyT1dIUTlmWl9kN2JZTUR0MXlxallhbjJueXV2NXdHMmlSTkpBVUNhZU9ISWF4UzdjNDZBUUpTOFdHckdVdWJBOG81eHJoSDMxUzhfVlF5aW5ZM1B4SWhqMnEzcVB0NUlLU0VKY21VVUJxWGl1ZjhmbjZFZHMyUEVDWkXSAYwBQVVfeXFMTl9EcGlWWkhWQXZBSllyTUk1VGVaYW00YTdYMXplNVJxWml2Ylo4NHEtZ3JPdXFkcGVZZTBoV0FDQzNFSXBwNDJXZFRaalFPbmtxb0pwRVJfdW9lOER0RndEWFEyRjdDclQ3blVOMF9GaWJHaDF6bnc4cnFYb3BHNE5NMF9YcnF0TVc1YWY?oc=5",
       "description": "How Much do You Need to Worry About Hantavirus? &nbsp;&nbsp; San Diego County News Center",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2024-05-20T07:00:00+00:00",
       "raw_date": "Mon, 20 May 2024 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zM01TUlVSbkxIbmNXb0x2QlA0U3RsS2Nqai1VYVAydTNSeHAzMlhCcFBONHZhMnJad0w1LVlvb3JzeV9LRTZsMXVmRll1TzF2X0FvNWpCV3lUYkE1aUdSNVVn?oc=5",
+      "description": "Hantavirus Prevention &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2024-05-13T07:00:00+00:00",
+      "raw_date": "Mon, 13 May 2024 07:00:00 GMT"
     }
   ]
 }
