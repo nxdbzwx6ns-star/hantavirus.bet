@@ -1,18 +1,10 @@
 {
-  "updated": "2026-10-27T01:13:35.728002+00:00",
+  "updated": "2026-10-27T07:24:58.263989+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
-    {
-      "title": "Expert analysis of LLM hantavirus outbreak responses finds 11.1% potentially misleading - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEFZMFZFYUZIZzVMLWp2OWFmRGN5OXdfeVphOHRyekNLTmcySUR5aE4xRy15RE1iVWRrWHh0X3ZWREF0Mm1uZkNlaktYZWpXaTVNbEFVTFhGcktGR3c5a0Z2dl9kaUpvYms3X3ZrbWJuWkxRSlVBUVppQ3hwNFlsVWxaRUVfbk9ZaHc4OWdTNXhUMkF0VWlkUDREbWlKYzFEVndJNkFBam9JWkdpeGVHZw?oc=5",
-      "description": "Expert analysis of LLM hantavirus outbreak responses finds 11.1% potentially misleading &nbsp;&nbsp; Bioengineer.org",
-      "source": "Google News",
-      "date": "2026-10-25T17:58:41+00:00",
-      "raw_date": "Sun, 25 Oct 2026 17:58:41 GMT"
-    },
     {
       "title": "Laboratory diagnosis of hantavirus pulmonary syndrome. Temporary recommendations - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjBSWWJKQVBjcE1FQ2RsN2RyZWdWeFBKY2VNb1NZRTBSQ3hzVk9iTTFRN3JIR2xfNXNoR3lCek9kYnRJSmFOeTZZUF9XeFdVVDRWYks5Q3ZKMlRvZ1VUdGdJMFhLbWVNUmZqRlJWZllHbnpsVGN0RXpmdVpVSUgzWlA3QkxEdk1QMnFqTG4zMUpsSHdINE9ZTlJ4c2xWelNUTUg1eXZmckFKYXkySXUybg?oc=5",
@@ -62,20 +54,20 @@
       "raw_date": "Wed, 21 Oct 2026 22:39:00 GMT"
     },
     {
-      "title": "Scientists Reveal How Deadly Andes Hantavirus Attaches to Human Cells - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFBtUHhkdmJ1aTRrVy1hc092dzZ2N1o5Y2xpVGwxUE9sRkNRSHRMaTJfczJQS2hIWFAxcnRxLWJfYV9SSkRGYm5FZ3VDLVJ5Rm0wTFdZeXloZFo4ZkhlTElCV21wNG5QSDJ3c1h5OXFncFNObVRMNDIwR2tJekZDTU9UOVhDc0pRVWlXeTVuTktJNWYyU0VHdy1RRTBpak45OGNSUVp6bDY3YmZtNnhKanpiQkFIaU5ibHNqUHFkX2RVNUE?oc=5",
-      "description": "Scientists Reveal How Deadly Andes Hantavirus Attaches to Human Cells &nbsp;&nbsp; PR Newswire",
-      "source": "Google News",
-      "date": "2026-10-21T17:08:00+00:00",
-      "raw_date": "Wed, 21 Oct 2026 17:08:00 GMT"
-    },
-    {
       "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5",
       "description": "Structural basis for protocadherin-1 recognition by New World hantaviruses &nbsp;&nbsp; Nature",
       "source": "Google News",
       "date": "2026-10-21T16:37:24+00:00",
       "raw_date": "Wed, 21 Oct 2026 16:37:24 GMT"
+    },
+    {
+      "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnRKVGJoZWNvRnZFNnBKQmZDSjJQYUxFVFE0MjBiQUxWY1R6MlNVaG52bEpERnZJN0drQmFEeWFrNXNiWFNlbTVDVTJXejJndlBVemVQcms1OVZMLUFTTFhob1l1ZnVQM1NwTnAybjN3alg0S0FXX01iM2V6cVFMUFV3?oc=5",
+      "description": "Scientists reveal how deadly Andes hantavirus attaches to human cells &nbsp;&nbsp; Phys.org",
+      "source": "Google News",
+      "date": "2026-10-21T15:00:15+00:00",
+      "raw_date": "Wed, 21 Oct 2026 15:00:15 GMT"
     },
     {
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
@@ -404,6 +396,14 @@
       "source": "Google News",
       "date": "2024-06-26T07:00:00+00:00",
       "raw_date": "Wed, 26 Jun 2024 07:00:00 GMT"
+    },
+    {
+      "title": "Clinician Brief: Hemorrhagic Fever with Renal Syndrome | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lVko4cjN0RVk0UTZZSGFrbFItRkdoUXJVUHZIVXIwWHhtSEtVZFJmY3FFS3VycHJldjhYdTNiNUgwVDNHa1JnSmRaMmh1NUhLNTBaZkQzeFN0ajNQSmhqRzZ2OUp4cXVXY3J3d1FQTQ?oc=5",
+      "description": "Clinician Brief: Hemorrhagic Fever with Renal Syndrome | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2024-05-20T07:00:00+00:00",
+      "raw_date": "Mon, 20 May 2024 07:00:00 GMT"
     }
   ]
 }
