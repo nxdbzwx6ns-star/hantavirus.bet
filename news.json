@@ -1,10 +1,18 @@
 {
-  "updated": "2026-10-28T17:58:23.349145+00:00",
+  "updated": "2026-10-28T22:28:29.809693+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Hantavirus outbreak highlights importance of rapid, coordinated response - New Zealand Doctor",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdldrNlVGNTJGYzJJMUdxck1EajljSEpsdlBBaFBpSkJPcDNDRUJvUVJvTWJVdTNiS3RmWnhVeFNxVkdDenlFUndBOWc3NWpvTHdLZkNOcmRGdi1sVHQ3eDhNbDJPQXpMYmxwU3FtbXVRLS1lTm01bEdHeVRSQU5Kb3JwYWEyZlpVaDlDRWppbG9xcUlPYUI1QmlRejRGcGJKUXNidzRaNlJCZmVidk9LbnZYcWEzeUpaT1ptcA?oc=5",
+      "description": "Hantavirus outbreak highlights importance of rapid, coordinated response &nbsp;&nbsp; New Zealand Doctor",
+      "source": "Google News",
+      "date": "2026-10-28T20:16:24+00:00",
+      "raw_date": "Wed, 28 Oct 2026 20:16:24 GMT"
+    },
     {
       "title": "Antibody therapies target Andes virus through neutralization and Fc-mediated protection - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGt3SlFkbmpVTkRYUndtV1JranBBU0VOYlVhWjRDZ2JQTU5Rb0NOUUo2UTZWR0xQcGw1TVNwYlFxejdwZ3ZnWnJLc3NleWk4YkotNXh2OUZ5QmpnWC1UMTdqb3doQklsOFlkMnZGVHJsWHdNQktGcnpWQnRMOUN1SkZvc2ltaXBYSlgySC1wWktTRDVkU3ZlNFE0NXZXMWFuYV9kZUt5LTVtVHdQMl9ucFNB?oc=5",
@@ -158,6 +166,14 @@
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLWM5dzVpbW81TEZrQnRvRkRTb05DTk5zeUtLY19PdzdSMlNOaHk2b0I3aUh1eFA1RktSaEhOSFBSTWU3Z2JaU1FKN2IydU9zQlV3T2JJUHh3Qlp6?oc=5",
+      "description": "Cruise ship hit by hantavirus outbreak docks in Rotterdam &nbsp;&nbsp; BBC",
+      "source": "Google News",
+      "date": "2026-05-18T07:00:00+00:00",
+      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus: What You Need to Know About the Virus - Unric",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "description": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; Unric",
@@ -238,6 +254,14 @@
       "raw_date": "Sat, 09 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Expert Q&A: What is hantavirus and what you need to know - UC Davis Health",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0hjNjUtSTNlV3ZVT0VOa3JJWV9XejJLbW9hSkNFZWhaTG9TNldVdWdnQnRCc0VjaFdKR25EeWtMQUJBS2VBSWh4SWNFSFFmbWZUd3FnWFREd1BqNkVDcnNHYnhiOFR2c21jQUF1Y28wVjJJTkpfVkxBblpXa1p6N1E2LUY3R0FzYmUwbkNrOGM1VWhKMmp5MzNvMi1YOUN6Vk55OGpzcw?oc=5",
+      "description": "Expert Q&A: What is hantavirus and what you need to know &nbsp;&nbsp; UC Davis Health",
+      "source": "Google News",
+      "date": "2026-05-08T07:00:00+00:00",
+      "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
       "description": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
@@ -249,14 +273,6 @@
       "title": "Hantavirus: Do we need to worry about this rare infection? - Michigan Medicine",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGFic2ZZUXl0SDlyZi1TZXVSZ0g5UWN4bTM2MlpCeWt2dVk0ZFRNOEpYdU1DdTBoREZVc3N6LVdpZ24xSDhNQmsxUVFPVGFyRnV3dUt4a2F3bDZWc29YaTJQbzdqenhjQk5yLVpwZGJsLVZld1hQa205VXgtbUdIaVN4b1V0T2NnTEVzSnZTOWliejQzRXlv?oc=5",
       "description": "Hantavirus: Do we need to worry about this rare infection? &nbsp;&nbsp; Michigan Medicine",
-      "source": "Google News",
-      "date": "2026-05-08T07:00:00+00:00",
-      "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUswYktuVE4tT2d4ak16RGRTZ1QwdHZ3ejVZMHlaLVdnOHhkTGJpTVJKc2Vfck5ZS1llRnotbkU1T2tWUmxEN3NtVWlPWmNNYjRWQ2FkQU44SWdMVlgxSEI4NEJqMzJJUEgzZ05xTk5BYVRvWTdudy1qMHNlSXB0aGFrbw?oc=5",
-      "description": "Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare &nbsp;&nbsp; The Guardian",
       "source": "Google News",
       "date": "2026-05-08T07:00:00+00:00",
       "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
@@ -388,22 +404,6 @@
       "source": "Google News",
       "date": "2024-06-26T07:00:00+00:00",
       "raw_date": "Wed, 26 Jun 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Clinician Brief: Hemorrhagic Fever with Renal Syndrome | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lVko4cjN0RVk0UTZZSGFrbFItRkdoUXJVUHZIVXIwWHhtSEtVZFJmY3FFS3VycHJldjhYdTNiNUgwVDNHa1JnSmRaMmh1NUhLNTBaZkQzeFN0ajNQSmhqRzZ2OUp4cXVXY3J3d1FQTQ?oc=5",
-      "description": "Clinician Brief: Hemorrhagic Fever with Renal Syndrome | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2024-05-20T07:00:00+00:00",
-      "raw_date": "Mon, 20 May 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zM01TUlVSbkxIbmNXb0x2QlA0U3RsS2Nqai1VYVAydTNSeHAzMlhCcFBONHZhMnJad0w1LVlvb3JzeV9LRTZsMXVmRll1TzF2X0FvNWpCV3lUYkE1aUdSNVVn?oc=5",
-      "description": "Hantavirus Prevention &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2024-05-13T07:00:00+00:00",
-      "raw_date": "Mon, 13 May 2024 07:00:00 GMT"
     }
   ]
 }
