@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-31T00:27:52.987596+00:00",
-  "total": 48,
+  "updated": "2026-10-31T06:42:23.599590+00:00",
+  "total": 45,
   "sources": [
     "Google News"
   ],
   "articles": [
     {
-      "title": "El Niño, The Shy Deer Mouse And Hantavirus - Los Alamos Daily Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRkhxR1VKZGVYdlJ2UXhERWdiWWJ0cWd1aUNDUzhZMHdKeTZTUVFfNUVzanZnM3R0ai1ZVFpIMV92THZOVzRsVHVhdF9JdVYwbHpCSWE2dnNBdlllbnpGMzRjUThBRUJiRmZFN3ZPemRkQXdlM0ZzZnZXWl9SMWxQVjB0SE9Sb2Y0SjMzZ3l5NTlPNnhUdGhIS2sxTU1KNkdCVkpuRFM4VkEzRVN6eTdLMzZXSlB0WnQwU0lsb1NwNEZrZ1RQMHk5eTdR?oc=5",
-      "description": "El Niño, The Shy Deer Mouse And Hantavirus &nbsp;&nbsp; Los Alamos Daily Post",
+      "title": "Tracking Hantavirus in California Through Sequencing - Infectious Disease Special Edition",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEU1cS1zWkxxV1NuM2N6UmJ6cXY2akN6bV91ZTBTdU1vSmcxUjRwdk4zMTJINGlucFZSU040cU1HcFpNRkdLZWpNZnJBYUJwU19QWGhVWTUtSTRORkdhbWVDeFAybFlpLXpUZFA2OFMzeF9aMExrTVA4a0tQT2xEYV80dUtUNzNva1F1d1VWNzBEeEszUExvQVRVcGszR2t1WWVCMW1Qcw?oc=5",
+      "description": "Tracking Hantavirus in California Through Sequencing &nbsp;&nbsp; Infectious Disease Special Edition",
       "source": "Google News",
-      "date": "2026-10-29T15:11:00+00:00",
-      "raw_date": "Thu, 29 Oct 2026 15:11:00 GMT"
+      "date": "2026-10-31T04:01:11+00:00",
+      "raw_date": "Sat, 31 Oct 2026 04:01:11 GMT"
     },
     {
       "title": "Why WHO sounded the alarm on Ebola but not hantavirus - New Zealand Doctor",
@@ -36,14 +36,6 @@
       "source": "Google News",
       "date": "2026-10-23T18:34:45+00:00",
       "raw_date": "Fri, 23 Oct 2026 18:34:45 GMT"
-    },
-    {
-      "title": "Scientists Reveal How Deadly Andes Hantavirus Attaches to Human Cells - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFBtUHhkdmJ1aTRrVy1hc092dzZ2N1o5Y2xpVGwxUE9sRkNRSHRMaTJfczJQS2hIWFAxcnRxLWJfYV9SSkRGYm5FZ3VDLVJ5Rm0wTFdZeXloZFo4ZkhlTElCV21wNG5QSDJ3c1h5OXFncFNObVRMNDIwR2tJekZDTU9UOVhDc0pRVWlXeTVuTktJNWYyU0VHdy1RRTBpak45OGNSUVp6bDY3YmZtNnhKanpiQkFIaU5ibHNqUHFkX2RVNUE?oc=5",
-      "description": "Scientists Reveal How Deadly Andes Hantavirus Attaches to Human Cells &nbsp;&nbsp; PR Newswire",
-      "source": "Google News",
-      "date": "2026-10-21T17:08:00+00:00",
-      "raw_date": "Wed, 21 Oct 2026 17:08:00 GMT"
     },
     {
       "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses - Nature",
@@ -118,9 +110,9 @@
       "raw_date": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -318,14 +310,6 @@
       "raw_date": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people - PBS",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDZydV8xVndud2ZCbWFHRkRDYl84MVQ2M0Q3WDF6ZkY0dGprTTVHNnlWZE9lVjJYQk5nRlB3elp6N29wQ2tJT2dETHdackJtN3VqbzVOR2hXbWxwVS0tY1Nfc3ZyOWlBa1ZudVc1RVJLNnZ5dkFPWlROZmtGa1UzdFpTX3BlSmZHMWxmX1lPWDZFSGhoamlfUVpWTjBUemVfWTliTUctMFQ4TGlUUW5QVHRlSllhVDg4dUFIUWNGbW96SDMzdXRYMllGTDhHWERJbEYzOQ?oc=5",
-      "description": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people &nbsp;&nbsp; PBS",
-      "source": "Google News",
-      "date": "2026-05-04T07:00:00+00:00",
-      "raw_date": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus crops up on a cruise ship — what scientists are watching - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YeXhjeFJQUzBoOU5aNUo5SHFqYVp0RGFwNTlyOFFpTnlZcGpVc3RBd09MQ0FEdmEzLUkzSG1XX0NpdXdMSUl0ZlFSNkZ5bnBhOGNpYko0eC0wRjhhOHQw?oc=5",
       "description": "Hantavirus crops up on a cruise ship — what scientists are watching &nbsp;&nbsp; Nature",
@@ -380,14 +364,6 @@
       "source": "Google News",
       "date": "2021-05-10T07:00:00+00:00",
       "raw_date": "Mon, 10 May 2021 07:00:00 GMT"
-    },
-    {
-      "title": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-      "description": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-      "source": "Google News",
-      "date": "2020-12-02T08:00:00+00:00",
-      "raw_date": "Wed, 02 Dec 2020 08:00:00 GMT"
     }
   ]
 }
