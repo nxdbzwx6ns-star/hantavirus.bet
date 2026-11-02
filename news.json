@@ -1,10 +1,18 @@
 {
-  "updated": "2026-11-02T00:20:35.256324+00:00",
+  "updated": "2026-11-02T07:20:49.071780+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
+      "description": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "date": "2026-10-31T14:14:19+00:00",
+      "raw_date": "Sat, 31 Oct 2026 14:14:19 GMT"
+    },
     {
       "title": "Tracking Hantavirus in California Through Sequencing - Infectious Disease Special Edition",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEU1cS1zWkxxV1NuM2N6UmJ6cXY2akN6bV91ZTBTdU1vSmcxUjRwdk4zMTJINGlucFZSU040cU1HcFpNRkdLZWpNZnJBYUJwU19QWGhVWTUtSTRORkdhbWVDeFAybFlpLXpUZFA2OFMzeF9aMExrTVA4a0tQT2xEYV80dUtUNzNva1F1d1VWNzBEeEszUExvQVRVcGszR2t1WWVCMW1Qcw?oc=5",
@@ -28,6 +36,14 @@
       "source": "Google News",
       "date": "2026-10-23T07:00:00+00:00",
       "raw_date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "LSU Health Shreveport researchers unlock how hantavirus infects humans | In Case You Missed It - KTBS 3",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON3p5ZVVxYkdQVmdLUVRiTGhhTUxoTDdoaVJVYm52UUJZazZEcURzUE5ZQWFuUGt2dm5MbHNId3RsbTFaYmdBMkpGclhUYmxRdENzLUJvS1ozZzQzN1lOSFRtRkxzSkU0X1ZYSGppMFNtcFdaSHdicU1PR1ROT2lCV0pHUTdNRE5YVExwVWQ2LVJoRWRGczFPT0hYWExBU0JuSnJ2Yk9QQUpKTmJ0ZEpKVVFPai1nZWU0VktVa3l0bVdINFNmaWpBRVM5bzZMY2taSDJEYzRGTU5JSF9fQUNZN0lTUlBsV2otdzBmX0RORWN4d0hReWVR?oc=5",
+      "description": "LSU Health Shreveport researchers unlock how hantavirus infects humans | In Case You Missed It &nbsp;&nbsp; KTBS 3",
+      "source": "Google News",
+      "date": "2026-10-21T07:00:00+00:00",
+      "raw_date": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Hantavirus and the mouth: Review maps early oral warning signs, salivary clues, and precautions for dental teams - EurekAlert!",
@@ -342,9 +358,9 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care® (AJMC®)",
+      "description": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
@@ -388,22 +404,6 @@
       "source": "Google News",
       "date": "2026-06-23T07:00:00+00:00",
       "raw_date": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha - Wright-Patterson AFB (.mil)",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzlwZ3d1bW0tb0xFaWRYdWJ0NzlOREdwNkpyU2dGUGdwcDhtaFl6NGUyV191WHNGd0doSEVBQlc1Q3Vtd3BwVXVwdEhnRVZsMEZac0wta1c3cGpFZXdkMTgya0pTek05WW9CdDZESENWRkE4WjBnMW9uZmlpTE5QbzdLaER3QVFLeWFHUFVMX2hhN3lHeGgyWlI4MnRjUm43dEpWWEtLTXpUTk9pd0hHVFhVTDk0TnRXaFNWY0RTMHNMTk12aURhUVdHSVV2QVZF?oc=5",
-      "description": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha &nbsp;&nbsp; Wright-Patterson AFB (.mil)",
-      "source": "Google News",
-      "date": "2026-06-22T07:00:00+00:00",
-      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "What Arizona should understand about hantavirus - ASU News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEt6SlRoVHllNFFsTk41MzhzUXZfRmhHa25oSlprcFEwRlVTdGhmWmN2WUwwSzl1eWdldHVPZjVaWGY0R2FITDhwYjZ0ZEgyMnpUVk5Ob0hRclREVEFrMFdaaENpNFBzakJQNEtCa191Y0JMSWFrVTduMTNqV3NHREZieHFIbXI5VUViaVRlMFRGeVBGYVZqSG5FeUNlQQ?oc=5",
-      "description": "What Arizona should understand about hantavirus &nbsp;&nbsp; ASU News",
-      "source": "Google News",
-      "date": "2026-06-22T07:00:00+00:00",
-      "raw_date": "Mon, 22 Jun 2026 07:00:00 GMT"
     }
   ]
 }
