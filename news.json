@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T16:54:10.963293+00:00",
+  "updated": "2026-11-04T22:27:37.606694+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -30,6 +30,14 @@
       "raw_date": "Mon, 02 Nov 2026 17:31:15 GMT"
     },
     {
+      "title": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtVSVpkSlk0UHZYVU43VHpvSl9COEdXR3dXYlJSVVM3YXFFS3lBQ3pmZ1EtS1F0U3paM29TNU5uczNoSldRN0hDdXk3OUxnWV9lek0tTjlYVG11TFFKV1I1Ri1SMDZMSUt4V19FTzJwV1hKaGRmcUQ4Ui1jNXVTeml3?oc=5",
+      "description": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
+      "source": "Google News",
+      "date": "2026-11-02T16:48:37+00:00",
+      "raw_date": "Mon, 02 Nov 2026 16:48:37 GMT"
+    },
+    {
       "title": "WHO chief urges completion of international pandemic treaty amid Ebola and hantavirus threats - Head Topics",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2REYThxbmE5VzBmd1VsRjJyQk5Va0E0WWJSOUJEeGFtWDAzU3BvUV9WYUgtWVFqbmhOQXh4Qjl4ZUVoTFBYZHd4SS1OcS1OSzRtZ0Y4NUhMYklzTEVZYkRsMV9IY294NXR3YVllaHJ3LTJlRGp3eWxHR0RsTk5qLVc2OGVBUjZZR1ZWRUhXLWZkalFwc1ZCNURhVW5IblFP?oc=5",
       "description": "WHO chief urges completion of international pandemic treaty amid Ebola and hantavirus threats &nbsp;&nbsp; Head Topics",
@@ -50,8 +58,8 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZpWjFYVHdhSERqNHVzd3l0MXJlNVdycWhBd1F2eTNIQkh3MmwwaEhuVzNyUGUxTzFadmxQVmhwcHJFU21tWHk4MHd5R3ZKSklKU1FGOGw2Tm5LRmk0MU11Y1hKb3dpaExUaEZUOUZESEk1ekFfSHdrbk41bHZGZmhSalByX2JSSk9xVWhJazllVVBDRXprTGhtVW5BV3dBTi1HdXhhSk5JUmktdjk0?oc=5",
       "description": "What is hantavirus? Symptoms, spread and prevention explained by an expert &nbsp;&nbsp; The University of Utah",
       "source": "Google News",
-      "date": "2026-10-08T01:26:13+00:00",
-      "raw_date": "Thu, 08 Oct 2026 01:26:13 GMT"
+      "date": "2026-10-08T07:00:00+00:00",
+      "raw_date": "Thu, 08 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -396,14 +404,6 @@
       "source": "Google News",
       "date": "2021-05-10T07:00:00+00:00",
       "raw_date": "Mon, 10 May 2021 07:00:00 GMT"
-    },
-    {
-      "title": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina - NEJM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-      "description": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; NEJM",
-      "source": "Google News",
-      "date": "2020-12-02T08:00:00+00:00",
-      "raw_date": "Wed, 02 Dec 2020 08:00:00 GMT"
     }
   ]
 }
