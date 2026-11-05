@@ -1,17 +1,25 @@
 {
-  "updated": "2026-11-05T11:56:02.563060+00:00",
-  "total": 49,
+  "updated": "2026-11-05T19:40:53.532967+00:00",
+  "total": 48,
   "sources": [
     "Google News"
   ],
   "articles": [
     {
+      "title": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONm54TFhvMlBuaGNXQ1hmbFdzVTA3RG9jRlNOaHVwRnZyRm5BZ0JMY0JwSlpLUXBsZVQ4LTc3UTBiOGQ0bE03OHBZbjk4WXROTVhEZmM0N3dNMFhUMGdBUVBZUkhBaElTa0hvNFFYTTh3c01sVWRCMDd5NDFtNUdTbDU0NUVlX0NwbmctX25vODgzTFdvWkVoM1NlbUNMeTVP?oc=5",
+      "description": "Study Identifies How Antibodies Block Hantavirus Entry &nbsp;&nbsp; EMJ",
+      "source": "Google News",
+      "date": "2026-11-05T12:02:04+00:00",
+      "raw_date": "Thu, 05 Nov 2026 12:02:04 GMT"
+    },
+    {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
       "description": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "Google News",
-      "date": "2026-11-04T05:12:25+00:00",
-      "raw_date": "Wed, 04 Nov 2026 05:12:25 GMT"
+      "date": "2026-11-05T02:21:31+00:00",
+      "raw_date": "Thu, 05 Nov 2026 02:21:31 GMT"
     },
     {
       "title": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
@@ -137,14 +145,6 @@
       "title": "Take precautions with hantavirus. Coloradans at higher risk. - UCHealth",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xelZ5ZGdGVVYxYU8zY3hkWEpXVjd4RmtiWmtYU3lGVGRhM2NuMi11d0FuZ1hHYk9Fb2t5M0VOeTBSdEZRMnVjRi1QZW0xUHdMV2pCNlYtalZLeUk3X2FFanZ5VnVRbE5ERVJHMkJLMWZKZw?oc=5",
       "description": "Take precautions with hantavirus. Coloradans at higher risk. &nbsp;&nbsp; UCHealth",
-      "source": "Google News",
-      "date": "2026-05-18T07:00:00+00:00",
-      "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - seMissourian",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbldqQklEZWV3Nk0yLVRhSVRiQWZqeUJfZEtFNjJQTnNNVUVOZzNBTE5oNTltTzk2RDJySjg5TWg0cmpRNHhVWk9WNlRYVlRKdVVxWVFOdmpKa05JOU1zZ19MT2dvY3hadzdTTTZwd05FcUUyOWpBVlFSRE8zZ3U1cy1HLVFuRmZmYktxS0xGMjVaYnhKT3FfaTFCLURrNzJYdXF2UjFERnNySUYwZjgxVE5sWQ?oc=5",
-      "description": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection &nbsp;&nbsp; seMissourian",
       "source": "Google News",
       "date": "2026-05-18T07:00:00+00:00",
       "raw_date": "Mon, 18 May 2026 07:00:00 GMT"
@@ -276,14 +276,6 @@
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Nothing Can Sink the Cruise Ship - by Jillian Lederman - The Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bDNncm5wM0J5RDdBc2RjT2pRV2hYSzZOalJWNUxoRU9nanBscEpaYVA2LWl0eXJ4S1gzUTB3SzE3eEhNenQ2bUdGU0NvVjZvTGxOTWNEbllKZw?oc=5",
-      "description": "Nothing Can Sink the Cruise Ship - by Jillian Lederman &nbsp;&nbsp; The Free Press",
-      "source": "Google News",
-      "date": "2026-05-07T00:19:17+00:00",
-      "raw_date": "Thu, 07 May 2026 00:19:17 GMT"
     },
     {
       "title": "Cruise ship’s hantavirus outbreak puts researchers in uncharted territory - Science | AAAS",
