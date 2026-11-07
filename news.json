@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T19:56:35.618762+00:00",
-  "total": 45,
+  "updated": "2026-11-07T23:31:01.764539+00:00",
+  "total": 46,
   "sources": [
     "Google News"
   ],
@@ -20,14 +20,6 @@
       "source": "Google News",
       "date": "2026-11-03T14:57:55+00:00",
       "raw_date": "Tue, 03 Nov 2026 14:57:55 GMT"
-    },
-    {
-      "title": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtVSVpkSlk0UHZYVU43VHpvSl9COEdXR3dXYlJSVVM3YXFFS3lBQ3pmZ1EtS1F0U3paM29TNU5uczNoSldRN0hDdXk3OUxnWV9lek0tTjlYVG11TFFKV1I1Ri1SMDZMSUt4V19FTzJwV1hKaGRmcUQ4Ui1jNXVTeml3?oc=5",
-      "description": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
-      "source": "Google News",
-      "date": "2026-11-02T16:48:37+00:00",
-      "raw_date": "Mon, 02 Nov 2026 16:48:37 GMT"
     },
     {
       "title": "Andes hantavirus has a secret pocket - Chemical & Engineering News",
@@ -316,6 +308,22 @@
       "source": "Google News",
       "date": "2026-04-01T07:00:00+00:00",
       "raw_date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Final autopsy results on Gene Hackman and his wife, Betsy Arakawa, reveal complex health issues - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkFna1NVNjV5RlVTQ3Q0bS1yeUdRSjQzOVBBTGNUdmp6MGwzUU5QNTRYOERIUnNRVnpHeHVyOHg3RWtOQVpnM1M5Qm9WSHQwYXVNOXZBTzlVZ0ZXcERhTEl3VjNEcGt3MWM0ZkFmY2pyY2FESS1wMXJJYng3dDgybFVNNWZETlAwRDdxNmNjOTlUTjJGaF9DYmdVSXdnd29HZ0NHTU1PQ3dEd1BvSzFlMy1wT2xsZw?oc=5",
+      "description": "Final autopsy results on Gene Hackman and his wife, Betsy Arakawa, reveal complex health issues &nbsp;&nbsp; The Guardian",
+      "source": "Google News",
+      "date": "2025-04-28T07:00:00+00:00",
+      "raw_date": "Mon, 28 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Gene Hackman and Betsy Arakawa death: New evidence in timeline - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3cnJYOFNJdW5hNk1KckhhaWdaRXFmRlFtaEQxMjR2Y1RwSkpZcUlBcS1VTW9ZX0ZiWEV2dE9MUURaMGx1UG9Oc01aalVZOVFLbUVVZFBwcE9Ydw?oc=5",
+      "description": "Gene Hackman and Betsy Arakawa death: New evidence in timeline &nbsp;&nbsp; BBC",
+      "source": "Google News",
+      "date": "2025-03-17T07:00:00+00:00",
+      "raw_date": "Mon, 17 Mar 2025 07:00:00 GMT"
     },
     {
       "title": "How Much do You Need to Worry About Hantavirus? - San Diego County News Center",
