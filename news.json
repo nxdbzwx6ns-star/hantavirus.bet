@@ -1,10 +1,34 @@
 {
-  "updated": "2026-11-12T15:48:12.075677+00:00",
-  "total": 48,
+  "updated": "2026-11-12T22:05:15.758024+00:00",
+  "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Human-to-Human Hantavirus Spread Confirmed on M/V Hondius - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGVxY00tdGZPanBtSHZZVWdCVFpidHFxa3Z2M0hTU1R0cHJ5Q0tBbEg5N3pVVnk3UVNPbXE0QTBMVTNMYk1GcDlSQWlaWWZ2aERNTlRWRGNtNndyV1EtNmJfUmVDak9MWjltNFVUbE8zVU5XQ1M3RUl2TGpyaWF3bEktNy1zRnJO?oc=5",
+      "description": "Human-to-Human Hantavirus Spread Confirmed on M/V Hondius &nbsp;&nbsp; Mirage News",
+      "source": "Google News",
+      "date": "2026-11-12T19:56:00+00:00",
+      "raw_date": "Thu, 12 Nov 2026 19:56:00 GMT"
+    },
+    {
+      "title": "Andes hantavirus outbreak examined by scientists through its genome - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU25LTmJRblo2UjE5VFZjekRRYWZoUlNFUThqXzBERDdDZTM5S2FfN0xycWlnaDRsejQzZnI0eUxaT2NTQlBkVEtxVi1SUnpXUWhxTU9zcWQwSUtaV1N0WjRKN2JrSmZRZERwU1RrTkRiRGNxWlo2bDlsLWFSQmV5MHBQN0ExR3BkU2NUMF9IdjJCd3I5aXVpWVpUUFA5dDdrV0hBTHR6ZlhiMUllRUQxazVPenVSQkszdUQxOExHU2ZnY2lqZnlrTXVIMkVKNVJ0d2c?oc=5",
+      "description": "Andes hantavirus outbreak examined by scientists through its genome &nbsp;&nbsp; Le Monde.fr",
+      "source": "Google News",
+      "date": "2026-11-12T19:03:12+00:00",
+      "raw_date": "Thu, 12 Nov 2026 19:03:12 GMT"
+    },
+    {
+      "title": "Hantavirus on a Cruise Ship: Study Provides New Insights - blue News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFNlaHFOWDhscUFnSGRuTDRFcDJyakpmOThXUFNWVmplSnhVWWF2Rl9xd0lPSWRiMnpuMFNTWlVHeXF3eWlMbEJ4a3F5TkZvZVRkQlRUQkZZYm1WdjliSXk0N1NtTC1YYlRJdmtDdEVHV0Z1V1FRWlBXT3B1cERkSG9mRV9oaHExS0pRSGs1NlZVVFBnd1ZGbjZtMlpZZw?oc=5",
+      "description": "Hantavirus on a Cruise Ship: Study Provides New Insights &nbsp;&nbsp; blue News",
+      "source": "Google News",
+      "date": "2026-11-12T19:01:50+00:00",
+      "raw_date": "Thu, 12 Nov 2026 19:01:50 GMT"
+    },
     {
       "title": "Hantavirus Neutralizing Antibodies Differ Between Historical Vaccine and Circulating Chinese Strains - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjE3YUNZQ0FyZ2F4R2Q2eUEtX2YxaTR2Tzg2SnpmUDBmMjdlZjF0SDJzM3VsbEtveVpfd0NjU0VVWXlUVFNtdFlobTlvMTlDRmpPZ0l1UzBGb0w2ZlJYdzZac3hQRFQ2XzRKVzhBX0d4bG9YREZrazc4UEpTbVlZaW9rX09aMzZxbVdRWG91MWJYYWs5YmhfYmNwVWRReDZVVG9hVkNwazNTQ3Z2anRYOHZrSWk2RzBKMVY5bG5qVWxLLVk?oc=5",
@@ -22,12 +46,12 @@
       "raw_date": "Wed, 11 Nov 2026 19:07:49 GMT"
     },
     {
-      "title": "Norovirus No. 1 cause of cruise ship outbreaks for past 30 years, but other pathogens gaining - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXF0eXBFenlERzYwU3BXRWw1STdVdG00Z2RsZEtyMGQ4QmczYmRsbTdZR3BSYTJrTXVCWGNOLXB2MEhKTEVRMjlLVGNwX25RX3dMWjFfSjY4R0NsaVFGYnJ4VXBWMXg2LVRIR3JsVU52aUNMMWNFYWJ3SUM4ZS0tU1pldG9CYVF4U0xCU1RKM1ZYajhnNUozcDk3S2pTM0dobVAwNVpOSUhKZGZaZU1Lc2pyQmxKMGJF?oc=5",
-      "description": "Norovirus No. 1 cause of cruise ship outbreaks for past 30 years, but other pathogens gaining &nbsp;&nbsp; CIDRAP",
+      "title": "Hantavirus Cases Highlight Climate-Driven Zoonotic Spillover Risks - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDlFX1ZSc2h6NHFsSGlaeWpyenUyZVVOenpyc0wyellRRW5aWDNlaDRtcFJFQzBtOHhFYUtiU1Q2al9WSVN6RnJTUDMzUmRhSjI0MkMyVERtR0xJZjJxM2dyYkNxcDk5UmI2MkFwZ04xSk93NUVYdkxmN2NtUUN3WlFMdGtZdF9pQnFPeWVCSHFPbjZCQVE?oc=5",
+      "description": "Hantavirus Cases Highlight Climate-Driven Zoonotic Spillover Risks &nbsp;&nbsp; Bioengineer.org",
       "source": "Google News",
-      "date": "2026-11-09T20:37:49+00:00",
-      "raw_date": "Mon, 09 Nov 2026 20:37:49 GMT"
+      "date": "2026-11-10T22:35:17+00:00",
+      "raw_date": "Tue, 10 Nov 2026 22:35:17 GMT"
     },
     {
       "title": "Hantavirus Cruise Outbreak: No Detected Spread, Low Risk to Contacts - Forbes",
@@ -36,14 +60,6 @@
       "source": "Google News",
       "date": "2026-11-09T07:54:00+00:00",
       "raw_date": "Mon, 09 Nov 2026 07:54:00 GMT"
-    },
-    {
-      "title": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONm54TFhvMlBuaGNXQ1hmbFdzVTA3RG9jRlNOaHVwRnZyRm5BZ0JMY0JwSlpLUXBsZVQ4LTc3UTBiOGQ0bE03OHBZbjk4WXROTVhEZmM0N3dNMFhUMGdBUVBZUkhBaElTa0hvNFFYTTh3c01sVWRCMDd5NDFtNUdTbDU0NUVlX0NwbmctX25vODgzTFdvWkVoM1NlbUNMeTVP?oc=5",
-      "description": "Study Identifies How Antibodies Block Hantavirus Entry &nbsp;&nbsp; EMJ",
-      "source": "Google News",
-      "date": "2026-11-05T12:02:04+00:00",
-      "raw_date": "Thu, 05 Nov 2026 12:02:04 GMT"
     },
     {
       "title": "Andes hantavirus has a secret pocket - Chemical & Engineering News",
@@ -94,20 +110,20 @@
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
+      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
+      "source": "Google News",
+      "date": "2026-06-11T07:00:00+00:00",
+      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "What Is Hantavirus & Should I Worry About It? - Cleveland Clinic",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZV9NdkNKNjNudzlEeTM4VlRlVEVPNk1QMzl6c1JRRnhOMTZQaWNBaFI4REpkTWRUbUQzNkt4QmV1SmhCLS03UXplV1FVd2V0XzhDUUhZTEZRNjE2SlA3S25RQ19TWWp6bjc0RlVqLU9yY1E3ajhVc1BFWllKLVpOV2c5N3FKVEllRlE?oc=5",
       "description": "What Is Hantavirus & Should I Worry About It? &nbsp;&nbsp; Cleveland Clinic",
       "source": "Google News",
       "date": "2026-05-28T07:00:00+00:00",
       "raw_date": "Thu, 28 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How South African scientists identified hantavirus on a crui... - seMissourian",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGstVlFsdmhrRzdCM1JiNzlGU2s4cE5lZzJ4QkoyOXBSMk13M3pTZmxiZ0pwX3pjWFJrbkgyMHk1a2t6ZmlLX2xJTkNQWlk3X1JLb0VIaHdWaWhpak1kWmgzSkRaeHJ2bzNPaFBielpKaXB6LTU3YVc0V1VMZmdTRjFaOGhqekFIaV91QnpXWFRXUUZVVDNaSEF6R2d6YU9xakowRWdISngtX3ZWMnR0WlZvaW1aX0JQdWwzWVgtZVh3VTRYRWc1MnRpZmZINWta?oc=5",
-      "description": "How South African scientists identified hantavirus on a crui... &nbsp;&nbsp; seMissourian",
-      "source": "Google News",
-      "date": "2026-05-23T07:00:00+00:00",
-      "raw_date": "Sat, 23 May 2026 07:00:00 GMT"
     },
     {
       "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
@@ -238,17 +254,17 @@
       "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "title": "What to know about hantavirus after cruise ship outbreak - University of South Florida",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zclp0MjRmNjVvZy0tY0h0aWFJYXlfdGtDemRMMENsczZxYlV0ajlWWmItZm1NMEhLV2djRGZwcTJNNHBoWFRHd0k3T05BR1RDRDFHZjBjcTc2WU9HQ1pGX3k5cXNCRzhzVE5tcHdKcVc4MWRXdFdIUExFOA?oc=5",
-      "description": "What to know about hantavirus after cruise ship outbreak &nbsp;&nbsp; University of South Florida",
+      "title": "Hantavirus: Do we need to worry about this rare infection? - Michigan Medicine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGFic2ZZUXl0SDlyZi1TZXVSZ0g5UWN4bTM2MlpCeWt2dVk0ZFRNOEpYdU1DdTBoREZVc3N6LVdpZ24xSDhNQmsxUVFPVGFyRnV3dUt4a2F3bDZWc29YaTJQbzdqenhjQk5yLVpwZGJsLVZld1hQa205VXgtbUdIaVN4b1V0T2NnTEVzSnZTOWliejQzRXlv?oc=5",
+      "description": "Hantavirus: Do we need to worry about this rare infection? &nbsp;&nbsp; Michigan Medicine",
       "source": "Google News",
       "date": "2026-05-08T07:00:00+00:00",
       "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Hantavirus: Do we need to worry about this rare infection? - Michigan Medicine",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGFic2ZZUXl0SDlyZi1TZXVSZ0g5UWN4bTM2MlpCeWt2dVk0ZFRNOEpYdU1DdTBoREZVc3N6LVdpZ24xSDhNQmsxUVFPVGFyRnV3dUt4a2F3bDZWc29YaTJQbzdqenhjQk5yLVpwZGJsLVZld1hQa205VXgtbUdIaVN4b1V0T2NnTEVzSnZTOWliejQzRXlv?oc=5",
-      "description": "Hantavirus: Do we need to worry about this rare infection? &nbsp;&nbsp; Michigan Medicine",
+      "title": "Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUswYktuVE4tT2d4ak16RGRTZ1QwdHZ3ejVZMHlaLVdnOHhkTGJpTVJKc2Vfck5ZS1llRnotbkU1T2tWUmxEN3NtVWlPWmNNYjRWQ2FkQU44SWdMVlgxSEI4NEJqMzJJUEgzZ05xTk5BYVRvWTdudy1qMHNlSXB0aGFrbw?oc=5",
+      "description": "Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare &nbsp;&nbsp; The Guardian",
       "source": "Google News",
       "date": "2026-05-08T07:00:00+00:00",
       "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
@@ -374,20 +390,20 @@
       "raw_date": "Mon, 13 May 2024 07:00:00 GMT"
     },
     {
+      "title": "How to Clean Up After Rodents - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZOEplZ0ZVNDRidHlBdWlKRndRenh0R3RxYks4NV9fa3lkcTV4M2hfT1dBV3phb2Vyam9UVXlyeFF2ZEhJT25SUWVqcG8tNkVwLTJENFVDblppX2hRdkpBaXlxR2l4aExQT0RhS0JB?oc=5",
+      "description": "How to Clean Up After Rodents &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News",
+      "date": "2024-04-08T07:00:00+00:00",
+      "raw_date": "Mon, 08 Apr 2024 07:00:00 GMT"
+    },
+    {
       "title": "The Next Pandemic: Hantavirus? - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UaXIxYUpueHQ3cjlDTWhidVo3RnJNR1lSWlE0MDN1V0FocUtZRkhqVDZrdERqMDVWS1Z1Slk3UzdYejlRUWUzT2U4bm42NDZsc1NUa285bzYxYS1qWFRGRkxuN1g1VHI0SlE?oc=5",
       "description": "The Next Pandemic: Hantavirus? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
       "source": "Google News",
       "date": "2021-05-10T07:00:00+00:00",
       "raw_date": "Mon, 10 May 2021 07:00:00 GMT"
-    },
-    {
-      "title": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina - NEJM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-      "description": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; NEJM",
-      "source": "Google News",
-      "date": "2020-12-02T08:00:00+00:00",
-      "raw_date": "Wed, 02 Dec 2020 08:00:00 GMT"
     }
   ]
 }
