@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T06:05:51.066259+00:00",
-  "total": 47,
+  "updated": "2026-11-12T15:48:12.075677+00:00",
+  "total": 48,
   "sources": [
     "Google News"
   ],
@@ -22,12 +22,12 @@
       "raw_date": "Wed, 11 Nov 2026 19:07:49 GMT"
     },
     {
-      "title": "Hantavirus Cases Highlight Climate-Driven Zoonotic Spillover Risks - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDlFX1ZSc2h6NHFsSGlaeWpyenUyZVVOenpyc0wyellRRW5aWDNlaDRtcFJFQzBtOHhFYUtiU1Q2al9WSVN6RnJTUDMzUmRhSjI0MkMyVERtR0xJZjJxM2dyYkNxcDk5UmI2MkFwZ04xSk93NUVYdkxmN2NtUUN3WlFMdGtZdF9pQnFPeWVCSHFPbjZCQVE?oc=5",
-      "description": "Hantavirus Cases Highlight Climate-Driven Zoonotic Spillover Risks &nbsp;&nbsp; Bioengineer.org",
+      "title": "Norovirus No. 1 cause of cruise ship outbreaks for past 30 years, but other pathogens gaining - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXF0eXBFenlERzYwU3BXRWw1STdVdG00Z2RsZEtyMGQ4QmczYmRsbTdZR3BSYTJrTXVCWGNOLXB2MEhKTEVRMjlLVGNwX25RX3dMWjFfSjY4R0NsaVFGYnJ4VXBWMXg2LVRIR3JsVU52aUNMMWNFYWJ3SUM4ZS0tU1pldG9CYVF4U0xCU1RKM1ZYajhnNUozcDk3S2pTM0dobVAwNVpOSUhKZGZaZU1Lc2pyQmxKMGJF?oc=5",
+      "description": "Norovirus No. 1 cause of cruise ship outbreaks for past 30 years, but other pathogens gaining &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
-      "date": "2026-11-10T22:35:17+00:00",
-      "raw_date": "Tue, 10 Nov 2026 22:35:17 GMT"
+      "date": "2026-11-09T20:37:49+00:00",
+      "raw_date": "Mon, 09 Nov 2026 20:37:49 GMT"
     },
     {
       "title": "Hantavirus Cruise Outbreak: No Detected Spread, Low Risk to Contacts - Forbes",
@@ -92,14 +92,6 @@
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "What Is Hantavirus & Should I Worry About It? - Cleveland Clinic",
@@ -190,6 +182,14 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG1LSk1zMWlrSDdOWFJWRXY0d3ZKd3N5X3hjREp0OTQ5bm5KLUxXZk1FUUcwbEhBaGZ1MVJDY1dReXhrWWhEa21GMmlDMTR3dUFnMmhzd0dMQWF0SW1rVDRLT0RSRDRXSV92aG9VWTYtZkNxcExtTzhmMWlNN2VxMUFLbGdpdjFJUnlZWk03WXhKNkwybTU4?oc=5",
+      "description": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ &nbsp;&nbsp; CIDRAP",
+      "source": "Google News",
+      "date": "2026-05-14T07:00:00+00:00",
+      "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
       "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
@@ -254,6 +254,14 @@
       "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
+      "title": "WHO’s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
+      "description": "WHO’s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News",
+      "date": "2026-05-07T07:00:00+00:00",
+      "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "What you need to know about hantavirus - Nebraska Medicine",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
       "description": "What you need to know about hantavirus &nbsp;&nbsp; Nebraska Medicine",
@@ -265,14 +273,6 @@
       "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
       "description": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
-      "source": "Google News",
-      "date": "2026-05-07T07:00:00+00:00",
-      "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WHO’s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
-      "description": "WHO’s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
@@ -310,9 +310,9 @@
       "raw_date": "Wed, 06 May 2026 07:00:00 GMT"
     },
     {
-      "title": "How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVEwN1VaM1FpYnJBbTFzbkpCMjFKRmh3WVBCeW1sc2N5aDdBQlJwZG9HSlZ4ZXpXT2luNmcwV3ZVdEE0aldEcjZJeDAzNG5MdjgyV21qOGVtWWVIN19jc1E0LXdNdWpIQnNQV2xuWjh4T0txUTRnZW4zMTlSUWFVSGVlM3NDMG1sYnpTejlkeFlzREJXelR1SjUtR0hXMUowVVE?oc=5",
-      "description": "How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified &nbsp;&nbsp; AP News",
+      "title": "Hantavirus: the ‘silent’ virus - CSIRO",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yd1N1U05ZcUVpTUNpdlVpMWdYTFh3aDZXZVltUmdTZ1ZGSHZpRGZUTEhYcFBmdUk4SEplSmQ1ajlZLXRkZDFaMGltbU5wUDlkWkRnMEUtanFSVU1iRG5jMVhucDdHRFp2ZmRveFBzR25RNzRGdGl0TmEtMA?oc=5",
+      "description": "Hantavirus: the ‘silent’ virus &nbsp;&nbsp; CSIRO",
       "source": "Google News",
       "date": "2026-05-06T07:00:00+00:00",
       "raw_date": "Wed, 06 May 2026 07:00:00 GMT"
@@ -380,6 +380,14 @@
       "source": "Google News",
       "date": "2021-05-10T07:00:00+00:00",
       "raw_date": "Mon, 10 May 2021 07:00:00 GMT"
+    },
+    {
+      "title": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina - NEJM",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
+      "description": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; NEJM",
+      "source": "Google News",
+      "date": "2020-12-02T08:00:00+00:00",
+      "raw_date": "Wed, 02 Dec 2020 08:00:00 GMT"
     }
   ]
 }
