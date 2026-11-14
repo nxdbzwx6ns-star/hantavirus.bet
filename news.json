@@ -1,10 +1,18 @@
 {
-  "updated": "2026-11-14T07:24:59.934487+00:00",
+  "updated": "2026-11-14T14:49:40.522772+00:00",
   "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkVaQ2dtTlU3Zi10aUtfeFlEOExHcC1ja1JsQUMyUDdwYk05ZzRlSnpTcTdTT0RRR1RzTDFUY1p4dkFNRUJhc28wNmRrOVB0VHJXN3R1MER1Q04ta3BuZm1XcDFSbDdiRDBQenVEUWMtLUxmYWkxSWxCc0RsMmRnR1RQSmVkY2NNT25vUDIwUTdWUTREaWNDdmxXaHFKUXNSVG1pY0cxblQ5T3lBaG1lVHhpTlA?oc=5",
+      "description": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness &nbsp;&nbsp; Bioengineer.org",
+      "source": "Google News",
+      "date": "2026-11-14T09:28:59+00:00",
+      "raw_date": "Sat, 14 Nov 2026 09:28:59 GMT"
+    },
     {
       "title": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVXcVdWdW0xMjFUS3FFT0JFNmY3MlZUbEQtclYtVEZEcDZmaWtqTGFSR3dIem5IbXNjUWdWbzdkcFRDNHJJVEVxTUR4VTVZUGRrVGFsTEhMbEFhOUFmeFRtbHRkRDRFcFAzQjNRdjJWanRXRU91dlRRY2g0OWppR2dvOUZtTFZmY3dtS3hpa3VRbXFhT0Q2VFFRd2hKcUUydG1YMW42THQ?oc=5",
@@ -68,22 +76,6 @@
       "source": "Google News",
       "date": "2026-11-09T07:54:00+00:00",
       "raw_date": "Mon, 09 Nov 2026 07:54:00 GMT"
-    },
-    {
-      "title": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTZWcWpxcHRzMGRyNDE4MGlud2VyUEhvOWRWTUU5eEk0eWNDMGVWa25HblpoWDNZazFhcUlXcFIzTEVMcnRybDhON1NEUnFiZVV5LWdXdHNVdW1BWjBBUm5ERnVQdnpYeGl5QzFaTDY1UjFyeUhMa3hOMU0xR2dvZ05tcUFHNlg5V3pmY2tJay13LVFLYVQ3Skhfb2c1MWZkVkk4T0wwbmdqN0dNNVI3Q2gxTW5ZMjVQQUdpV20yQ0RsbnhjTFJRdG5feW9FNGN1TmtOcnZlZG5OalXSAdsBQVVfeXFMTUE2VnFqcXB0czBkcjQxODBpbndlclBIbzlkVk1FOXhJNHljQzBlVmtuR25aaFgzWWsxYXFJV3BSM0xFTHJ0cmw4TjdTRFJxYmVVeS1nV3RzVXVtQVowQVJuREZ1UHZ6WHhpeUMxWkw2NVIxcnlITGt4TjFNMUdnb2dObXFBRzZYOVd6ZmNrSWstdy1RS2FUN0pIX29nNTFmZFZJOE9MMG5najdHTTVSN0NoMU1uWTI1UEFHaVdtMkNEbG54Y0xSUXRuX3lvRTRjdU5rTnJ2ZWRuTmpV?oc=5",
-      "description": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells | Newswise &nbsp;&nbsp; Newswise",
-      "source": "Google News",
-      "date": "2026-11-06T23:30:00+00:00",
-      "raw_date": "Fri, 06 Nov 2026 23:30:00 GMT"
-    },
-    {
-      "title": "Andes hantavirus has a secret pocket - Chemical & Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
-      "description": "Andes hantavirus has a secret pocket &nbsp;&nbsp; Chemical & Engineering News",
-      "source": "Google News",
-      "date": "2026-10-23T07:00:00+00:00",
-      "raw_date": "Fri, 23 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
@@ -166,9 +158,9 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
+      "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -246,6 +238,14 @@
       "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
+      "title": "How worried should we be about hantavirus? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fOXdPSXg0Tm9HQ2RWRHJzUGgwc25lR29aZngxeHpSZE1kY0I3MnZNWXg4Y05SakJxZGJSNXB6Q2dfcV9tWEN3dXBIaUxZeHkxQkpFV3dwc29WQQ?oc=5",
+      "description": "How worried should we be about hantavirus? &nbsp;&nbsp; BBC",
+      "source": "Google News",
+      "date": "2026-05-12T07:00:00+00:00",
+      "raw_date": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
       "description": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
@@ -286,17 +286,17 @@
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
-      "description": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
+      "title": "What you need to know about hantavirus - Nebraska Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
+      "description": "What you need to know about hantavirus &nbsp;&nbsp; Nebraska Medicine",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "title": "What you need to know about hantavirus - Nebraska Medicine",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
-      "description": "What you need to know about hantavirus &nbsp;&nbsp; Nebraska Medicine",
+      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
+      "description": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
