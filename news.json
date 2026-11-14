@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T14:49:40.522772+00:00",
-  "total": 50,
+  "updated": "2026-11-14T19:45:56.048539+00:00",
+  "total": 49,
   "sources": [
     "Google News"
   ],
@@ -12,14 +12,6 @@
       "source": "Google News",
       "date": "2026-11-14T09:28:59+00:00",
       "raw_date": "Sat, 14 Nov 2026 09:28:59 GMT"
-    },
-    {
-      "title": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVXcVdWdW0xMjFUS3FFT0JFNmY3MlZUbEQtclYtVEZEcDZmaWtqTGFSR3dIem5IbXNjUWdWbzdkcFRDNHJJVEVxTUR4VTVZUGRrVGFsTEhMbEFhOUFmeFRtbHRkRDRFcFAzQjNRdjJWanRXRU91dlRRY2g0OWppR2dvOUZtTFZmY3dtS3hpa3VRbXFhT0Q2VFFRd2hKcUUydG1YMW42THQ?oc=5",
-      "description": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission &nbsp;&nbsp; Bioengineer.org",
-      "source": "Google News",
-      "date": "2026-11-13T20:37:02+00:00",
-      "raw_date": "Fri, 13 Nov 2026 20:37:02 GMT"
     },
     {
       "title": "Human-to-human hantavirus spread confirmed on cruise ship - Medical Xpress",
@@ -116,14 +108,6 @@
       "source": "Google News",
       "date": "2026-06-24T07:00:00+00:00",
       "raw_date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "description": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
-      "source": "Google News",
-      "date": "2026-06-11T07:00:00+00:00",
-      "raw_date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "What Is Hantavirus & Should I Worry About It? - Cleveland Clinic",
@@ -404,6 +388,14 @@
       "source": "Google News",
       "date": "2021-05-10T07:00:00+00:00",
       "raw_date": "Mon, 10 May 2021 07:00:00 GMT"
+    },
+    {
+      "title": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina - NEJM",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
+      "description": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; NEJM",
+      "source": "Google News",
+      "date": "2020-12-02T08:00:00+00:00",
+      "raw_date": "Wed, 02 Dec 2020 08:00:00 GMT"
     }
   ]
 }
