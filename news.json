@@ -1,10 +1,58 @@
 {
-  "updated": "2026-11-20T08:08:06.695033+00:00",
-  "total": 46,
+  "updated": "2026-11-20T17:35:15.325804+00:00",
+  "total": 50,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Hantavirus Briefing Highlights Surveillance and Diagnostic Gaps Across Somalia Health Systems - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTExkbk02cUdLRHQ4TkVuNWxSRVhDZVduNFhDM0tfVHA1NmVoQnFEVkxKWTdFbEVNbGNwOGNGQTI5MkxLQjd3dWN5cUNSMlNreWxEcFZSczdLem5nSDc5U1RIbUFLTUtGdVd3SVUzM3pJLXVFRVhoOW5JVHU2WXlHQ2t0empBTFc4MmliamRMaVhaaU51QlFkTkdQNlBKTUc5TFNqOHpFVzhkeXJsaC1Icl9CZWdYdDJMY1E?oc=5",
+      "description": "Hantavirus Briefing Highlights Surveillance and Diagnostic Gaps Across Somalia Health Systems &nbsp;&nbsp; Bioengineer.org",
+      "source": "Google News",
+      "date": "2026-11-20T15:58:55+00:00",
+      "raw_date": "Fri, 20 Nov 2026 15:58:55 GMT"
+    },
+    {
+      "title": "National Geographic Commissions 3 Documentaries About Unabomber, Hantavirus and Somali Pirates Cargo Ship Hijacking - TV with Thinus",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX29lRXR1N2FqNXZ2LWp6Nm5lYXNyOEVUR2lTU0dWQlZtTGNYc084STVsclI2cXoweGdsMkF4ZmY5V2NaWmFPMXJuRjdjTGpIcEUwcHlBeDBWb3dYNDM3Uy1aZkdudjJwNVFHWnlNWWJIOURFaF9uSENnVmJBdUJEeG53?oc=5",
+      "description": "National Geographic Commissions 3 Documentaries About Unabomber, Hantavirus and Somali Pirates Cargo Ship Hijacking &nbsp;&nbsp; TV with Thinus",
+      "source": "Google News",
+      "date": "2026-11-20T11:15:00+00:00",
+      "raw_date": "Fri, 20 Nov 2026 11:15:00 GMT"
+    },
+    {
+      "title": "A voyage of viral transmission - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90ZTF3Q3ROTTRXb3VnaUkyZGx0N0xxLUc1OW9maUVwWWFxQlFUVy02Z1pxV1h4MkluZ0o1OTNwblR2Z2ticHdYVXJ1bFQ3dkVQbGJMOXV0SXlsT0pPMXh3?oc=5",
+      "description": "A voyage of viral transmission &nbsp;&nbsp; Nature",
+      "source": "Google News",
+      "date": "2026-11-20T09:57:17+00:00",
+      "raw_date": "Fri, 20 Nov 2026 09:57:17 GMT"
+    },
+    {
+      "title": "Nat Geo greenlights docs on Unabomber, ship hijacking and hantavirus outbreak - cedarnews",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXB2RGFYQ3NKM1FBMkg0NDd1TjRDV2NyZWwxUlI0elR0c2ZiVENNRVRVS1lMcWh3YVBIbzJhU0dKd2RhRXZYRWozR1FEeTBEY2JIRjFlLUpaNHF0Rmw5WUNGYTAzdDRlUFdGSG9yc2lzTnFWZFNhT0lHY3ZsZHliUUtQSFhNaXVYT3hHTGZzQnRnSlZJ?oc=5",
+      "description": "Nat Geo greenlights docs on Unabomber, ship hijacking and hantavirus outbreak &nbsp;&nbsp; cedarnews",
+      "source": "Google News",
+      "date": "2026-11-20T08:43:16+00:00",
+      "raw_date": "Fri, 20 Nov 2026 08:43:16 GMT"
+    },
+    {
+      "title": "Nat Geo greenlights docs on Unabomber, ship hijacking and hantavirus outbreak - C21media",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQal9qWTNaLXJSSEp4bHlRTERXWHlHYVlMZnNTNFQtd3RxT1FNVUZzTHNWNy1GTTZLRi1rbjhaVHJWejFYcVFudkFNSzJzOW5fY18xYjJQaTRpS1JBNTdpZjFNTXdvWjdkS0NuX09QTmRlTkpyWDVxTERQM29wV3lUNEdhcmNzb3UtbmxqVEgwNm9VbDlxTlU3V3BzMnRFdDFYZ2Jhb3VXbUR6M1E?oc=5",
+      "description": "Nat Geo greenlights docs on Unabomber, ship hijacking and hantavirus outbreak &nbsp;&nbsp; C21media",
+      "source": "Google News",
+      "date": "2026-11-20T08:41:04+00:00",
+      "raw_date": "Fri, 20 Nov 2026 08:41:04 GMT"
+    },
+    {
+      "title": "UK indies line up Nat Geo doc trio - Broadcast",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU9pWXphYWZLendfXzhWX1hSa1ZZc2Rsa19hQ1BGaDNLY3NmR3VjMEFYeFdRQnJMVlgwSWprWjBnZVZ4akN4SGdwOUZTOGgzRWdLMHUtT3U3dEx1QVNmbE84SzF4UkJFN0ZBTjF6WHYtSllUNnNOa3ZQcjFjZzkwdkVHQnlyQlhpMUp2NGY3aU11dw?oc=5",
+      "description": "UK indies line up Nat Geo doc trio &nbsp;&nbsp; Broadcast",
+      "source": "Google News",
+      "date": "2026-11-20T02:15:01+00:00",
+      "raw_date": "Fri, 20 Nov 2026 02:15:01 GMT"
+    },
     {
       "title": "German Pest Control Workers Show Low Antibody Levels Against Four Zoonotic Pathogens - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEtWRTJPeTVPS084T3BQRjJqN0p3QkNwVnpZclpTWWx5d0VhX3NFZDEwR29nRW5uS1d2TUdMT19QODhRd3Z4YTZVakJRdlFhLURqTW02YjY5R3hYeGlWaXU3VVRDRE45QU9KUk5hOWFmNG9FS0pjUnc0cE1lUUkxUFpVMFprM1hMSUpLaVBjRllzdkpaUW0zTDRWa1oySDBMcEw4VjZYaC1LajRBQVE?oc=5",
@@ -46,12 +94,12 @@
       "raw_date": "Tue, 17 Nov 2026 18:20:17 GMT"
     },
     {
-      "title": "One Health Frameworks Propose Integrated Surveillance for Hantavirus Prevention - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSk9yVmlHRm91UmJGVGlEY3lINGZ3UHI1Ym5QZ1BETkhqTHpaV0EtY3QwNFg4a2pOZ2tPd0FfOTNvNE1TUnprYXY3QjE2ejNSd0liUmNtZENaZ0RRaTJFcE1JMFNoV1REVWp6UmRLVExnZTRsLV9lQkl6TC10S3ZFWWlEai1vSTJ5N1RVak9oXy1kOGNORkZQTWQ3ZjBXQlkzeDd5OXRWVQ?oc=5",
-      "description": "One Health Frameworks Propose Integrated Surveillance for Hantavirus Prevention &nbsp;&nbsp; Bioengineer.org",
+      "title": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship - Respiratory Therapy",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSjFyaDdKMTI2YnN4YlRVdnBUbnpOLWlhdWkwWXJNb1RXTldpT0NrSU5TU0Z6QkdmakN1V1N4Y3g5a29VcHNGWXNGbkphSEJTek1vZWJtOFNkcmJrOEw1MjRyNTFLeHZVNDlFV29ERWJxZGdZZEswbTRlTGg0YW5JZlRjVjRSOUt0dGFyMDBaYUgxUFIycWp1bkhUd0U2Z1lnTHpEUUNyUlpiN2dQbXphWG1XZ0VYd2VjYzNNOGctVmhkU21hWUxacGpCQ3B0Y01FQTVjbll0X01pd2VYVVJIUWpHNGxUTEZtZkE?oc=5",
+      "description": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship &nbsp;&nbsp; Respiratory Therapy",
       "source": "Google News",
-      "date": "2026-11-17T09:04:44+00:00",
-      "raw_date": "Tue, 17 Nov 2026 09:04:44 GMT"
+      "date": "2026-11-16T22:55:54+00:00",
+      "raw_date": "Mon, 16 Nov 2026 22:55:54 GMT"
     },
     {
       "title": "New Genome Studies Revisit How Andes Hantavirus Spread on a Cruise Ship - Nature World News",
@@ -246,17 +294,17 @@
       "raw_date": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "title": "What you need to know about hantavirus - Nebraska Medicine Omaha, NE",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
-      "description": "What you need to know about hantavirus &nbsp;&nbsp; Nebraska Medicine Omaha, NE",
+      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
+      "description": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
-      "description": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
+      "title": "What you need to know about hantavirus - Nebraska Medicine Omaha, NE",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
+      "description": "What you need to know about hantavirus &nbsp;&nbsp; Nebraska Medicine Omaha, NE",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
@@ -356,22 +404,6 @@
       "source": "Google News",
       "date": "2024-05-20T07:00:00+00:00",
       "raw_date": "Mon, 20 May 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Hantavirus Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zM01TUlVSbkxIbmNXb0x2QlA0U3RsS2Nqai1VYVAydTNSeHAzMlhCcFBONHZhMnJad0w1LVlvb3JzeV9LRTZsMXVmRll1TzF2X0FvNWpCV3lUYkE1aUdSNVVn?oc=5",
-      "description": "Hantavirus Prevention &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News",
-      "date": "2024-05-13T07:00:00+00:00",
-      "raw_date": "Mon, 13 May 2024 07:00:00 GMT"
-    },
-    {
-      "title": "The Next Pandemic: Hantavirus? - Gavi, the Vaccine Alliance",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UaXIxYUpueHQ3cjlDTWhidVo3RnJNR1lSWlE0MDN1V0FocUtZRkhqVDZrdERqMDVWS1Z1Slk3UzdYejlRUWUzT2U4bm42NDZsc1NUa285bzYxYS1qWFRGRkxuN1g1VHI0SlE?oc=5",
-      "description": "The Next Pandemic: Hantavirus? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
-      "source": "Google News",
-      "date": "2021-05-10T07:00:00+00:00",
-      "raw_date": "Mon, 10 May 2021 07:00:00 GMT"
     }
   ]
 }
