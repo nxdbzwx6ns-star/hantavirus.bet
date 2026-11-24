@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:00:19.445609+00:00",
+  "updated": "2026-11-24T13:20:18.289671+00:00",
   "total": 50,
   "sources": [
     "Google News"
@@ -54,14 +54,6 @@
       "raw_date": "Mon, 16 Nov 2026 22:55:54 GMT"
     },
     {
-      "title": "Hantavirus on Board the M/V Hondius: Human-to-Human Transmission Confirmed | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEtBakx0UTlQUDBjUzd1d1pDelFCQnluUk5SQzViN3pvbUdLaE9oc0t3WGhfVkh5SUJSd2lPUXZkNmYxN0lja0FzU01qMDVnOXZ2SDdjUVFGczNubFBaZ2RFTHZRYVlNR0lFNHFhYk1ha2cwWnlvdVM3M2plZ1pvNkJmSVVqSkxqcmxTM205dVBCWTBtTENwTm9fYWN2NmIzeTVlWXhHbFpmQdIBqgFBVV95cUxQVEtBakx0UTlQUDBjUzd1d1pDelFCQnluUk5SQzViN3pvbUdLaE9oc0t3WGhfVkh5SUJSd2lPUXZkNmYxN0lja0FzU01qMDVnOXZ2SDdjUVFGczNubFBaZ2RFTHZRYVlNR0lFNHFhYk1ha2cwWnlvdVM3M2plZ1pvNkJmSVVqSkxqcmxTM205dVBCWTBtTENwTm9fYWN2NmIzeTVlWXhHbFpmQQ?oc=5",
-      "description": "Hantavirus on Board the M/V Hondius: Human-to-Human Transmission Confirmed | Newswise &nbsp;&nbsp; Newswise",
-      "source": "Google News",
-      "date": "2026-11-13T08:05:00+00:00",
-      "raw_date": "Fri, 13 Nov 2026 08:05:00 GMT"
-    },
-    {
       "title": "Two studies detail how the hantavirus outbreak spread on board the Hondius and link its genetic lineage to Patagonia - Science Media Centre España",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFA5WWxzUUFSWTBjemkyUkVZTTQwdFphbnVzbkZmYW9OQi1ReFJHUGtKYmRBVnZDN0pUeDdsbVlJcGYxTm5PZUFWVzR1T0EtU0RFeTJTZEV3RGZySVpNX2JvUGQyempxMGZnUWJLZlVPLW9TVUlyR1FVMUZwZzVSdmtaaUtHemxZSnh4U2hlOXRSQ093UTVJanNwUDdSZ05qWEg4MTYxb181S3FHc1BNc1l3eVBkZ0hWRU5HaVlNQUZScG8?oc=5",
       "description": "Two studies detail how the hantavirus outbreak spread on board the Hondius and link its genetic lineage to Patagonia &nbsp;&nbsp; Science Media Centre España",
@@ -108,6 +100,14 @@
       "source": "Google News",
       "date": "2026-10-23T07:00:00+00:00",
       "raw_date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hantavirus species detection from viral genome sequences using explainable artificial intelligence techniques - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVlhha1VVaE1jRzZWMzFzdERqWnRLenVlTGU0VGdsTm5NZmx5Zk5QbjBuNFlsR0R6dFU3aUxIT3h1Slg0MlVWdm84Skg3R1FybDVkT0JIcHhqNUJzc3pV?oc=5",
+      "description": "Hantavirus species detection from viral genome sequences using explainable artificial intelligence techniques &nbsp;&nbsp; Nature",
+      "source": "Google News",
+      "date": "2026-10-13T07:00:00+00:00",
+      "raw_date": "Tue, 13 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -188,6 +188,14 @@
       "source": "Google News",
       "date": "2026-07-20T07:00:00+00:00",
       "raw_date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "UNMC researcher publishes hantavirus review article - University of Nebraska Medical Center",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVi16SW52MGNwTi1MMUpyaV9vTUFIVGxYZ0l5SlJMalRqaGxiM1l2dTRJanp3OWF2Vzd0aWhaMWNJa1hDVi1hWlA1a1VhV1hnZnk4bmc4cExnVHIySVduenk0cWpiTk9DczNKU3I0MEFleGtyVTVIbEgzUktVNkx1Z1NTMVl2a0d2UDhCR2VudEFBeV8zUi1lZg?oc=5",
+      "description": "UNMC researcher publishes hantavirus review article &nbsp;&nbsp; University of Nebraska Medical Center",
+      "source": "Google News",
+      "date": "2026-07-08T07:00:00+00:00",
+      "raw_date": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
@@ -350,9 +358,9 @@
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-      "description": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
+      "title": "American cruise ship passengers push for home quarantine after hantavirus exposure - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclQtMWg3Mkd2QzIySlpkc3NZWjZodFdHTm1FTXhnbVRnTGFiOTFvMm5PVW1sc19BWXdmdnJ3NXduY0NzOS1pTzZsa3NTVWhYZEN2OFV3S1BrOVpvV2FhdjBtNkZaNUtCVEZwV3JvSkJTOWxnU2dpZG5SLXd1ZVdkX1hSODJFTGd0ZHVZb3BiX19fZjVnR2VvcjN3eTk0SXN4V05hSGpNYlZJVG8yZkZxa196OUNuRGs?oc=5",
+      "description": "American cruise ship passengers push for home quarantine after hantavirus exposure &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
@@ -361,14 +369,6 @@
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
       "description": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
-      "source": "Google News",
-      "date": "2026-05-20T07:00:00+00:00",
-      "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "American cruise ship passengers push for home quarantine after hantavirus exposure - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclQtMWg3Mkd2QzIySlpkc3NZWjZodFdHTm1FTXhnbVRnTGFiOTFvMm5PVW1sc19BWXdmdnJ3NXduY0NzOS1pTzZsa3NTVWhYZEN2OFV3S1BrOVpvV2FhdjBtNkZaNUtCVEZwV3JvSkJTOWxnU2dpZG5SLXd1ZVdkX1hSODJFTGd0ZHVZb3BiX19fZjVnR2VvcjN3eTk0SXN4V05hSGpNYlZJVG8yZkZxa196OUNuRGs?oc=5",
-      "description": "American cruise ship passengers push for home quarantine after hantavirus exposure &nbsp;&nbsp; CIDRAP",
       "source": "Google News",
       "date": "2026-05-20T07:00:00+00:00",
       "raw_date": "Wed, 20 May 2026 07:00:00 GMT"
