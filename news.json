@@ -1,10 +1,18 @@
 {
-  "updated": "2026-11-25T07:22:55.511867+00:00",
-  "total": 49,
+  "updated": "2026-11-25T18:28:15.157645+00:00",
+  "total": 46,
   "sources": [
     "Google News"
   ],
   "articles": [
+    {
+      "title": "Studies Trace Cruise Ship Hantavirus to Patagonia - Respiratory Therapy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamE4UDIwOVVjaFpzMFk2Y21fWHBZc0t1VDBnUUlKQkR4b2hWbDNNZFp5NjBHMjltN0xTdHBUT1M5bE9HX29WT3NJOS1YREtRWk1ndXU0Vy1NdjJyd0E2V0R3dEZiY25ybDFwRmtFXzY4UE1jb2RiTkE1M3BqcjBvRlM4M29SeG5xSjBJZlFNdTZ1YlZkOHkyV3RZZm55ZkV3YXZCMTBXcDk3ZHRfdEFlUEhOUkxidHJjalFnUmw3U2ItVXhDQm9hQnFiLW1ERXVXQlhBVg?oc=5",
+      "description": "Studies Trace Cruise Ship Hantavirus to Patagonia &nbsp;&nbsp; Respiratory Therapy",
+      "source": "Google News",
+      "date": "2026-11-25T17:04:38+00:00",
+      "raw_date": "Wed, 25 Nov 2026 17:04:38 GMT"
+    },
     {
       "title": "Decoding the origins of the Hanta virus on the Argentinian cruise ship. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3RaZ1ZBdXVsTDY0VmZvc3poQkgxSW9LSGQ2Z1I2cHVGZ1BDYV9jME1TeG1KbGt6QnR6M1hGUkI3dTFZN0NUQzZxRG9rWFFtS3d1OTlhRUZmNDRDSmlZdEpzd0pqdzh6V0c5Tk81TWhvTTFwamtaUVRmdEpKdGttWGo4VzcwUlU?oc=5",
@@ -46,14 +54,6 @@
       "raw_date": "Fri, 20 Nov 2026 09:57:17 GMT"
     },
     {
-      "title": "Nat Geo greenlights docs on Unabomber, ship hijacking and hantavirus outbreak - C21media",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQal9qWTNaLXJSSEp4bHlRTERXWHlHYVlMZnNTNFQtd3RxT1FNVUZzTHNWNy1GTTZLRi1rbjhaVHJWejFYcVFudkFNSzJzOW5fY18xYjJQaTRpS1JBNTdpZjFNTXdvWjdkS0NuX09QTmRlTkpyWDVxTERQM29wV3lUNEdhcmNzb3UtbmxqVEgwNm9VbDlxTlU3V3BzMnRFdDFYZ2Jhb3VXbUR6M1E?oc=5",
-      "description": "Nat Geo greenlights docs on Unabomber, ship hijacking and hantavirus outbreak &nbsp;&nbsp; C21media",
-      "source": "Google News",
-      "date": "2026-11-20T08:41:04+00:00",
-      "raw_date": "Fri, 20 Nov 2026 08:41:04 GMT"
-    },
-    {
       "title": "UK indies line up Nat Geo doc trio - Broadcast",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU9pWXphYWZLendfXzhWX1hSa1ZZc2Rsa19hQ1BGaDNLY3NmR3VjMEFYeFdRQnJMVlgwSWprWjBnZVZ4akN4SGdwOUZTOGgzRWdLMHUtT3U3dEx1QVNmbE84SzF4UkJFN0ZBTjF6WHYtSllUNnNOa3ZQcjFjZzkwdkVHQnlyQlhpMUp2NGY3aU11dw?oc=5",
       "description": "UK indies line up Nat Geo doc trio &nbsp;&nbsp; Broadcast",
@@ -84,14 +84,6 @@
       "source": "Google News",
       "date": "2026-11-16T22:55:54+00:00",
       "raw_date": "Mon, 16 Nov 2026 22:55:54 GMT"
-    },
-    {
-      "title": "Andes hantavirus outbreak examined by scientists through its genome - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU25LTmJRblo2UjE5VFZjekRRYWZoUlNFUThqXzBERDdDZTM5S2FfN0xycWlnaDRsejQzZnI0eUxaT2NTQlBkVEtxVi1SUnpXUWhxTU9zcWQwSUtaV1N0WjRKN2JrSmZRZERwU1RrTkRiRGNxWlo2bDlsLWFSQmV5MHBQN0ExR3BkU2NUMF9IdjJCd3I5aXVpWVpUUFA5dDdrV0hBTHR6ZlhiMUllRUQxazVPenVSQkszdUQxOExHU2ZnY2lqZnlrTXVIMkVKNVJ0d2c?oc=5",
-      "description": "Andes hantavirus outbreak examined by scientists through its genome &nbsp;&nbsp; Le Monde.fr",
-      "source": "Google News",
-      "date": "2026-11-12T08:00:00+00:00",
-      "raw_date": "Thu, 12 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -198,14 +190,6 @@
       "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG1LSk1zMWlrSDdOWFJWRXY0d3ZKd3N5X3hjREp0OTQ5bm5KLUxXZk1FUUcwbEhBaGZ1MVJDY1dReXhrWWhEa21GMmlDMTR3dUFnMmhzd0dMQWF0SW1rVDRLT0RSRDRXSV92aG9VWTYtZkNxcExtTzhmMWlNN2VxMUFLbGdpdjFJUnlZWk03WXhKNkwybTU4?oc=5",
-      "description": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ &nbsp;&nbsp; CIDRAP",
-      "source": "Google News",
-      "date": "2026-05-14T07:00:00+00:00",
-      "raw_date": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
       "description": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
@@ -273,14 +257,6 @@
       "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
       "description": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
-      "source": "Google News",
-      "date": "2026-05-07T07:00:00+00:00",
-      "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WHO’s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
-      "description": "WHO’s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
       "raw_date": "Thu, 07 May 2026 07:00:00 GMT"
